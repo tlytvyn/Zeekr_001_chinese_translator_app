@@ -1,0 +1,24 @@
+string	app_name	ZeekrMediaCenter
+string	app_not_find	Програму не знайдено
+string	bt_no_connect	Bluetooth не підключено
+string	can_not_open_because_of_updating	Програма оновлюється, спробуйте пізніше
+string	change_tuner	Гаразд, перемикаю на
+string	current_function_unavailable	Ця функція зараз недоступна
+string	current_no_can_play_source	Немає джерела для відтворення
+string	current_no_music	Музика не грає
+string	current_radio	Музика не грає
+string	fav_enough	Не збережено, максимум 30 в обраному
+string	no_content_playing	Нічого не відтворюється.
+string	no_media_info	Eva зараз не може це відтворити, спробуйте вручну.
+string	no_playinfo	Нічого не грає
+string	no_res_close	Нічого закривати.
+string	not_bt_connect	Спершу ввімкніть Bluetooth
+string	not_bt_surpport	Немає пристрою Bluetooth, спершу підключіть його
+string	not_support_collect	Цю пісню не можна зберегти
+string	not_surpport	Поки не підтримується
+string	not_usb_surpport	Немає USB-пристрою, спершу підключіть його
+string	now_isplaying	Уже відтворюється
+string	now_isstopping	Призупинено
+string	open_bluetooth	Гаразд, вмикаю Bluetooth-музику
+string	open_tuner	Гаразд, вмикаю радіо
+string	open_usb	Гаразд, вмикаю USB-музику

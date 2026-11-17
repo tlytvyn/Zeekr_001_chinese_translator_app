@@ -1,0 +1,5 @@
+string	guide_page2_desc2	To save power, the switch stays on for the current session only. It turns off when driving starts; turn it on again next time.
+string	guide_page4_desc	• Detection is weaker in poor light or when cameras are dirty. \n• People passing slowly may trigger false alerts. \n• Vibration detection does not cover light scratches or knocks. \n• Sentry is unavailable while Pet, Rest and other modes are on.
+string	guide_page4_desc_2	Note: a loud alarm plays when triggered, so do not leave people or animals inside. Sentry records video; use only where local law allows.
+string	no_usb_found	Sentry is on but no USB drive found. Alerts work, videos cannot be saved. Check:\n· USB drive inserted correctly \n· Size between 512 MB and 256 GB \n· Format is FAT32 \n· Drive is not damaged
+string	safe_security_sentinel_mode_user_agreement_content	When on, the exterior cameras record and process data. Follow local laws and use this feature only where allowed; otherwise you are responsible for the consequences.

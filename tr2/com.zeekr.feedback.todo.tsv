@@ -1,0 +1,10 @@
+string	app_name	10	missing	我要建议	
+string	cancel	6	missing	取消	
+string	close	6	missing	关闭	
+string	counting	8	missing	倒计时	
+string	record_tips	19	missing	告诉eva你的建议吧	
+string	request_focus_error	46	missing	当前mic被占用，暂不支持反馈问题，请稍后再试	
+string	submit	6	missing	提交	
+string	submit_record	10	missing	提交录音	
+string	submit_tips	37	missing	您的建议已记录，感谢您的支持与信任	
+string	tips	97	missing	"示例1-建议新增自动泊车功能，支持自动泊入泊出功能；\n示例2-建议新增哨兵模式"	

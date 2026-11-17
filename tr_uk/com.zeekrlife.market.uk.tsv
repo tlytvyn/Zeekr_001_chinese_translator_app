@@ -1,0 +1,179 @@
+string	agentweb_camera	Камера
+string	agentweb_cancel	Скасувати
+string	agentweb_click_open	Торкніться, щоб продовжити
+string	agentweb_coming_soon_download	Файл скоро почне завантажуватися
+string	agentweb_continue	Продовжити
+string	agentweb_current_downloaded_length	Завантажено:%s
+string	agentweb_current_downloading_progress	Завантаження:%s
+string	agentweb_default_page_error	Помилка~
+string	agentweb_download	Завантажити
+string	agentweb_download_fail	Помилка завантаження!
+string	agentweb_download_task_has_been_exist	Завдання вже існує, не натискайте «Завантажити» повторно!
+string	agentweb_file_chooser	Файли
+string	agentweb_file_download	Завантажити
+string	agentweb_honeycomblow	Wi-Fi від’єднано. Продовжити завантаження через мобільну мережу?
+string	agentweb_leave	Вийти
+string	agentweb_leave_app_and_go_other_page	Вийти з %s і відкрити інший застосунок?
+string	agentweb_loading	Завантаження...
+string	agentweb_max_file_length_limit	Вибраний файл не може перевищувати %s MB
+string	agentweb_message_show_continue	Усе одно продовжити?
+string	agentweb_message_show_ssl_error	Помилка SSL-сертифіката.
+string	agentweb_message_show_ssl_expired	Термін дії сертифіката минув.
+string	agentweb_message_show_ssl_hostname_mismatch	Ім’я хоста сертифіката не збігається.
+string	agentweb_message_show_ssl_not_yet_valid	Сертифікат ще не дійсний.
+string	agentweb_message_show_ssl_untrusted	Центр сертифікації не є довіреним.
+string	agentweb_tips	Увага
+string	agentweb_title_ssl_error	Помилка SSL-сертифіката
+string	agentweb_trickter	У вас нове сповіщення
+string	app_detail_app_name	Заст.
+string	app_detail_back	Назад
+string	app_detail_btn_cancel_download	Стоп
+string	app_detail_btn_uninstall	Видал.
+string	app_detail_developer	Розробник
+string	app_detail_dialog_button_cancel	Скас.
+string	app_detail_info	Інфо
+string	app_detail_introduce	Про заст.
+string	app_detail_preview	Огляд
+string	app_detail_privacy_policy	Конфіденц.
+string	app_detail_size_name	Розмір
+string	app_detail_toast_uninstall_warning	Не можна видалити
+string	app_detail_uninstall	Видал.
+string	app_detail_uninstall_dialog_content	Видалити %s?
+string	app_detail_uninstall_fail	Помилка
+string	app_detail_uninstall_success	Видалено
+string	app_detail_uninstalling	Видалення…
+string	app_detail_update_time	Оновлено
+string	app_detail_version_info	Ост. версія
+string	app_detail_version_name	Версія
+string	app_install_force_update_tips	Обов’язкове оновлення системи
+string	app_install_no_space_enough	Недостатньо пам’яті
+string	app_install_self_updating	Завантажено. Встановлення; магазин застосунків закриється
+string	app_name	Магазин
+string	app_search_enter_name	Введіть назву
+string	bottom_title_my_app	Мої заст.
+string	bottom_title_paper	Тести
+string	bottom_title_read	Оцінки
+string	bottom_title_report	Звіти
+string	bottom_title_user	Профіль
+string	brvah_load_complete	Завантажити ще
+string	brvah_load_end	Більше немає
+string	brvah_load_failed	Помилка. Торкніться ще раз
+string	brvah_loading	Завантаження...
+string	common_cancel	Скас.
+string	common_code_error_hint	Неправильний код. Перевірте
+string	common_code_input_hint	Введіть код
+string	common_code_send	Надіслати код
+string	common_code_send_hint	Код підтвердження надіслано
+string	common_i_see	Зрозуміло
+string	common_no_more_data	Більше даних немає
+string	common_permission_activity_recognition	Активність
+string	common_permission_alert	Дозвіл
+string	common_permission_calendar	Календар
+string	common_permission_call_log	Журнал дзвінків
+string	common_permission_camera	Камера
+string	common_permission_contacts	Контакти
+string	common_permission_fail_1	Помилка. Надайте дозвіл
+string	common_permission_fail_2	Помилка. Надайте дозвіл вручну
+string	common_permission_fail_3	Помилка. Надайте %s вручну
+string	common_permission_fail_4	Фонове місцезнаходження не дозволено. Виберіть «Дозволити завжди»
+string	common_permission_goto	Надати
+string	common_permission_install	Встановлення
+string	common_permission_location	Місцезн.
+string	common_permission_location_background	Фонове місцезн.
+string	common_permission_microphone	Мікрофон
+string	common_permission_notification	Сповіщення
+string	common_permission_phone	Телефон
+string	common_permission_sensors	Датчики тіла
+string	common_permission_setting	Налашт. системи
+string	common_permission_sms	SMS
+string	common_permission_storage	Пам’ять
+string	common_permission_window	Накладання
+string	common_refresh	Оновити
+string	common_see	Зрозуміло
+string	driving_restricted_use	Недоступно під час руху. Увімкніть P
+string	error_a11y_label	Помилка: недійсне
+string	exposed_dropdown_menu_content_description	Показати меню
+string	helper_loading_empty_result	Немає результатів
+string	helper_loading_empty_tip	Даних ще немає
+string	helper_loading_error_tip	Погана мережа. Спробуйте пізніше
+string	helper_loading_net_empty	Повторити
+string	helper_loading_net_error	Погана мережа. Перевірте й повторіть
+string	helper_loading_tip	Завантаж.…
+string	home_search	Пошук
+string	home_setting	Налашт.
+string	install_failed_already_exists	Застосунок уже встановлено
+string	install_failed_duplicate_package	Застосунок уже встановлено
+string	install_failed_insufficient_storage	Помилка: недостатньо пам’яті
+string	install_failed_invalid	Недійсний пакет
+string	install_failed_update_incompatible	Підпис застосунку змінився. Спершу видаліть старий застосунок, потім встановіть
+string	install_failed_version_downgrade	Старіша за встановлену версію
+string	install_prepare_toast_tip	%s оновлюється й закриється за 5 с
+string	item_app_update_time	Оновлено
+string	launcher_dialog_title_pp	Політика конфіденційності магазину
+string	launcher_dialog_title_ua	Умови магазину
+string	login_password	Пароль
+string	login_phone	Телефон
+string	login_register	Реєстр.
+string	login_submit	Увійти
+string	login_tips	Вхід викладача
+string	my_app_no_update	Немає оновл.
+string	my_app_quick_update	Оновити все
+string	my_app_title_name	Мої заст.
+string	my_app_update_tips	Оновлень: %1$s     %2$sMB
+string	my_app_updating	Оновлення…
+string	nav_app_bar_navigate_up_description	Угору
+string	nav_app_bar_open_drawer_description	Відкрити меню навігації
+string	privacy	Цей сервіс потребує доступу до мережі, пам’яті та дозволів пристрою, а також збирає інформацію про пристрій, мережу, обліковий запис, особу, транзакції та застосунки, а також дані, які ви завантажуєте. Натискаючи «Погоджуюся», ви погоджуєтеся з наведеним вище, а також з «Угодою користувача магазину застосунків» і «Політикою захисту персональної інформації магазину застосунків».
+string	privacy_update	Нещодавно ми оновили «Угоду користувача магазину застосунків» і «Політику захисту персональної інформації магазину застосунків». Натискаючи «Погоджуюся», ви погоджуєтеся з наведеним вище.
+string	recommend_app_page_not_found	Сторінку не знайдено
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	setting_app_download_progress	Оновлення: %s%%
+string	setting_app_is_latest_version	Остання версія
+string	setting_app_update_background	Оновлення у фоні
+string	setting_app_update_break_point_content	Останнє оновлення не завершено. Продовжити?
+string	setting_app_update_break_point_title	Оновлення не завершено
+string	setting_app_update_checking	Перевірка…
+string	setting_app_update_continue	Продовжити
+string	setting_app_update_download_progress	Завантаження: %s%%
+string	setting_app_update_downloading	Завантаж.…
+string	setting_app_update_failed_please_try_again	Помилка. Повторіть
+string	setting_app_update_installing	Встановл.…
+string	setting_app_update_later	Пізніше
+string	setting_app_update_new_version	Нова версія
+string	setting_app_update_now	Оновити
+string	setting_auto_update	Автооновлення
+string	setting_auto_update_off	Вимк.
+string	setting_check_update	Перевірити
+string	setting_detecting_update	Перевірка…
+string	setting_loading_update	Перевірка…
+string	setting_none_privacy_agreement	Політики конфіденційності ще немає
+string	setting_none_user_agreement	Умов ще немає
+string	setting_privacy_agreement	Політика конфіденційності магазину
+string	setting_user_agreement	Умови магазину
+string	setting_version_name_text	Версія: %s
+string	setting_version_number	Версія
+string	task_state_download_completed	Встан.
+string	task_state_download_error_default_toast	Помилка. Повторіть
+string	task_state_download_paused	Продовж.
+string	task_state_download_pending	Очікув.
+string	task_state_download_progress	Завантаж.
+string	task_state_downloadable	Отрим.
+string	task_state_install_completed	Встановл.
+string	task_state_install_error_default_toast	Помилка. Повторіть
+string	task_state_install_pending	У черзі
+string	task_state_install_progress	Встановл.
+string	task_state_install_progress_default_toast	Встановлення, зачекайте
+string	task_state_install_started	Встановл.
+string	task_state_installable	Встан.
+string	task_state_need_pay_activity	Підписка
+string	task_state_openable	Відкр.
+string	task_state_updatable	Оновити
+string	web_view_policy_should_override_url	З міркувань безпеки завантажте застосунок, щоб переглянути це
+string	xpopup_image_not_exist	Немає зображення
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в галерею
+string	zeekr_back	Назад
+string	zeekr_cancel	Скасувати
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показати пароль

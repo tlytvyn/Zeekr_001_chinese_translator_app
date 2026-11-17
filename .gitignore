@@ -1,0 +1,55 @@
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Build outputs (APK is published as a GitHub Release asset, not committed) ---
+*.apk
+*.idsig
+*.aab
+*.dex
+*.class
+build/
+dist/
+out/
+
+# --- Signing keys (public AOSP test key, fetched by tools/get_keys.sh) and any other key material ---
+keys/
+*.pk8
+*.pem
+*.jks
+*.keystore
+*.p12
+
+# --- Proprietary / car-specific data: never commit original Zeekr APKs or dumps from a car ---
+apks/
+dec/
+dock/
+*.tar
+*.tar.gz
+*.zip
+logcat*.txt
+
+# --- Intermediate split files (only *.tsv are inputs) ---
+tr_uk/settings_part_??
+
+# --- Secrets / local tooling config ---
+.env
+.env.*
+*.token
+.netrc
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.claude/
+.cursor/
+.aider*
+.copilot/

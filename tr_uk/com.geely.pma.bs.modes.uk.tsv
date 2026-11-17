@@ -1,0 +1,255 @@
+string	action_settings	Налаштування
+string	activation	Увімк.
+string	all	Усі
+string	app_name	bs_kinds_modes
+string	bs_rest_mode	Відпочинок
+string	camp	Кемпінг
+string	camp_exit_content	Після виходу з режиму кемпінгу всі пов’язані функції буде відновлено
+string	camp_mode	Кемпінг
+string	camp_mode_txt	Кемпінг
+string	camp_open_content	У режимі кемпінгу вмикаються комфорт стоянки та центральний замок, усі вікна зачиняються, зовнішнє освітлення вимикається, а швидкість вентилятора клімату коригується.\nПримітка: якщо заряд батареї нижче 20%, режим кемпінгу вимкнеться автоматично.
+string	choose_other_position	Інше сидіння
+string	cinema_mode_info	Умови: передача P, авто заряджається або заряд батареї ≥20%
+string	cinema_mode_tips	Режим кінотеатру змінить положення сидіння %1$s. Переконайтеся, що на задньому сидінні немає людей і речей
+string	close_cinema_mode_content	%1$s активне. Вийдіть із режиму кінотеатру або виберіть інше сидіння для перегляду
+string	close_cinema_mode_tips	Вихід із режиму кінотеатру змінить положення сидіння %1$s. Переконайтеся, що на задньому сидінні немає людей і речей
+string	close_window	Зачин. вікна
+string	common_btn_send_code	Надіслати код
+string	common_camp_mode_ended_content	Кемпінг вимкнено
+string	common_camp_mode_started_content	Кемпінг увімкнено. Стежте за рівнем заряду батареї
+string	common_cancel	Скас.
+string	common_close	Закрити
+string	common_get_vin_failed	Не вдалося отримати VIN
+string	common_network_send_request	Надсилання...
+string	common_rest_mode_cancelled	Відпочинок вимкнено
+string	common_rest_mode_started_content	%1$s: відпочинок увімк.
+string	common_send_new_code	Надіслати код (%1$s с)
+string	common_server_connect_fail	Помилка з’єднання з сервером
+string	common_unlock_by_verify_code	Вимкнути за кодом
+string	common_window_guest_box_disable	Вимк. гост. реж.
+string	common_window_guest_four_digits	4 цифри
+string	common_window_guest_lock	Пароль гостьового режиму
+string	common_window_guest_lock_info	Задайте пароль для виходу, щоб захистити свою приватність і авто
+string	common_window_guest_pin_open	Введіть пароль
+string	common_window_list_option_h_retry	Забагато спроб
+string	common_window_list_option_i_guest_wrong_pswd	Хибний пароль, залишилось спроб: %1$s
+string	common_window_list_option_i_guest_wrong_sms	Хибний код, залишилось спроб: %1$s
+string	common_window_list_option_i_retry	Забагато спроб введення пароля. Повторіть через %1$s хв або вимкніть за кодом підтвердження з телефону
+string	common_window_list_option_sms_h_retry	Забагато спроб введення коду, запросіть новий
+string	common_window_verify_code_has_send	Код надіслано
+string	common_window_verify_code_incorrect	Хибний код, введіть знову
+string	common_window_verify_title	Введіть 4-значний код, надісланий на телефон власника
+string	common_wrong_pin	Хибний код, введіть знову
+string	common_wrong_pin_max	Забагато спроб введення пароля. Повторіть через 3 хв\nабо вимкніть за кодом підтвердження з телефону
+string	confined_space_close_ac_alert	Вимикати клімат у закритому просторі небезпечно. Залиште вікно відчиненим або клімат увімкненим
+string	copilot	Пас.
+string	copilot_seat	Сидіння пас.
+string	dialog_cinema_model_label	Кінотеатр
+string	dialog_low_battery_content	Заряд нижче %1$s%%, рекомендуємо вийти з режиму відпочинку
+string	dialog_low_battery_text	Заряд нижче %1$s%%, режим %2$s буде вимкнено
+string	dialog_low_battery_title	Низький заряд
+string	dialog_park_content	Комфорт стоянки ввімкнено. Навіть коли авто заблоковано ззовні, екран залишається ввімкненим, а функції комфорту — активними.\nПримітка: якщо заряд батареї нижче 20%, комфорт стоянки вимкнеться автоматично
+string	dialog_park_exit_pet_content	Це вимкне режим тварин. Продовжити?
+string	dialog_pet_model_label	Тварини
+string	driver_rest	Відпоч. вод.
+string	driver_theater	Кіно водія
+string	enter_camp	Увімкнути кемпінг
+string	enter_mode	Режим %1$s увімк.
+string	enter_mode_by_available	Неможливо ввімкнути: не підтримується
+string	enter_mode_by_battery	Неможливо ввімкнути: потрібен заряд >20%
+string	enter_mode_by_brake	Неможливо ввімкнути: відпустіть гальмо й повторіть
+string	enter_mode_by_car_mode_ignition	Неможливо ввімкнути: зверніться до сервісу
+string	enter_mode_by_charge	Неможливо ввімкнути: зупиніть заряджання й повторіть
+string	enter_mode_by_discharge	Неможливо ввімкнути: зупиніть розряджання й повторіть
+string	enter_mode_by_front_charge	Неможливо ввімкнути: закрийте кришку переднього порту заряджання й повторіть
+string	enter_mode_by_gear	Неможливо ввімкнути: перемкніть на P і повторіть
+string	enter_mode_by_mode	Неможливо ввімкнути: вийдіть із режиму %1$s і повторіть
+string	enter_mode_by_row_one_seat	Неможливо ввімкнути: поверніть передні сидіння в положення 0° і повторіть
+string	enter_mode_by_row_two_seat	Неможливо ввімкнути: звільніть праве заднє сидіння й повторіть
+string	enter_mode_by_speed	Неможливо ввімкнути: зупиніть авто й повторіть
+string	enter_mode_later	Неможливо ввімкнути, спробуйте пізніше
+string	enter_screen_mode_by_car_mode	Вимкнення екрана недоступне, зверніться до сервісу
+string	enter_screen_mode_by_gear	Не P: вимкнення екрана недоступне
+string	enter_screen_mode_by_ignition	Невідповідний режим живлення, увімкнути зараз неможливо
+string	enter_wash_mode_by_battery	Неможливо ввімкнути: потрібен заряд >10%
+string	error_a11y_label	Помилка: недійсне
+string	exit_directly	Вийти
+string	exit_i_know	Зрозуміло
+string	exit_mode	Режим %1$s вимкнено
+string	exit_mode_by_battery	Заряд нижче 20%%, режим %1$s вимкнено
+string	exit_mode_by_brake	Натиснуто гальмо, режим %1$s буде вимкнено
+string	exit_mode_by_carmode	Помилка стану, режим %1$s буде вимкнено
+string	exit_mode_by_gear	Не P, режим %1$s буде вимкнено
+string	exit_mode_by_ignition	Помилка стану, режим %1$s буде вимкнено
+string	exit_mode_by_park	Комфорт стоянки вимкнено, режим %1$s вимкнено
+string	exit_mode_by_seat	Замалий нахил сидіння, режим %1$s буде вимкнено
+string	exit_nap_mode_tips	Вихід із режиму відпочинку змінить положення сидіння %1$s. Переконайтеся, що на задньому сидінні немає людей і речей
+string	exit_nap_mode_tips_8295	Вихід із відпочинку (%1$s) змінить положення сидіння %1$s
+string	exit_now	Вийти зараз
+string	first_fragment_label	Перший фрагмент
+string	game	Ігри
+string	guest	Гість
+string	guest_deactivate_guest_password_protection	Вимкнути пароль гост. режиму
+string	guest_intput_password_to_disable_guest_box_password_protection	Введіть пароль, щоб вимкнути пароль гостьового режиму
+string	guest_please_intput_password_again_to_confirm	Введіть пароль ще раз для підтвердження
+string	guest_second_time_password_error_please_re_intput	Паролі не збігаються, введіть знову
+string	guest_unlock_guest_box	Розбл. гост. реж.
+string	hello_first_fragment	Привіт, перший фрагмент
+string	hello_second_fragment	Привіт, другий фрагмент. Арг.: %1$s
+string	hold_on	Далі
+string	keep_activate	Залишити
+string	main_dialog_close_window_btn	Зачин. вікна
+string	main_dialog_close_window_cancel_btn	Зрозуміло
+string	main_dialog_close_window_tip	Деякі вікна відчинено. Зачинити всі вікна зараз для ефективнішої роботи клімату?
+string	main_dialog_close_window_title	Клімат
+string	main_driver	Водій
+string	main_driver_seat	Сидіння вод.
+string	meeting	Нарада
+string	n_gear	Увімкніть N
+string	nap_mode_tips	Режим відпочинку змінить положення сидіння %1$s. Переконайтеся, що на задньому сидінні немає людей і речей
+string	next	Далі
+string	not_exit	Не зараз
+string	open_mode	Увімкнено режим %2$s (%1$s)
+string	park	Комфорт стоянки
+string	park_comfort_exit	Комфорт стоянки вимкнено
+string	park_comfort_time	Час комфорту
+string	park_comfort_time_subtitle	Якщо ввімкнено, авто залишається під живленням після виходу або блокування
+string	park_comfort_time_subtitle2	Вимикається при заряді нижче 20%
+string	pass_rest_speed_check_content	Використання режиму відпочинку під час руху небезпечне. Усе одно продовжити?
+string	pass_rest_speed_check_title	Увага
+string	passenger_rest	Відпоч. пас.
+string	passenger_theater	Кіно пас.
+string	pet	Тварини
+string	pet_enter_air	Провітрювання
+string	pet_enter_air_sub	Вмикається притік свіжого повітря, щоб тварині легко дихалося
+string	pet_enter_exp	Захист від збоїв
+string	pet_enter_exp_sub	При низькому заряді або виході з режиму тварин власник отримує сповіщення, а вікна відчиняються для провітрювання
+string	pet_enter_subtitle	Лише для тварин. Ніколи не залишайте дітей в авто самих
+string	pet_enter_temp	Температура
+string	pet_enter_temp_sub	Клімат підтримує сталу температуру для тварини
+string	pet_enter_touch	Блок. дотику
+string	pet_enter_touch_sub	Двері, вікна, екран і голосове керування вимкнено
+string	pet_exit_confirm_content	Вийти з режиму тварин?
+string	pet_exit_confirm_title	Вихід
+string	pet_exit_gear_tips	Авто не в P, режим тварин вимкнено
+string	pet_exit_low_power_tips	Заряд нижче 20%, режим тварин вимкнено
+string	pet_i_know	Зрозуміло (%1$d с)
+string	pet_i_know_8	Зрозуміло (8 с)
+string	pet_low_battery_tips	Замалий заряд для режиму тварин. Спершу зарядіть понад 25%
+string	pet_low_power_warn_tips	Низький заряд. Режим тварин вимкнеться нижче 20%
+string	pet_mode_ac	Клімат увімкнено
+string	pet_mode_close_confirm	Вимкнути
+string	pet_mode_close_first	Закрити екран
+string	pet_mode_min_unit	хв
+string	pet_mode_pet	Під захистом
+string	pet_mode_plus_min_unit	+хв
+string	pet_mode_temperate_unit	%s°C
+string	pet_mode_tip	Моя родина скоро повернеться
+string	pet_mode_tip_content	"Клімат увімкнено\nПоточна темп."
+string	pet_mode_tip_label	Власник скоро повернеться, не хвилюйтеся
+string	pet_mode_tv	Усе гаразд
+string	pet_window_tips	Деякі вікна відчинено. Зачинити всі вікна для безпеки тварини?
+string	pos_row_two	Задні
+string	pos_row_two_left	Задн. ліве
+string	pos_row_two_right	Задн. праве
+string	previous	Назад
+string	privacy	Приват.
+string	rest	Відпоч.
+string	rest_driver	Відпочинок водія
+string	rest_driver_tips	Режим відпочинку водія змінить положення сидіння водія. Будьте обережні
+string	rest_exit_by_gear_alert	Передачу змінено з P, відпочинок вимкнено
+string	rest_guide_action_time	Вийти зараз (%1$d с)
+string	rest_mode_saved	Положення відпочинку (%1$s) оновлено й збережено
+string	rest_passenger	Відпочинок пас.
+string	rest_row2_left_pos	Відпочинок задн. лів.
+string	rest_row2_right_pos	Відпочинок задн. пр.
+string	rest_select_tips	Режим відпочинку змінить положення: %1$s. Будьте обережні
+string	rest_tips	Режим відпочинку (%1$s) також змінить задні сидіння, освітлення салону тощо. Продовжити?
+string	row_front	Передні
+string	row_front_seat	Передні сидіння
+string	row_two_left	Задн. Л
+string	row_two_right	Задн. П
+string	screen_off	Екр. вимк.
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	seat	Сидіння
+string	second_fragment_label	Другий фрагмент
+string	start	Почати
+string	temp_not_close_window	Не зараз
+string	theater	Кіно
+string	theater_mode_saved	Положення кінотеатру (%1$s) оновлено й збережено
+string	theater_mode_switch_exit	Вийти
+string	theater_mode_switch_tips	Кінотеатр: %1$s
+string	unknown	Невідомо
+string	wash_8295_cs_guide_content	"Коли ввімкнено режим мийки, вмикається комфорт стоянки, клімат переходить на рециркуляцію, а всі вікна, багажник і кришка порту заряджання зачиняються. Вимикаються функції: безключовий доступ, перемикач кришки порту заряджання, автосклоочисники, сигнал перешкод, розблокування при наближенні/блокування при віддаленні. \n\nПримітка: режим мийки вимикається автоматично на швидкості понад 15 km/h. \n\nАвтоматична мийка: підтримуйте заряд батареї понад 20% і не рухайте авто, інакше режим мийки вимкнеться, коли водій вийде. На конвеєрній мийці складіть дзеркала, увімкніть N і залишайтеся в авто; якщо вийти, увімкнеться P."
+string	wash_8295_guide_content	"Коли ввімкнено режим мийки, вмикається комфорт стоянки, клімат переходить на рециркуляцію, а всі вікна, багажник і кришка порту заряджання зачиняються. Вимикаються функції: безключовий доступ, перемикач кришки порту заряджання, автосклоочисники, сигнал перешкод, розблокування при наближенні/блокування при віддаленні. \n\nПримітка: режим мийки вимикається автоматично на швидкості понад 15 km/h. \n\nАвтоматична мийка: підтримуйте заряд батареї понад 20% і не рухайте авто, інакше режим мийки вимкнеться, коли водій вийде. На конвеєрній мийці складіть дзеркала, увімкніть N і залишайтеся в авто; якщо вийти, увімкнеться P."
+string	wash_bottom_8155_tips	"• Підтримуйте заряд батареї понад 20% і не рухайте авто, інакше режим мийки вимкнеться, коли водій вийде\n• На конвеєрній мийці складіть дзеркала, увімкніть N і залишайтеся в авто; якщо вийти, увімкнеться P"
+string	wash_car	Мийка
+string	wash_car_open_door_tips	Не забудьте взяти ключ!
+string	wash_car_open_park_comfort_tips	Комфорт стоянки ввімкнено. Авто залишається під живленням, щоб вам було зручно його мити
+string	wash_charge	Порт заряд.
+string	wash_condition_ac	Режим клімату
+string	wash_condition_approach	Розблок./блок. при підході
+string	wash_condition_charge	Кришка порту: %1$s
+string	wash_condition_door_switch	Зовн. кнопка дверей: %1$s
+string	wash_condition_lock	Безключ. доступ
+string	wash_condition_ring	Сигнал перешкод
+string	wash_condition_tail	Кнопка багажника: %1$s
+string	wash_condition_wiper	Автосклоочис.
+string	wash_door	Двері
+string	wash_door_not_closed	Не всі двері зачинено
+string	wash_exit_8155_guide_content	Утримуйте кнопку розблокування на ключі 2 с, щоб вийти з режиму мийки
+string	wash_exit_action	Вийти зараз
+string	wash_exit_button	Вийти з мийки
+string	wash_exit_content	Вихід із режиму мийки вимикає комфорт стоянки й відновлює всі вимкнені функції
+string	wash_exit_guide_title	Вихід ззовні
+string	wash_exit_high_guide_content	Розблокуйте авто ключем або ключем на телефоні (Bluetooth підключено), щоб вийти з режиму мийки
+string	wash_exit_i_know	Зрозуміло
+string	wash_exit_low_guide_content	"1. Розблокуйте авто ключем або ключем на телефоні (Bluetooth підключено), щоб вийти з режиму мийки\n2. У розблокованому стані утримуйте кнопку замка на ручці дверей 6 с, щоб вийти з режиму мийки"
+string	wash_exit_title	Вихід
+string	wash_fold_mirror	Скласти дзерк.
+string	wash_guide_action	Увімкнути мийку
+string	wash_guide_action_time	Увімкнути мийку (%1$d с)
+string	wash_high_config_guide_content	"Коли ввімкнено режим мийки, вмикається комфорт стоянки, клімат переходить на рециркуляцію, а всі вікна, багажник і кришка порту заряджання зачиняються\nВимикаються функції: перемикач кришки порту заряджання, кнопка багажника, автосклоочисники, сигнал перешкод, розблокування при наближенні/блокування при віддаленні\n\nПримітка: режим мийки вимикається автоматично на швидкості понад 15 km/h."
+string	wash_hmi3_8155_guide_content	"Коли ввімкнено режим мийки, вмикається комфорт стоянки, клімат переходить на рециркуляцію, усі вікна, багажник і кришка порту заряджання зачиняються, а зовнішнє освітлення вимикається. Вимикаються функції: безключовий доступ, перемикач кришки порту заряджання, автосклоочисники, сигнал перешкод, розблокування при наближенні/блокування при віддаленні.\n\nПримітка: режим мийки вимикається автоматично на швидкості понад 15 km/h.\n\nАвтоматична мийка: підтримуйте заряд батареї понад 20% і не рухайте авто, інакше режим мийки вимкнеться, коли водій вийде. На конвеєрній мийці складіть дзеркала, увімкніть N і залишайтеся в авто; якщо вийти, увімкнеться P."
+string	wash_hold_lock	Кнопка замка на ручці
+string	wash_hood	Передній
+string	wash_low_config_guide_content	"Коли ввімкнено режим мийки, вмикається комфорт стоянки, клімат переходить на рециркуляцію, а всі вікна, багажник і кришка порту заряджання зачиняються\nВимикаються функції: безключовий доступ, перемикач кришки порту заряджання, кнопка багажника, автосклоочисники, сигнал перешкод, кнопка замка на ручці дверей, розблокування при наближенні/блокування при віддаленні\n\nПримітка: режим мийки вимикається автоматично на швидкості понад 15 km/h."
+string	wash_mirror_fold	Скласти дзерк.
+string	wash_mirror_open	Розкл. дзерк.
+string	wash_mode	Мийка
+string	wash_mode_alert	Мийку ввімкнено
+string	wash_mode_already_exit	Мийку вимкнено
+string	wash_n_gear_content	У D відстебніть ремінь водія, натисніть гальмо й легко потягніть важіль перемикання вгору на 2 с, щоб увімкнути N
+string	wash_n_gear_title	Увімкніть N
+string	wash_part_door_not_closed	%1$s: двері відч.
+string	wash_part_window_not_closed	%1$s: вікно відч.
+string	wash_safe_confirm_action	Перемкнути
+string	wash_safe_confirm_content	Перемкнути на режим [%1$s]?
+string	wash_safe_confirm_title	Увага
+string	wash_screen_clean_mode	Чищення екрана
+string	wash_speed_alert	Режим мийки недоступний, зменште швидкість до 15 km/h
+string	wash_status_circulation	Рецирк.
+string	wash_status_circulation_auto	Авторецирк.
+string	wash_status_circulation_out	Зовн. пов.
+string	wash_status_closed	Зачинено
+string	wash_status_forbidden	Вимкнено
+string	wash_status_ing	Зачек…
+string	wash_status_no_forbidden	Збій вимкн.
+string	wash_status_not_N	Увімкнено
+string	wash_status_not_closed	%1$s відч.
+string	wash_status_open	Відчинено
+string	wash_status_warn	Мийка зараз ризикована, зверніться до сервісу
+string	wash_tail	Багажник
+string	wash_um_alert	Режим мийки недоступний, зверніться до сервісу
+string	wash_win	Вікна
+string	wash_window_not_closed	Не всі вікна зачинено
+string	without	Немає
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	yes	Так
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показ. пароль

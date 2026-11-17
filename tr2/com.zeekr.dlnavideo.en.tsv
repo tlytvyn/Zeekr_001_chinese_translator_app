@@ -1,0 +1,57 @@
+string	app_name	Cast
+string	brightness	Brightness
+string	btn_hotspot_reseting	Restarting
+string	btn_reset_hotspot	Restart hotspot
+string	btn_start_hotspot	Start hotspot
+string	channel_description	Tap for details
+string	channel_notify	New cast notice
+string	description	Foreground service
+string	hint_pwd_invalid	8-12 letters, digits or symbols (no spaces or line breaks)
+string	label_hotspot_name	Hotspot name:
+string	label_password	Password:
+string	loading_ap_info	Loading...
+string	no_device	No USB camera found
+string	no_resource	No valid video URL found, please check...
+string	page_guide_subtitle	Phone screen too small for movies? Cast to the ZEEKR display for an instant cinema experience!
+string	page_guide_title	Video casting
+string	password_setting	Set password
+string	password_setting_tip	Changing the password will disconnect current devices
+string	refresh	Refresh
+string	select	Select USB camera
+string	switch_tips_confirm	Got it
+string	switch_tips_content	1. FAQ\n(1) Game console and capture card are connected, but it still shows no video signal or a black screen?\nCheck that the console is powered on and that both ends of the cable are firmly connected.\n(2) Connected, but it still says no capture card is connected?\nCheck whether the capture card connection is loose and whether its power indicator is lit.\n2. How to use\n(1) Connect the capture card to the game console and the car's USB port;\n(2) Keep the console powered on and start playing.
+string	switch_tips_title	Help
+string	switching_equipment	Switch device
+string	switching_equipment_message	HiCar is connected. Disconnect the current HiCar device?
+string	tips_ap_perm_error	Not authorized, can't set up hotspot
+string	tips_audio_loss	Audio focus taken by another app!
+string	tips_dev_guide_step1	Connect capture card to the car
+string	tips_dev_guide_step2	Connect console to capture card
+string	tips_guide_step1	Turn on Wi-Fi on your phone,\nconnect to the casting hotspot (name and password above)
+string	tips_guide_step2	Open a video app on your phone\nand pick a video
+string	tips_hotspot_has_been_reset	Hotspot restarted
+string	tips_hotspot_has_been_started	Hotspot on
+string	tips_not_park_gear	Phone casting is only available in P. Shift to P and try again
+string	tips_start_hotspot_failed	Hotspot failed to start
+string	tips_step3	Tap the “ ” icon at the top right of the video,\nthen choose Cast
+string	tips_user_hotspot	1. If no cast device is found, tap “Restart hotspot” and try casting again. 2. Some videos may not support casting or playback; try another video.
+string	tips_user_switch	1. Only Switch is supported for now; more devices are coming. 2. The screen stays black for a few seconds while the game device connects, please wait.\n3. A ZEEKR-certified capture card is recommended for the best results (available in the ZEEKR app under “Zeekr Store” or the ZEEKR Store WeChat mini program).
+string	tips_video_guide_step2_brightness	Swipe left side for brightness
+string	tips_video_guide_step2_speed	Swipe sideways to seek
+string	tips_video_guide_step2_voice	Swipe right side for volume
+string	title_cast_guide	Cast in 3 steps
+string	txt_confirm	Got it
+string	txt_positive	OK
+string	txt_step1_content	Turn on phone Wi-Fi
+string	txt_step2_content	Join ZEEKR hotspot
+string	txt_step2_sub_content	(Password needed first time)
+string	txt_step3_content	In the video app, tap “
+string	txt_step3_sub_content_1	Tap “
+string	txt_step3_sub_content_2	” to cast
+string	video_guid_exit	Exit
+string	video_guid_i_know	Got it
+string	video_guid_tap_des	Tap screen to show status and control bars
+string	video_speed	Speed
+string	video_traffic_res_tips	For your safety and that of others, do not watch videos while driving!
+string	video_txt_confirm	Confirm exit (%ss)
+string	volume	Volume

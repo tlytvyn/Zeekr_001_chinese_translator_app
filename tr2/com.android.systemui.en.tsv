@@ -1,0 +1,24 @@
+array	branch_string_array	You ‖ Xu ‖ Hai ‖ Zi ‖ Chou ‖ Yin ‖ Mao ‖ Chen ‖ Si ‖ Wu ‖ Wei ‖ Shen
+array	chinese_week_string_array	Sun ‖ Mon ‖ Tue ‖ Wed ‖ Thu ‖ Fri ‖ Sat
+array	lunar_first_of_month	Spring Festival ‖ 2nd mo. ‖ 3rd mo. ‖ 4th mo. ‖ 5th mo. ‖ 6th mo. ‖ 7th mo. ‖ 8th mo. ‖ 9th mo. ‖ 10th mo. ‖ 11th mo. ‖ 12th mo.
+array	lunar_month	1st mo. ‖ 2nd mo. ‖ 3rd mo. ‖ 4th mo. ‖ 5th mo. ‖ 6th mo. ‖ 7th mo. ‖ 8th mo. ‖ 9th mo. ‖ 10th mo. ‖ 11th mo. ‖ 12th mo.
+array	lunar_str	1 ‖ 2 ‖ 3 ‖ 4 ‖ 5 ‖ 6 ‖ 7 ‖ 8 ‖ 9 ‖ 10 ‖ 11 ‖ 12 ‖ 13 ‖ 14 ‖ 15 ‖ 16 ‖ 17 ‖ 18 ‖ 19 ‖ 20 ‖ 21 ‖ 22 ‖ 23 ‖ 24 ‖ 25 ‖ 26 ‖ 27 ‖ 28 ‖ 29 ‖ 30
+array	month_string_array	Jan ‖ Feb ‖ Mar ‖ Apr ‖ May ‖ Jun ‖ Jul ‖ Aug ‖ Sep ‖ Oct ‖ Nov ‖ Dec
+array	shengxiao_string_array	Rat ‖ Ox ‖ Tiger ‖ Rabbit ‖ Dragon ‖ Snake ‖ Horse ‖ Goat ‖ Monkey ‖ Rooster ‖ Dog ‖ Pig
+array	solar_festival	0101New Year ‖ 0214Valentine's ‖ 0308Women's Day ‖ 0312Arbor Day ‖ 0315Consumer Day ‖ 0401April Fools ‖ 0422Earth Day ‖ 0501Labor Day ‖ 0504Youth Day ‖ 0601Children's Day ‖ 0701CPC Day ‖ 0801Army Day ‖ 0910Teachers' Day ‖ 1001National Day ‖ 1031Halloween ‖ 1111Singles' Day ‖ 1224Christmas Eve ‖ 1225Christmas
+array	solar_term	Spring Equinox ‖ Pure Brightness ‖ Grain Rain ‖ Start of Summer ‖ Grain Buds ‖ Grain in Ear ‖ Summer Solstice ‖ Minor Heat ‖ Major Heat ‖ Start of Autumn ‖ End of Heat ‖ White Dew ‖ Autumn Equinox ‖ Cold Dew ‖ Frost Descent ‖ Start of Winter ‖ Minor Snow ‖ Major Snow ‖ Winter Solstice ‖ Minor Cold ‖ Major Cold ‖ Start of Spring ‖ Rain Water ‖ Awakening of Insects
+array	special_festivals	Mother's Day ‖ Father's Day ‖ Thanksgiving
+array	tradition_festival	New Year's Eve ‖ 0101Spring Festival ‖ 0115Lantern Festival ‖ 0505Dragon Boat ‖ 0707Qixi ‖ 0815Mid-Autumn ‖ 0909Double Ninth
+array	trunk_string_array	Xin ‖ Ren ‖ Gui ‖ Jia ‖ Yi ‖ Bing ‖ Ding ‖ Wu ‖ Ji ‖ Geng
+array	week_string_array	S ‖ M ‖ T ‖ W ‖ T ‖ F ‖ S
+array	year_view_week_string_array	S ‖ M ‖ T ‖ W ‖ T ‖ F ‖ S
+string	fri	Fri
+string	mon	Mon
+string	pma_dock_widget_car_mileage_title	Odometer
+string	pma_dock_widget_car_setting_title	Settings
+string	pma_dock_widget_track_title	Track mode
+string	sat	Sat
+string	sun	Sun
+string	thu	Thu
+string	tue	Tue
+string	wed	Wed

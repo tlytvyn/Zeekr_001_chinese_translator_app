@@ -1,0 +1,295 @@
+string	app_name	XCUpgradeService
+string	app_title	Оновлення
+string	audio_all_volume_system	Сист. звук
+string	bottom_tip_text	Оновлення системи почнеться автоматично після блокування автомобіля, орієнтовний час: %1$s. Не виконуйте жодних дій під час оновлення системи та не залишайте дітей і тварин в автомобілі.
+string	broadcast_category_name	Система/OTA/оновлення
+string	broadcast_download_success_text	Завантажено
+string	broadcast_find_ver_text	Нова версія
+string	broadcast_title	Сист.
+string	broadcast_vechile_upgrade_success_text	Оновлення автомобіля завершено. Деталі: Налаштування - Система
+string	btn_agree	Згода
+string	cancel	Скас.
+string	cancel_button	Скас.
+string	cancel_sure_button	ОК
+string	cancel_time	Скасувати
+string	cancel_update	Скасувати
+string	cancel_update_content	Скасувати оновлення?
+string	cancel_update_message	Оновити систему вручну можна \nу «Налаштування» - «Система»
+string	cancel_update_text	Скасовано
+string	cancel_update_title	Скасовано
+string	car_system_update	Оновлення системи
+string	check_upgrade_after_networking	Перевірка онлайн
+string	chip_text	Текст чипа
+string	close	Закр.
+string	completed	Готово
+string	confirm_btn	ОК
+string	congratulation	Встановлено останню версію
+string	current_version	Версія
+string	current_version_getting	Отримання версії...
+string	currrent_update_failure	Це оновлення застаріло\nДочекайтеся наступного оновлення або зверніться до служби підтримки\nГаряча лінія: %1$s
+string	day	дн.
+string	default_new_version	Версія
+string	dialog_OTA_regret_window	Щоб оновлення пройшло успішно, не відмикайте двері під час оновлення.
+string	dialog_OTA_window	З міркувань безпеки рекомендуємо зачинити вікна,\nвийти й заблокувати авто для оновлення.
+string	dialog_remind_private_avn_version	Версія: %1$s
+string	dialog_remind_sys_pre_download	Доступна нова версія системи. Завантажити зараз?
+string	dialog_sure_upgrade_tip	Оновлення системи почнеться автоматично після блокування автомобіля. Щоб уникнути збою, не виконуйте жодних дій під час оновлення системи та не залишайте дітей і тварин в автомобілі.
+string	download	Завант
+string	download_detail	Деталі версії
+string	download_expect_time	Усього 500M, 200kb/s. Орієнтовний час завантаження: 20 хвилин
+string	download_fail	Збій завант
+string	download_limit_off	Швидкість
+string	download_limit_on	Комфорт
+string	download_resume	Продовжити
+string	download_success	Завантаж.
+string	download_tips	Натисніть кнопку живлення, щоб автомобіль був у стані ACC ON, після чого завантаження продовжиться автоматично
+string	downloading	Завантаж.
+string	estimate	бл.
+string	expect	Орієнт
+string	fail_check_condition	Потрібно: передача P, швидкість 0 km/h, стабільне мережеве з’єднання.
+string	fail_check_scene_condition	Оновлення неможливе в режимі сценарію. Вимкніть його та повторіть спробу.
+string	func_introduction_title_txt	Нове у версії %1$s
+string	general_cancel_update	Скасувати
+string	gkui_upgrade_txt	Оновл. GKUI
+string	gkui_version	GKUI 20
+string	go_to_upgrade	Онов.
+string	hour	год
+string	i_know	Зрозуміло
+string	immediately_update	Оновити
+string	immediately_upgrade	Оновити
+string	info_before_install	Для автомобіля доступна нова версія системи. Безпечно припаркуйте автомобіль і запустіть безкоштовне оновлення системи.
+string	install	Встан.
+string	install_cancel_notice_content	Вашим ZEEKR 001 можна керувати й користуватися звичайно та безпечно, але деякий вміст ще потребує оновлення. Рекомендуємо якнайшвидше звернутися до партнера ZEEKR (4000036036) за персональною технічною підтримкою.
+string	install_fail	Збій встан.
+string	install_fail_check_content	Умови встановлення не виконано. Дочекайтеся наступного нагадування або зверніться до партнера ZEEKR (4000036036) за персональною технічною підтримкою
+string	install_fail_critical_content	Для забезпечення нормальної та безпечної роботи вашого ZEEKR 001 якнайшвидше зверніться до партнера ZEEKR (4000036036) за персональною технічною підтримкою
+string	install_fail_message	Згодом завантажиться знову
+string	install_fail_notice_content	Вашим ZEEKR 001 можна керувати й користуватися звичайно та безпечно, але деякий вміст ще потребує оновлення. Рекомендуємо якнайшвидше звернутися до партнера ZEEKR (4000036036) за персональною технічною підтримкою.
+string	install_message	Встановлення триває довго. Щоб не розрядити акумулятор, тримайте автомобіль увімкненим
+string	install_message_txt	Встановити %1$s?
+string	install_now	Встановити
+string	install_success	Встановл.
+string	install_tem_message	Зачекайте 30 с до запуску
+string	install_tem_power_off_tips	Спершу вимкніть двигун
+string	install_tem_tips	Під час встановлення головний пристрій не працюватиме. Встановити зараз?
+string	install_time	Близько 20 хв
+string	install_tips	Під час встановлення не глушіть двигун і перемістіться в безпечне місце; крім того, головний пристрій не працюватиме. Встановити зараз?
+string	install_title	Встановл…
+string	label	Мітка
+string	loading	Зачекайте…
+string	millisecond	мс
+string	minute	хв
+string	minutes	хв
+string	modify_updata_time	Змінити
+string	mpu_upgrade_confirm_msg	Увага: під час оновлення система перезапуститься. Перед оновленням перемістіться в безпечне місце.
+string	mpu_upgrade_failed	Збій оновлення GKUI, перезапуск
+string	mpu_upgrade_failed_and_retry	Збій оновлення GKUI. Повторити?
+string	mpu_upgrade_shutdown_msg	Встановлення виконується при запущеному двигуні. Запустіть двигун і повторіть спробу.
+string	mpu_upgrade_success	Оновлення MPU завершено, перезапуск
+string	network_error	Оновлення перервано через слабкий сигнал мережі. Коли з’єднання стабілізується,\nперейдіть у [Налаштування] -> [Система] -> [GKUI ...], щоб повторити спробу.
+string	network_not_connected	Немає мережі
+string	new_func_introduction_detail	Опису змін ще немає
+string	new_system_upgrade_succeed	Систему оновлено!
+string	new_system_version	Версія
+string	new_version	Нова верс.
+string	night_auto_upgrade	Нічне оновлення
+string	night_auto_upgrade_goto_upgrade	Онов.
+string	night_auto_upgrade_look_log	Журнал оновлень
+string	night_auto_upgrade_manager	Оновлення
+string	night_auto_upgrade_night_auto_upgrade	Автоматичне оновлення заплановано на 02:00 сьогодні вночі. Воно триватиме близько %1$s хв. Під час оновлення неможливо керувати автомобілем, користуватися сенсорним екраном або заряджати автомобіль. Перед початком оновлення заблокуйте автомобіль і залиште його.
+string	night_auto_upgrade_time_set	Для вашого автомобіля доступне оновлення системи! Воно триватиме близько %1$s хв. Під час оновлення неможливо керувати автомобілем, користуватися сенсорним екраном або заряджати автомобіль. Перед початком оновлення заблокуйте автомобіль і залиште його.
+string	night_auto_upgrade_tip1	Оновлення заплановано на %1$s сьогодні. Якщо увімкнути цю функцію, його буде перенесено на 02:00 сьогодні вночі, а майбутні версії встановлюватимуться автоматично о 02:00.
+string	night_auto_upgrade_tip2	Оновлення заплановано на %1$s завтра. Якщо увімкнути цю функцію, його буде перенесено на 02:00 сьогодні вночі, а майбутні версії встановлюватимуться автоматично о 02:00.
+string	night_auto_upgrade_tip3	Нові версії встановлюватимуться автоматично о 02:00. Під час оновлення неможливо керувати автомобілем, користуватися сенсорним екраном або заряджати автомобіль.
+string	night_auto_upgrade_tip4	Оновлення заплановано через %1$s год %2$s хв. Якщо увімкнути цю функцію, його буде перенесено на 02:00 сьогодні вночі, а майбутні версії встановлюватимуться автоматично о 02:00.
+string	night_auto_upgrade_title	Увімкнути нічне оновлення?
+string	no_reminder	Не нагад.
+string	no_suitable_upgrade_zip	Немає пакета
+string	notice	Під час оновлення в автомобілі нікого не повинно бути. Дистанційне керування та протиугінні функції недоступні.
+string	notification_downloading	Завантаження
+string	notification_into	Відкр.
+string	official_version	Реліз
+string	okay	Закр.
+string	open	Увімк.
+string	ota_no_network_fail	Немає мережі!
+string	ota_upgrade_auto_update_fail	Збій автовстановлення!
+string	ota_upgrade_cancel	Оновл. скасовано
+string	ota_upgrade_cancel_install	Оновлення відхилено!
+string	ota_upgrade_check_result_error	Помилка списку!
+string	ota_upgrade_checkversion_fail	Збій перевірки!
+string	ota_upgrade_copy_package_fail	Збій копіювання файлу!
+string	ota_upgrade_download_fail	Збій завантаження!
+string	ota_upgrade_download_fail_net_fail	Завантаження лише через 4G.
+string	ota_upgrade_download_success	Завантажено!
+string	ota_upgrade_downloading	Завантаження...
+string	ota_upgrade_downloading_progress	Завантаження (%1$d%%)
+string	ota_upgrade_file_verify_fail	Збій перевірки файлу OTA!
+string	ota_upgrade_finish_tips	Зрозум.
+string	ota_upgrade_get_package_fail	Пакет не знайдено!
+string	ota_upgrade_ihu_id_error	Версія GKUI порожня!
+string	ota_upgrade_initdata_fail	Помилка ініц.!
+string	ota_upgrade_install_fail	Збій оновлення OTA!
+string	ota_upgrade_install_is_runing	Оновлення...
+string	ota_upgrade_mpu_address_empty	Немає URL пакета!
+string	ota_upgrade_mpu_address_not_find	Немає URL пакета!
+string	ota_upgrade_network_fail	Перевірте мережу. Завантаження лише через 4G!
+string	ota_upgrade_new_version	Версія актуальна!
+string	ota_upgrade_not_found	Оновлень немає!
+string	ota_upgrade_not_free	Триває OTA…
+string	ota_upgrade_not_shut_down	Оновлення, не чіпайте!
+string	ota_upgrade_other_task_install	Є інші завдання оновлення!
+string	ota_upgrade_prepare_package_file	Підготовка пакета...
+string	ota_upgrade_refuse_new_version	Оновлення відхилено!
+string	ota_upgrade_refuse_upgrade	Відхилити?
+string	ota_upgrade_report_download_fail	Не вдалося надіслати статус завантаження!
+string	ota_upgrade_report_install_fail	Збій звіту статусу!
+string	ota_upgrade_reupgrade_message	Нова версія. Оновити?
+string	ota_upgrade_rw_db_fail	Збій читання БД!
+string	ota_upgrade_sdcard_space_low	SD-карта повна!
+string	ota_upgrade_sn_id_error	Немає серійного № IHU!
+string	ota_upgrade_success	Оновлено
+string	peps_off_message	З міркувань безпеки заплановане оновлення скасовано. Можна оновити знову
+string	prompt	Увага
+string	refuse	Відхил
+string	reminder_delay_message	З міркувань безпеки заплановане оновлення автоматично скасовано. Оновіть знову, коли автомобіль буде безпечно припарковано
+string	reupgrade_btn_txt	Повторити
+string	second	с
+string	service_number_title	Підтримка
+string	set_succeed	Готово
+string	set_time	Час
+string	software_version_info	Версія ПЗ:
+string	subscribe_success	Заплановано\nОновлення почнеться через %1$d год %2$d хв
+string	subscribe_success1	Заплановано\nОновлення почнеться через %1$d год
+string	subscribe_success2	Заплановано\nОновлення почнеться через %1$d хв
+string	subscribed	Заплан.
+string	sunroof_is_close	Люк зачинено
+string	sunscribe_upgrade	Заплан.
+string	sure	ОК
+string	sure_new	ОК
+string	sure_upgrade	ОК
+string	system_reboot	Встановлено, перезапуск...
+string	system_update_title	Оновлення системи Lynk %1$s
+string	system_upgrade	Оновлення
+string	system_version	Версія
+string	tbox_installing	Оновлення…
+string	tbox_upgrade_fail	Збій оновлення
+string	tbox_upgrade_failed	Збій оновлення, перезапуск
+string	tbox_upgrade_success	Оновлення безпеки успішне, перезапуск системи
+string	tbox_version	Версія T-Box
+string	telephone_warming	З будь-яких питань телефонуйте на цілодобову гарячу лінію Geely!
+string	tem_install_fail	Вимкн. і повт.
+string	terms_of_service	Умови
+string	terms_of_service_content	Zeekr AutoMobile (Ningbo Hangzhou Bay New Zone) Co., Ltd. (далі — «ми») надає вам послуги бездротового оновлення автомобіля (Over-The-Air, далі — «послуга OTA») для покращення, вдосконалення або доопрацювання функцій автомобіля та подальшого покращення користувацького досвіду; у деяких випадках її також можуть використовувати для усунення дефектів автомобільної продукції. Послуга OTA може змінити спосіб використання деяких функцій. Тому перед кожним наданням послуги OTA обов’язково уважно прочитайте відповідні інструкції з оновлення та ці умови надання послуг, переконайтеся, що автомобіль перебуває у стані, придатному для оновлення, ознайомтеся з функціями й застереженнями щодо оновлення або доданих функцій і дійте відповідно до наших рекомендацій. Якщо у вас є будь-які сумніви або ситуація вам незнайома, своєчасно зв’яжіться з нами за телефоном 4000036036.
+string	terms_of_service_ok	Готово
+string	time_notice	Час — у межах наступних 24 год
+string	time_set	Заплан.!
+string	time_set_content	\nДля безпеки рекомендуємо зачинити вікна, вийти й заблокувати авто для оновлення.
+string	time_set_content2	Автоматичне оновлення, заплановане на 02:00, не виконано. Перевірте мережеве з’єднання. Знову запланувати оновлення можна в [Налаштування - Оновлення системи].
+string	time_set_failed	Збій
+string	time_set_notice	Оновлення почнеться через %1$s год %2$s хв
+string	time_set_today_notice	Оновлення почнеться сьогодні о %1$s і триватиме близько %2$s хв. Змінити час можна в налаштуваннях системи.
+string	time_set_tomorrow_notice	Оновлення почнеться завтра о %1$s:%2$s і триватиме близько %3$s хв. Змінити час можна в налаштуваннях системи.
+string	time_today_tip	Сьогодні
+string	time_tomorrow_tip	Завтра
+string	time_unit	хв
+string	total	Разом 
+string	update_break	Перервано
+string	update_check_countdown_notice	Оновлення почнеться через:
+string	update_delay	Відкладено
+string	update_dialog_content	Орієнтовний час: %1$s
+string	update_fail	Умови оновлення не виконано
+string	update_faile	На жаль, оновлення не вдалося\nЗверніться до служби підтримки\n\nГаряча лінія: %1$s
+string	update_failure	Застаріло
+string	update_loading_title	Доступне оновлення системи
+string	update_now	Оновити
+string	update_pre	Підготовка...
+string	update_starting	Оновлення
+string	update_subscribe	Змінити
+string	update_time	Оновлення триватиме близько %1$s хв.
+string	update_when_getting_off	Нагадати при виході
+string	upgrade	Онов.
+string	upgrade_after_10minutes	Оновл. за 10 хв
+string	upgrade_after_accoff	Автооновлення через 5 хв після вимкнення
+string	upgrade_after_minutes	Оновл. через
+string	upgrade_already_new_txt	Версія актуал.
+string	upgrade_back_btn_txt	Оновлення
+string	upgrade_check_btn_txt	Перевірити
+string	upgrade_check_failed_txt	Збій перевірки
+string	upgrade_default_time	Орієнт. час: 1 год 30 хв
+string	upgrade_delay	Не зараз
+string	upgrade_delay_title	Пізніше
+string	upgrade_download_btn_txt	Завантаж.
+string	upgrade_download_failed_txt	Збій завантаж.
+string	upgrade_downloading_txt	Завантаж.
+string	upgrade_expect_time	Орієнт. час: 
+string	upgrade_failed_txt	Збій оновлення
+string	upgrade_failse	Збій налаштування. Перевірте мережу й повторіть.
+string	upgrade_find_new_version	Нова версія
+string	upgrade_free_wifi	Без трафіку
+string	upgrade_in_settings_tip	Оновлення можна запустити вручну в налаштуваннях!
+string	upgrade_later	Автооновл. за 5 хв після вимк.
+string	upgrade_later_btn_txt	5 хв після вимк.
+string	upgrade_loading_txt	Перевірка…
+string	upgrade_log	Журнал
+string	upgrade_log_title	Що нового
+string	upgrade_notification_battery_low_delay_pip	Надто низький заряд акумулятора!
+string	upgrade_notification_cancel	Скасовано ZEEKR
+string	upgrade_notification_cancel_pip	Дочекайтеся наступного оновлення або зверніться до служби підтримки за номером 4000036036.
+string	upgrade_notification_config_error_delay_pip	Оновлення не знайдено!
+string	upgrade_notification_connect_delay_pip	Погане мережеве з’єднання!
+string	upgrade_notification_content	Доступне оновлення!
+string	upgrade_notification_delay	Відкладено
+string	upgrade_notification_door_unlocked_delay_pip	Одні з дверей не заблоковано!
+string	upgrade_notification_energy_delay_pip	Низький заряд тягової батареї!
+string	upgrade_notification_fail	Збій онов.
+string	upgrade_notification_gear_delay_pip	Передача не в положенні P!
+string	upgrade_notification_hv_delay_pip	Умови оновлення силової установки не виконано!
+string	upgrade_notification_merry_error_delay_pip	Недостатньо пам’яті для оновлення!
+string	upgrade_notification_net_bad_delay_pip	Надто погане мережеве з’єднання!
+string	upgrade_notification_not_fullfilled	Умови оновлення не виконано
+string	upgrade_notification_pip	Оновлення триватиме близько %1$s
+string	upgrade_notification_regret_delay_pip	Час підтвердження минув!
+string	upgrade_notification_scene_delay_pip	Активний режим сценарію!
+string	upgrade_notification_service_error_delay_pip	Служба оновлення недоступна!
+string	upgrade_notification_speed_delay_pip	Автомобіль використовується!
+string	upgrade_notification_success	Оновлено!
+string	upgrade_notification_success_pip	Ваш автомобіль став ще кращим!
+string	upgrade_notification_time_out_delay_pip	Підтвердження надто повільне!
+string	upgrade_notification_updating_error_delay_pip	Під час оновлення сталася помилка!
+string	upgrade_notification_usage_not_allowed_delay_pip	Автомобіль використовується!
+string	upgrade_notification_window_open_delay_pip	Вікно відчин.!
+string	upgrade_now_btn_txt	Оновити
+string	upgrade_or_subscribe	Оновіть зараз або заплануйте час
+string	upgrade_ota_fail_pop	Якщо є питання, зверніться до дилерського центру або служби підтримки
+string	upgrade_redownload_btn_txt	Повторити
+string	upgrade_remind1	Оновлення запуститься автоматично після блокування автомобіля. Переконайтеся, що вікна й люк зачинені. Зверніть увагу:
+string	upgrade_remind2	Після оновлення заблокуйте, а потім розблокуйте автомобіль брелоком, щоб активувати його!
+string	upgrade_remind3	Під час оновлення брелок і протиугінна сигналізація тимчасово заблоковані. Не залишайте в автомобілі дітей, тварин або цінні речі!
+string	upgrade_remind4	Не виконуйте жодних дій з автомобілем під час оновлення, інакше воно може не вдатися!
+string	upgrade_running	Оновлення… Не виконуйте жодних дій під час встановлення; брелок тимчасово недоступний
+string	upgrade_running1	Брелок
+string	upgrade_running_before_root	Після оновлення головний пристрій перезапуститься. Не користуйтеся автомобілем до завершення оновлення
+string	upgrade_subscribe_time1	Оновл. за 4 год 30 хв
+string	upgrade_subscribe_time2	Заплановано\n\nОновлення почнеться через 11 год 20 хв
+string	upgrade_success_notice_info	Версію %1$s завантажено
+string	upgrade_success_txt	Встановлено останню версію!
+string	upgrade_sure	Онов.
+string	upgrade_tips	Щоб оновлення пройшло успішно, не відмикайте двері \nпід час оновлення.
+string	upgrade_warning	Під час оновлення неможливо керувати автомобілем або користуватися сенсорним екраном, а протиугінна система може не працювати. Тримайте автомобіль у режимі паркування, а двері — заблокованими
+string	upgrading	Оновлення…
+string	upgrading_text	Оновлення, зачекайте…
+string	use_car	Їхати
+string	vechile_install_fail_message	Під час оновлення переконайтеся, що вікна й люк зачинені, а автомобіль заблоковано,\nмережа стабільна, а з автомобілем не виконуються жодні дії.\nІнакше оновлення може не вдатися.\nПовторити спробу можна в [Налаштування] -> [Система] -> [GKUI ...].\n\nГаряча лінія: %1$s
+string	vechile_pre_install_delay_tip	Ви обрали заплановане оновлення. Після блокування автомобіля оновлення системи почнеться автоматично.
+string	vechile_pre_install_now_tip	Ви обрали «Оновити зараз». Після блокування автомобіля оновлення системи почнеться автоматично.
+string	vehicle_version	Версія ТЗ
+string	version_detail	Деталі версії
+string	version_info	Нова верс.
+string	windows_are_close	Вікна зачинено
+string	xpopup_image_not_exist	Зображення не існує
+string	xpopup_save	Зберег
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_show_psw	Показати

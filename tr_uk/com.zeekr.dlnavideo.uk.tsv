@@ -1,0 +1,105 @@
+string	app_name	Трансл.
+string	brightness	Яскрав.
+string	btn_hotspot_reseting	Перезапуск
+string	btn_reset_hotspot	Перезап. точку
+string	btn_start_hotspot	Увімк. точку
+string	camera	Камера
+string	channel_description	Торкніться, щоб дізнатися
+string	channel_notify	Нова трансляція
+string	color_picker_cancel	Скасувати
+string	color_picker_default_title	Виберіть колір
+string	color_picker_select	Вибрати
+string	color_swatch_description	Колір %1$d
+string	color_swatch_description_selected	Вибрано колір %1$d
+string	description	Фонова служба
+string	dialog_dont_show_again	"Більше не показувати."
+string	error_a11y_label	Помилка: недійсне
+string	hint_pwd_invalid	8–12 літер, цифр або символів (без пробілів і переносів рядка)
+string	label_hotspot_name	Назва точки:
+string	label_password	Пароль:
+string	loading_ap_info	Завантаж...
+string	no_device	USB-камеру не знайдено
+string	no_resource	Не знайдено дійсну URL-адресу відео, перевірте...
+string	page_guide_subtitle	Екран телефона замалий для фільмів? Транслюйте на дисплей ZEEKR і відчуйте себе в кінотеатрі!
+string	page_guide_title	Трансляція
+string	password_setting	Пароль
+string	password_setting_tip	Зміна пароля відключить поточні пристрої
+string	permission_audio	"Немає дозволу на запис аудіо. \nУсі аудіофункції вимкнено"
+string	permission_audio_recording_reason	Дозвіл на запис аудіо потрібен для зйомки відео зі звуком.
+string	permission_audio_recording_request	Дозвіл на запис аудіо потрібен для зйомки відео зі звуком.
+string	permission_audio_streaming_reason	Дозвіл на запис аудіо потрібен для трансляції зі звуком.
+string	permission_audio_streaming_request	Дозвіл на запис аудіо потрібен для трансляції зі звуком.
+string	permission_camera	Немає дозволу на доступ до камери
+string	permission_camera_finish	"Немає дозволу на доступ до камери. \nПрограму буде закрито"
+string	permission_camera_reason	Дозвіл на доступ до камери потрібен для переходу на вбудовану камеру.
+string	permission_camera_request	Дозвіл на доступ до камери потрібен для переходу на вбудовану камеру.
+string	permission_ext_storage	"Немає дозволу на запис у зовнішнє сховище. \nЗйомку відео й фото вимкнено."
+string	permission_ext_storage_finish	"Немає дозволу на запис у зовнішнє сховище. \nПрограму буде закрито"
+string	permission_ext_storage_reason	Дозвіл на запис у зовнішнє сховище потрібен для зйомки відео й фото.
+string	permission_ext_storage_request	Дозвіл на запис у зовнішнє сховище потрібен для зйомки відео й фото.
+string	permission_hardware_id_request	Для дзвінків потрібен дозвіл на доступ до стану телефона/ID обладнання.
+string	permission_location	Немає дозволу на доступ до геолокації
+string	permission_location_finish	"Немає дозволу на доступ до геолокації. \nПрограму буде закрито"
+string	permission_location_reason	Дозвіл на доступ до геолокації потрібен для %s
+string	permission_location_request	Дозвіл на доступ до геолокації потрібен для %s
+string	permission_network	Немає дозволу на доступ до мережі.
+string	permission_network_finish	"Немає дозволу на доступ до мережі. \nПрограму буде закрито"
+string	permission_network_reason	Дозвіл на доступ до мережі потрібен для трансляції.
+string	permission_network_request	Дозвіл на доступ до мережі потрібен для трансляції.
+string	permission_title	Щодо дозволів
+string	refresh	Оновити
+string	scale_type_inch	Шкала в дюймах
+string	scale_type_mm	Шкала в мм
+string	scale_type_none	немає
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	select	Виберіть USB-камеру
+string	service_name	Фонова служба
+string	service_start	Запущено
+string	service_stop	Зупинено
+string	switch_tips_confirm	Зрозуміло
+string	switch_tips_content	1. Часті запитання\n(1) Ігрову консоль і карту захоплення підключено, але досі немає відеосигналу або чорний екран?\nПереконайтеся, що консоль увімкнена, а обидва кінці кабелю надійно під’єднані.\n(2) Підключено, але досі пише, що карту захоплення не підключено?\nПеревірте, чи не послабилося з’єднання карти захоплення і чи світиться її індикатор живлення.\n2. Як користуватися\n(1) Підключіть карту захоплення до ігрової консолі та USB-порту автомобіля;\n(2) Тримайте консоль увімкненою й починайте гру.
+string	switch_tips_title	Довідка
+string	switching_equipment	Змінити пристр.
+string	switching_equipment_message	HiCar підключено. Відключити поточний пристрій HiCar?
+string	tips_ap_perm_error	Немає дозволу, неможливо налаштувати точку доступу
+string	tips_audio_loss	Аудіофокус перехопила інша програма!
+string	tips_dev_guide_step1	Підключіть карту захоплення до авто
+string	tips_dev_guide_step2	Підключіть консоль до карти захоплення
+string	tips_guide_step1	Увімкніть Wi-Fi на телефоні,\nпідключіться до точки трансляції (назва й пароль вище)
+string	tips_guide_step2	Відкрийте відеопрограму на телефоні\nі виберіть відео
+string	tips_hotspot_has_been_reset	Точку перезапущено
+string	tips_hotspot_has_been_started	Точку ввімкнено
+string	tips_not_park_gear	Трансляція з телефона доступна лише на P. Увімкніть P і спробуйте ще раз
+string	tips_start_hotspot_failed	Не вдалося ввімкнути точку
+string	tips_step3	Торкніться значка « » угорі праворуч на відео,\nпотім виберіть «Трансляція»
+string	tips_user_hotspot	1. Якщо пристрій для трансляції не знайдено, торкніться «Перезап. точку» й спробуйте ще раз. 2. Деякі відео можуть не підтримувати трансляцію чи відтворення; спробуйте інше відео.
+string	tips_user_switch	1. Наразі підтримується лише Switch; інші пристрої з’являться згодом. 2. Під час підключення ігрового пристрою екран кілька секунд залишається чорним, зачекайте.\n3. Для найкращого результату рекомендовано карту захоплення, сертифіковану ZEEKR (доступна в застосунку ZEEKR у розділі «Zeekr Store» або в міні-програмі ZEEKR Store у WeChat).
+string	tips_video_guide_step2_brightness	Ліворуч — яскравість
+string	tips_video_guide_step2_speed	Убік — перемотування
+string	tips_video_guide_step2_voice	Праворуч — гучність
+string	title_cast_guide	Трансляція за 3 кроки
+string	txt_confirm	Зрозуміло
+string	txt_step1_content	Увімкніть Wi-Fi на телефоні
+string	txt_step1_sub_content	(Wi-Fi)
+string	txt_step2_content	Підключіться до ZEEKR
+string	txt_step2_sub_content	(Уперше потрібен пароль)
+string	txt_step3_content	У відеопрограмі торкніться «
+string	txt_step3_sub_content_1	Торкн. «
+string	txt_step3_sub_content_2	» для трансляції
+string	video_guid_exit	Вийти
+string	video_guid_i_know	Зрозуміло
+string	video_guid_tap_des	Торкніться екрана, щоб показати панелі стану й керування
+string	video_speed	Швидк.
+string	video_traffic_res_tips	Заради вашої безпеки та безпеки інших не дивіться відео під час керування автомобілем!
+string	video_txt_confirm	Вийти (%s с)
+string	voice_end	com.zeekr.dlnavideo.voice.END
+string	voice_start	com.zeekr.dlnavideo.voice.START
+string	volume	Гучн.
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберегти
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж...
+string	zeekr_show_psw	Показати пароль

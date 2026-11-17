@@ -1,0 +1,1617 @@
+array	adas_copilot_and_parking	21	Driver Assist ‖ Auto Parking ‖ NZP Pilot	智能驾驶辅助系统 ‖ 自动泊车辅助系统 ‖ NZP智能驾驶
+array	adas_fix_speed_percentage	17	Fixed km/h ‖ Percent %	固定车速km/h ‖ 百分比%
+array	adas_remind_type	6	Beep ‖ Vibrate	蜂鸣 ‖ 振动
+array	adas_remind_type_display_and_buzzing	6	Display ‖ Beep	显示 ‖ 蜂鸣
+array	adas_remind_type_display_and_buzzing_with_off	6	OFF ‖ Display ‖ Beep	OFF ‖ 显示 ‖ 蜂鸣
+array	adas_remind_type_with_off	6	OFF ‖ Beep ‖ Vibrate	OFF ‖ 蜂鸣 ‖ 振动
+array	adas_search_car_remind_type	6	Lights ‖ Lights+Sound	灯光 ‖ 灯光+声音
+array	adas_sensitivity_level	6	Late ‖ Medium ‖ Early	较晚 ‖ 适中 ‖ 较早
+array	adas_sensitivity_level_with_off	6	OFF ‖ Late ‖ Medium ‖ Early	OFF ‖ 较晚 ‖ 适中 ‖ 较早
+array	adas_sensitivity_sensitivity_level_low_middle_high	4	LOW ‖ MEDIUM ‖ HIGH	低 ‖ 中 ‖ 高
+array	common_car_locator_type	6	Flashing light ‖ flashing and Siren	闪灯 ‖ 闪灯鸣笛
+array	common_door_manual_helps	4	Light ‖ Standard	轻 ‖ 标准
+array	common_door_mode	6	Close ‖ Boarding only ‖ Getting on and off	关闭 ‖ 仅上车 ‖ 上下车
+array	common_door_mode_two	6	Close ‖ Getting on and off	关闭 ‖ 上下车
+array	common_equalizer_presets	6	Flat ‖ Pop ‖ Rock ‖ Jazz ‖ Classic ‖ Vocal ‖ Custom	平坦 ‖ 流行 ‖ 摇滚 ‖ 爵士 ‖ 古典 ‖ 人声 ‖ 自定义
+array	common_general_time	9	12h ‖ 24h	12小时 ‖ 24小时
+array	common_hud_adjust	6	Position ‖ Angle ‖ Brightness	位置 ‖ 角度 ‖ 亮度
+array	common_key_unlock_handle	9	Driver Doors ‖ All Doors	主驾门 ‖ 所有门
+array	common_mirror_title	11	Left ‖ Right	左后视镜 ‖ 右后视镜
+array	common_point_mode	10	2.4GHz ‖ 5GHz	
+array	common_regeneration_level	4	Low ‖ Medium ‖ High	低 ‖ 中 ‖ 高
+array	common_regeneration_level_bx	4	Low ‖ Standard ‖ High	弱 ‖ 标准 ‖ 强
+array	common_tilt_mirror	6	Both ‖ Left ‖ Right	两侧 ‖ 左侧 ‖ 右侧
+array	common_touch_handle	9	All Doors ‖ Single Door	所有门 ‖ 单门
+array	common_zeekr_arrmode	4	LOW ‖ MEDIUM ‖ HIGH	低 ‖ 中 ‖ 高
+array	common_zeekrad_imgtotext	6	OFF ‖ Late ‖ Medium ‖ Early	关闭 ‖ 较晚 ‖ 适中 ‖ 较早
+array	common_zeekrad_lane	6	OFF ‖ beep ‖ vibration	关闭 ‖ 声音 ‖ 振动
+array	common_zeekrad_offset_unit	7	km/h ‖ %	km/h ‖ %
+array	common_zeekrad_reveal	6	OFF ‖ display ‖ beep	关闭 ‖ 显示 ‖ 显示+声音
+array	common_zeekrad_reveal_sencond	6	display ‖ beep	显示 ‖ 蜂鸣
+array	dc_door_and_window	6	Doors ‖ Windows	车门 ‖ 车窗
+array	dc_door_skylight_window	6	Car Door ‖ Sky Window ‖ Car Window	车门 ‖ 天幕 ‖ 车窗
+array	display_array_home_weather_effect	6	Dynamic ‖ Sunny ‖ Rain ‖ Snow	动态 ‖ 晴 ‖ 雨 ‖ 雪
+array	display_array_time_format	9	12 hours ‖ 24 hours	12小时 ‖ 24小时
+array	door_sound_ef1e_4s	11	Harp ‖ Light ‖ Dreamy	优雅竖琴 ‖ 轻盈灵动 ‖ 梦幻开场
+array	doorwindow_angle_tab	9	Front doors ‖ Rear doors ‖ Trunk	前车门 ‖ 后车门 ‖ 尾门
+array	doorwindow_angle_tab1	9	Front doors ‖ Trunk	前车门 ‖ 尾门
+array	doorwindow_angle_tab2	9	Front doors ‖ Rear doors	前车门 ‖ 后车门
+array	doorwindow_angle_tab3	9	Front doors	前车门
+array	doorwindow_angle_tab4	6	Trunk	尾门
+array	doorwindow_angle_tab5	9	Rear doors ‖ Trunk	后车门 ‖ 尾门
+array	doorwindow_angle_tab6	9	Rear doors	后车门
+array	energy_range_mode	11	Standard endurance ‖ Dynamic endurance	标准续航 ‖ 动态续航
+array	energy_tab	11	Vehicle charging ‖ External power supply	车辆充电 ‖ 对外供电
+array	lighting	11	Interior Light ‖ Exterior Light	车内灯光 ‖ 车外灯光
+array	lighting_home_light	6	Off ‖ 30s ‖ 30 ‖ 30s ‖ 30 ‖ 60s ‖ 60 ‖ 60s ‖ 60 ‖ 90s ‖ 90 ‖ 90s ‖ 90	关闭 ‖ 30s ‖ 30 ‖ 三十秒 ‖ 三十 ‖ 60s ‖ 60 ‖ 六十秒 ‖ 六十 ‖ 90s ‖ 90 ‖ 九十秒 ‖ 九十
+array	lighting_home_safety_light	6	Close ‖ 30s ‖ 60s ‖ 90s	关闭 ‖ 30s ‖ 60s ‖ 90s
+array	lighting_light_seat_position	6	Front zone ‖ Rear zone	前排 ‖ 后排
+array	multi_sound_effects_dc	11	Jazz Club ‖ Stage Act ‖ Private Cinema	爵士酒吧 ‖ 歌剧院 ‖ 私人影院
+array	ota_tabs	6	OTA ‖ Log upload	OTA ‖ 系统日志上传
+array	quick_setting_dc_drive_sat_tabs	6	Propulsion ‖ Suspension ‖ Damp ‖ Brake ‖ Steering	驱动 ‖ 悬架高度 ‖ 减振 ‖ 制动 ‖ 转向
+array	quick_setting_driver_mode	6	Comfort ‖ Eco ‖ Sport ‖ Track ‖ Snow ‖ Sand ‖ Off-Road ‖ Customization	舒适 ‖ 经济 ‖ 运动 ‖ 赛道 ‖ 雪地 ‖ 沙地 ‖ 越野 ‖ 个性化
+array	quick_setting_driver_mode_two	6	Comfort ‖ Eco ‖ Sport ‖ Track ‖ Customization	舒适 ‖ 经济 ‖ 运动 ‖ 赛道 ‖ 个性化
+array	quick_setting_individual_climate	6	Standard ‖ Eco	标准 ‖ 经济
+array	quick_setting_individual_propulsion	6	Eco ‖ Comfort ‖ Sport	经济 ‖ 舒适 ‖ 运动
+array	quick_setting_individual_rab	6	Normal ‖ Sport	标准 ‖ 运动
+array	quick_setting_individual_steer	6	Comfort ‖ Normal ‖ Sport	舒适 ‖ 标准 ‖ 运动
+array	quick_setting_individual_suspension	6	Off-Road ‖ Traction ‖ Comfort ‖ Sport	越野 ‖ 牵引 ‖ 舒适 ‖ 运动
+array	quick_setting_individual_suspension_tip	16	Maximum driving height ‖ Special Terrain(Sand etc) ‖ Normal ‖ Low and agile	最大行驶高度 ‖ 特殊地形(沙地等) ‖ 日常 ‖ 低间隙&灵活
+array	quick_setting_suspension_height	6	Very High ‖ High ‖ Normal ‖ Low ‖ Very Low	很高 ‖ 高 ‖ 标准 ‖ 低 ‖ 很低
+array	safety_and_keepUp	13	Safety & Security ‖ UpKeep	安全&保障 ‖ 服务
+array	seat_optimisation	6	Driver ‖ Rear ‖ All	主驾 ‖ 后排 ‖ 全部
+array	seat_optimisation_cs1e	6	All ‖ Driver ‖ passenger ‖ rear left ‖ rear right	全部 ‖ 主驾 ‖ 副驾 ‖ 后排左 ‖ 后排右
+array	side	11	Quick Settings ‖ Seat ‖ Lighting ‖ Doors&Windows ‖ Charging and Discharging ‖ Driving ‖ ZEEKR AD ‖ Safety Security ‖ Connectivity ‖ Sounds&Notification ‖ Display ‖ OTA ‖ ZEEKR Studio	快捷设置 ‖ 座椅 ‖ 灯光 ‖ 门窗 ‖ 充放电 ‖ 驾驶 ‖ ZEEKR AD ‖ 安全保障 ‖ 连接 ‖ 声音&通知 ‖ 显示 ‖ 软件更新 ‖ ZEEKR 实验室
+array	side_emulator	11	Quick Settings ‖ Seat ‖ Lighting ‖ Doors&Windows ‖ Charging and Discharging ‖ Driving ‖ ZEEKR AD ‖ Safety Security ‖ Sound&Notification ‖ Display ‖ OTA ‖ ZEEKR Studio	快捷设置 ‖ 座椅 ‖ 灯光 ‖ 门窗 ‖ 充放电 ‖ 驾驶 ‖ ZEEKR AD ‖ 安全保障 ‖ 声音&通知 ‖ 显示 ‖ 软件更新 ‖ ZEEKR 实验室
+array	soundnotify_sound_notification	6	Sound ‖ Equalizer ‖ Notifications	声音 ‖ 均衡器 ‖ 通知
+array	tab_seat	11	Seat massage ‖ Seat adjustment	座椅按摩 ‖ 座椅调节
+array	tab_seat_adjust_main	6	Driver ‖ Passenger ‖ Rear left ‖ Rear right	主驾 ‖ 副驾 ‖ 后排左侧 ‖ 后排右侧
+array	tab_seat_adjust_part	6	Seat ‖ Wing ‖ Lumbar ‖ Cushion	座椅 ‖ 侧翼 ‖ 腰托 ‖ 坐垫
+array	tab_seat_adjust_rear	6	Left ‖ Right	左侧 ‖ 右侧
+array	tab_seat_adjust_turefollow	6	OFF ‖ Low ‖ Standard	关闭 ‖ 弱 ‖ 标准
+array	tab_seat_massage_main	6	Driver ‖ Passenger	主驾 ‖ 副驾
+array	tab_seat_massage_program	6	Waves ‖ Relaxing ‖ Refresh ‖ Energetic	海浪 ‖ 放松 ‖ 清新 ‖ 激情
+array	tab_seat_massage_strength	4	OFF ‖ Low ‖ Medium ‖ High	关 ‖ 低 ‖ 中 ‖ 高
+array	tab_seat_onlyadjust	11	Seat adjustment	座椅调节
+array	zeekrad_offset_unit	7	km/h ‖ %	
+string	adas_auto_lane_change_assist_describe	134	When on, activating the turn signal while LCC is running lets the system assist the lane change. When off, activating the turn signal while LCC is running downgrades LCC to ACC	开启后，LCC运行过程中用户激活转向灯，系统会辅助用户变道；关闭后，LCC运行过程中用户激活转向灯，LCC将降级至ACC
+string	adas_auto_lane_change_assist_name	11	Lever lane change	拨杆变道
+string	adas_auto_lane_change_assist_tips	78	When off, NZP Navigate Pilot and NZP Autonomous Pilot cannot be used. Turn off?	关闭后，将不能使用NZP智能领航及NZP自主领航功能，是否确认关闭？
+string	adas_auto_lane_change_assist_title	16	Lane Centering Assist	车道居中辅助
+string	adas_automatic_activation_dc	11	Auto activation	自动激活
+string	adas_automatic_activation_describe	62	Shifting gear starts park-in/park-out when possible	当条件满足时，切换档位会自动激活对应的泊入泊出功能
+string	adas_automatic_activation_describe_dc	40	Activates APA when shifting into D or R	档位挂入D档或R档时，开启APA功能
+string	adas_automatic_parking_assist	16	Automatic Parking Assist	自动泊车辅助
+string	adas_automatically_give_up_the_lane_in_nzp	64	On supported roads, assisted driving follows\nyour navigation route	"进入指定路段按用户设定的导航路线实现智\n能辅助驾驶"
+string	adas_automatically_give_up_the_lane_open_nzp	119	When on, the system announces an upcoming\nauto lane change and you confirm it\nwith the turn signal lever	"开启后，系统进行自动变道时，则会提醒用\n户即将变道，并需要用户通过拨动转向灯杆\n的方式以确认变道"
+string	adas_automatically_give_up_the_lane_openxi_nzp	57	When on, auto lane changes are announced\nby sound	"开启后，系统进行自动变道时通过声音提醒\n用户"
+string	adas_brake	14	Preventive braking	预防性制动
+string	adas_cancel	6	Cancel	取消
+string	adas_close	6	Close	关闭
+string	adas_comfort	19	Seatbelt comfort	安全带舒适功能
+string	adas_confirm_ten_seconds	15	Confirm (10s)	确认（10s）
+string	adas_copilot_assist	11	Speed Limit Assist	限速辅助
+string	adas_copilot_belt	19	Seatbelt comfort	安全带舒适功能
+string	adas_copilot_brake	14	Preventive braking	预防性制动
+string	adas_copilot_brake_early	16	Rear Collision Warning	后向碰撞预警
+string	adas_copilot_dead	16	Blind Spot Detection	盲区检测系统
+string	adas_copilot_deviation	11	Speed limit offset	限速偏移
+string	adas_copilot_early	16	Lane Departure Warning	车道偏离报警
+string	adas_copilot_fatigue_alert	23	Driver fatigue alert	驾驶员疲劳状态提醒
+string	adas_copilot_filst	16	Forward Collision Mitigation	前向碰撞减缓
+string	adas_copilot_filst_break	16	Forward Collision Warning	前向碰撞预警
+string	adas_copilot_lane	16	Lane assist system	车道辅助系统
+string	adas_copilot_lanekeep	16	Lane Keeping Assist	车道保持辅助
+string	adas_copilot_light	14	Traffic light reminder	交通灯提醒
+string	adas_copilot_opendor	11	Door Open Warning	开门预警
+string	adas_copilot_opendor_shot	23	Door opening collision warning	开门时碰撞风险预警
+string	adas_copilot_openthedoor	23	Door opening collision warning	开门时碰撞风险预警
+string	adas_copilot_red	16	Red light braking assist	红灯刹车辅助
+string	adas_copilot_remind	11	Overspeed alert	超速提醒
+string	adas_copilot_shot	16	Other traffic info	其他交通信息
+string	adas_copilot_shot_break	23	Door opening collision warning	开门时碰撞风险预警
+string	adas_copilot_sign	11	Traffic signs	交通标识
+string	adas_copilot_slow	11	Collision mitigation	碰撞减缓
+string	adas_datashare	11	Data sharing	数据分享
+string	adas_dead	11	Blind spot warning	盲区预警
+string	adas_display_text_custom_theme_time_select_hint	31	End time cannot equal start time	结束时间不能等于开始时间
+string	adas_fatigue	23	Driver fatigue alert	驾驶员疲劳状态提醒
+string	adas_front_warn_option	16	Forward Collision Warning	前向碰撞预警
+string	adas_lane_assist_system	16	Lane assist system	车道辅助系统
+string	adas_limit	11	Speed Limit Assist	限速辅助
+string	adas_nzp_aiAssistFusionNavi_title	25	NZP Autonomous Pilot terms of use	NZP自主领航使用须知
+string	adas_nzp_aiDriverAssist_title	25	NZP Navigate Pilot terms of use	NZP智能领航使用须知
+string	adas_nzp_automatic_lane_change_reminder	16	Auto lane change reminder	自动变道提醒
+string	adas_nzp_autonomous_navigation	15	NZP Autonomous Pilot	NZP自主领航
+string	adas_nzp_big_data_speed	14	Big data speed	大数据车速
+string	adas_nzp_big_data_speed_tip	50	Speed limit value is based on fused big data for the current road	限速数值取自对当前道路大数据融合后的结果
+string	adas_nzp_disable_info_when_click	30	Turn on NZP Navigate Pilot first	请先打开NZP智能领航开关
+string	adas_nzp_fusion_speed	11	Fusion speed	融合速度
+string	adas_nzp_lane_change_confirmation	11	Confirm lane change	变道确认
+string	adas_nzp_mall_function_has_expired	14	Feature has expired	功能已到期
+string	adas_nzp_offset_value	9	Offset value	偏移值
+string	adas_nzp_road_speed_limit_plate	23	Offset from speed sign	在道路限速牌上偏移
+string	adas_open_door_describe	23	Door opening collision warning	开门时碰撞风险预警
+string	adas_opendoor_early	11	Door Open Warning	开门预警
+string	adas_other	16	Other traffic info	其他交通信息
+string	adas_park_assistance	11	Parking assist	泊车辅助
+string	adas_park_assistance_system	16	Parking assist system	泊车辅助系统
+string	adas_park_radar_alarm_volume	16	Radar alarm volume	雷达报警音量
+string	adas_park_volume	11	Alarm volume	报警音量
+string	adas_park_volume_alarm	16	Steering not centered alarm	转向回正报警
+string	adas_park_volume_alarm_mode	21	Auto parking recommended mode	自动泊车推荐模式
+string	adas_park_volume_alarm_mode_long	38	Suggests steps to simplify parking	系统自动推荐操作以简化泊车流程
+string	adas_park_volume_alarm_stating	31	Alert if steering not straight at start	车辆起步前转向未回正提醒
+string	adas_parking_barrier	40	Warns when an obstacle approaches from the side-rear	障碍物从车辆侧后方接近时触发预警
+string	adas_parking_lowgear	36	Auto-brakes at low speed if collision is likely	低速有碰撞风险时自动实施制动
+string	adas_parking_rear_baker	21	Rear Cross Traffic Alert	后方侧向交通预警
+string	adas_parking_voice_broadcast_dc	11	Voice prompts	语音播报
+string	adas_parking_voice_broadcast_describe	38	Voice prompts during parking	在泊车过程中，对应处有语音播报
+string	adas_pebMode_describe	36	Auto-brakes at low speed if collision is likely	低速有碰撞风险时自动实施制动
+string	adas_rearCrossTrafficAlert_describe	40	Warns when an obstacle approaches from the side-rear	障碍物从车辆侧后方接近时触发预警
+string	adas_speed	11	Overspeed alert	超速提醒
+string	adas_statement	6	Statement	声明
+string	adas_stay_tuned	16	(Coming soon)	（敬请期待）
+string	adas_title_opendoor	23	Door opening collision warning	开门时碰撞风险预警
+string	adas_traffic	16	Traffic Sign Recognition	交通标志识别
+string	adas_traffic_light_attention	14	Traffic light reminder	交通灯提醒
+string	adas_word_comfort	28	Seatbelt tightens to comfort position	安全带自动收紧舒适位置
+string	adas_zeekr_ad_nzp_text2	48	I have read, understood and fully agree to the terms above	我已阅读理解并完全同意上述使用须知内容
+string	adas_zeekrad_low	21	Low-speed reverse emergency braking	低速倒车紧急制动
+string	adas_zeekrad_nzp_intelligent_navigation	15	NZP Navigate Pilot	NZP智能领航
+string	adas_zeekrad_nzp_intelligent_tip	60	On supported roads: auto lane change, overtaking, distance keeping	进入指定路段，系统会自动变道超车，及控制前车距离
+string	adas_zeekrad_nzp_tolearn	9	Learn	去学习
+string	adas_zeekrad_park_assistance_long	43	Shows obstacle warnings while parking to avoid collisions	泊车时显示障碍物预警信息以避免碰撞
+string	adas_zeer_red	16	Red light braking assist	红灯制动辅助
+string	all_door_close	11	One key door closing	一键关门
+string	app_name	11	ZeekrSettings	车辆设置
+string	bx_safe_security_car_location_info_upload	21	Driving location upload	行车位置信息上传
+string	bx_safe_security_car_location_info_upload_dialog_content_describe	94	Turning off driving location upload also turns off location-based features. Turn off?	关闭行车位置信息上传开关后，将同时关闭与车辆定位相关的功能，请确认是否关闭？
+string	bx_upload_log_content	199	" Please keep the IHU powered on and connected to the network. \n 1. Click Start Capture to start log capture. \n 2. Operate relevant functions again until the exception reappears. \n 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "	"请保持车机上电并连接网络 \n 1、点击 “开始抓取” ，启动日志抓取 \n 2、再操作相关功能直到复现异常情形 \n 3、问题复现后，回本页面点击 “结束并上传” 停止抓取并上传数据"
+string	carwindow_drive_door	19	"Upper opening limit of the driver's door"	主驾门开启上限
+string	carwindow_front_door	19	Front door opening upper limit	前车门开启上限
+string	carwindow_rear_door	19	Rear door opening upper limit	后车门开启上限
+string	carwindow_trunk	16	Tailgate opening upper limit	尾门开启上限
+string	charging_speed_range_unit_mile	6	mph	mph
+string	charging_speed_unit_km	7	km/h	km/h
+string	close	6	Close	关闭
+string	commom_door_electric_mode	31	Please set the electric door to electric mode first	请先将电动门设为电动模式
+string	commom_driving_mode_individualization_set	14	Personalized settings	个性化设置
+string	common_access_point_mode	11	Car hotspot	车载热点
+string	common_accor_pop_matching_bluetooth_text	36	Pairing code sent, waiting for “%1$s” to confirm	配对码已发送，等待“%1$s”确认
+string	common_adjust_rear_mirror_tip1	40	Pelease Use the touch pad on the right side of the steering wheel to adjust the rearview mirror.	请使用方向盘右侧触控板调节后视镜
+string	common_adjust_rear_mirror_tip2	53	Please adjust the mirrors with steering wheel switch	使用方向盘右按键调整对应方向后视镜的位置。
+string	common_adjust_wheel_steer	14	Adjust Wheel Steer	方向盘调节
+string	common_adjust_wheel_steer_tip3	40	Please use the touch pad on the right side of the steering wheel to adjust the steering wheel position	请使用方向盘右侧触控板调节方向盘
+string	common_agree	6	I agree	同意
+string	common_agree_in	14	Agree Enter	同意并进入
+string	common_aidrive	14	AI Assisted Driving	AI辅助驾驶
+string	common_aidrive_info	62	When entering the specified road section, the system will automatically change lane to overtake the vehicle and control the distance of the vehicle ahead	进入指定路段，系统将会自动变道超车，及控制前车距离
+string	common_all_door_close	11	Doors closed	一键关门
+string	common_alpha_info	138	The first version of ZEEKR 001.	极氪001，初版首发，以零为始，打破边界。感谢广大Z客的信任与支持，我们将持续努力，为大家带来智能纯电出行的新体验。
+string	common_ambient_light_colours	14	Ambient light colours	氛围灯颜色
+string	common_ap_password_edit_error_tip	29	8-12 characters. Spaces and carriage returns are not supported	8–12个字符，不支持空格
+string	common_app_awd	6	AWD	
+string	common_app_name	20	ZEEKR Settings	
+string	common_app_rwd	6	RWD	
+string	common_approach_light_info	28	Activate guide lights when the car is unlocked.	接近车辆时激活引导照明
+string	common_approach_light_option	11	Approach light	接近照明
+string	common_artificial_sound	11	Artificial car sound	模拟声音
+string	common_audio_recording	11	Audio recording	记录声音
+string	common_audio_recording_info	57	Recording sound general normal recording.	
+string	common_audio_warn	11	Audio warning	蜂鸣报警
+string	common_auto_change_lane	16	Auto lane change reminder	自动变道提醒
+string	common_auto_hold	14	Auto hold	Auto hold
+string	common_auto_hold_info	48	Auto hold cannot be deactivated due to One-pedal	One-pedal激活时，Auto hold无法被停用
+string	common_auto_lane_change_info	74	Use turn indicators to initiate automatic lane change.	
+string	common_auto_lane_change_option	16	Automatic lane change assist	自动变道辅助
+string	common_auto_limit_speed	14	Big data speed	大数据车速
+string	common_auto_limit_speed_head	11	Convergence speed	融合速度
+string	common_auto_limit_speed_info	48	The road speed limit value is calculated from the big data from the road	道路限速数值取自对道路的大数据车速限制
+string	common_auto_open_aidrive	16	Turn on by default	上电默认开启
+string	common_auto_open_aidrive_info	50	Every time the car is powered on, automatically turn on the AI assisted driving function	车辆每次上电后，会自动打开AI辅助驾驶功能
+string	common_automatic_lane_change_assist	16	ALCA	自动变道辅助
+string	common_available	11	Available sounds	可选音源
+string	common_available_networks	11	Available list	可用列表
+string	common_avp	6	Avp	Avp
+string	common_belt_comfort	19	Seatbelt comfort	安全带舒适功能
+string	common_belt_comfort_info	31	The seatbelt will automatically adjust for optimized positioning.	安全带自动收紧到舒适位置
+string	common_bending_light_info	21	Enhanced illumination in bends	转弯时的增强照明
+string	common_bending_light_option	11	Bending lights	弯道照明
+string	common_biometric_identification	11	Biometric Identification	身份识别
+string	common_bluetooth_ask	14	Bluetooth pairing code	蓝牙配对码
+string	common_bluetooth_ask_send	26	The pairing request was sent to%1$s	配对请求已发送到%1$s
+string	common_bluetooth_busy	26	The device is busy, please try again later	设备正忙，请稍后再试
+string	common_bluetooth_cancel_action	6	Cancel	取消
+string	common_bluetooth_connected	9	Connected	已连接
+string	common_bluetooth_connected_no_a2dp	21	Connected (no media)	已连接（无媒体）
+string	common_bluetooth_connected_no_headset	21	Connected (no phone)	已连接（无手机）
+string	common_bluetooth_connected_no_headset_no_a2dp	36	Connected (no phone or media)	已连接（没有手机或媒体信号）
+string	common_bluetooth_connecting	15	Connecting...	正在连接...
+string	common_bluetooth_disconnected	14	Disconnected	已断开连接
+string	common_bluetooth_disconnecting	20	Disconnecting...	正在断开连接...
+string	common_bluetooth_match_action	6	Pair	配对
+string	common_bluetooth_pairing	9	Pairing	配对中
+string	common_bluetooth_pairing_device_down_error_message	29	Cannot communicate with “%1$s”.	无法与“%1$s”进行通信。
+string	common_bluetooth_pairing_error_message	29	Cannot pair with “%1$s”.	无法与“%1$s”进行配对。
+string	common_bluetooth_pairing_pin_error_message	50	Incorrect PIN or passkey, cannot pair with %1$s.	PIN码或配对密钥不正确，无法与%1$s配对。
+string	common_bluetooth_pairing_rejected_error_message	23	%1$s rejected pairing.	%1$s 已拒绝配对。
+string	common_bluetooth_settings	26	Bluetooth settings	
+string	common_bond_bluetooth_result_fail	21	Pairing failed, please try again	配对失败，请重试
+string	common_bond_bluetooth_result_reject	14	Rejected pairing	已拒绝配对
+string	common_bond_bluetooth_result_timeout	21	Pairing time out, please try again	配对超时，请重试
+string	common_bright_csd_adjust	11	Screen brightness	屏幕亮度
+string	common_bright_csd_auto	6	Auto	自动
+string	common_bright_display_option	19	Display and interior brightness	显示和内饰背光
+string	common_bright_head	11	Head up display	抬头显示
+string	common_bright_link_option	6	Sync	联动
+string	common_bright_snow_option	11	Snow mode	雪地模式
+string	common_bt_connect_operate	14	Please match with device	请匹配设备
+string	common_bt_dialog_body_connect_operate	28	Please confirm if you want to connect the device	请确认是否要连接该设备
+string	common_bt_dialog_body_connect_operate_bx	21	Are you sure to connect with the device	是否要连接该设备
+string	common_bt_dialog_body_connect_remove_operate	38	Please choose to disconnect the device or ignore the device	请选择取消连接设备还是忽略设备
+string	common_bt_dialog_body_disconnect_operate	28	Please confirm if you want to disconnect the device	请确认是否断开设备连接
+string	common_bt_edit	16	Edit name	输入设备名称
+string	common_bt_edit_error_tip	29	1-11 characters, no spaces supported	1–11个字符，不支持空格
+string	common_bt_edit_name	6	Edit	编辑
+string	common_btn_adjust_HUD_brightness	16	HUD adjustment	抬头显示调节
+string	common_btn_bright	6	Light	浅色
+string	common_btn_colors	6	Colours	颜色
+string	common_btn_dark	6	Dark	深色
+string	common_btn_disconnect_today	11	Disconnect	断开连接
+string	common_btn_forget_network	6	Ignore	忽略
+string	common_btn_forget_network_edit	24	Do you want to ignore %1$s?	是否忽略 “%1$s” ？
+string	common_btn_forget_network_new	11	Forget the network	忘记网络
+string	common_btn_lights_off	14	All reading lights OFF	阅读灯全关
+string	common_btn_lights_on	14	All reading lights ON	阅读灯全开
+string	common_btn_more_devices	16	View more device	查看更多设备
+string	common_btn_more_networks	16	View more network	查看更多网络
+string	common_btn_power_external	16	Power external device	对外设备供电
+string	common_btn_power_other	16	Power other vehicle	对外车辆供电
+string	common_btn_send_code	14	Send verification code	发送验证码
+string	common_btn_start_charging	11	Start charging	开始充电
+string	common_btn_stop_charging	11	Stop charging	停止充电
+string	common_btn_stop_discharging	11	Stop discharging	停止供电
+string	common_btn_verify_by_phone	20	Verification by app	通过手机APP验证
+string	common_cable_status_connect_ac	19	Connected (AC)	已插枪（交流）
+string	common_cable_status_connect_dc	19	Connected (DC)	已插枪（直流）
+string	common_cable_status_connect_fault	11	Connection failure	连接故障
+string	common_cable_status_no_double	33	Please do not connect AC and DC charging cables simultaneously	请勿同时插入交流枪和直流枪
+string	common_can_be_discoverd_device	23	Mobile devices found	已经找到的移动设备
+string	common_cancel	6	Cancel	取消
+string	common_cant_connect	21	Connection failed, please try again	连接失败，请重试
+string	common_cant_connect_enter	31	Cannot join network, try again later	无法加入网络，请稍后再试
+string	common_car_door_lock	9	Door lock	车门锁
+string	common_car_jack	14	Jack mode	千斤顶模式
+string	common_car_jack_info	40	Temporarily disable levelling control when vehicle is hoisted or on jack(s)	车辆举升时，临时禁止悬架高度调节
+string	common_car_language	6	Language	语言
+string	common_car_lock	6	Car lock	车锁
+string	common_car_updated	27	Your car is updated with the latest release!	你的车更新了最新版本!
+string	common_car_updated_already	33	Your car is updated with the latest release.	您的汽车已更新为最新版本！
+string	common_car_updated_release	31	The system has been updated with the latest software version	系统有最新的软件版本更新
+string	common_car_updated_schedule_today_am	31	Your car will be updated today at %1$s	已经预约今天%1$s进行升级
+string	common_car_updated_schedule_today_pm	31	Your car will be updated today at %1$s	您的汽车将于今天%1$s更新
+string	common_car_updated_schedule_tomorrow_am	31	Your car will be updated tomorrow at %1$s	已经预约明天%1$s进行升级
+string	common_car_updated_schedule_tomorrow_pm	31	Your car will be updated tomorrow at %1$s	您的汽车将于明天%1$s更新
+string	common_cardoors_alldoor	9	All Doors	所有门
+string	common_cardoors_driver_door	11	Driver door	主驾车门
+string	common_cardoors_driver_door1	9	Driver door	主驾门
+string	common_cardoors_single_door	6	Signle door	单门
+string	common_change_lane	11	Lane change confirmation	变道确认
+string	common_change_lane_info	113	After turning on, before the system perform lane change, it will remind the user that the lane will be changed, and the user needs to confirm the lane change by manually toggle the turn signal lever	开启后，系统进行自动变道时，则会提醒用户即将变道，并需要用户通过拨动转向灯杆的方式以确认变道
+string	common_charge_battery_temp_little_low_tips	43	Battery slightly cold, charging a bit slower	当前电池温度略低，充电速率轻微下降
+string	common_charge_battery_temp_low_tips	36	Battery temperature low, charging speed reduced	当前电池温度低，充电速率下降
+string	common_charge_battery_temp_very_low_tips	43	Battery temperature too low, charging speed greatly reduced	当前电池温度过低，充电速率明显下降
+string	common_charge_charge_speed	11	Charging speed	充电速度
+string	common_charge_current	6	Current	电流
+string	common_charge_daily	6	Daily	每天
+string	common_charge_friday	6	Fri	周五
+string	common_charge_monday	6	Mon	周一
+string	common_charge_per_week	6	Weekly	每周
+string	common_charge_please_set	9	Please set	请设置
+string	common_charge_power	16	Energy discharged	放电电量统计
+string	common_charge_saturday	6	Sat	周六
+string	common_charge_status_battery_fault	16	HV BATTERY FAILURE	动力电池故障
+string	common_charge_status_booking	9	Scheduled	预约中
+string	common_charge_status_charging	9	CHARGING	充电中
+string	common_charge_status_charging_done	11	CHARGING COMPLETE	充电停止
+string	common_charge_status_charging_fault	11	CHARGING FAILURE	充电故障
+string	common_charge_status_close_to_fully_charged	11	Close to fully charged	即将充满
+string	common_charge_status_discharging	14	DISCHARGING	对外放电中
+string	common_charge_status_discharging_done	11	DISCHARGING COMPLETE	放电结束
+string	common_charge_status_discharging_fault	11	DISCHARGING FAILURE	放电故障
+string	common_charge_status_fast_charging	9	FAST CHARGING	快充中
+string	common_charge_status_preheating	19	Conditioning battery	电池温度调节中
+string	common_charge_status_schedule_charging	14	SCHEDULED CHARGING	预约充电中
+string	common_charge_status_super_fast_charging	9	ULTRA CHARGING	极充中
+string	common_charge_sunday	6	Sun	周日
+string	common_charge_three_voltage	16	Voltage (3-phase)	电压（三相）
+string	common_charge_thursday	6	Thu	周四
+string	common_charge_time_fail	16	Failed to schedule charging	预约充电失败
+string	common_charge_time_normal	11	min left	剩余时间
+string	common_charge_today	6	Today	今日
+string	common_charge_tomorrow	6	Tomorrow	明日
+string	common_charge_tuesday	6	Tue	周二
+string	common_charge_voltage	6	Voltage	电压
+string	common_charge_wednesday	6	Wed	周三
+string	common_charge_week	4	Week	周
+string	common_charging_current_range_unit_mile	7	mile	mile
+string	common_charging_default_estimate	12	--h left	剩余 --h
+string	common_charging_estimate_10	68	More than <b><font color=#FFFFFF>10</font></b> h left	剩余时间：<b><font color=#FFFFFF> >10</font></b> h
+string	common_charging_estimate_10_day	68	More than <b><font color=#000000>10</font></b> h left	剩余时间：<b><font color=#000000> >10</font></b> h
+string	common_charging_estimate_24	68	More than <b><font color=#FFFFFF>24</font></b> h left	剩余时间：<b><font color=#FFFFFF> >24</font></b> h
+string	common_charging_estimate_24_day	68	More than <b><font color=#000000>24</font></b> h left	剩余时间：<b><font color=#000000> >24</font></b> h
+string	common_charging_estimate_schedule	88	Scheduled from <b><font color=#FFFFFF>%1$s: %2$s to %3$s: %4$s</font></b>	定时充电：<b><font color=#FFFFFF>%1$s: %2$s-%3$s: %4$s</font></b>
+string	common_charging_estimate_schedule_day	88	Scheduled from <b><font color=#000000>%1$s: %2$s to %3$s: %4$s</font></b>	定时充电：<b><font color=#000000>%1$s: %2$s-%3$s: %4$s</font></b>
+string	common_charging_estimate_schedule_not_stop	73	Scheduled from <b><font color=#FFFFFF>%1$s: %2$s</font></b>	定时充电：<b><font color=#FFFFFF>%1$s: %2$s</font></b>
+string	common_charging_estimate_schedule_not_stop_day	73	Scheduled from <b><font color=#000000>%1$s: %2$s</font></b>	定时充电：<b><font color=#000000>%1$s: %2$s</font></b>
+string	common_charging_minute_unit	6	min	min
+string	common_charging_reservation_content1	53	invalid setting,start time should be more than current time 15 minutes at least.	无效设置，开始时间应距当前时间不小于15分钟
+string	common_charging_reservation_content2	53	invalid setting,end time should be more than start time 15 minutes at least.	无效设置，结束时间应距开始时间不小于15分钟
+string	common_charging_reservation_title	29	Charging reservation	
+string	common_charging_schedule	14	SCHEDULE CHARGING	预约充电中
+string	common_charging_speed_range_unit_kw	6	kWh	kWh
+string	common_charging_speed_range_unit_mile	6	mph	mph
+string	common_charging_speed_unit	7	km/h	km/h
+string	common_charging_speed_unit_km	7	km/h	km/h
+string	common_charging_time_normal_left	126	<b><font color=#FFFFFF>%1$s</font></b> h <b><font color=#000000>%2$s</font></b> min left	剩余时间：<b><font color=#FFFFFF>%1$s</font></b> h <b><font color=#FFFFFF>%2$s</font></b> min
+string	common_charging_time_normal_left_day	126	<b><font color=#000000>%1$s</font></b> h <b><font color=#FFFFFF>%2$s</font></b> min left	剩余时间：<b><font color=#000000>%1$s</font></b> h <b><font color=#000000>%2$s</font></b> min
+string	common_check_network_name	31	Failed to connect. Please check the network name	无法连接，请检查网络名称
+string	common_checkbox_tip	19	Don’t show again for 30 days	30天内不再提示
+string	common_child_lock	9	Child lock	儿童锁
+string	common_child_lock_desc	43	After opening, the rear doors and windows of the vehicle cannot be opened from the inside	开启后，车辆后排门窗无法从内部打开
+string	common_chime	16	Chime	报警提示音量
+string	common_chime_bx	16	Chime	报警提示音量
+string	common_chime_info	55	Play chime sound when interacting with the display	安全带未系提醒、车门未关提醒等场景的提示音量
+string	common_choose_one_type	21	Choose at least one type of flashing light and flashing siren	至少选择一种模式
+string	common_clearance	9	High Clearance	高间隙
+string	common_clearance_high	4	High	高
+string	common_clearance_low	4	Low	低
+string	common_clearance_normal	6	Normal	标准
+string	common_clearance_very_high	6	Very High	很高
+string	common_clearance_very_low	6	Very Low	很低
+string	common_climate_mode	6	Climate	空调
+string	common_close	6	Close	关闭
+string	common_closed	6	Closed	关闭
+string	common_coll_warn	16	Collision mitigation assist	碰撞减缓辅助
+string	common_confirm	6	Confirm	确认
+string	common_confirm_pin_same	31	Please confirm if the Bluetooth matching code is the same	请确认蓝牙匹配码是否相同
+string	common_conn	6	Connect	连接
+string	common_conn_access_info	23	Provide network for external devices	为外部设备提供网络
+string	common_conn_access_option	11	Network access	网络接入
+string	common_conn_ap_cellular	11	Cellular network	蜂窝网络
+string	common_conn_ap_cellular_recon	16	Reconnect cellular	重连蜂窝网络
+string	common_conn_ap_cellular_recon_content	102	Reconnecting cellular takes 2–4 minutes. Cellular, WLAN and\nhotspot are unavailable meanwhile. Continue?	"重连蜂窝网络需要2–4分钟。期间，蜂窝网络、WLAN、车载热\n点不可用，请确认是否继续？"
+string	common_conn_ap_cellular_recon_tip	40	If cellular signal is weak, you can restart the network	蜂窝网络信号弱时，可选择重启网络
+string	common_conn_ap_not_open	19	Hotspot is off	车载热点未开启
+string	common_conn_bluetooth	6	Bluetooth	蓝牙
+string	common_conn_bluetooth_con_fail	11	Connectivity failed	连接失败
+string	common_conn_bluetooth_con_ok	14	Bluetooth connectivity succeed	蓝牙已连接
+string	common_conn_bluetooth_device_headline	11	Bluetooth Name	蓝牙名称
+string	common_conn_bluetooth_device_hint	19	Please operate the paired device	请操作配对设备
+string	common_conn_bluetooth_dis	26	Can be detected by nearby Bluetooth devices	可被附近蓝牙设备发现
+string	common_conn_bluetooth_dis_ok	14	Bluetooth disconnected	蓝牙已断开
+string	common_conn_bluetooth_disconncect_first	37	Please disconnect the currently connected device before proceeding!	请断开当前连接的设备后再操作!
+string	common_conn_bluetooth_found	11	Available list	可用列表
+string	common_conn_bluetooth_found_device	11	Available Devices	可用设备
+string	common_conn_bluetooth_headphones	36	Headphones are suitable for apps with a headset icon	耳机适用于带有耳机图标的应用
+string	common_conn_bluetooth_hicar	30	HiCar connected, unavailable now.	HiCar连接中，暂不可用。
+string	common_conn_bluetooth_max_two	27	You can connect up to 2 phones	您可以连接最多2部手机
+string	common_conn_bluetooth_new_name_not_empty	22	Bluetooth name cannot be null	蓝牙名称不能为空!
+string	common_conn_bluetooth_new_name_too_long	17	Bluetooth name too long!	蓝牙名称太长!
+string	common_conn_bluetooth_result_fail	11	Connection failed	连接失败
+string	common_conn_bluetooth_result_fail_bx	21	connectivity failed, please try again	连接失败，请重试
+string	common_conn_bluetooth_result_ok	11	Connected successfully	连接成功
+string	common_conn_bluetooth_switch_source_to_bluetooth_music	33	Please switch the media source to Bluetooth music	请将媒体音源切换到蓝牙音乐
+string	common_conn_bonded_device	14	Paired devices	已配对设备
+string	common_conn_bt_all_connected	26	Connected (calls and media)	已连接（通话和媒体）
+string	common_conn_bt_connected	9	Connected	已连接
+string	common_conn_bt_connecting	9	Connecting	连接中
+string	common_conn_bt_disconnected	9	Not connected	未连接
+string	common_conn_bt_disconnecting	9	Disconnecting	断开中
+string	common_conn_bt_music_connected	22	Connected (only media)	已连接 （仅媒体）
+string	common_conn_bt_name	29	John’s Car Bluetooth	
+string	common_conn_bt_not_open	14	Bluetooth is off	蓝牙未开启
+string	common_conn_bt_phone_connected	22	Connected (call only)	已连接 （仅通话）
+string	common_conn_cur_wifi	11	Currented WLAN	当前网络
+string	common_conn_hotspot_device	14	Connected device	已连接设备
+string	common_conn_location	11	Location service	定位服务
+string	common_conn_locator_info	26	Use your smart device to locate this car	使用智能设备定位车辆
+string	common_conn_locator_option	11	Motorcycle positioning	车辆定位
+string	common_conn_music_bt_message	28	Turns on with Bluetooth music	打开蓝牙音乐时自动开启
+string	common_conn_point	11	In-vehicle hotspot	车载热点
+string	common_conn_point_conn	9	Paired	已配对
+string	common_conn_point_conn_device	14	Paired Devices	已配对设备
+string	common_conn_point_mode	9	AP mode	AP模式
+string	common_conn_point_mode_new	11	Hotspot mode	热点模式
+string	common_conn_point_mode_new_bx	11	Hotspot mode	热点模式
+string	common_conn_point_name	16	In-vehicle hotspot name	车载热点名称
+string	common_conn_point_name_bx	13	Hotspot name:	热点名称:
+string	common_conn_point_name_edit	19	Hotspot name: %1$s	热点名称：%1$s
+string	common_conn_point_name_eg	7	DC1E	
+string	common_conn_point_password_bx	13	Hotspot password:	热点密码:
+string	common_conn_point_password_eg	14	abc123456	
+string	common_conn_point_pwd_edit	19	Hotspot password: %1$s	热点密码：%1$s
+string	common_conn_point_tip	55	Hotspot may use extra mobile data	打开车载热点，这可能要求您支付额外的流量费用
+string	common_conn_smart_device	16	Intelligent device operation	智能设备操作
+string	common_conn_wi_fi	7	WLAN	WLAN
+string	common_conn_wifi	7	Wifi	Wifi
+string	common_conn_wifi_SSID	11	Add network	添加网络
+string	common_conn_wifi_cur	9	Connected	已连接
+string	common_conn_wifi_dialog_saved	17	Saved: %1$s	已保存: %1$s
+string	common_conn_wifi_dialog_security	19	Security: %1$s	加密方式: %1$s
+string	common_conn_wifi_dialog_signal	19	Signal Strength: %1$s	信号强度: %1$s
+string	common_conn_wifi_found	11	Available network	可用网络
+string	common_conn_wifi_info	26	Car WLAN function can be used	能够使用车载WLAN功能
+string	common_conn_wifi_name	11	Network name	网络名称
+string	common_conn_wifi_name_empty	16	The input cannot be empty	名称不能为空
+string	common_conn_wifi_not_open	14	WLAN is off	WLAN未开启
+string	common_conn_wifi_password	11	Network password	网络密码
+string	common_conn_wifi_password_connect	6	Connect	连接
+string	common_conn_wifi_password_correct	11	Correct password	密码正确
+string	common_conn_wifi_password_empty	16	The input cannot be empty	密码不能为空
+string	common_conn_wifi_password_enter	14	Please enter your password	请输入密码
+string	common_conn_wifi_password_headline	12	Connect WLAN	连接WLAN
+string	common_conn_wifi_password_option	11	Show password	显示密码
+string	common_conn_wifi_password_title	17	Please enter WLAN  password	输入WLAN密码
+string	common_conn_wifi_password_wrong	11	Wrong password	密码错误
+string	common_conn_wifi_previous	16	Saved networks	已保存的网络
+string	common_conn_wifi_previous_bx	14	Saved network	已保存网络
+string	common_conn_wifi_saved	16	View the saved networks	查看保存网络
+string	common_conn_wifi_ssid_enter	19	Please enter your SSID	请输入网络名称
+string	common_conn_wifi_ssid_wrong	31	Failed to connect. Please check the network name	无法连接，请检查网络名称
+string	common_conn_wireless_info	14	Update QR code	更新二维码
+string	common_conn_wireless_option	16	Mobile phone wireless charging	手机无线充电
+string	common_conn_wpc_info	84	Note: Do not place any metal objects between the phone and the charging pad while charging to avoid scalds	注意：充电时，请勿在手机和充电板之间放置任何金属类物品，以免被烫伤。
+string	common_connect_edit_pwd	19	Please enter the hotspot password	请输入热点密码
+string	common_connect_edit_pwd_bx	11	Hotspot password	热点密码
+string	common_connect_edit_ssid	16	Hotspot name	车载热点名称
+string	common_connect_name_max_length	24	Name max length should be 12 letter	名称最大长度为12位
+string	common_connect_no_wifi	16	No networks available	暂无可用网络
+string	common_connect_pwd_is_invalid	38	The password must contain upper and lower case letters and numbers	密码必须要包含大小写字母和数字
+string	common_connect_pwd_max_length	24	Password max length should be 64 letter	密码最大长度为64位
+string	common_connect_pwd_min_length	22	Password min length should be 8 letter	密码最小长度为8位
+string	common_connect_remember	54	REMEMBER TO CONNECT (AC) CHARGING CABLE	
+string	common_connect_to_bluetooth	11	Bluetooth connection	蓝牙连接
+string	common_connect_to_wifi	12	Connect WLAN	连接WLAN
+string	common_convenient_ingress_and_egress	11	ingress and egress	方便进出
+string	common_convenient_ingress_info	33	Automatic lower the car when parked for convenient ingress and egress	停车时自动降低车辆方便进出
+string	common_convenient_ingress_option	11	Convenient ingress and egress	方便进出
+string	common_current	11	Current selection	当前音源
+string	common_current_range	11	Current range	续航里程
+string	common_custom_shortcuts	16	Custom shortcuts	自定义快捷键
+string	common_custom_shortcuts_hint	40	Click or drag to add and remove shortcuts	通过点击或拖拽来增加删除快捷图标
+string	common_dc_door_front_angle	19	Front door max	前车门开启上限
+string	common_dc_door_front_open	14	Open the front door	手动开前门
+string	common_dc_door_rear_angle	19	Rear door max	后车门开启上限
+string	common_dc_door_rear_open	14	Open the rear door	手动开后门
+string	common_dc_door_trunk_angle	16	Trunk max opening	尾门开启上限
+string	common_des_divider	19	dividing line	
+string	common_des_qr	11	QR code	
+string	common_dialog_notity_title	11	Warm prompt	温馨提示
+string	common_digital_video_recording	14	Digital video recording	行车记录仪
+string	common_disagree	6	I disagree	拒绝
+string	common_distance_control	16	Parking Distance Control	驻车距离控制
+string	common_dm_unknow	6	unknow	未知
+string	common_done	6	Done	完成
+string	common_door_approach_info	38	The vehicle will unlock when you approach it with a valid key and it will lock when you leave	携带钥匙靠近解锁，远离自动上锁
+string	common_door_approach_open_door	11	Approach open door	接近开门
+string	common_door_approach_open_door_tip	38	When approaching the door with the key, the door will open automatically	携带钥匙接近车门，车门自动开启
+string	common_door_approach_option	11	Approach unlock	接近解锁
+string	common_door_central_lock	29	"Basic Central\nLock"	
+string	common_door_child_lock	19	Door & Window	
+string	common_door_close	10	Closed	
+string	common_door_control	11	Door control	车门控制
+string	common_door_control_pop	16	Door control popup	车门快捷控制
+string	common_door_control_pop_tip	70	Shows door controls when shifting into or out of P	非P挡下开门或切到P挡时，弹出快捷窗口，方便控制车门等操作
+string	common_door_front_open	16	Front doors manual mode	前门手动模式
+string	common_door_lock_setting	11	Lock settings	门锁设置
+string	common_door_locking_auto_window	16	Locking automatic window lift	锁车自动关窗
+string	common_door_manual_help	16	Manual opening and closing force	手动开合力度
+string	common_door_mode	14	Electric door mode	电动门模式
+string	common_door_mode_tip	74	Electric mode: the main and auxiliary driving doors can be opened and closed electrically. Semi electric mode: only the main and auxiliary driving doors can be closed electrically.	"关闭：上/下车均需手动打开车门\n上下车：上/下车时均电动开门"
+string	common_door_open_controls	26	Open door controls	
+string	common_door_open_warn	11	Door opening warning	开门预警
+string	common_door_open_warn_info	23	Warn when a moving object is approaching from behind to prevent accidents when opening a door.	开门时碰撞风险预警
+string	common_door_rear_open	16	Rear doors manual mode	后门手动模式
+string	common_door_touch_option	19	Unlock by touching handle	触摸门把手解锁
+string	common_door_touch_option_bx	19	Unlock by touching handle	触摸门把手解锁
+string	common_door_touch_tip	33	After touching the door handle, unlock all doors	触摸门把手后，解锁所有车门
+string	common_door_touch_tip2	33	After touching the door handle, unlock the current door	触摸门把手后，解锁当前车门
+string	common_door_trunk_open	14	Tailgate opening degre	后备箱开启
+string	common_door_two_step_info	82	First key press unlocks driver door and charge lid. Second key press soon after unlocks all doors and trunk	首次钥匙解锁时，仅解锁主驾车门和充电口盖，再次解锁时，解锁所有车门
+string	common_door_two_step_option	16	Two step unlocking	钥匙两步解锁
+string	common_door_unlock_sound	11	Unlock sound effect	闭锁音效
+string	common_door_window	6	Doors & Windows	门窗
+string	common_doors	6	Door	车门
+string	common_down_panle_battery_charging	14	Battery & Charging	电池与充电
+string	common_down_panle_open_charging	6	Open Charging	充电
+string	common_dr_att_monitor	23	Driver performance support	驾驶员疲劳状态提醒
+string	common_dr_att_monitor_info	131	Monitor your status, providing warning when the system detects that you seem tired or distracted	
+string	common_drive_mode_comfort	6	Comfort	舒适
+string	common_drive_mode_comfort_info	57	Standard configuration for a comfortable driving experience	日常驾驶时的标准模式，为您提供最舒适的驾乘体验
+string	common_drive_mode_comfort_tip	57	Standard mode for daily driving, providing you with the most comfortable driving experience	日常驾驶时的标准模式，为您提供最舒适的驾乘体验
+string	common_drive_mode_eco	6	Eco	经济
+string	common_drive_mode_eco_info	36	Climate and driving characteristics are optimized for range efficiency	节能且具备环保意识的驾乘体验
+string	common_drive_mode_eco_tip	36	Energy saving and environmentally conscious driving experience	节能且具备环保意识的驾乘体验
+string	common_drive_mode_individual	9	Customization	个性化
+string	common_drive_mode_individual_info	55	Customize your own personal driving experience	根据个人偏好设置驾驶模式，提供个性化驾乘体验
+string	common_drive_mode_individual_tip	55	Set driving modes according to personal preferences to provide a personalized driving experience	根据个人偏好设置驾驶模式，提供个性化驾乘体验
+string	common_drive_mode_off_road	6	Off-Road	越野
+string	common_drive_mode_off_road_tip	89	Provides excellent vehicle traction on rough terrain and difficult road conditions	可在恶劣地形和艰难路况行驶时提供优良的车辆牵引力，为您提供更好的驾乘体验
+string	common_drive_mode_sand	6	Sand	沙地
+string	common_drive_mode_sand_info	45	Optimized for driving in deep, soft sandy conditions or to get out of a snowy or muddy pit.	可在沙地路面，为您提供更好的驾乘体验
+string	common_drive_mode_sand_tip	45	Provides you with a better driving experience on sandy roads	可在沙地路面，为您提供更好的驾乘体验
+string	common_drive_mode_snow	6	Snow	雪地
+string	common_drive_mode_snow_info	55	Designed to be used on icy or snowy roads to keep the wheels from slipping. Not to be used to get out of a snowy or muddy pit.	可在浅雪或者冰雪路面，为您提供更好的驾乘体验
+string	common_drive_mode_snow_tip	55	Provides you with a better driving experience on light snow or icy roads	可在浅雪或者冰雪路面，为您提供更好的驾乘体验
+string	common_drive_mode_sport	6	Sport	运动
+string	common_drive_mode_sport_info	72	Tuned for a responsive, high performance driving experience	拥有更好的运动特性，加速响应更快，为您提供高性能的驾乘体验
+string	common_drive_mode_sport_tip	72	Tuned for a responsive, high performance driving experience	拥有更好的运动特性，加速响应更快，为您提供高性能的驾乘体验
+string	common_drive_mode_terrain_info	60	Optimized for slow speed off road driving. Speed limit is 40 km/h, above which the car will switch to comfort mode.	可在恶劣地形和艰难路况行驶时提供优良的车辆牵引力
+string	common_drive_mode_track	6	Track	赛道
+string	common_drive_mode_track_tip	53	The car condition and road conditions must be met before entering the racing mode	车况、道路等需要满足条件才可以进入赛车模式
+string	common_drive_mode_trak_tip1	60	Unable to switch the track mode. The battery is low. Try to switch the track mode after charging	不能切换赛道模式电量低，充电后再尝试切换赛道模式
+string	common_drive_mode_trak_tip2	51	Unable to switch to track mode, the vehicle needs to be in gear P, please adjust and try again	不能切换赛道模式车辆需在P挡，请调整后重试
+string	common_drive_mode_trak_tip3	112	The track mode cannot be switched. Please ensure that the drive system, ESC system, steering system and tire pressure system thermal management system are normal, and then try to switch the track mode	不能切换赛道模式，请确保驱动系统、ESC系统、转向统、胎压系热管理系统正常，再尝试切换赛道模式
+string	common_drive_modes	11	Drive mode	驾驶模式
+string	common_driver_easy_entry	16	Driver easy entry	主驾便利进出
+string	common_driver_massage	11	Driver massage	主驾按摩
+string	common_driver_massage_intensity	6	Intensity	强度
+string	common_driver_massage_program	6	Program	模式
+string	common_driver_rest	16	Driver rest	主驾一键休憩
+string	common_driver_seat	6	Driver	主驾
+string	common_drivin_loading_into_driving_position	33	Moving to your saved driving position	正在加载至当前用车习惯位置
+string	common_drivin_loading_into_driving_position_8155	23	Moving to driving position	正在加载至驾驶位置
+string	common_driving_drivemode_not_select_tip	33	Acceleration cannot be changed in this mode	当前模式下无法切换加速能力
+string	common_driving_position	11	Driver position	主驾位置
+string	common_dynamic_explain	15	Low and agile	低间隙&灵活
+string	common_e_pedal	14	One-pedal	One-pedal
+string	common_e_pedal_info	37	The acceleration / deceleration of the vehicle can be controlled only by the accelerator pedal.	车辆的加速/减速由加速踏板控制
+string	common_electric_door	9	Power doors	电动门
+string	common_electric_door_dc	6	Doors	车门
+string	common_electric_door_desc_all	25	Electric door opening when boarding or alighting	上/下车时均电动开门
+string	common_electric_door_desc_close	30	Manual door opening is required for boarding or alighting	上/下车均需手动打开车门
+string	common_electric_door_desc_up	40	Only electric door opening when getting on, and manual door opening when getting off	仅上车时电动开门，下车需手动开门
+string	common_electric_door_open	16	Maximum opening angle	最大开启幅度
+string	common_electric_door_open_left	21	Driver door opening degree	主驾驶电动门开启
+string	common_electric_door_open_right	21	Passenger door opening degree	副驾驶电动门开启
+string	common_electric_door_open_tips	67	When opening and closing the electric door, please pay attention to the surrounding environment of the vehicle; Please intervene manually if necessary	开关电动门时，请注意观察车辆周围环境；必要时请手动干预
+string	common_electric_open_door	11	Electric door opening	电动开门
+string	common_em_lane_occ	46	Emergency Lane Occupation Warning	
+string	common_em_lane_occ_info	54	Warn when driving in an emergency lane.	
+string	common_eme_lane_keep	41	Emergency Lane Keeping Assist	
+string	common_eme_lane_keep_info	101	Steering aid to keep car from driving oﬀ the road in a critical situation.	
+string	common_enter_wifi_name	14	Please enter name	请输入名称
+string	common_enter_wifi_network_name	16	Enter network name	输入网络名称
+string	common_enter_wifi_network_password	19	Please enter network password	请输入网络密码
+string	common_enter_wifi_password	14	Please enter password	请输入密码
+string	common_equalizer	9	Equalizer	均衡器
+string	common_equalizer_adjust	14	Equalizer adjustment	均衡器调节
+string	common_equalizer_bass	6	Bass	低音
+string	common_equalizer_middle	6	Middle	中音
+string	common_equalizer_presets	24	Equalizer presets	
+string	common_equalizer_treble	6	Treble	高音
+string	common_eva_mane_info	68	Performs evasive maneuver in critical situations.	
+string	common_eva_mane_option	33	Evasive Maneuver Assist	
+string	common_ex_sound	23	AVAS sound	低速行驶车外警示音
+string	common_ex_sound_info	38	Generate an artificial car sound outside the car. Select volume below.	车辆低速时，提示行人注意的声音
+string	common_exit	6	Exit	退出
+string	common_ext_light_func	11	Exterior light functions	外灯功能
+string	common_exterior_lights	13	Control & Visibility	操控&视野
+string	common_exterior_vertical_light	46	Vertical adjustment of headlights	
+string	common_facial_recog_option	11	Facial Recognition	人脸识别
+string	common_facial_recognition_info	80	Lets your vehicle use your facial features to identify you	
+string	common_fild_mirror	23	Dip the mirrors as reversing	倒车自动翻转后视镜
+string	common_flashing_light	6	Flashing light	闪灯
+string	common_fold_mirror	14	Folding Mirror	折叠后视镜
+string	common_format	9	Format	格式化
+string	common_format_card	16	Format	储存卡格式化
+string	common_format_info	50	Clear all files on the storage card.	
+string	common_front_charge_lid	11	Front charge lid	前充电口
+string	common_front_coll_info	65	Apply brakes automatically to avoid collisions.	
+string	common_front_coll_option	16	Front collision retardation	前向碰撞减缓
+string	common_front_warn_info	147	Apply warning when at risk of front collision. You can chose how late or early the warning will be triggered	
+string	common_front_warn_option	16	Front collision warning	前向碰撞预警
+string	common_g5_net_introduce	60	After turned on, automatically switch to 5G/4G/3G; After turned off, automatically switch to 4G/3G	开启后，自动切换5G/4G/3G；关闭后，自动切换4G/3G
+string	common_general	11	General	
+string	common_general_auto	6	Auto	自动
+string	common_general_auto_set	29	Auto set time & date	
+string	common_general_comfort_info	93	Keep climate and infotainment systems on for a set number of minutes	
+string	common_general_date	16	Date format	
+string	common_general_measure_info	61	Set the unit for distance, weight and volume	
+string	common_general_power_off	14	Power off	
+string	common_general_recording	11	Normal recording	一般录制
+string	common_general_recording_info	45	Record at regular intervals.	周期性录制行车记录影像并保存在存储卡
+string	common_general_restore	6	Restore	恢复
+string	common_general_unlock	6	Unlock	解锁
+string	common_general_update_release_info	28	"See releases in your car's change log"	请查阅您车辆的更新日志
+string	common_general_update_release_title	11	View updates	更新日志
+string	common_general_user_profile_info	28	Link to ZEEKR member center.	请链接到ZEEKR会员中心
+string	common_general_user_profile_title	11	User profile	用户信息
+string	common_general_video_display	11	Video display	视频播放
+string	common_general_video_prohibition	16	Video prohibition	行车娱乐限制
+string	common_general_video_prohibition_info	55	Video prohibited when driving according to national laws	开启后，在驾驶中限制使用视频、娱乐互动类应用
+string	common_get_vin_failed	18	Failed to obtain vin	获取 VIN 失败
+string	common_give_lane	19	Automatically drive out of the overtaking lane	自动让出超车道
+string	common_give_lane_info	82	After finishing the takeover process in overtaking lane, if the conditions met, it will change lane again to drive out	在指定路段上变道超车后，若条件允许，可再次进行自动变道以让出超车道
+string	common_glove	9	Glove box	手套箱
+string	common_glove_box_continue	12	Continue	
+string	common_glove_box_info	57	Require a password to open the glove box.	
+string	common_glove_box_info_first	46	Enter PIN code to lock glove box.	
+string	common_glove_option	19	Password protect glove box	手套箱密码保护
+string	common_guidance_info	130	"The car will suggest navigation routes to rest stops near by when it senses that you're tired"	
+string	common_guidance_option	26	Rest stop guidance	
+string	common_heading_sound_effect	6	Sound effects	声效
+string	common_heading_sound_effect_bx1	6	Sound effects	音效
+string	common_heading_sound_effect_bx2	11	Sound effects enhance	音效增强
+string	common_heading_system_vol_levels	11	System volume levels	系统音量
+string	common_help_change_lane	21	Manually assisted automatic lane changing	手动辅助自动变道
+string	common_help_change_lane_info	62	When entering the specified road section, you need to manually toggle the turn signal lever before aucomatically changing the lane	进入指定路段，可通过拨动转向灯杆的方式实现自动变道
+string	common_high_voltage_battery	11	High voltage battery	高压电池
+string	common_high_voltage_battery_tips	125	Power down the high voltage battery of the car, the screens will still work but climate and infotainment will power off. You can have a rest and back to normal status by pressing brake pedal.	关闭高压电池，屏幕仍能工作但空调和娱乐信息功能将被关闭。您可以休息一下，踩下刹车踏板即可恢复正常使用。
+string	common_home_safety_light_info	38	Set how long the lights are on after the car has been locked	设置锁定车辆后灯光延迟关闭时间
+string	common_home_safety_light_option	11	Home safety light	伴我回家
+string	common_hud_ar_mode	9	AR Mode	AR导航
+string	common_hud_dialog_tip2	43	Please use the touch pad on the right side of the steering wheel to adjust the HUD	请使用方向盘右侧触控板调节抬头显示
+string	common_hud_dialog_title2	16	HUD adjustment	抬头显示调节
+string	common_hud_dialog_title2_bx	16	HUD adjustment	抬头显示调节
+string	common_hud_info	48	"Look at the Heads Up Display, and use the right steering wheel\ntouch pad to adjust the HUD position"	请使用方向盘右侧触控板调节抬头显示位置
+string	common_hud_info_angle	48	"Look at the Heads Up Display, and use the right steering wheel\ntouch pad to adjust the HUD angle"	请使用方向盘右侧触控板调节抬头显示角度
+string	common_hud_info_brightness	48	"Look at the Heads Up Display, and use the right steering wheel\ntouch pad to adjust the HUD brightness"	请使用方向盘右侧触控板调节抬头显示亮度
+string	common_hud_navigation	11	Navigation info	导航信息
+string	common_hud_position	11	Heads up display	抬头显示
+string	common_hud_sensitization	11	Auto Sensitization	自动感光
+string	common_hud_snow_mode	11	Snow Mode	雪地模式
+string	common_hud_sr_mode	11	Smart window	灵动视窗
+string	common_hud_switch	10	HUD Switch	HUD开关
+string	common_ignore	6	Ignore	忽略
+string	common_in_car_communication	11	In-car intercom	车内通话
+string	common_in_car_communication_tip	55	Tap to start talking with the rear row, tap again to end	点击按钮开启与后排实时通话，再次点击结束通话
+string	common_in_sound	16	Generate Internal Sound	车内模拟声浪
+string	common_in_sound_info	16	Generate an artificial car sound inside the car. Preview only available while parked. Select volume below.	车内模拟声浪
+string	common_incoming_call_music_1	6	Default	默认
+string	common_incoming_call_ringtone	11	Incoming call ringtone	来电铃声
+string	common_incoming_call_ringtone_info	47	There are 5 incoming call ringtone,each music last 3s.	有5种来电铃声可供选择，每种铃声持续3s
+string	common_individual_edit	14	Edit individual drive mode	个性化设置
+string	common_input_conn_name	12	Connect WLAN	连接WLAN
+string	common_key_tone	11	Key tone	触屏音效
+string	common_key_tone_info	36	Play beep sound when interacting with the display,steering wheel buttons and center console switch module.	触摸显示屏时会有相应的提示音
+string	common_key_unlock_tip	38	Please use the touch pad on the right side of the steering wheel to adjust the steering wheel	使用钥匙解锁后，仅解锁主驾车门
+string	common_key_unlock_tip2	38	First key press unlocks driver door and charge port only,\nsecond press unlocks all doors	使用钥匙解锁后，即解锁所有车门
+string	common_key_unlock_title	11	Key unlocking	钥匙解锁
+string	common_khz_1	8	1 kHz	
+string	common_khz_16	10	16 kHz	
+string	common_khz_5	8	5 kHz	
+string	common_know	9	Got it	知道了
+string	common_lane_change_warn_info	64	Warn about nearby traffic when changing lanes.	
+string	common_lane_change_warn_option	16	Blind Spot Detection	盲区监测系统
+string	common_lane_dep_warn_info	92	Providing warning when your car is at risk driving out of the lane.	
+string	common_lane_dep_warn_option	16	Lane departure warning	车道偏离报警
+string	common_lane_keep_assist_info	49	Assistance to keep the car in lane.	
+string	common_lane_keep_assist_option	16	Lane keeping aid	车道保持辅助
+string	common_left_child_lock	11	Left child lock	左儿童锁
+string	common_left_child_lock2	14	Left child lock	左边儿童锁
+string	common_left_child_lock3	14	Left child lock	左侧儿童锁
+string	common_left_mirror	11	Left mirror	左后视镜
+string	common_light_eco	6	ECO	ECO
+string	common_light_follow	9	Mood light	氛围灯
+string	common_light_phone_info	23	An incoming phone call will be indicated in the ambient light	来电时伴随灯光提示
+string	common_light_phone_option	11	Incoming call reminder	来电提醒
+string	common_light_save_colour	11	Save colour	保存颜色
+string	common_light_sync_info	26	Synchronizing all the light zones to the front zone	整车氛围灯与前排同步
+string	common_light_sync_option	6	Sync	同步
+string	common_limit_speed	30	Increase/decrease the speed limit based on the road sppd limit signs	在道路限速牌上增加/减少
+string	common_limit_speed_sign	14	Road speed limit signs	道路限速牌
+string	common_list_btn_close_all_windows	11	Close all windows	车窗全关
+string	common_list_btn_lock_close_all_windows	11	Lock Close	锁车关窗
+string	common_list_btn_open_all_windows	11	Open all windows	车窗全开
+string	common_list_btn_vent	11	Ventilation mode	透气模式
+string	common_list_info_h_child_mode	19	Disable interaction and display static screen	锁定后排显示器
+string	common_list_item_h_hxt	7	HXT ™	HXT™
+string	common_list_item_h_hxt_bx	11	Sound restoration	音质还原
+string	common_list_item_i_hxt	42	Harmonics Enhancer Extended enhances both treble and bass ranges by reproducing harmonics to achieve an improved perceived sense of high fidelity	HXT™ 将低品质音源还原为高品质音源
+string	common_list_item_i_hxt_bx	36	Restores low-quality audio to high quality	将低品质音源还原为高品质音源
+string	common_list_option_h_auto_door	16	Unlock the door to welcome guests	解锁开门迎宾
+string	common_list_option_h_auto_park_rec	21	Automatic parking recommendations	自动泊车推荐模式
+string	common_list_option_h_child_mode	11	Child mode	儿童模式
+string	common_list_option_h_front_brightness	11	Front zone brightness	前排亮度
+string	common_list_option_h_hue	6	Hue	色调
+string	common_list_option_h_lane_keep_system	16	Lane keeping system	车道辅助系统
+string	common_list_option_h_lock_sound	11	Locking sound	锁车声音
+string	common_list_option_h_max_current	26	Adjust max current	设置最大允许充电电流
+string	common_list_option_h_my_colours	11	My favorites	我的收藏
+string	common_list_option_h_parking_assist_sys	16	Parking assist system	泊车辅助系统
+string	common_list_option_h_rear_brightness	11	Rear zone brightness	后排亮度
+string	common_list_option_h_rear_seat_dsp	14	Rear seat display	后排显示器
+string	common_list_option_h_saturation	9	Saturation	饱和度
+string	common_list_option_h_schedule_charging	11	Scheduled charging	预约充电
+string	common_list_option_h_seat_opt	11	Seat optimisation	声场优化
+string	common_list_option_h_seat_opt_bx	11	Seat optimisation	声场优化
+string	common_list_option_h_support_assist	11	Speed limit assistance	限速辅助
+string	common_list_option_h_temp_maintan	21	Battery thermal management	动力电池温度管理
+string	common_list_option_h_theme_sel	11	Display theme	显示主题
+string	common_list_option_h_warning_volume	11	Warning volume	报警音量
+string	common_list_option_h_white_hues	6	White hues	色温
+string	common_list_option_i_auto_park_rec	38	Simplifies your parking process by recommendations	系统自动推荐操作以简化泊车流程
+string	common_list_option_i_lock_sound	92	Provide sound feedback, in addition to light, when locking the car.	
+string	common_list_option_i_max_current	26	Limit the max current for charging	限制最大允许充电电流
+string	common_list_option_i_no_space	70	"There is no space to add a new colour.\nSelect “save colour” will replace the oldest one."	没有可用空间保存新的颜色，点击“保存”将替换最早存储的颜色
+string	common_list_option_i_remote_parking	33	Park the car remotely through the phone app.	在车外通过手机遥控方式泊车
+string	common_list_option_i_scheduled_charging	32	Set start and stop time for the charging cycle.	设置预约充电开始/结束时间
+string	common_list_option_i_seat_opt	33	Optimise sound at specific areas in the car.	选择指定的位置进行声场优化
+string	common_list_option_i_seat_opt_bx	33	Optimise sound at specific areas in the car.	选择指定的位置进行声场优化
+string	common_list_option_i_temp_maintan	89	Recommended to turn on if the outside temperature is lower than 0°C or higher than 40°C.	驻车状态电池热管理：建议外界最高(或最低)温度高于40℃（或低于0℃）时开启。
+string	common_loading	9	Loading	加载中
+string	common_lock_feelback	11	Locking prompt tone	锁车声音
+string	common_lock_fold_mirror	23	Folder mirrors while vehicle is locked	锁车自动折叠后视镜
+string	common_look_up_show	11	Head up display	抬头显示
+string	common_massage	6	Massage	按摩
+string	common_measure	6	Distance	距离
+string	common_megaphone	9	Megaphone	扩音器
+string	common_mirror_left_info	48	Use the right steering wheel touch pad to adjust the position of the left mirror	请使用方向盘右侧触控板调节左侧外后视镜
+string	common_mirror_position	16	Mirror positions	外后视镜位置
+string	common_mirror_right_info	48	Use the right steering wheel touch pad to adjust the position of the right mirror	请使用方向盘右侧触控板调节右侧外后视镜
+string	common_mode_mirror_posiion	14	Side-View Mirror Adjustment	后视镜调节
+string	common_mode_out_mirror	9	Mirror	后视镜
+string	common_module_charging	9	Charging	充放电
+string	common_module_connectivity	6	Connectivity	连接
+string	common_module_copliot	12	ZEEKR AD	ZEEKR AD
+string	common_module_display	6	Display	显示
+string	common_module_doors_and_windows	6	Doors&Windows	门窗
+string	common_module_driving	6	Driving	驾驶
+string	common_module_general	6	General	通用
+string	common_module_in_car_experience	11	In car experience	车内体验
+string	common_module_light	6	Lighting	灯光
+string	common_module_more	6	More	更多
+string	common_module_ota	6	OTA	OTA
+string	common_module_quick_controls	11	Quick Control	快捷设置
+string	common_module_safety_security	13	Safety&Security	安全&保障
+string	common_module_seat	6	Seat	座椅
+string	common_module_sound_notify	13	Sound	声音&通知
+string	common_module_system	6	System	系统
+string	common_module_zeekerlab	16	ZEEKR Studio	Zeekr实验室
+string	common_moment	6	Later	稍后
+string	common_multimedia_sound_effect	26	Yamaha S3D™ sound effects	雅马哈　S3D™声场效果
+string	common_mute_control	11	Mute control	静音控制
+string	common_name	7	name	
+string	common_native_name	11	Phone name	本机名称
+string	common_native_name_edit	19	Device name: %1$s	设备名称：%1$s
+string	common_nav_suppressor_media	19	Navigation lowers media	导航抑制媒体音
+string	common_nav_suppressor_media_tip	36	When on, navigation prompts lower media volume	开启后，导航声音压低媒体音量
+string	common_nav_sync_voice	21	Sync navigation and voice volume	语音导航音量同步
+string	common_nav_sync_voice_tip	43	Navigation and voice volume adjust together	开启后，导航声音与语音音量同步调节
+string	common_need_open_1	38	Please open Manually assisted automatic lane changing first	请先开启“手动辅助自动变道”选项
+string	common_need_open_2	31	Please open AI Assisted Driving first	请先开启“AI辅助驾驶”选项
+string	common_need_open_3	56	Please open Manually assisted automatic lane changing and AI Assisted Driving first	请先开启“手动辅助自动变道”和“AI辅助驾驶”选项
+string	common_net_bad	4	Bad	差
+string	common_net_good	6	Good	很好
+string	common_net_open	6	OPEN	开放
+string	common_net_ord	6	Ordinary	一般
+string	common_net_saved_yes	4	YES	是
+string	common_net_well	6	Well	较好
+string	common_net_wep	6	WEP	WEP
+string	common_net_wpa2PSK_wpa3	18	WPA2PSK_WPA3	WPA2PSK_WPA3
+string	common_net_wpa_2psk	14	WPA_2_PSK	WPA_2_PSK
+string	common_net_wpa_psk	11	WPA_PSK	WPA_PSK
+string	common_net_wpa_wpa3	12	WPA_WPA3	WPA_WPA3
+string	common_network_assurance	11	Network assurance	网络保障
+string	common_network_assurance_tip	43	Switch to cellular automatically when WLAN signal is weak	WLAN网络信号弱时自动切换到蜂窝网络
+string	common_network_send_request	13	Sending ...	发送中...
+string	common_night_auto_upgrade	16	Night auto update	夜间自动升级
+string	common_night_auto_upgrade_tip	52	When a new version is available, update automatically at 02:00	当系统有新版本时，自动在夜间02:00完成升级
+string	common_no_space_title	14	No available space	无可用空间
+string	common_normal	6	Normal	日常
+string	common_not_allow_connect	31	Failed to connect. Please check the network name	无法连接，请检查网络名称
+string	common_notification	29	Notification Setting	
+string	common_notification_allow	11	Show notifications	允许通知
+string	common_notification_allow_info	43	Allow car xxxxxxxx xxx xxx xxxx	
+string	common_notification_appList	10	APP Notification	App消息
+string	common_notification_hide	16	Hidden notification content	隐藏消息内容
+string	common_notification_hide_info	43	Allow car xxxxxxxx xxx xxx xxxx	
+string	common_notification_speech	11	Voice broadcast	声音播报
+string	common_notification_speech_info	43	Allow car xxxxxxxx xxx xxx xxxx	
+string	common_nzp_drive	15	NZP navigated pilot	NZP自主领航
+string	common_nzp_drive_info	62	After entering the specific road section,turn on intelligent assisted pilot and follow the navigation route set by users	进入指定路段，按用户设定的导航路线实现智能辅助驾驶
+string	common_off	6	Unlock	解锁
+string	common_on	6	Lock	闭锁
+string	common_open	6	Open	开启
+string	common_open_door_suppressor	19	Lower media when door opens	开门降低媒体音
+string	common_open_door_suppressor_tip	70	When on, media volume lowers when any door opens and restores when all doors are closed	开启后，任意门开媒体音量自动降低，所有车门关闭，音量恢复
+string	common_open_mirror	14	Open Mirror	展开后视镜
+string	common_open_on_phone	16	Open on phone	在手机上打开
+string	common_other_road_info	50	Other traffic information, such as information about school zone, road repair etc.	显示其他信息，如前方学校、道路施工等信息
+string	common_other_road_option	16	Other road sign information	其他交通信息
+string	common_out_option_door	19	Allow external electric door opening and closing	车外电动开关门
+string	common_overtake	16	Automatic overtaking strategy	自动超车策略
+string	common_p_gear_unlock	10	P gear unlock	P挡解锁
+string	common_park_save_bt	14	Save and activate	保存并激活
+string	common_parking	11	Parking	
+string	common_parking_3D_info	93	Showcase surrounding as start up animation when open 360°camera view	
+string	common_parking_3D_option	26	3D surround effect	
+string	common_parking_EPB	11	Parking Brake	驻车制动
+string	common_parking_EPB_apply	16	Apply parking brake	激活驻车制动
+string	common_parking_EPB_release	16	Release parking brake	解除驻车制动
+string	common_parking_EPB_tip	33	Please press brake pedal to release parking brake	解除驻车制动需踩下制动踏板
+string	common_parking_Low_speed_brake_option	21	Parking emergency brake	泊车自动紧急制动
+string	common_parking_PDC_info	43	Show warning in overlay to avoid collisions while parking.	泊车时显示障碍物预警信息以避免碰撞
+string	common_parking_PDC_option	11	Parking distance control (PDC) overlay	泊车辅助
+string	common_parking_PEB_info	36	Apply brakes to avoid collisions in low speed.	低速有碰撞风险时自动实施制动
+string	common_parking_RCTA_info	40	Warn when an obstacle approaches from the side behind the car.	障碍物从车辆侧后方接近时触发预警
+string	common_parking_RCTA_option	21	Rear cross traffic alert (RCTA)	后方横向来车预警
+string	common_parking_auto	11	Automatic parking	自动泊车
+string	common_parking_box	16	Parking box	
+string	common_parking_brake_auto	34	Auto apply parking brake	
+string	common_parking_brake_auto_info	85	Apply parking brake when the door is opened during standstill.	
+string	common_parking_camera	20	Parking Camera	
+string	common_parking_comfort	11	Parking comfort	驻车舒享
+string	common_parking_comfort_content	33	Parking comfort is still on. Turn off?	驻车舒享未关闭，是否关闭？
+string	common_parking_comfort_info	55	Keep climate and infotainment systems on for a set number of hours.	停车后一段时间内持续为空调和信息娱乐系统供电
+string	common_parking_comfort_mode_info	59	Parking comfort mode will consume HV energy. Function will turn OFF automatically when HV battery level is lower than 20%.	驻车舒适功能会持续耗电，高压电量低至20%自动关闭
+string	common_parking_comfort_mode_title	11	Parking comfort	驻车舒享
+string	common_parking_obstacle_info	65	Detect obstacles and pedestrians in camera view	
+string	common_parking_obstacle_option	26	Obstacle detection	
+string	common_parking_power	33	Power assisted steering	
+string	common_parking_rotated_wheels_info	31	Warn for wheel rotation when the car is about to leave the parking spot.	车辆起步前转向未回正提醒
+string	common_parking_rotated_wheels_option	16	Rotated wheels warning	转向回正报警
+string	common_parking_steer_info	81	Camera view will adjust automatically according to steering	
+string	common_parking_steer_option	23	Steering Linkage	
+string	common_parking_top_info	70	When a obstacle is detected will the camera zoom in	
+string	common_parking_top_option	23	Top view zoom in	
+string	common_parking_tour_info	119	A 3D tour around the car will show when parking app is stared to give you good overview	
+string	common_parking_tour_option	18	Touring view	
+string	common_parking_track_info	60	Show trajectory ahead with current steering	
+string	common_parking_track_option	16	Track lines	
+string	common_parking_trans_info	69	Make the car model transparent in 360° camera view	
+string	common_parking_trans_option	22	Transparent car	
+string	common_parking_wheel_position	11	Wheel position	转向位置
+string	common_passenger_massage	11	Passenger massage	副驾按摩
+string	common_passenger_middle	6	Middle	中间
+string	common_passenger_position	11	Passenger position	副驾位置
+string	common_passenger_rest	16	Passenger rest	副驾一键休憩
+string	common_passenger_seat	6	Passenger	副驾
+string	common_pay_toast	31	This function will be launched soon.Pleasr look forward to it.	此功能即将开通，敬请期待
+string	common_pedal_content	74	"Can't activate with the current drive mode selected."	
+string	common_pedal_function	33	Enable E-Pedal function	
+string	common_pedestrian_advance_warning_tone	19	Pedestrian warning sound	行人先行提醒音
+string	common_pop_matching_bluetooth_text	24	Pair with “%1$s”?	要与“%1$s”配对吗？
+string	common_position_adjustments	11	Vehicle dynamics	车辆动态
+string	common_position_customized	15	Customized	
+string	common_position_drive	18	Driving mode	
+string	common_position_fold	14	Fold mirrors	折叠后视镜
+string	common_position_main_info	33	Raise the windscreen wipers to an upright position	将风挡雨刮器升高至竖直位置
+string	common_position_mirror	11	Mirrors	外后视镜
+string	common_position_mirror_fold	23	Fold mirrors while vehicle is locked	锁车自动折叠后视镜
+string	common_position_mirror_tilt	26	Tilt mirrors while reversing	倒车时自动翻转后视镜
+string	common_position_save	12	Save new	
+string	common_position_sleep	19	Sleeping mode	
+string	common_position_unfold	14	Unfold mirrors	展开后视镜
+string	common_pressure	6	Tire pressure	胎压
+string	common_propulsion	6	Propulsion	驱动
+string	common_qucik_open_park_toast	23	Please turn on the parking comfort switch	请打开驻车舒享开关
+string	common_quick_apa	11	Automatic parking	自动泊车
+string	common_quick_auto	6	AUTO	自动
+string	common_quick_avp	6	AVP	AVP
+string	common_quick_bluetooth	6	Bluetooth	蓝牙
+string	common_quick_car_controls	11	Car controls	车辆控制
+string	common_quick_drive_mode	11	Drive mode	驾驶模式
+string	common_quick_edit	6	Edit	编辑
+string	common_quick_esc	11	ESC OFF	ESC OFF
+string	common_quick_fog	9	Rear fog light	后雾灯
+string	common_quick_hdc	11	HDC	陡坡缓降
+string	common_quick_hud	11	HUD	抬头显示
+string	common_quick_mirror_left	11	Mirror	外后视镜
+string	common_quick_pac	11	Parking assist cameras	全景影像
+string	common_quick_park_duration	16	Duration	驻车舒享时长
+string	common_quick_park_duration_bx	16	Duration	驻车舒享时长
+string	common_quick_parking_apps	11	Visibility	车辆视野
+string	common_quick_parking_auto	11	Automatic parking	自动泊车
+string	common_quick_ride_height	11	Ride Height	悬架高度
+string	common_quick_screen_brightness	11	Screen brightness	屏幕亮度
+string	common_quick_select_park_duration	55	Duration to keep climate and infotainment systems on	停车后一段时间内持续为空调和信息娱乐系统供电
+string	common_quick_select_park_duration_bx	38	Duration to keep climate and infotainment systems on	请选择自动驻车后的舒适模式时长
+string	common_quick_setting_driving_mode_location_drive	11	Driving position	驾驶位置
+string	common_quick_setting_driving_mode_location_drive_bx	11	Driving position	主驾位置
+string	common_quick_shortcut	9	Shortcuts	快捷键
+string	common_quick_stream	9	Stream media	流媒体
+string	common_quick_weather	11	Weather light	全气候灯
+string	common_quick_wifi	7	WIFI	WIFI
+string	common_ready_brake	6	Brake	制动
+string	common_rear_charge_lid	11	Rear charge lid	后充电口
+string	common_rear_seat	6	Rear	后排
+string	common_rear_warn_option	16	Rear collision warning	后向碰撞预警
+string	common_recording_resolution	14	Recording resolution	视频分辨率
+string	common_recreate_loading	15	loading....	正在加载···
+string	common_recreate_loading_dark	21	Setting dark theme	正在设置深色主题
+string	common_recreate_loading_language	23	Setting language	Setting language
+string	common_recreate_loading_light	21	Setting light theme	正在设置浅色主题
+string	common_regen_level	16	Regeneration level	能量回收等级
+string	common_release_parking_brake	16	Release parking brake	解除驻车制动
+string	common_remote_park	11	Remote parking	遥控泊车
+string	common_remote_parking	11	Remote parking	遥控泊车
+string	common_remove_bonded	11	Unsave	取消保存
+string	common_request_pair_bluetooth	11	Connect Bluetooth	连接蓝牙
+string	common_reset	6	reset	复位
+string	common_reset_tcam_fail	26	Reconnect failed, try again later	重连失败，请稍后重试
+string	common_reset_tcam_over_time	26	Reconnect timed out, try again later	重连超时，请稍后重试
+string	common_reset_tcam_success	19	Cellular reconnected	蜂窝网络已重连
+string	common_rest_location_toast	28	The rest position has been updated	休息模式座椅位置已更新
+string	common_rest_mode	11	Rest mode	一键休憩
+string	common_rest_mode_cancelled	21	Rest mode cancelled	休憩模式功能退出
+string	common_rest_mode_cancelled_toast	16	Rest mode cancelled	休息模式退出
+string	common_rest_mode_info	26	Automatically adjust seat, climate etc.	自动调节座椅、空调等
+string	common_rest_mode_popup	61	Rest mode It is risky to use it while driving.Do you want to continue using it?	车辆行驶状态下使用休息模式存在风险，是否继续开启?
+string	common_rest_mode_saved	26	The rest mode setting has been updated and saved	休憩位置已更新并保存
+string	common_rest_mode_started	11	Rest Mode	一键休憩
+string	common_rest_mode_started_conent	40	"All windows will be closed. Don't sleep in car for a long time"	车窗将关闭，请勿长时间在车内休憩
+string	common_rest_mode_toast	40	"All windows will be closed, don't sleep in car"	所有车窗将会关闭，请勿在车内睡觉
+string	common_rest_mode_warning	24	Rest mode warning	
+string	common_rest_mode_warning_content	55	It is risky to use rest mode while driving. Do you want to continue using it?	休息模式在行车时使用存在风险，是否继续使用？
+string	common_reverse_mirror	23	Tilt mirrors while reversing	倒车自动翻转后视镜
+string	common_reverse_suppressor	19	Lower media when reversing	倒车降低媒体音
+string	common_reverse_suppressor_tip	27	Lowers media volume in R	R挡时媒体音量自动降低
+string	common_right_child_lock	11	Right child lock	右儿童锁
+string	common_right_child_lock2	14	Right child lock	右边儿童锁
+string	common_right_child_lock3	14	Right child lock	右侧儿童锁
+string	common_right_mirror	11	Right mirror	右后视镜
+string	common_road_signs	11	Traffic signs	交通标识
+string	common_roof_glass_transparency	19	Roof glass transparency adjust	天幕透明度调节
+string	common_safety_car_location	11	Car locator	车辆位置
+string	common_safety_location	11	Location services	位置服务
+string	common_save	6	Save	保存
+string	common_save_active	24	Save and activate	
+string	common_save_activete	14	Save&activate	保存并激活
+string	common_search_result	11	Search result	搜索结果
+string	common_search_settings	15	Search settings...	搜索设置...
+string	common_seat_driver	29	Driver seat position	
+string	common_seat_info	111	"Adjust the seat by pressing the buttons on the\nseat or the arrows on the screen"	
+string	common_seat_passenger	33	Passenger seat position	
+string	common_seat_rear_left	33	Left rear seat position	
+string	common_seat_rear_left_info	80	"Adjust the backrest by pressing the arrows\non the screen"	
+string	common_seat_rear_right	34	Right rear seat position	
+string	common_send_new_code	19	Send new code	发生新的验证码
+string	common_server_connect_fail	19	connect server failed.	连接服务器失败
+string	common_service	6	terms	服务
+string	common_service_book_distance	53	"It's time to book a service. It is recommended to drive maximum %1$s km before getting a car service."	预约保养时间快到了。距离下次保养还有%1$skm
+string	common_service_book_now	36	A service should have been performed on the car! Please book a service appointment as soon as possible.	保养时间已到，请尽快预约保养
+string	common_service_book_time	48	"It's time for a service. It is recommended to drive maximum %1$s km before getting a car service."	保养时间快到了。距离下次保养还有%1$skm
+string	common_service_remainder	11	Service reminder	服务提醒
+string	common_services	6	Services	保养
+string	common_services_tow_info	66	To enter the tow mode, long press the hazard switch (>7 sec) and put the gear in N.	长按危险警告开关（＞7s）并将挡位挂入N挡以进入拖车模式
+string	common_services_tow_title	11	Tow mode	拖车模式
+string	common_services_tow_warning	45	Warning, electronic parking brake will be released!	警告，模式激活后，驻车制动将被释放！
+string	common_services_update	6	Updates	升级
+string	common_services_update_info	31	You have a new update!	
+string	common_services_update_release	19	Release notes	
+string	common_services_update_release_ppw_available	23	Available update	
+string	common_services_update_release_ppw_lastest	20	Lastest update	
+string	common_services_update_release_title	23	Previous updates	
+string	common_services_update_release_title_des	69	"See previous updates in your car's release notes"	
+string	common_services_update_version	19	ZEEKR OS %1$s	ZEEKR OS %1$s
+string	common_services_update_version_null	11	Lynk&Co	
+string	common_services_windscreen_wiper_maintain	14	Windscreen wipers	风挡雨刮器
+string	common_services_windscreen_wiper_maintain_info	16	Maintenance position	保养维修位置
+string	common_set_charge_limit	6	Limit	限值
+string	common_settime_start	11	Start time	开始时间
+string	common_settime_stop	11	Stop time	结束时间
+string	common_shortcut_bluetooth	6	Bluetooth	蓝牙
+string	common_shortcut_wifi	7	WLAN	WLAN
+string	common_signin_button_text	6	Sign in	登录
+string	common_signin_button_text_long	27	Sign in with Google	使用 Google 帐号登录
+string	common_siren_and_flashing	11	Siren and flashing	闪灯鸣笛
+string	common_slider_h_bt_headset_volume_bx	11	Bluetooth headset	蓝牙耳机
+string	common_slider_h_media_volume	14	Media volume	多媒体音量
+string	common_slider_h_media_volume_bx	9	Media	多媒体
+string	common_slider_h_navi_beeb_volume	14	Navigation volume	导航提示音
+string	common_slider_h_navi_beeb_volume_bx	11	Navigation volume	导航声音
+string	common_slider_h_navi_volume	11	TTS volume	导航播报
+string	common_slider_h_phonecall_volume	11	Phone call volume	通话声音
+string	common_slider_h_phonecall_volume_bx	11	Phone call volume	通话声音
+string	common_slider_h_ringtone_volume	11	Ringtone volume	电话铃声
+string	common_slider_h_vr_tts_volume	11	VR volume	语音识别
+string	common_sms_tip	39	If the vehicle speed is greater than 15km/h, streaming media cannot be enabled	车速大于15km/h，不能打开流媒体
+string	common_sound	8	Sound	
+string	common_sound_balance	6	Fade and balance	平衡
+string	common_sound_source	6	Audio source	音源
+string	common_source_switching	11	Switch audio source	音源切换
+string	common_special_traction	21	Special Terrain(Sand etc)	特殊地形(沙地等)
+string	common_speed_limit_info	112	Use currently detected speed limit as the max set-speed in adaptive cruise control	
+string	common_speed_limit_offset_option	11	Speed limit warning offset	限速偏移
+string	common_speed_limit_sign_info	56	Display speed limit traffic information.	
+string	common_speed_limit_sign_option	16	Traffic Sign Information	交通标志识别
+string	common_speed_limit_warn_option	11	Exceeding speed limit warning	超速提醒
+string	common_speed_warning_mode_info	16	User can adjust the warning speed	设置提醒车速
+string	common_speed_warning_mode_option	11	Speed warning mode	限速提醒
+string	common_sport	6	Sport	运动
+string	common_standard	6	Standard	标准
+string	common_start_the_sound_outside_the_vehicle	20	Open External Sound app	启动车外声音App
+string	common_steam_media	9	Stream media	流媒体
+string	common_steer_feel	6	Steering	转向
+string	common_steer_info	45	Use the right steering wheel touch pad to adjust the position of the steering wheel.	请使用方向盘右侧触控板调节方向盘位置
+string	common_steer_position	14	Steering wheel adjustment	方向盘调节
+string	common_stop	6	Stop	停止
+string	common_sunscreen_rating	11	Sunscreen rating	防晒等级
+string	common_suspension	6	Suspension	悬架
+string	common_suspension_height	11	Ride Height	悬架高度
+string	common_system_update	16	Car system update	整车系统版本
+string	common_system_update2	19	ZEEKR OS %1$s	ZEEKR OS %1$s
+string	common_take_photos_with_tachograph	19	Dashcam photo	行车记录仪拍照
+string	common_tem	6	Temperature	温度
+string	common_term_service	23	You can read terms of Service	您可以阅读服务条款
+string	common_term_service2	55	Terms of Service	要使用此软件，您必须接受更新时附带的服务条款
+string	common_textID_ap_password	14	Hotspot password:	热点密码：
+string	common_textID_ap_password_bx	11	Hotspot password	热点密码
+string	common_textID_btn_tow_mode_tutorial	16	Tow mode Tutorial	拖车模式教程
+string	common_textID_custom_adjust_position	11	Position adjustment	位置调节
+string	common_textID_custom_shortcut_steering_wheel_position	9	Steering wheel	方向盘
+string	common_textID_descent_info	57	Vehicle can descend hill at a safe speed without brake	不踩制动的情况下，车辆以安全的速度通过下坡路段
+string	common_textID_enter_ssid_wifi	21	Enter network name	输入WLAN网络名称
+string	common_textID_h_user	11	User agreement	用户协议
+string	common_textID_i_user	164	ZEEKR studio will configure some innovative and experimental functions, some of which do not exclude certain risks or defects.Please read the Functional Terms of Service for ZEEKR Studio in detail when using them.	ZEEKR实验室，将配置一些创新和实验的功能，其中一些不排除某些风险和缺陷。使用时请仔细阅读“ZEEKR实验室功能服务条款”（Usage agreement）
+string	common_textID_light_brightness	6	Brightness	亮度
+string	common_textID_list_high_voltage_info	45	Power down the high voltage battery of the car, all functions will turn off and screens will go black	关闭高压电时，所有功能与屏幕将被关闭
+string	common_textID_list_option_h_copilot	16	Highway Pilot	高速自主领航
+string	common_textID_list_option_i_auto_door	33	Driver door opens automatically after unlocking from outside the vehicle	车外解锁后主驾车门自动开启
+string	common_textID_pop_enter_step1	64	Step 1: Make sure key is in the car, NFC key be put on reader	第一步：请确保钥匙在车内，NFC钥匙需放置在钥匙感应区
+string	common_textID_pop_enter_step2	33	Step 2: Please open driver door and close again	第二步：请开关一次主驾车门
+string	common_textID_pop_enter_step3	70	Step 3: Press Hazard switch longer than 7 seconds until instrument telltales do self-checking	第三步：长按危险警告开关7s以上，直到仪表的报警灯自检一次
+string	common_textID_pop_enter_step4	37	Step 4: Switch to gear N to release parking brake	第四步：挂入N挡，释放驻车制动
+string	common_textID_pop_enter_tow_mode	16	Enter Tow Mode	进入拖车模式
+string	common_textID_pop_enter_tow_mode_info	45	To enter into Tow mode, please strictly follow the procedure	进入拖车模式，请按照以下四个步骤操作
+string	common_textID_pop_exit_tow_mode	16	Exit Tow Mode	退出拖车模式
+string	common_textID_pop_exit_tow_mode_info	43	Exit Tow Mode when any condition is met	退出拖车模式，以下任一条件满足即可
+string	common_textID_pop_exit_tow_mode_tutorial_1	34	To enter into Tow mode, please strictly follow the procedure	条件一：挂入P挡，从外部锁车
+string	common_textID_pop_exit_tow_mode_tutorial_2	48	Engage in P gear and lock the car from the outside	条件二：挂入D挡或R挡，进入新的驾驶行程
+string	common_textID_pop_exit_tutorial	122	Tow Mode exits when either condition is met:\n\n 1. Shift to P and lock from outside; 2. Shift to D or R and start a new trip	"满足以下任一条件，即可退出拖车模式：\n \n1. 挂入P挡，从外部锁车；2. 挂入D挡或R挡，开始新的驾驶行程"
+string	common_textID_rest_mode_risky_toast	33	Turning off the climate in rest mode is risky!	休息模式下关闭空调存在风险
+string	common_textID_scan_connect	31	It is recommended to use a browser to scan the QR code	建议使用浏览器扫描二维码
+string	common_textID_share_wlan	16	Share in-vehicle hotspot	分享车载热点
+string	common_textId_general_ok	6	Done	确认
+string	common_theater_mode	11	Theater mode	影院模式
+string	common_theater_mode_info	62	Automatically adjust seat, climate, lighting etc., for watching videos	自动调节座椅、空调、灯光等功能，营造舒适的观影环境
+string	common_theater_mode_saved	26	The theater mode seat position has been saved	影院位置已更新并保存
+string	common_time	6	Time	时间
+string	common_time_format	11	Time format	时间格式
+string	common_to_dvr	18	To DVR album	
+string	common_to_gallery	27	Shortcut to gallery	
+string	common_tra_light	14	Traffic light attention	交通灯提醒
+string	common_tra_light_info	74	Display detected traffic lights in the driver display.	
+string	common_track_mode_dialog_content	453	Dear user, Track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents track mode user instructions specific contents race Track mode user instructions specific content track mode user instructions specific content track mode user instructions specific content track mode user instructions specific content	尊敬的用户，赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容赛道模式用户须知具体内容
+string	common_track_mode_dialog_title	26	Notes to track mode users	《赛道模式用户须知》
+string	common_traction	6	Traction	牵引
+string	common_trunk	9	Trunk	后备箱
+string	common_trunk_title	6	Trunk	尾门
+string	common_type_of_car_locator	11	Type of car locator	寻车提醒
+string	common_units	6	Units	单位
+string	common_user	37	Login to your Lynk & Co ID	
+string	common_user_account	24	Create an account	
+string	common_user_manual	23	Sign in manually	
+string	common_user_other	27	Other ways to login	
+string	common_user_qr	30	Scan QR code to login	
+string	common_veh_com	16	Vehicle speed compensation	车速音量补偿
+string	common_veh_com_info	31	Select how much the sound system should compensate the volume level based on driving speed.	可选择车速补偿的音量等级
+string	common_veh_com_info_bx	53	Select how much the sound system should compensate the volume level based on driving speed.	选择补偿等级，降低噪音影响，使音量保持恒定
+string	common_vehicle_power_off_dialog_content_describe	79	High-voltage battery will turn off and vehicle power systems will stop. Press the brake to power on again	高压电池即将关闭，车辆用电系统将停止工作。若需重新上高压请踩刹车
+string	common_video_play_pop_content	48	Suggest to open this function avoid driving risky.	行车中观看视频有风险，不建议关闭此功能
+string	common_video_play_pop_title	16	Media Playback risk	媒体播放风险
+string	common_view_more_networks	16	View more network	查看更多网络
+string	common_wheel_position	11	Wheel Position	转向位置
+string	common_wheel_steer	9	Steering wheel	方向盘
+string	common_wifi_SSID	12	WLAN details	WLAN详情
+string	common_wifi_ap_cannot_open_together	29	WLAN and hotspot cannot be turned on simultaneously	WLAN和热点不能同时开启
+string	common_wifi_ap_close_fail	26	Failed to turn off, try again later	关闭失败，请稍后重试
+string	common_wifi_ap_open_fail	26	Failed to turn on, try again later	开启失败，请稍后重试
+string	common_wifi_connect_error_auth_fail	11	Wrong password	密码错误
+string	common_wifi_connect_error_code	21	Connection exception, error code	连接异常，错误码
+string	common_wifi_connect_error_conn_refuse	11	Connection failed	连接失败
+string	common_wifi_connect_error_ip_fail	15	IP acquisition failed	IP 获取失败
+string	common_wifi_connect_error_pwd_low	38	Failed to join this network due to insufficient security level	安全等级不满足，无法加入此网络
+string	common_wifi_connect_error_unknow	11	Unknown error	未知错误
+string	common_wifi_connect_fail	11	Connection failed	连接失败
+string	common_wifi_connect_success	11	Connected successfully	连接成功
+string	common_wifi_mode	12	WLAN mode	WLAN模式
+string	common_wifi_mode_detail	61	5GHz is recommended as a priority. When the signal strength is weak, try switching to 2.4GHz again	建议优先选用5GHz。信号强度弱时，再尝试切换2.4GHz
+string	common_wifi_name_long	16	Network name too long	网络名称过长
+string	common_wifi_name_long_tip	41	Network name must be 32 characters or fewer	请确保网络名称长度不超过32个字符
+string	common_wifi_settings	19	Wifi settings	
+string	common_window_format_info	28	Do you want to format?	是否确认格式化储存卡？
+string	common_window_glove_box_disable	14	Disable glove box lock	手套箱解锁
+string	common_window_glove_four_digits	9	Must be 4 digits	四位数
+string	common_window_glove_lock	14	Lock glove box	手套箱上锁
+string	common_window_glove_lock_info	26	Enter PIN to lock glove box	设置密码，锁止手套箱
+string	common_window_glove_pin_open	23	Enter PIN to open glove box	输入密码解锁手套箱
+string	common_window_list_option_h_retry	16	Too many attempts	尝试次数太多
+string	common_window_list_option_i_glove_wrong_pswd	31	Wrong password, %1$d attempts left.	密码错误，还有%1$d次机会
+string	common_window_list_option_i_retry	109	Please wait %1$s minutes and try again, or use Phone Verification on registered device to disable lock.	请%1$s分钟之后重试，您也可以通过验证码停用手套箱密码保护（验证码将发送至您已绑定的手机）
+string	common_window_verify_code_has_send	19	Verification code send success	验证码发送成功
+string	common_window_verify_code_incorrect	28	Wrong verification code, please try again.	验证码错误，请重新输入
+string	common_window_verify_title	19	Enter verification code received on registered mobile device.	输入手机验证码
+string	common_wrong_pin	28	Wrong PIN, please try again.	验证码错误，请重新输入
+string	common_yes	6	Yes	确定
+string	connect_bluetooth_common_device_set	16	Device settings	常用设备设置
+string	connect_bluetooth_connect_first	26	Priority device	请选择优先连接的设备
+string	connect_bluetooth_not_common_device	19	No common devices set	不设置常用设备
+string	connect_bluetooth_phone_privacy	16	Phone privacy	电话隐私设置
+string	connect_btn_forget_network_edit	24	Do you want to ignore % 1 $s?	是否忽略 “%1$s” ？
+string	connect_btn_ignore_device	11	Forget	忽略设备
+string	connect_conn_point_name	19	Hotspot name: %1$s	热点名称：%1$s
+string	connect_sure	6	Confirm	确认
+string	cs_upload_log_content	196	" Please keep the IHU powered on and connected to the network. \n 1. Click Start Capture to start log capture. \n 2. Operate relevant functions again until the exception reappears. \n 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "	"请保持车机上电并连接网络 \n 1、点击 “开始抓取” ，启动日志抓取 \n 2、再操作相关功能直到复现异常情形 \n 3、问题复现后，回本页面点击“结束并上传”停止抓取并上传数据"
+string	dc_ceyi_str	6	Side bolster	侧翼
+string	dc_door_close_all_window	16	Close all windows	关闭所有车窗
+string	dc_door_open_all_window	16	Open all windows	开启所有车窗
+string	dc_habit_default_tip	11	Driving position	驾驶位置
+string	dc_seat_easy_driver	16	Driver easy entry	主驾便利进出
+string	dc_seat_easy_passener	16	Passenger easy entry	副驾便利进出
+string	dc_seat_habits	16	Save profile	另存用车习惯
+string	dc_seat_habits_tip	66	Choose a driving profile to save ergonomic positions (seats, mirrors, etc.)	选择您需要的用⻋习惯，保存人体工学位置(座椅、后视镜等)
+string	dc_seat_massage_program_drvr	16	Driver Massage Program	主驾按摩模式
+string	dc_seat_massage_program_pass	16	Passenger Massage Program	副驾按摩模式
+string	dc_seat_massage_strength_drvr	16	Driver Massage Strength	主驾按摩强度
+string	dc_seat_massage_strength_pass	16	Passenger Massage Strength	副驾按摩强度
+string	dc_seat_rest_driver	16	Driver rest	主驾一键休憩
+string	dc_seat_rest_passener	16	Passenger rest	副驾一键休憩
+string	dc_seat_restore	6	Restore	恢复
+string	dc_seat_save	6	Save	保存
+string	dc_seat_stop	6	Stop	停止
+string	dc_seat_wing_driver	21	Adaptive bolster	主驾侧翼转向支撑
+string	dc_seat_wing_passenger	21	Adaptive passenger seat wing	副驾侧翼转向支撑
+string	dc_upload_log_content	199	" Please keep the IHU powered on and connected to the network. \n 1. Click Start Capture to start log capture. \n 2. Operate relevant functions again until the exception reappears. \n 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "	"请保持车机上电并连接网络 \n 1、点击 “开始抓取” ，启动日志抓取 \n 2、再操作相关功能直到复现异常情形 \n 3、问题复现后，回本页面点击 “结束并上传” 停止抓取并上传数据"
+string	dc_user_habit_tv	16	User Habit	另存用车习惯
+string	dc_yaotuo_str	6	Lumbar	腰托
+string	dc_zuodian_str	11	Cushion length	坐垫长度
+string	display_language	12	Language	Language
+string	display_text_brightness_screen	11	Screen brightness	屏幕亮度
+string	display_text_csd_brightness	11	Center display brightness	中控屏幕
+string	display_text_csd_brightness_auto	11	AUTO	自动亮度
+string	display_text_custom_theme_time	14	Custom time period	自定义时段
+string	display_text_custom_theme_time_select_hint	31	End time cannot be equal to start time	结束时间不能等于开始时间
+string	display_text_dim_brightness	11	Instrument and backlight brightness	仪表屏幕
+string	display_text_dim_brightness_hint	36	Only in dim environment can the brightness of the instrument change according to the adjustment	设定值仅在环境光线昏暗时生效
+string	display_text_dim_display	14	Driver display	数字仪表盘
+string	display_text_dim_display_lyrics_display	19	Lyrics on driver display	数字仪表盘歌词
+string	display_text_dim_display_lyrics_display_hint	186	Non-driving info on the driver display (media, lyrics, etc.) is for convenience only. Stay attentive while driving and view it only when it is safe	数字仪表盘展示的非驾驶相关信息（包括媒体播放内容和歌词等信息）仅为用户便利目的，用户应在驾驶过程中时刻保持注意力，并仅在确保安全驾驶的情况下查看此类信息
+string	display_text_dim_display_lyrics_display_know	9	Got it	知道了
+string	display_text_dim_display_lyrics_display_know_countdown	18	Got it (%ds)	知道了（%ds）
+string	display_text_home_weather_effect	16	Home weather background	主页天气背景
+string	display_text_home_weather_effect_sub_hint	72	With “Dynamic”, the effect follows the weather card data and may be delayed; for reference only	选择“动态”，显示效果将同步天气卡片数据，可能延迟，仅供参考
+string	display_text_home_weather_effect_sub_title	16	Home weather background	主页天气背景
+string	display_text_lock_rear_screen	14	Disable interaction and display static screen	锁定后排屏
+string	display_text_lock_screen	11	Rear seat display	锁定屏幕
+string	display_text_lyrics_display	11	Lyrics display	歌词显示
+string	display_text_lyrics_display_hint	55	When on, the driver display can show lyrics for some media	开启后，数字仪表盘支持显示部分媒体资源的歌词
+string	display_text_night_theme_auto	21	Auto Dark theme	自动深色主题时间
+string	display_text_night_theme_end_time	21	Dark theme end time	深色主题结束时间
+string	display_text_night_theme_start_time	21	Dark theme start time	深色主题开始时间
+string	display_text_theme_auto_method_custom_time	14	Custom time period	自定义时段
+string	display_text_theme_auto_method_sensor	14	Light and dark according to the environment	随环境明暗
+string	display_text_theme_auto_method_sunrise_sunset	14	With sunrise and sunset	随日出日落
+string	display_text_theme_night	11	Dark theme	深色主题
+string	display_text_theme_selector	11	Display theme	显示主题
+string	display_text_theme_selector_auto	6	Automatic	自动
+string	display_text_theme_selector_day	6	Light color	浅色
+string	display_text_theme_selector_night	6	Dark color	深色
+string	display_text_time_format_sub_title	11	Time format	时间格式
+string	display_text_time_format_title	11	Time format	时间格式
+string	door_drive_open	16	"Manually open the driver's door"	手动开主驾门
+string	door_front_open	14	Manually open front door	手动开前门
+string	door_rear_open	14	Manually open rear door	手动开后门
+string	doorwindow_electric_door_max_tips	62	When opening and closing the electric door, please pay attention to the surrounding area of the vehicle; Please intervene manually if necessary	开关电动门时，请注意观察车辆周围；必要时请手动干预
+string	doorwindow_text_left	4	left	左
+string	doorwindow_text_right	4	right	右
+string	drive_mode_bz_one	6	Standard	标准
+string	drive_mode_jj_one	6	Eco	经济
+string	drive_mode_jji_one	6	Eco	经济
+string	drive_mode_qy_one	6	Traction	牵引
+string	drive_mode_ss_one	6	Comfort	舒适
+string	drive_mode_yd_one	6	Sport	运动
+string	drive_mode_yy_one	6	Off-road	越野
+string	drivin_suspension_for_easy_access	16	Suspension easy entry	悬架方便进出
+string	drivin_suspension_for_easy_access_confirm	86	Before parking, watch for low obstacles around the vehicle\nto avoid scraping while the body lowers	"驻车前，请您务必注意车辆四周低矮障碍物，避免底盘下降过程\n中发生磕碰"
+string	drivin_suspension_for_easy_access_tip	95	When this function is turned on, the suspension height is automatically lowered to facilitate the entry and exit of you and your passengers when the vehicle is parked and the seat belt of the main driver is unfastened	"该功能打开，驻车并且解开主驾安全带后，悬架高度自动降低，\n方便您和乘客的进出"
+string	drivin_suspension_for_easy_access_tip_content	184	Before parking, watch for low obstacles around the vehicle\nto avoid scraping while the body lowers. This feature requires an\nair suspension update at a service center	"驻车前，请您务必注意车辆四周低矮障碍物，避免底盘下降过程\n中发生磕碰。该功能需经线下服务中心升级空悬软件才可正常使\n用；若您还未线下升级，建议尽快升级"
+string	drivin_suspension_for_easy_access_tip_diver	95	When on, the suspension lowers after parking and\nunbuckling the driver seatbelt, for easier entry and exit	"该功能打开，驻车并且解开主驾安全带后，悬架高度自\n动降低，方便您和乘客的进出"
+string	driving_auto_hold	11	Auto Hold	自动驻车
+string	driving_auto_hold_info	38	Keeps the vehicle stopped automatically	功能激活时，自动使车辆保持静止
+string	driving_e_pedal	14	One-pedal	One-pedal
+string	driving_e_pedal_info	37	Accelerator pedal controls speed	车辆的加速/减速由加速踏板控制
+string	driving_esc_off	11	ESC OFF	ESC OFF
+string	driving_fold_rear_mirror_close	14	Fold mirrors	折叠后视镜
+string	driving_fold_rear_mirror_open	14	Unfold mirrors	展开后视镜
+string	driving_module_driving_seatbelt	9	Seatbelt	安全带
+string	driving_module_driving_seatbelt_comfort	14	Seatbelt comfort	安全带舒适
+string	driving_module_driving_seatbelt_comfort_tip	31	Seatbelt tightens to comfort position	安全带自动收紧到舒适位置
+string	driving_module_driving_title	11	Driving preferences	驾驶偏好
+string	driving_one_pedal_title	37	One-pedal icon on driver display:	仪表One-pedal 图标功能示意：
+string	driving_p_back_launcher	11	Gear linkage	挡位联动
+string	driving_p_back_launcher_tip	46	Shift to P to return to Home, shift to D to open Navigation	挂P挡自动回到桌面，挂D挡自动切到导航
+string	driving_p_back_launcher_tip_text	65	Turning this on disables “Door quick control” in door settings	开启此功能，将自动关闭车门设置下的“车门快捷控制”选项
+string	driving_parking_EPB	11	Parking brake	驻车制动
+string	driving_parking_EPB_appl	16	Apply parking brake	激活驻车制动
+string	driving_parking_EPB_releas	16	Release parking brake	解除驻车制动
+string	driving_parking_EPB_tip_dc	33	Press brake to release parking brake	解除驻车制动需踩下制动踏板
+string	driving_quick_hdc	11	Hill Descent Control	陡坡缓降
+string	driving_quick_leak	6	Leak	漏气
+string	driving_regen_level	16	Regeneration level	能量回收等级
+string	driving_sensor_low	16	Sensor battery low	传感器电量低
+string	driving_special_road_conditions	11	Special road conditions	特殊路况
+string	driving_speed_mode_title	11	Driving assist	行车辅助
+string	driving_speed_warning_mode_info	16	Set alert speed	设置提醒车速
+string	driving_speed_warning_mode_option	11	Speed limit alert	限速提醒
+string	driving_steer_position	11	Steering position	转向位置
+string	driving_suspension_content_tip1	57	Suspension lowering\nWatch for obstacles to avoid scraping	"悬架正在下降\n请注意周围障碍物，避免底盘磕碰"
+string	driving_suspension_content_tip2	47	Suspension stopped lowering\nReturning to previous height	"悬架已停止下降\n正在恢复至上一个位置"
+string	driving_switch_parking_know	9	Got it	知道了
+string	driving_switch_parking_text	96	Fasten driver seatbelt, close the door and press the brake firmly to activate. Auto Hold cannot be turned off while One-Pedal is active	主驾系好安全带、关闭车门并深踩刹车即可激活，One-Pedal激活时，自动驻车不可关闭
+string	driving_switch_parking_title	11	Auto Hold	自动驻车
+string	driving_system_fail	11	System fault	系统故障
+string	driving_textID_descent_info	50	Vehicle descends hills at a safe speed without braking	车辆可以在没有刹车的情况下以安全速度下坡
+string	driving_text_kindly_reminder	11	Reminder	温馨提示
+string	driving_tip	34	Recommended cold tire pressure: 260-290 kPa	建议的冷胎压力：260-290kPa
+string	driving_tire_pressure_pressure_unit_bar	6	bar	bar
+string	driving_tire_pressure_pressure_unit_kpa	6	kPa	kPa
+string	driving_tire_pressure_pressure_unit_psi	6	psi	psi
+string	driving_turn_back_to_positive_alarm	16	Steering not centered alarm	转向回正报警
+string	driving_turn_back_to_positive_alarm_info	36	Alert if steering not straight at start	车辆起步前转向未回正将会提醒
+string	driving_tyre_pressure_title	11	Tire pressure	胎压监测
+string	driving_widget_all_error_tip	36	Visit a service center or call assistance	请到就近的4S店检查或呼叫救援
+string	driving_widget_tire_pressure_result_fast_pressure_loss_front_left	21	Front left tire losing pressure	左前轮胎正在漏气
+string	driving_widget_tire_pressure_result_fast_pressure_loss_front_right	21	Front right tire losing pressure	右前轮胎正在漏气
+string	driving_widget_tire_pressure_result_fast_pressure_loss_multiple	21	Multiple tires losing pressure	多个轮胎正在漏气
+string	driving_widget_tire_pressure_result_fast_pressure_loss_rear_left	21	Rear left tire losing pressure	左后轮胎正在漏气
+string	driving_widget_tire_pressure_result_fast_pressure_loss_rear_right	21	Rear right tire losing pressure	右后轮胎正在漏气
+string	driving_widget_tire_pressure_result_high_pressure_front_left	21	Front left tire pressure high	左前轮胎胎压过高
+string	driving_widget_tire_pressure_result_high_pressure_front_right	21	Front right tire pressure high	右前轮胎胎压过高
+string	driving_widget_tire_pressure_result_high_pressure_multiple	21	Multiple tires pressure high	多个轮胎胎压过高
+string	driving_widget_tire_pressure_result_high_pressure_rear_left	21	Rear left tire pressure high	左后轮胎胎压过高
+string	driving_widget_tire_pressure_result_high_pressure_rear_right	21	Rear right tire pressure high	右后轮胎胎压过高
+string	driving_widget_tire_pressure_result_high_temperature_front_left	21	Front left tire temperature high	左前轮胎温度过高
+string	driving_widget_tire_pressure_result_high_temperature_front_right	21	Front right tire temperature high	右前轮胎温度过高
+string	driving_widget_tire_pressure_result_high_temperature_multiple	21	Multiple tires temperature high	多个轮胎温度过高
+string	driving_widget_tire_pressure_result_high_temperature_rear_left	21	Rear left tire temperature high	左后轮胎温度过高
+string	driving_widget_tire_pressure_result_high_temperature_rear_right	21	Rear right tire temperature high	右后轮胎温度过高
+string	driving_widget_tire_pressure_result_low_pressure_front_left	21	Front left tire pressure low	左前轮胎胎压过低
+string	driving_widget_tire_pressure_result_low_pressure_front_right	21	Front right tire pressure low	右前轮胎胎压过低
+string	driving_widget_tire_pressure_result_low_pressure_multiple	21	Multiple tires pressure low	多个轮胎胎压过低
+string	driving_widget_tire_pressure_result_low_pressure_rear_left	21	Rear left tire pressure low	左后轮胎胎压过低
+string	driving_widget_tire_pressure_result_low_pressure_rear_right	21	Rear right tire pressure low	右后轮胎胎压过低
+string	driving_widget_tire_pressure_result_monitor_system_fault_front_left	31	Front left tire pressure monitoring fault	左前轮胎胎压监测系统故障
+string	driving_widget_tire_pressure_result_monitor_system_fault_front_right	31	Front right tire pressure monitoring fault	右前轮胎胎压监测系统故障
+string	driving_widget_tire_pressure_result_monitor_system_fault_multiple	31	Multiple tires pressure monitoring fault	多个轮胎胎压监测系统故障
+string	driving_widget_tire_pressure_result_monitor_system_fault_rear_left	31	Rear left tire pressure monitoring fault	左后轮胎胎压监测系统故障
+string	driving_widget_tire_pressure_result_monitor_system_fault_rear_right	31	Rear right tire pressure monitoring fault	右后轮胎胎压监测系统故障
+string	driving_widget_tire_pressure_result_ok	11	Tire pressure normal	胎压正常
+string	driving_widget_tire_pressure_result_ok_tip	64	Correct tire pressure reduces energy use and tire wear,\nand improves handling	"最佳轮胎压力可以降低能耗和轮胎磨损，\n提高操控性能"
+string	driving_widget_tire_pressure_result_sensor_battery_low_front_left	26	Front left tire sensor battery low	左前轮胎传感器电量低
+string	driving_widget_tire_pressure_result_sensor_battery_low_front_right	26	Front right tire sensor battery low	右前轮胎传感器电量低
+string	driving_widget_tire_pressure_result_sensor_battery_low_multiple	26	Multiple tire sensors battery low	多个轮胎传感器电量低
+string	driving_widget_tire_pressure_result_sensor_battery_low_rear_left	26	Rear left tire sensor battery low	左后轮胎传感器电量低
+string	driving_widget_tire_pressure_result_sensor_battery_low_rear_right	26	Rear right tire sensor battery low	右后轮胎传感器电量低
+string	easy_enter_tips	116	Entering: press the brake, the seat moves to driving position\nExiting: in P, unbuckle or open the driver door, the seat moves back	"上车时：踩下制动踏板，座椅自动调节至驾驶位置\n下车时：P挡下解开主驾安全带或开主驾门，座椅后移"
+string	energy_air_conditioning	11	Comfortable cabin	座舱舒适
+string	energy_air_conditioning_intro	38	Automatically adjust cabin temperature 15 minutes before travel	出行前 15 分钟自动调节座舱温度
+string	energy_appoint_one_day	19	Please make an appointment for at least one day	请至少预约一天
+string	energy_appoint_time_diff	33	Start time cannot be the same as end time	开始时间不能与结束时间相同
+string	energy_battery_heat	11	Plug-in warming	插枪维温
+string	energy_battery_heat_intro	75	Uses grid power to keep the battery warm for 24 hours after charging, for a better driving experience	充电结束后24小时内利用电网能量给电池维温，以获得更好驾驶体验
+string	energy_battery_life	11	Range	续航电量
+string	energy_battery_preheat	11	Battery temperature maintenance	电池维温
+string	energy_battery_preheat_intro	123	Uses grid power before trips to condition the battery for better range; may cost extra. Recommended below 0°C or above 40°C	出行前使用电网电能调节电池温度以获得更优续航，可能增加额外费用；环境温度低于 0°C或高于 40°C建议开启
+string	energy_btn_power_external	16	Power to devices	对外设备供电
+string	energy_btn_power_other	16	Power to vehicle	对外车辆供电
+string	energy_btn_start_charging	11	Start charging	开始充电
+string	energy_btn_stop_charging	11	Stop charging	停止充电
+string	energy_cable_status_connect_ac	16	Charging plug connected (AC)	已插枪(交流)
+string	energy_cable_status_connect_dc	16	Charging plug connected (DC)	已插枪(直流)
+string	energy_cable_status_connect_fault	11	Connection fault	连接故障
+string	energy_cable_status_no_double	33	Do not connect the AC plug and the DC plug at the same times	请勿同时插入交流枪和直流枪
+string	energy_cap_ac	16	AC charging port cover	交流充电口盖
+string	energy_cap_dc	16	DC charging port cover	直流充电口盖
+string	energy_charge_appoint	11	Scheduled charging	预约充电
+string	energy_charge_appoint_cancel_fail	21	Scheduled charging cancellation failed	预约充电取消失败
+string	energy_charge_appoint_cancel_success	21	Scheduled charging canceled successfully	预约充电取消成功
+string	energy_charge_appoint_set_fail	21	Scheduled charging setting failed	预约充电设置失败
+string	energy_charge_appoint_set_success	21	Scheduled charging set successfully	预约充电设置成功
+string	energy_charge_battery_heat	11	Battery warming	电池保温
+string	energy_charge_battery_heat_intro	92	Keeps the battery warm with grid power for 24h after reaching target charge.\nRecommended above 40℃ or below 0℃	充至目标电量24h内将利用电网能量继续保温电池，建议温度高于40℃或低于0℃时开启
+string	energy_charge_battery_temp_little_low_tips	43	The current battery temperature is slightly low and the charging rate is slightly reduced	当前电池温度略低，充电速率轻微下降
+string	energy_charge_battery_temp_low_tips	36	The current battery temperature is low and the charging rate is reduced	当前电池温度低，充电速率下降
+string	energy_charge_battery_temp_very_low_tips	43	The current battery temperature is very low, and the charging rate is obviously reduced	当前电池温度过低，充电速率明显下降
+string	energy_charge_cap	11	Charging port cover	充电口盖
+string	energy_charge_charging_limit	11	Charge to limit	充至限值
+string	energy_charge_friday	6	Friday	周五
+string	energy_charge_full	11	About to be full	即将充满
+string	energy_charge_limit	11	Charging limit	充电限值
+string	energy_charge_monday	6	Monday	周一
+string	energy_charge_more_settings	11	More settings	更多设置
+string	energy_charge_next_day	6	Next day	次日
+string	energy_charge_per_week	6	Weekly	每周
+string	energy_charge_pre_heating_button_name	16	Battery conditioning	电池温度调节
+string	energy_charge_pre_heating_button_tips	159	Starts conditioning the battery now for faster charging. Uses some energy; the longer it runs, the more it uses. Recommended on the way to a fast charger	开启后，车辆立即为电池进行温度调节，以提高充电功率，开启后需要消耗一定电量，开启时间越长，消耗电量越多。建议在去快充站时开启该功能
+string	energy_charge_pre_heating_switch_name	21	Smart battery conditioning	智能调节电池温度
+string	energy_charge_pre_heating_switch_tips	111	When navigating to a charger, the system conditions the\nbattery before charging for faster charging. Uses extra energy	开启后，导航去充电站的途中，系统会在充电前智能调节电池温度以提高充电效率，会有额外电量消耗
+string	energy_charge_saturday	6	Saturday	周六
+string	energy_charge_soc_tips_intro	31	Set the current limit, charging will be stopped	设置当前限值，将停止充电
+string	energy_charge_status_booking	9	Appointment in progress	预约中
+string	energy_charge_status_charging	9	Charging	充电中
+string	energy_charge_status_charging_done	11	Charging stopped	充电停止
+string	energy_charge_status_charging_fault	11	Charging fault	充电故障
+string	energy_charge_status_preheating	19	Battery temperature regulation in progress	电池温度调节中
+string	energy_charge_status_super_fast_charging	9	Fast charging	极充中
+string	energy_charge_sunday	6	Sunday	周日
+string	energy_charge_temp_best	26	The battery has reached the optimum charging temperature.	电池已到最佳充电温度
+string	energy_charge_three_voltage	16	Voltage (three-phase)	电压（三相）
+string	energy_charge_thursday	6	Thursday	周四
+string	energy_charge_tips	6	Hint	提示
+string	energy_charge_today	6	Today	今日
+string	energy_charge_tomorrow	6	Tomorrow	明日
+string	energy_charge_tuesday	6	Tuesday	周二
+string	energy_charge_wednesday	6	Wednesday	周三
+string	energy_charge_week	4	Week	周
+string	energy_charge_wpc_name	16	Wireless phone charging	手机无线充电
+string	energy_charge_wpc_tips	60	Do not place metal objects between the phone and the charging pad	充电时，请勿在手机和充电板之间放置任何金属类物品
+string	energy_charging_current_range_unit_mile	7	mile	mile
+string	energy_charging_minute_unit	6	min	min
+string	energy_charging_speed_range_unit_kw	6	kWh	kWh
+string	energy_charging_speed_range_unit_mile	6	mph	mph
+string	energy_charging_speed_unit	7	km/h	km/h
+string	energy_charging_speed_unit_km	7	km/h	km/h
+string	energy_current	6	Current	电流
+string	energy_daily	6	per day	每天
+string	energy_date_selection	11	Date selection	日期选择
+string	energy_dialog_close	6	Close	关闭
+string	energy_dialog_two_button_close	6	Close	关闭
+string	energy_dis_limit	11	Power supply limit	供电限值
+string	energy_dis_statistics	16	Power supply statistics	供电电量统计
+string	energy_end_time	11	End time	结束时间
+string	energy_estimate_mileage	11	Estimated mileage	预估里程
+string	energy_first_charge_full	11	Prioritize full charge	优先充满
+string	energy_first_charge_full_intro	43	If not full by end time, charging continues	到达结束时间，尚未满电，将继续充电
+string	energy_first_charge_limit	21	Prior to charging to limit	优先充至充电限值
+string	energy_first_charge_limit_intro	50	When the end time is reached and the charging limit is not reached, the charging will be continued.	到达结束时间，未充至充电限值，将继续充电
+string	energy_long_distance	6	Long distance	长途
+string	energy_no_function_tips	11	Coming soon	敬请期待
+string	energy_please_set	9	Please set	请设置
+string	energy_pre_travel	11	Scheduled travel	预约出行
+string	energy_pre_travel_cancel_fail	21	Scheduled travel cancellation failed	预约出行取消失败
+string	energy_pre_travel_cancel_success	21	Scheduled travel setting failed	预约出行取消成功
+string	energy_pre_travel_set_fail	21	Scheduled travel setting failed	预约出行设置失败
+string	energy_pre_travel_set_success	21	Scheduled travel set successfully	预约出行设置成功
+string	energy_range	11	Range	续航里程
+string	energy_range_switch_intro	106	The standard endurance is the driving range displayed based on working conditions in the national standard;Dynamic range is the driving range displayed based on recent driving style	标准续航为按照国家标准工况驾驶显示的续航里程；动态续航为根据近期驾驶风格显示的续航里程
+string	energy_range_switch_title	22	Standard endurance / dynamic endurance	标准续航/动态续航
+string	energy_repeat	6	Repeat	重复
+string	energy_set_max_a	26	Set max AC charging current	设置最大交流充电电流
+string	energy_speed	11	Charging rate	充电速度
+string	energy_start_dis	11	Start the power supply	开始供电
+string	energy_start_time	11	Start time	开始时间
+string	energy_status_battery_fault	16	High voltage battery fault	动力电池故障
+string	energy_status_discharging	14	External power supply in progress	对外供电中
+string	energy_status_discharging_done	11	End of power supply	供电结束
+string	energy_status_discharging_fault	11	Power supply failure	供电故障
+string	energy_stop_dis	11	Stop the power supply	停止供电
+string	energy_text_charge_limit	17	Charging limit%d%%	充电限值%d%%
+string	energy_text_discharge_limit	17	Power supply limit%d%%	供电限值%d%%
+string	energy_travel_time	11	Travel time	出行时间
+string	energy_trip_1	8	Trip 1	行程1
+string	energy_trip_2	8	Trip 2	行程2
+string	energy_trip_begins_in	11	Started on %s	开始于%s
+string	energy_trip_consumption_history	11	Historical energy consumption	历史能耗
+string	energy_trip_consumption_history_current_position	11	Current position	当前位置
+string	energy_trip_consumption_history_kwh_100km	14	kWh/100km	kWh/100km
+string	energy_trip_consumption_history_other_position	12	%skm past	过去%skm
+string	energy_trip_data	11	Trip data	行程数据
+string	energy_trip_data_average_speed	11	Average speed	平均车速
+string	energy_trip_data_distance	11	Distance	行驶距离
+string	energy_trip_data_elapsed_driving_time	11	Time consumption	行驶时长
+string	energy_trip_data_manual_reset	6	Reset	重置
+string	energy_trip_data_motion_consumption	11	Dynamic energy consumption	动态能耗
+string	energy_trip_data_static_consumption	11	Static energy consumption	静态能耗
+string	energy_trip_data_subtitle	26	Data of this trip	本次行程数据各项数据
+string	energy_trip_data_tabs_reset_charging	11	Charge reset	充电重置
+string	energy_trip_data_tabs_reset_driving_cycle	11	Parking reset	停车重置
+string	energy_trip_data_total_consumption	11	Total energy consumption	总计能耗
+string	energy_trip_data_unit_kmh	7	km/h	km/h
+string	energy_trip_data_unit_kwh	6	kWh	kWh
+string	energy_trip_data_unit_min	6	min	min
+string	energy_trip_distribution	11	Energy consumption allocation	能耗分配
+string	energy_trip_distribution_air_conditioning_system	11	AC system	空调系统
+string	energy_trip_distribution_battery_temperature_control	11	BMS	电池温控
+string	energy_trip_distribution_low_voltage_system	11	Low voltage system	低压系统
+string	energy_trip_distribution_other_system	11	Other systems	其他系统
+string	energy_trip_distribution_propulsion_system	11	Drive system	驱动系统
+string	energy_trip_distribution_subtitle	31	Proportion of energy consumption of each system after the start of trip	行程开始后各系统能耗占比
+string	energy_usual	6	Daily use	日常
+string	energy_voltage	6	Voltage	电压
+string	energy_work_power	11	Charging power	充电功率
+string	error_a11y_label	20	Error: invalid	
+string	exposed_dropdown_menu_content_description	16	Show dropdown menu	显示下拉菜单
+string	game_view_content_description	41	game_view_content_description	
+string	hmi_seat_adjust_name_driver	6	Driver	主驾
+string	hmi_seat_adjust_name_passenger	6	Passenger	副驾
+string	hmi_seat_adjust_name_rear	6	Rear	后排
+string	hmi_seat_adjust_part	11	Adjust	调节部位
+string	hmi_seat_adjust_restore	6	Restore	恢复
+string	hmi_seat_adjust_save	6	Save	保存
+string	hmi_seat_drvr_restore_success_toast	34	Driver position will restore to [%1$s]	主驾位置即将恢复到【%1$s】
+string	hmi_seat_drvr_save_habit_success_toast	38	Driver position saved and switched to [%1$s]	主驾位置已保存并切换到【%1$s】
+string	hmi_seat_drvr_save_success_toast	31	Driver position saved to [%1$s]	主驾位置已保存到【%1$s】
+string	hmi_seat_easydriver	16	Driver easy entry	主驾便利进出
+string	hmi_seat_pass_habit_tips	14	Passenger preferred position	副驾偏好位
+string	hmi_seat_pass_restore_success_toast	36	Restoring passenger preferred position	副驾位置即将恢复到副驾偏好位
+string	hmi_seat_pass_save_success_toast	33	Passenger preferred position saved	副驾位置已保存到副驾偏好位
+string	hmi_seat_rdg_backrest	6	Backrest	靠背
+string	hmi_seat_rdg_backrest_rear_left	11	Rear left	主驾后排
+string	hmi_seat_rdg_backrest_rear_right	11	Rear right	副驾后排
+string	hmi_seat_rdg_cushion	6	Cushion	坐垫
+string	hmi_seat_rdg_driver	6	Seat	座椅
+string	hmi_seat_rdg_lumbar	6	Lumbar	腰托
+string	hmi_seat_tabname_0	11	Seat massage	座椅按摩
+string	hmi_seat_tabname_1	11	Seat adjustment	座椅调节
+string	i_common_know	9	Got it	知道了
+string	lab_theater_mode	11	Theater mode	影院模式
+string	lab_theater_mode_info	62	Automatically adjust seat, climate, lighting etc., for watching videos	自动调节座椅、空调、灯光等功能，营造舒适的观影环境
+string	light_auto	14	Auto reading lights	自动阅读灯
+string	light_auto_text	43	On when unlocking or opening a door	车辆解锁或车门打开时阅读灯自动开启
+string	light_charge	11	Charging light show	充电灯语
+string	light_charge_text	49	Plays a light show when charging starts, stops after 2 minutes	开始充电时播放灯语，持续2分钟后自动停止
+string	light_settings_text	6	Settings	设置
+string	light_taillight	16	Daytime running tail lights	日间行车尾灯
+string	light_taillight_text	40	Rear position lights on with DRL	开启后，后位置灯随日间行车灯点亮
+string	lighting_approach_light_option	11	Approach light	接近照明
+string	lighting_approach_switch_title	62	When you approach with the key, low beams and position lights turn on automatically	携带钥匙接近车辆，自动点亮近光灯和位置灯，提供照明
+string	lighting_bending_light_option	11	Bending lights	弯道照明
+string	lighting_btn_lights_off	14	All reading lights OFF	阅读灯全关
+string	lighting_btn_lights_on	14	All reading lights ON	阅读灯全开
+string	lighting_dvring	11	Drive mode	驾驶模式
+string	lighting_ext_light_func	11	Light Settings	照明设置
+string	lighting_follow	9	Mood light	氛围灯
+string	lighting_home_safety_light_info	38	Set how long the lights are on after the car has been locked	设置锁定车辆后灯光延迟关闭时间
+string	lighting_home_safety_light_option	11	Home safety light	伴我回家
+string	lighting_in_sound	11	Generate Internal Sound	来电提醒
+string	lighting_lig_row	14	Rear Mood light	后排氛围灯
+string	lighting_lig_zon	14	Front Mood light	前排氛围灯
+string	lighting_light_mode_breathe	6	Breathe	呼吸
+string	lighting_light_mode_driving_mode	11	Driving mode	驾驶模式
+string	lighting_light_mode_gradation	6	Gradation	渐变
+string	lighting_light_mode_monochrome	6	Monochrome	单色
+string	lighting_light_mode_music_show	9	Music show	音乐秀
+string	lighting_light_mode_racing_mode	11	Racing mode	竞速模式
+string	lighting_light_mode_screen_rhythm	11	Screen rhythm	屏幕律动
+string	lighting_light_mode_theme_mode	11	Theme mode	主题模式
+string	lighting_music	9	Music Show	音乐秀
+string	lighting_phone_info	23	An incoming phone call will be indicated in the ambient light	来电时有氛围灯效果
+string	lighting_quick_fog	9	Rear fog light	后雾灯
+string	lighting_quick_weather	11	All-Weather Light	全气候灯
+string	lighting_read_front_left_content_description	25	Left reading light|Front left reading light	左阅读灯|左前阅读灯
+string	lighting_read_front_right_content_description	25	Right reading light|Front right reading light	右阅读灯|右前阅读灯
+string	lighting_read_rear_left_content_description	25	Left reading light|Rear left reading light	左阅读灯|左后阅读灯
+string	lighting_read_rear_right_content_description	25	Right reading light|Rear right reading light	右阅读灯|右后阅读灯
+string	lighting_sync_info	26	Synchronizing all the light zones to the front zone	整车氛围灯与前排同步
+string	lighting_sync_option	14	Syncing all the ambient light zones to the front zone	前后排同步
+string	lighting_textID_light_brightness	6	Brightness	亮度
+string	lighting_them_describe	38	In this mode, the brightness of the atmosphere lamp will change with the change of the external environment.	播放音乐时，氛围灯亮度随动变化
+string	lighting_theme	6	Theme	主题
+string	lighting_title_ext	6	Exterior Light	外灯
+string	lighting_title_text	11	Headlights	组合大灯
+string	main_safe_preson_info_protect_policy	31	ZEEKR Personal Information Protection Policy	极氪汽车个人信息保护政策
+string	main_safe_security_user_service_agreement	26	ZEEKR User Service Agreement	极氪汽车用户服务协议
+string	main_safe_security_zeekr_personal_information_protection_policy	38	ZEEKR Connected Car Privacy Policy	极氪汽车车联网个人信息保护政策
+string	main_safe_user_security	16	User Service Agreement	用户服务协议
+string	night_auto_cancel	6	Cancel	取消
+string	offroad_text_please_epedal_toast	43	In Off-road mode, stop mode supports Creep only	越野模式开启时，停止模式仅支持缓行
+string	ota_agree	6	Agree	同意
+string	ota_check_upgrade_log	28	See your vehicle update log	请查阅您车辆的升级日志
+string	ota_confirm	6	Confirm	确认
+string	ota_had_new_version_to_upgrade	23	A new version is available	您有新的版本可升级
+string	ota_i_know	9	Got it	知道了
+string	ota_loading	13	Loading...	加载中...
+string	ota_night_auto_cancel	6	Cancel	取消
+string	ota_night_auto_open	6	Turn on	开启
+string	ota_night_auto_upgrade	16	Night auto update	夜间自动升级
+string	ota_night_auto_upgrade_tip	52	When a new version is available, update starts automatically at 02:00	当系统有新版本时，自动在夜间02:00开始升级
+string	ota_night_auto_upgrade_tip3	110	New versions install automatically at 02:00. During the update you cannot drive, use the touchscreen or charge the vehicle.	有新版本时，将在凌晨02:00为您自动升级。升级过程中将无法驾驶车辆、使用触摸屏或给车辆充电。
+string	ota_night_auto_upgrade_tip4	140	An update is scheduled in %1$s h %2$s min. Turning this on moves it to 02:00 tonight, and future versions will install automatically at 02:00.	您已预约%1$s小时%2$s分钟升级，开关开启后将把升级时间调整为今晚02:00，且后续有新版本时将在凌晨02:00为您自动升级。
+string	ota_night_upgrade_close_dialog_content	104	Turning off Night auto update does not cancel scheduled updates. Cancel or change them in [Update management]	关闭“夜间自动升级”，不会取消已预约的升级任务，您可以通过【升级管理】来取消或修改预约
+string	ota_night_upgrade_close_dialog_title	26	Turn off Night auto update?	是否关闭夜间自动升级
+string	ota_night_upgrade_open_dialog_content	26	Turn on Night auto update?	是否开启夜间自动升级
+string	ota_os_version	16	Vehicle system version	整车系统版本
+string	ota_services_update_version	19	ZEEKR OS %1$s	ZEEKR OS %1$s
+string	ota_system_is_latest_version	28	Software is up to date	系统已是最新的软件版本
+string	ota_system_upgrade	11	Update management	升级管理
+string	ota_terms_service	11	Terms of Service	服务条款
+string	ota_upgrade_log	11	Update log	升级日志
+string	ota_upgrade_log_title	23	What’s new in the latest update	最新升级的新增内容
+string	ota_upgrade_manager	11	Update management	升级管理
+string	ota_you_can_read	14	You can read	您可以阅读
+string	parking_comfort	11	Comfortable parking	驻车舒享
+string	quick_setting_drive_mode_edit_content_description	33	Edit|Custom edit|Custom settings	编辑|个性化编辑|个性化设置
+string	quick_setting_driving_mode	11	Drive mode	驾驶模式
+string	quick_setting_park_dicription_text	85	After parking, climate, audio and video stay available until the set time ends or battery drops below 20%	停车后保持空调、音视频等功能持续可用，直到设定时长结束或 电量低于20%
+string	quick_setting_tv_edit	6	Edit	编辑
+string	rd_driving_esc_close	6	Off	关闭
+string	rd_driving_esc_drift	6	Drift	漂移
+string	rd_driving_esc_stand	6	Standard	标准
+string	safe_driving_text	14	Dashcam	行车记录仪
+string	safe_head_carSearchReminder_text	11	Find my car method	寻车方式
+string	safe_head_sdCardFormat_text	43	Formatting erases all recordings on the memory card	格式化将清除储存卡上的所有记录数据
+string	safe_head_sdCardFormat_tip_text	72	Formatting erases all data. Back up important data first. Continue?	格式化将清除所有数据，格式化前请备份重要数据，您想继续吗？
+string	safety_beta	7	Beta	Beta
+string	safety_car_washing_mode	11	Car wash mode	洗车模式
+string	safety_copilot_fatigue_alert	19	Driver monitoring	驾驶员状态检测
+string	safety_deactivate_glove_box_password_protection	23	Disable glove box PIN	停用手套箱密码保护
+string	safety_fatigue_monitor_describe	65	Alerts you when driver fatigue or distraction is detected, for safer driving	识别驾驶员有疲劳和分心时，及时发出提醒，保障驾驶安全
+string	safety_forgot_password	11	Forgot password	忘记密码
+string	safety_guard_mode	11	Sentry mode	哨兵模式
+string	safety_guard_mode_tasting_version	11	Sentry mode	哨兵模式
+string	safety_interior_visual_assistance	16	Interior visual assist	车内视觉辅助
+string	safety_intput_password_to_disable_glove_box_password_protection	33	Enter PIN to disable glove box PIN	输入密码停用手套箱密码保护
+string	safety_please_intput_password_again_to_confirm	28	Enter PIN again to confirm	请再次输入密码进行确认
+string	safety_please_open_sentinel_mode_when_the_vehicle_is_in_p_gear	42	Turn on Sentry mode with the vehicle in P	请在车辆处于P挡状态下开启哨兵模式
+string	safety_safe_security_sentinel_mode_user_agreement	11	Sentry mode	哨兵模式
+string	safety_safe_security_sentinel_mode_user_agreement_content	167	When on, the exterior cameras record and process data. Follow local laws and use this feature only where allowed; otherwise you are responsible for the consequences	当您开启该功能后，车身周身摄像头将被打开并收集处理信息，请注意所在当地法规，只有在法规允许的情况下才能开启本功能，否则后果由用户自身承担
+string	safety_safe_sentinel_mode_tip	99	With Sentry mode on, the vehicle monitors theft or vandalism, records video, sounds an alarm and notifies your phone	开启哨兵模式后，车辆可监测盗窃或破坏行为，自动录像、触发音频警告、推送通知到手机
+string	safety_safe_view_sentinel_video	21	View Sentry mode videos	查看哨兵模式视频
+string	safety_second_time_password_error_please_re_intput	40	PINs do not match, enter again	两次输入的密码不一致，请重新输入
+string	safety_security_safety_recording_resolution_content_description	9	Resolution	分辨率
+string	safety_security_user_service_agreement	26	ZEEKR User Service Agreement	极氪汽车用户服务协议
+string	safety_security_zeekr_personal_information_protection_policy	38	ZEEKR Connected Car Privacy Policy	极氪汽车车联网个人信息保护政策
+string	safety_sentinel_mode_description_1	11	How it works	功能说明
+string	safety_sentinel_mode_description_10	117	A loud alarm plays when triggered, so do not leave people or animals in the vehicle. Sentry mode records video; do not use it in public areas	触发报警后会播放高音警报，请避免⻋内留置人员或动物。哨兵模式具有视频拍摄功能，请勿在公共区域开启
+string	safety_sentinel_mode_description_3	15	App notifications	APP消息通知
+string	safety_sentinel_mode_description_4	77	Turn on ZEEKR app notifications to receive vehicle status right away	为了方便第一时间接收⻋辆状态信息，请及时打开极氪app消息通知功能
+string	safety_sentinel_mode_description_5	10	Add USB drive	添加U盘
+string	safety_sentinel_mode_description_7	11	Power consumption	电量损耗
+string	safety_sentinel_mode_description_8	108	This feature uses extra power and exits automatically below 20% battery. To save power, it stays on for the current session only	功能开启后会消耗额外电量，电量低于20%时功能自动退出。为避免电量消耗，功能开关仅当次有效
+string	safety_sentinel_mode_description_9	6	Note	注意
+string	safety_sentinel_mode_keep_mirror_open	19	Keep mirrors unfolded	后视镜保持展开
+string	safety_sentinel_mode_keep_mirror_open_describe	168	When on, mirrors unfold 30s after Sentry turns on and the car locks, so the mirror cameras have no blind spots. Unfolding remotely may hit nearby objects.	开关打开后，为避免后视镜折叠导致下⽅摄像头产⽣识别盲区，哨兵开启且锁⻋30秒后视镜将⾃动展开。远程开启哨兵时须注意后视镜展开可能导致磕碰损坏。
+string	safety_submit	6	Confirm	确定
+string	safety_unlock_glove_box	14	Unlock glove box	解锁手套箱
+string	safety_video_play_forbid_title	26	Instructions for the use of the driving entertainment function	行车娱乐功能使用须知
+string	safety_video_segment_duration	16	Video segment length	视频分段时长
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	snow_text_please_epedal_toast	43	In Snow mode, stop mode supports Creep only	雪地模式开启时，停止模式仅支持缓行
+string	sound_common_reverse_suppressor	19	Reducing media volume while reversing	倒车降低媒体音
+string	sound_common_reverse_suppressor_tip	27	Media volume decreases automatically when in R gear	R挡时媒体音量自动降低
+string	soundnotify_mecha_frenzy	11	Mecha frenzy	机甲狂潮
+string	soundnotity_time_travel	11	Time travel	时空穿梭
+string	text_please_close_offroad_mode	28	Turn off Off-road mode first	请关闭越野模式后再选择
+string	text_please_close_snow_mode	28	Turn off Snow mode first	请关闭雪地模式后再选择
+string	text_please_epedal_toast	33	This option requires stop mode set to Creep	该选项仅支持停止模式为缓行
+string	upload_close	6	OFF	关闭
+string	upload_explain_text	65	Reproduce exceptions and upload data for accurate analysis and improved experience of problems	复现异常情形并上传数据，以便问题的精准分析与体验完善
+string	upload_explain_text2	70	Reproduce exceptions and upload log data for accurate analysis and improved experience of problems	复现异常情形并上传日志数据，以便问题的精准分析与体验完善
+string	upload_log_cancel	6	Cancel	取消
+string	upload_log_explore_content	636	\u0009\u0009\u0009 We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. <br/> \u0009\u0009\u0009 We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. <br/> <br/> \u0009\u0009\u0009 Uploading IHU logs will consume some network traffic	\u0009\u0009我们始终把用户体验放在第一位。为了优化和完善系统功能，我们诚邀您在这方面助极氪一臂之力。车机运行日志信息，包括系统运行过程中产出的异常、错误、警告等信息，该部分信息的获取是为了帮助我们快速完成系统远程诊断。<br/> \u0009\u0009特此声明，我们收集的车机日志信息 不会主动关联您的个人信息，但不排除系统运行中带有相关您使用过程中的个人信息。这些信息的收集、传输和使用也将会使用相关的安全技术进行保护。<br/> \u0009\u0009（此外，上传车机日志，将会消耗部分网络流量。）<br/> \u0009\u0009您是否同意上传车机运行日志？
+string	upload_log_explore_content_bx	571	\u0009\u0009\u0009 We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. <br/> \u0009\u0009\u0009 We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. <br/> <br/> \u0009\u0009\u0009 Uploading IHU logs will consume some network traffic	\u0009\u0009\u0009我们始终把⽤户体验放在第⼀位。为了优化和完善系统功能，我们诚邀您在这⽅⾯助极氪⼀臂之⼒。⻋机运⾏⽇志信息，包括系统运⾏过程中产出的异常、错误、警告等信息，该部分信息的获取是为了帮助我们快速完成系统远程诊断。<br/> \u0009\u0009\u0009特此声明，我们收集的⻋机⽇志信息不会主动关联您的个⼈信息，但不排除系统运⾏中带有相关您使⽤过程中的个⼈信息。这些信息的收集、传输和使⽤也将会使⽤相关的安全技术进⾏保护。<br/> <br/> \u0009\u0009\u0009上传⻋机⽇志，将会消耗部分⽹络流量
+string	upload_log_explore_title	16	Log Upload Notice	日志上传须知
+string	upload_log_failed_tip	11	Upload failed	上传失败
+string	upload_log_full_failed	22	Upload failed. Insufficient space	上传失败，空间不⾜
+string	upload_log_hide	6	Hide	隐藏
+string	upload_log_network_error_tip	57	Weak network, upload paused. It will resume when network recovers	网络信号弱，上传已中断。网络恢复时，将继续上传
+string	upload_log_repeat_toast	42	The interval between the two operations is too short. Please try again in %1d minutes	两次操作间隔太短，请%1d分钟后再试
+string	upload_log_server_error_tip	28	The server is abnormal. Please try again later	服务器异常，请稍后再试
+string	upload_log_start	6	Start	开始
+string	upload_log_stop_and_upload	14	End and upload	结束并上传
+string	upload_log_succeed	11	Upload succeeded	上传成功
+string	upload_log_uploading	9	Uploading	上传中
+string	upload_log_zipping_progress	9	Being compressed	压缩中
+string	upload_logcat	11	Abnormal feedback	异常反馈
+string	upload_logcat_bx1e	11	Abnormal feedback	异常反馈
+string	upload_logcat_content1	40	1. Click Start Capture to start log capture	1、点击“开始抓取”，启动日志抓取
+string	upload_logcat_content2	42	2. Operate the relevant functions again until the exception reappears	2、再操作相关功能直到复现异常情形
+string	upload_logcat_content3	76	"3. After the problem reappears, go back to the original page and click End and upload \n to stop capture and upload the data"	"3、问题复现后，回本⻚⾯点击“结束并上 \n 传”停止抓取并上传数据"
+string	upload_logcat_text	11	Abnormal feedback	异常反馈
+string	upload_logcat_text2	11	Abnormal feedback	异常反馈
+string	upload_logcat_title	31	Please keep the IHU powered on and connected to the network	请保持车机上电并连接网络
+string	upload_start_logcat	11	Start capture	开始抓取
+string	upload_sure	6	Confirm	确定
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

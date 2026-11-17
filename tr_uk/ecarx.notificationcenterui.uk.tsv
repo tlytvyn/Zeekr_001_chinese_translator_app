@@ -1,0 +1,128 @@
+array	channel_black_list	ALR ‖ SCN ‖ SCN_HEADSUP ‖ GEN ‖ DSK ‖ TPP ‖ BAT ‖ HNT ‖ NETWORK_STATUS ‖ NETWORK_ALERTS ‖ NETWORK_AVAILABLE ‖ USB ‖ SYSTEM_CHANGES ‖ VIRTUAL_KEYBOARD ‖ PHYSICAL_KEYBOARD ‖ SECURITY ‖ CAR_MODE ‖ ACCOUNT ‖ DEVELOPER ‖ UPDATES ‖ VPN ‖ HEAVY_WEIGHT_APP ‖ FOREGROUND_SERVICE ‖ DO_NOT_DISTURB ‖ HEAVY_WEIGHT_APP ‖ QDMAUI_Noti_Channel
+array	notify_black_list	android ‖ system ‖ com.android.systemui ‖ com.android.server.telecom ‖ com.android.phone ‖ com.android.bluetooth ‖ com.google.android.inputmethod.pinyin ‖ com.android.settings
+string	access_point_mode	Точка доступу
+string	agree_enter	Погодитися
+string	all_window_close	Закр. вікна
+string	all_window_open	Відкр. вікна
+string	all_window_ventilate	Провітрити
+string	apa	Автопаркування
+string	app_name	XSFNotificationCenter
+string	auto_hold	Auto hold
+string	automatic_lane_change_assist	ALCA
+string	avp	Avp
+string	bluetooth	Bluetooth
+string	brightness_auto	Автояскрав.
+string	brvah_load_end	Більше немає
+string	brvah_load_failed	Помилка, торкніться ще
+string	brvah_loading	Завантаження…
+string	camp_mode	Кемпінг
+string	car_hotspot	Хот-спот
+string	child_lock	Дит. замок
+string	chip_text	Текст чипа
+string	clean_screen	Чист. екрана
+string	clear_al	Очистити все
+string	convenient_ingress_and_egress	Зручна посадка
+string	convenient_ingress_option	Зручна посадка
+string	custom	Власний
+string	custom_shortcuts	Власні ярлики
+string	custom_shortcuts_hint	Торкніться або перетягніть, щоб додати чи видалити ярлики
+string	dhu	Центр.
+string	dim	Панель
+string	disconnect_txt	Вимк.
+string	display_clear_csd	Чищення екрана
+string	display_clear_csd_long_click	Утримуйте 3 с для виходу
+string	display_clear_csd_sec_title	Протирайте сенсорний екран м’якою серветкою для моніторів і дисплеїв. Ніколи не використовуйте мийні засоби, вологі серветки чи сухі матеріали зі статичним зарядом.
+string	distance_control	Парктронік
+string	door_lock	Центр. замок
+string	drift_mode	Режим дрифту
+string	drift_tips	Цю функцію можна активувати лише в циклі руху на P, коли всі пасажири пристебнуті; ремені мають бути пристебнуті весь час. Якщо під час зупинки відстебнути будь-який ремінь, режим дрифту автоматично вимкнеться;\nДля активації заряд батареї має перевищувати 20% SOC; режим автоматично вимикається, коли SOC падає нижче 20%;\nДля активації всі системи автомобіля мають працювати справно; у разі несправності режим автоматично вимикається;\nВимоги:\n1. Використовуйте цю функцію лише на гоночних трасах або спеціалізованих майданчиках, що відповідають національним стандартам безпеки. Ніколи не використовуйте її на дорогах загального користування чи в місцях, що не відповідають стандартам безпеки.\n2. З міркувань безпеки в режимі дрифту використовуйте оригінальний дрифт-комплект.\n3. Режим дрифту потребує професійних навичок водіння; водій повинен мати щонайменше x років водійського стажу.\nКоли режим дрифту активний:\n1. Режим потужності — Спорт;\n2. E-pedal і Autohold за замовчуванням вимкнені.\n3. ESC вимкнено.\n4. Рекуперацію встановлено на низький рівень.
+string	drift_title	Умови режиму дрифту
+string	drive_mode_comfort	Комфорт
+string	drive_mode_eco	Еко
+string	drive_mode_individual	Індивід.
+string	drive_mode_off_road	Бездоріжжя
+string	drive_mode_sand	Пісок
+string	drive_mode_snow	Сніг
+string	drive_mode_sport	Спорт
+string	driver_massage	Масаж водія
+string	driver_rest	Відпочинок водія
+string	edit	Змін.
+string	edit_page_divider_hint	Елементи вище показано на панелі швидкого доступу. Утримуйте й перетягніть, щоб замінити або змінити порядок
+string	eject_tips	Попередження: під час Launch Control водій несе відповідальність за повний контроль над автомобілем і безпечні умови руху. Використовуйте лише тоді, коли умови безпечні. Багаторазові старти протягом тривалого часу можуть знизити ефективність систем приводу й гальм; користуйтеся цією функцією обережно. \n \nВимоги: \n1. Автомобіль має стояти, двері закриті, усі пасажири пристебнуті \n2. Температура силової установки має бути нормальною, а батарея достатньо заряджена \n3. Вимкніть функції допомоги водієві, вирівняйте кермо, відпустіть електронне стоянкове гальмо й увімкніть D \n \nІнструкція: \n1. Увімкніть «Launch Control» \n2. Повністю натисніть гальмо, потім повністю натисніть акселератор. Коли на панелі приладів з’явиться launch mode active, протягом 4 секунд повністю відпустіть педаль гальма — автомобіль рушить із максимальним прискоренням. (Якщо показано launch mode failed, перевірте повідомлення на центральному дисплеї та стан автомобіля) \n \nВи повністю розумієте наведене вище й погоджуєтеся?
+string	eject_title	Умови Launch Control
+string	ejection_start	Launch Control
+string	feedback	Відгук
+string	front_charge_lid	Лючок AC
+string	hot_count_txt	Підкл.: %d
+string	hud	HUD налашт.
+string	label	Мітка
+string	left_child_lock	Лів. дит. замок
+string	left_mirror	Ліве дзеркало
+string	light_follow	Підсвітка
+string	low_drive_warn	Звук низької швидк.
+string	nap_mode	Відпочинок
+string	network_reset	Скин. мережі
+string	no_notification	Немає сповіщень
+string	notification	Сповіщення
+string	notify_count_notification	Ще сповіщень: %1$d
+string	notify_header_text_friday	П’ятниця
+string	notify_header_text_monday	Понеділок
+string	notify_header_text_saturday	Субота
+string	notify_header_text_sunday	Неділя
+string	notify_header_text_thursday	Четвер
+string	notify_header_text_tuesday	Вівторок
+string	notify_header_text_wednesday	Середа
+string	notify_header_text_yesterday	Учора
+string	notify_item_clear	Усе
+string	notify_item_delete	Видал.
+string	notify_item_disable	Вимкнути
+string	notify_new_notification_header	Нове сповіщення
+string	notify_normal_bar_text	У вас нове повідомлення!
+string	notify_system_app	Система
+string	off_screen	Вимк.
+string	pac	PAC
+string	park_comfort	Комфорт стоянки
+string	passenger_massage	Масаж пасаж.
+string	passenger_rest	Відпочинок пасаж.
+string	position_fold	Скласти дзерк.
+string	quick_control	Швидка панель
+string	quick_fog	Задн. прот.
+string	quick_hdc	HDC
+string	quick_panel_brightness_theme	Яскравість і тема
+string	quick_panel_btn_cancel	Скас.
+string	quick_panel_btn_done	Готово
+string	quick_panel_no_more_control	Більше немає
+string	quick_panel_title_add_control	Додати
+string	quick_panel_title_drive_modes	Режими руху
+string	quick_panel_title_vehicle_control	Керування
+string	quick_weather	Всепогод. світло
+string	rear_charge_lid	Лючок DC
+string	rear_mirror_set	Налашт. дзеркал
+string	release_parking_brake	Відпустити гальмо
+string	remote_parking	Дист. паркув.
+string	right_child_lock	Прав. дит. замок
+string	right_mirror	Праве дзеркало
+string	romantic_mode	Романтика
+string	seat_adjustment_in_progress_please_waiting	Регулювання сидіння, зачекайте
+string	shortcut_wifi	WLAN
+string	sms_tip	Потокове медіа недоступне на швидкості понад 15 km/h
+string	stream_media	Стрімінг
+string	theme_auto	Авто
+string	theme_dark	Темна
+string	theme_light	Світла
+string	time_hour_ago	%s год тому
+string	time_minute_ago	%s хв тому
+string	time_now	Зараз
+string	trunk	Багажник
+string	vehicle_control_is_full	Не більше 8 функцій. Видаліть одну, щоб додати іншу
+string	wake_up_mode	Бадьорість
+string	wash_mode	Мийка
+string	wifi_charging	Бездрот. заряд.
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберегти
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж...
+string	zeekr_show_psw	Показати пароль

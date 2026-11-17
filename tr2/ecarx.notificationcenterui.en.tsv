@@ -1,0 +1,54 @@
+string	agree_enter	Agree & enter
+string	all_window_close	Close windows
+string	all_window_open	Open windows
+string	all_window_ventilate	Vent windows
+string	apa	Auto parking
+string	brightness_auto	Auto brightness
+string	brvah_load_end	No more data
+string	brvah_load_failed	Load failed, tap to retry
+string	brvah_loading	Loading…
+string	camp_mode	Camping
+string	car_hotspot	Hotspot
+string	clean_screen	Clean screen
+string	clear_al	Clear all
+string	custom	Custom
+string	dhu	Center
+string	dim	Cluster
+string	disconnect_txt	Off
+string	display_clear_csd	Screen cleaning
+string	display_clear_csd_long_click	Hold here 3s to exit
+string	display_clear_csd_sec_title	Clean the touchscreen with a soft cloth made for monitors and displays. Never use cleaners, wet cloths or dry materials with static charge.
+string	door_lock	Central lock
+string	drift_tips	This function can only be activated in a drive cycle in P, with all occupants' seat belts fastened; seat belts must stay fastened throughout. Unfastening any seat belt during a stop exits Drift mode automatically;\nBattery must be above 20%SOC to activate; it exits automatically when SOC drops below 20%;\nAll vehicle systems must be working normally to activate; it exits automatically if a fault occurs;\nRequirements:\n1. Use this function only on race tracks or professional venues that meet national safety standards. Never use it on public roads or in places that do not meet safety standards.\n2. For safety, use the original drift kit accessories when using Drift mode.\n3. Drift mode requires professional driving skills; the driver must have at least x years of driving experience.\nWhen Drift mode is active:\n1. Power mode is set to Sport;\n2. E-pedal and Autohold are off by default.\n3. ESC is turned off.\n4. Energy regeneration is set to low.
+string	drift_title	Drift mode notice
+string	edit	Edit
+string	edit_page_divider_hint	Items above appear in the Quick panel. Long-press and drag to replace or reorder
+string	eject_tips	Warning: During Launch Control, the driver is responsible for keeping full control of the vehicle and ensuring a safe driving environment. Only use it when conditions are confirmed safe. Repeated launches over a long time may reduce drive and brake system performance; please use this function with care. \n \nRequirements: \n1. Vehicle must be stopped, doors closed and all occupants' seat belts fastened \n2. Powertrain temperature must be normal and battery sufficiently charged \n3. Turn off driver assistance functions, straighten the steering wheel, release the electronic parking brake and shift to D \n \nInstructions: \n1. Turn on “Launch Control” \n2. Fully press the brake, then fully press the accelerator. When the cluster shows launch mode active, fully release the brake pedal within 4 seconds and the vehicle will launch with maximum acceleration. (If launch mode failed is shown, check the center display message and the vehicle status) \n \nDo you fully understand and agree to the above?
+string	eject_title	Launch Control notice
+string	feedback	Feedback
+string	hot_count_txt	%d connected
+string	hud	HUD adjust
+string	low_drive_warn	Low-speed sound
+string	nap_mode	Rest mode
+string	network_reset	Reset network
+string	notify_header_text_friday	Friday
+string	notify_header_text_monday	Monday
+string	notify_header_text_saturday	Saturday
+string	notify_header_text_sunday	Sunday
+string	notify_header_text_thursday	Thursday
+string	notify_header_text_tuesday	Tuesday
+string	notify_header_text_wednesday	Wed
+string	notify_header_text_yesterday	Yesterday
+string	notify_new_notification_header	New notification
+string	notify_normal_bar_text	You have a new message!
+string	notify_system_app	System
+string	off_screen	Screen off
+string	quick_control	Quick panel
+string	rear_mirror_set	Mirror adjust
+string	seat_adjustment_in_progress_please_waiting	Adjusting seat, please wait
+string	time_hour_ago	%s h ago
+string	time_minute_ago	%s min ago
+string	time_now	Now
+string	vehicle_control_is_full	Up to 8 functions. Remove one before adding another
+string	wash_mode	Car wash
+string	wifi_charging	Wireless charging

@@ -1,0 +1,128 @@
+array	channel_black_list	6	ALR ‖ SCN ‖ SCN_HEADSUP ‖ GEN ‖ DSK ‖ TPP ‖ BAT ‖ HNT ‖ NETWORK_STATUS ‖ NETWORK_ALERTS ‖ NETWORK_AVAILABLE ‖ USB ‖ SYSTEM_CHANGES ‖ VIRTUAL_KEYBOARD ‖ PHYSICAL_KEYBOARD ‖ SECURITY ‖ CAR_MODE ‖ ACCOUNT ‖ DEVELOPER ‖ UPDATES ‖ VPN ‖ HEAVY_WEIGHT_APP ‖ FOREGROUND_SERVICE ‖ DO_NOT_DISTURB ‖ HEAVY_WEIGHT_APP ‖ QDMAUI_Noti_Channel	
+array	notify_black_list	11	android ‖ system ‖ com.android.systemui ‖ com.android.server.telecom ‖ com.android.phone ‖ com.android.bluetooth ‖ com.google.android.inputmethod.pinyin ‖ com.android.settings	
+string	access_point_mode	11	Car hotspot	车载热点
+string	agree_enter	14	Agree & enter	同意并进入
+string	all_window_close	11	Close windows	一键关窗
+string	all_window_open	11	Open windows	一键开窗
+string	all_window_ventilate	11	Vent windows	一键透气
+string	apa	16	Auto parking	自动泊车辅助
+string	app_name	30	XSFNotificationCenter	XSFNotificationCenter
+string	auto_hold	11	Auto hold	自动驻车
+string	automatic_lane_change_assist	16	ALCA	自动变道辅助
+string	avp	6	Avp	Avp
+string	bluetooth	6	Bluetooth	蓝牙
+string	brightness_auto	11	Auto brightness	自动亮度
+string	brvah_load_end	16	No more data	没有更多数据
+string	brvah_load_failed	26	Load failed, tap to retry	加载失败，请点我重试
+string	brvah_loading	15	Loading…	正在加载中…
+string	camp_mode	11	Camping	露营模式
+string	car_hotspot	11	Hotspot	车载热点
+string	child_lock	9	Child lock	儿童锁
+string	chip_text	14	Chip text	
+string	clean_screen	11	Clean screen	屏幕清洁
+string	clear_al	11	Clear all	全部清除
+string	convenient_ingress_and_egress	11	ingress and egress	方便进出
+string	convenient_ingress_option	11	Convenient ingress and egress	方便进出
+string	custom	9	Custom	自定义
+string	custom_shortcuts	16	Custom shortcuts	自定义快捷键
+string	custom_shortcuts_hint	40	Click or drag to add and remove shortcuts	通过点击或拖拽来增加删除快捷图标
+string	dhu	6	Center	中控
+string	dim	6	Cluster	仪表
+string	disconnect_txt	9	Off	无连接
+string	display_clear_csd	16	Screen cleaning	屏幕清洁模式
+string	display_clear_csd_long_click	20	Hold here 3s to exit	长按此处3秒退出
+string	display_clear_csd_sec_title	104	Clean the touchscreen with a soft cloth made for monitors and displays. Never use cleaners, wet cloths or dry materials with static charge.	使用监视器和显示屏专用清洁软布清洁触摸屏。切勿使用清洁剂、湿抹布或带静电的干燥材料。
+string	distance_control	16	Parking Distance Control	驻车距离控制
+string	door_lock	9	Central lock	中控锁
+string	drift_mode	11	Drift mode	一键漂移
+string	drift_tips	745	This function can only be activated in a drive cycle in P, with all occupants' seat belts fastened; seat belts must stay fastened throughout. Unfastening any seat belt during a stop exits Drift mode automatically;\nBattery must be above 20% SOC to activate; it exits automatically when SOC drops below 20%;\nAll vehicle systems must be working normally to activate; it exits automatically if a fault occurs;\nRequirements:\n1. Use this function only on race tracks or professional venues that meet national safety standards. Never use it on public roads or in places that do not meet safety standards.\n2. For safety, use the original drift kit accessories when using Drift mode.\n3. Drift mode requires professional driving skills; the driver must have at least x years of driving experience.\nWhen Drift mode is active:\n1. Power mode is set to Sport;\n2. E-pedal and Autohold are off by default.\n3. ESC is turned off.\n4. Energy regeneration is set to low.	"此功能须进入驾驶循环并且在P档下，确认司乘人员安全带系上才能激活，安全带全程不得拔出。在中途停车拔出任 安全带会自动退出漂移模式；\n此功能必须在电量>20%SOC才能激活，当SOC< 20%的时候会自动退出；\n此功能必须在整车系统全部正常下才能激活，如有异常自动退出；\n使用要求：\n1、此功能必须在符合国家安全标准的赛车场或专业场地内应用，不得在公共道路和不符合安全标准场所使用。\n2、使用漂移模式时，为确保安全建议使用原厂配套的漂移套装配件。\n3、漂移模式需要比较专业的驾驶技能，所以要求有至少x年驾龄以上的驾驶员操作。\n激活漂移功骺后：\n1.动力模式为运动；\n2. E-pedal, Autohold功能默认关闭。\n3、关闭ESC功能。\n4、能量回收等级低。"
+string	drift_title	21	Drift mode notice	一键漂移用户须知
+string	drive_mode_comfort	6	Comfort	舒适
+string	drive_mode_eco	6	Eco	经济
+string	drive_mode_individual	9	Individual	个性化
+string	drive_mode_off_road	6	Off-Road	越野
+string	drive_mode_sand	6	Sand	沙地
+string	drive_mode_snow	6	Snow	雪地
+string	drive_mode_sport	6	Dynamic	运动
+string	driver_massage	11	Driver massage	主驾按摩
+string	driver_rest	16	Driver rest	主驾一键休憩
+string	edit	6	Edit	编辑
+string	edit_page_divider_hint	70	Items above appear in the Quick panel. Long-press and drag to replace or reorder	上方内容将显示在快捷面板中，长按拖动可替换和排序现有功能
+string	eject_tips	770	Warning: During Launch Control, the driver is responsible for keeping full control of the vehicle and ensuring a safe driving environment. Only use it when conditions are confirmed safe. Repeated launches over a long time may reduce drive and brake system performance; please use this function with care. \n \nRequirements: \n1. Vehicle must be stopped, doors closed and all occupants' seat belts fastened \n2. Powertrain temperature must be normal and battery sufficiently charged \n3. Turn off driver assistance functions, straighten the steering wheel, release the electronic parking brake and shift to D \n \nInstructions: \n1. Turn on “Launch Control” \n2. Fully press the brake, then fully press the accelerator. When the cluster shows launch mode active, fully release the brake pedal within 4 seconds and the vehicle will launch with maximum acceleration. (If launch mode failed is shown, check the center display message and the vehicle status) \n \nDo you fully understand and agree to the above?	"警告：弹射起步过程中，驾驶员有责任全程保持对车辆的控制，并确保车辆行驶和使用环境，请务必在确认安全的条件下操作。长时间连续弹射可能会造成整车驱动和制动系统性能下降，希望您能谨慎使用该功能。 \n \n使用要求： \n1、弹射起步功能需要在停车状态，确认车门关闭、司乘人员安全带正常系上 \n2、保证车辆动力系统温度正常，电量充足 \n3、关闭智能驾驶相关功能，摆正方向盘，释放电子手刹，车辆调整为D档 \n \n使用说明： \n1、 打开“弹射起步”按键 \n2、 先满踩下刹车，后满踩油门，待仪表提醒launch mode active后，4秒内将制动踏板完全释放，整车会以极大的加速度弹射起步。（若提示launch mode failed，请查看大屏提示和检查车辆状态） \n \n以上信息是否完全理解并同意？"
+string	eject_title	21	Launch Control notice	弹射起步用户通知
+string	ejection_start	11	Ejection Start	弹射起步
+string	feedback	11	Feedback	一键反馈
+string	front_charge_lid	14	AC Charge lid	前充电口盖
+string	hot_count_txt	11	%d connected	%d个连接
+string	hud	10	HUD adjust	HUD调节
+string	label	8	Label	
+string	left_child_lock	11	Left child lock	左儿童锁
+string	left_mirror	11	Left mirror	左后视镜
+string	light_follow	9	Mood light	氛围灯
+string	low_drive_warn	19	Low-speed sound	低速行驶警示音
+string	nap_mode	11	Rest mode	休憩模式
+string	network_reset	11	Reset network	网络重启
+string	no_notification	16	No unread notifications	暂无最新消息
+string	notification	11	Notifications	通知中心
+string	notify_count_notification	20	There are %1$d notifications	还有%1$d 条通知
+string	notify_header_text_friday	9	Friday	星期五
+string	notify_header_text_monday	9	Monday	星期一
+string	notify_header_text_saturday	9	Saturday	星期六
+string	notify_header_text_sunday	9	Sunday	星期日
+string	notify_header_text_thursday	9	Thursday	星期四
+string	notify_header_text_tuesday	9	Tuesday	星期二
+string	notify_header_text_wednesday	9	Wed	星期三
+string	notify_header_text_yesterday	6	Yesterday	昨天
+string	notify_item_clear	6	Clear all	清除
+string	notify_item_delete	6	Clear	删除
+string	notify_item_disable	11	Disable	不再通知
+string	notify_new_notification_header	19	New notification	您收到一条通知
+string	notify_normal_bar_text	21	You have a new message!	您有一条新消息！
+string	notify_system_app	11	System	系统消息
+string	off_screen	6	Screen off	熄屏
+string	pac	11	PAC	全景影像
+string	park_comfort	11	Park Comfort	驻车舒享
+string	passenger_massage	11	Passenger massage	副驾按摩
+string	passenger_rest	16	Passenger rest	副驾一键休憩
+string	position_fold	14	Fold mirrors	折叠后视镜
+string	quick_control	11	Quick panel	快捷面板
+string	quick_fog	9	Rear fog light	后雾灯
+string	quick_hdc	11	HDC	陡坡缓降
+string	quick_panel_brightness_theme	14	Brightness & theme	亮度与主题
+string	quick_panel_btn_cancel	6	Cancel	取消
+string	quick_panel_btn_done	6	Confirm	完成
+string	quick_panel_no_more_control	16	No more controls	没有更多控制
+string	quick_panel_title_add_control	11	Add control	添加控制
+string	quick_panel_title_drive_modes	11	Drive modes	驾驶模式
+string	quick_panel_title_vehicle_control	11	Vehicle control	车辆控制
+string	quick_weather	11	Weather light	全气候灯
+string	rear_charge_lid	14	DC Charge lid	后充电口盖
+string	rear_mirror_set	14	Mirror adjust	后视镜调节
+string	release_parking_brake	16	Release parking brake	解除驻车制动
+string	remote_parking	11	Remote parking	遥控泊车
+string	right_child_lock	11	Right child lock	右儿童锁
+string	right_mirror	11	Right mirror	右后视镜
+string	romantic_mode	11	Romantic mode	浪漫模式
+string	seat_adjustment_in_progress_please_waiting	23	Adjusting seat, please wait	座椅调整中，请稍后
+string	shortcut_wifi	7	WLAN	WLAN
+string	sms_tip	39	If the vehicle speed is greater than 15km/h, streaming media cannot be enabled	车速大于15km/h，不能打开流媒体
+string	stream_media	9	Stream media	流媒体
+string	theme_auto	11	Auto	自动模式
+string	theme_dark	11	Dark	深色模式
+string	theme_light	11	Light	浅色模式
+string	time_hour_ago	13	%s h ago	%s 小时前
+string	time_minute_ago	13	%s min ago	%s 分钟前
+string	time_now	6	Now	现在
+string	trunk	9	Trunk	后备箱
+string	vehicle_control_is_full	47	Up to 8 functions. Remove one before adding another	最多只能添加8个功能，请先删减后再添加
+string	wake_up_mode	11	Wake up mode	醒神模式
+string	wash_mode	11	Car wash	洗车模式
+string	wifi_charging	11	Wireless charging	无线充电
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

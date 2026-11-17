@@ -1,0 +1,179 @@
+array	register_name	14	ZEEKR User 1 ‖ ZEEKR User 2 ‖ ZEEKR User 3 ‖ ZEEKR User 4	极氪用户一 ‖ 极氪用户二 ‖ 极氪用户三 ‖ 极氪用户四
+array	register_title	11	Say to me ‖ Say ‖ Say again ‖ Finally, say	请对我说 ‖ 请说 ‖ 再说一遍 ‖ 最后请说
+string	add_wake_word	14	Add wake word	新增唤醒词
+string	after_eva_wakeup	16	After waking Eva	唤醒 Eva 后
+string	after_eva_wakeup_geek	20	Without waking Eva	未唤醒eva情况下
+string	after_eva_wakeup_wakefree	17	No need to wake Eva	无需唤醒 Eva
+string	afternoon	9	Good afternoon	下午好
+string	ai_mate	11	AI Mate	
+string	anti_interference	16	Zone anti-noise	多音区抗干扰
+string	anti_interference_tip	118	In left/right zone mode, Eva can tell where you are speaking from and execute commands for that zone. Passengers in other seats need to wake Eva again	左右两音区模式下，Eva 可准确辨别你的说话方位并执行该区域的指令，其他位置乘客需重新唤醒 Eva 对话
+string	app_name	11	Voice	语音设置
+string	cancel	6	Cancel	取消
+string	car_driver	9	Navigator	领航员
+string	chip_text	14	Chip text	
+string	classic	6	Classic	经典
+string	close	6	Off	关闭
+string	close_now	11	Turn off	仍要关闭
+string	continue_talk	11	Continuous	连续对话
+string	continue_talk_tip	66	Listens for 16s after each wake-up. You can interrupt Eva at any time	一次唤醒 16s 内持续聆听，你可以随时打断 Eva 进行对话
+string	default_wake_word	14	Default wake word	默认唤醒词
+string	default_wake_word_content	11	Hi, Eva	
+string	delete	11	Delete	仍要删除
+string	delete_vprint	11	Delete voiceprint	删除声纹
+string	delete_vprint_ensure	31	Voiceprint features will be unavailable	删除后将无法体验声纹服务
+string	ensure_confirm	11	Use anyway	仍要使用
+string	eva	11	Hi, Eva	Hi，Eva
+string	eva_tts_mode	17	Eva voice style	Eva 播报模式
+string	eva_tts_mode_tip_default	31	Eva gives more detailed replies	Eva 播报、回复更详细具体
+string	eva_tts_mode_tip_simple	26	Eva gives shorter replies	Eva 播报、回复更简洁
+string	eve_process_restart_success	44	Voice service restarted. Try waking Eva again	语音服务重启成功，重新唤醒Eva试试吧
+string	evening	9	Good evening	晚上好
+string	experience_close_content	63	Eva will no longer collect your voice data to improve products and services	关闭后，Eva 将不再收集你的语音信息来提升产品和服务
+string	experience_close_tip	38	Stored voice-related data will also be deleted	同步删除历史存储的语音相关信息
+string	experience_close_title	33	Turn off Eva Voice Improvement Program	关闭 Eva 语音体验改进计划
+string	experience_policy_dialog_title	21	Voice Improvement Program	语音体验改进计划
+string	experience_policy_title	26	"Voice Improvement Program"	《语音体验改进计划》
+string	experience_policy_url	29	http://www.baidu.com	
+string	experience_sub_title	48	Eva will collect your voice data to improve products and services	Eva 将收集你的语音信息来提升产品和服务
+string	experience_title	26	Eva Voice Improvement Program	Eva 语音体验改进计划
+string	geek_code	14	geek_0001	
+string	geek_guide	14	Geek skills	极客技能库
+string	geek_mode_open_tip	104	This feature is in beta and only works with common vehicle commands. When on, Eva may be woken by mistake while the driver is chatting	目前该功能为体验版，仅对常用的车控指令有效。开启后，主驾在车内聊天时可能会误唤醒 Eva
+string	geek_skill_lib	14	Geek skills	极客技能库
+string	get_again	11	Retry	重新获取
+string	jike_skill_lib	14	Geek skills	极客技能库
+string	know	9	Got it	知道了
+string	lab	9	Labs	实验室
+string	label	8	Label	
+string	loss_content	18	Loading...	内容加载中...
+string	main_geek_mode	16	Driver geek mode	主驾极客模式
+string	main_geek_mode_tip	73	The driver can say common vehicle commands directly without waking Eva	主驾无需唤醒 Eva，直接说出常用的车控指令，即可完成语音操作
+string	me_too_title	9	Try it	我也要
+string	midday	9	Good day	中午好
+string	morning	9	Good morning	早上好
+string	morning2	9	Good morning	上午好
+string	multi_intent_code	12	skill-09	
+string	multi_intent_guide	14	Multi-intent tips	多意图教学
+string	multi_intent_title	9	Multi-intent	多意图
+string	multi_intent_word1	15	Nav + media	导航+多媒体
+string	multi_intent_word2	15	Car + media	车控+多媒体
+string	multi_intent_word3	13	Nav + car	导航+车控
+string	multi_intent_word4	13	Car + phone	车控+电话
+string	multi_intent_word5	21	Chained car commands	多个车控指令连说
+string	net_error_content	18	Loading...	内容加载中...
+string	not_define_wake_word	11	Not set	未自定义
+string	not_open_now	6	Cancel	取消
+string	num_percent	8	%d/%d	
+string	one_shot	11	One-shot	一语直达
+string	one_shot_guide	16	One-shot tips	一语直达教学
+string	one_shot_tip	67	Say "Hi, Eva" followed by a command, or use set phrases to talk to Eva	使用「Hi, Eva」与指令连说，或通过固定句式实现语音对话
+string	personal_dress	11	Appearance	个性装扮
+string	personal_dress_tip	28	Give Eva a new look?	给 Eva 换个装扮试试？
+string	record_mode_left_behind	9	Rear left	左后排
+string	record_mode_left_front	6	Driver	主驾
+string	record_mode_right_behind	9	Rear right	右后排
+string	record_mode_right_front	6	Passenger	副驾
+string	record_mode_sub_title	47	Only selected zones can wake Eva	仅选中的区域可以唤醒 Eva 进行语音对话
+string	record_mode_title	19	Wake-up zones	自定义唤醒区域
+string	say_such_order	26	and say these combined commands	并对我说以下组合指令
+string	see_and_say	14	Say what you see	可见即可说
+string	see_and_say_tip	91	After waking Eva, say the name of any function on screen to select it by voice	看见什么说什么，唤醒 Eva 后直接说出界面上的功能名称，即可完成语音点选操作
+string	skill_code_one_shot	12	skill-02	
+string	skill_code_wake_free	12	skill-01	
+string	skill_lib	9	Skills	技能库
+string	skill_lib_tip	48	How many voice skills have you unlocked?	来看看你的语音魔法书技能解锁了多少了？
+string	skill_multi_intent_sub_title	21	Multiple actions in one sentence	一句话操作多功能
+string	skill_multi_intent_title	19	Multi-intent tips	多意图指令教学
+string	skill_multi_record_location_sub_title	19	Reuse commands from others	一句话继承指令
+string	skill_multi_record_location_title	14	Cross-zone control	跨音区操作
+string	skill_mutli_record_first_title	45	After someone adjusts windows, seats, A/C, etc. by voice	他人语音调节车窗、座椅、空调等指令后
+string	skill_mutli_record_five_title	16	can quickly do	即可快速实现
+string	skill_mutli_record_four_title	6	User	用户
+string	skill_mutli_record_six_title	11	the same	同样操作
+string	skill_mutli_record_third_title	11	in any seat	任意位置
+string	skill_one_shot_sub_title	21	Talk to Eva faster	快速实现语音对话
+string	skill_one_shot_title	16	One-shot tips	一语直达教学
+string	skill_use	11	Skill usage	技能使用
+string	skill_use_and_num	19	Skills used %1$d/%2$d	技能使用 %d/%d
+string	skill_wake_free_sub_title	16	18 wake-free commands	18个免唤醒词
+string	skill_wake_free_title	11	Wake-free	免唤醒词
+string	stare_smart_app_tip	77	Driver looks at the center screen and says the name of a function to select it by voice	主驾注视中控屏，直接说出界面上的功能名称，即可完成语音点选操作
+string	stare_smart_app_title	23	Gaze + say what you see	主驾凝视可见即可说
+string	stay_tuned	11	Coming soon	敬请期待
+string	think_abount	11	Not now	考虑一下
+string	tips	11	Notice	温馨提示
+string	tts_mode_default	6	Default	默认
+string	tts_mode_simple	6	Brief	简洁
+string	unlock_category	11	Unlocked	解锁类别
+string	update_log	17	Eva changelog	Eva 更新日志
+string	voice_confirm_dialog_cancel	6	Cancel	取消
+string	voice_confirm_dialog_hint	11	ZEEKR User	极氪用户
+string	voice_confirm_dialog_tips	57	Use 2–5 Chinese characters as your name, no special characters	请使用2-5个中文作为唤醒称呼，避免使用特殊字符
+string	voice_confirm_dialog_title	11	Your name	应答称呼
+string	voice_confirm_welcome_name	13	Hello, %s!	%s，你好!
+string	voice_print_name	9	Voiceprint %s	声纹%s
+string	voice_prints_manager	11	Voiceprints	声纹管理
+string	voice_prints_register	11	Register voice	声纹注册
+string	voice_prints_tip	70	After wake-up, Eva recognizes your voice and replies with your personal greeting	语音唤醒后，Eva 能认出你的声音，并回复你的专属唤醒应答语
+string	voice_prints_title	14	Eva memory	Eva 记忆库
+string	vp_register_not_has_focus	45	Voiceprint recording unavailable now. Try again later	当前状态暂不支持声纹录制，稍后再试试
+string	vp_register_not_p	25	Shift to P to register voiceprint	请在 P 档下注册声纹
+string	vprint_err_msg_70942	15	Eva didn't get that	Eva没听懂哦
+string	vprint_err_msg_70943	15	Eva didn't get that	Eva没听懂哦
+string	vprint_err_msg_70945	25	Eva didn't get that. Try again	Eva没懂哦，请再试试
+string	vprint_err_msg_70946	15	Eva didn't get that	Eva没听懂哦
+string	vprint_err_msg_70947	23	Please speak faster and try again	请加快语速再说一遍
+string	vprint_err_msg_70948	28	Too fast. Please speak slower	太快啦，请慢点再说一次
+string	vprint_err_msg_70949	37	Eva couldn't hear you. Try somewhere quieter	Eva没听清，请在安静状态下试试
+string	vprint_err_msg_70950	25	Eva couldn't hear you. Try again	Eva没听清，请再试试
+string	vprint_err_name_msg	19	Name not supported	暂不支持此称呼
+string	vprint_err_name_msg1	14	Chinese only	仅支持中文
+string	vprint_err_name_msg2	20	2–5 Chinese chars only	仅支持2-5个中文
+string	vprint_err_name_msg3	31	Network error. Please try again later	网络有问题，请稍后在试试
+string	vprint_has_register	24	Voiceprint may match %s	此声纹可能与%s相似
+string	vr_service	17	Eva voice service	Eva 语音服务
+string	vr_service_close_content	48	When off, voice service cannot be used in any way	关闭后，将无法通过任何形式使用语音服务
+string	vr_service_close_title	21	Eva voice authorization	Eva 语音服务授权
+string	vr_service_content	138	Under national data security regulations, voice service requires your consent. Once enabled, wake voice via "Hi, Eva", tapping Eva, or the steering wheel voice button	根据国家数据安全相关法规，使用语音服务需要本人授权同意，开启后可通过「Hi, Eva」「单击 Eva」「语音方控」唤醒语音
+string	vr_service_not_open	11	Not now	暂不开启
+string	vr_service_not_ready	36	Voice is starting. Try again later	语音功能正在启动，请稍后重试
+string	vr_service_open	6	Agree	同意
+string	vr_service_policy_dialog_title	52	ZEEKR Eva Voice Service Privacy Policy	《极氪汽车 Eva 语音服务个人信息保护政策》
+string	vr_service_policy_title	52	ZEEKR Eva Voice Service Privacy Policy	《极氪汽车 Eva 语音服务个人信息保护政策》
+string	vr_service_policy_url	61	file:///android_asset/vr_service_policy.html	
+string	vr_service_sub_title	11	Valid for	授权期限
+string	vr_service_time_half_year	9	6 months	六个月
+string	vr_service_time_one_year	6	1 year	一年
+string	vr_service_time_sub_title	11	Valid for	授权期限
+string	vr_service_time_sub_title_delay	16	Extend consent	延长授权期限
+string	vr_service_time_third_month	9	3 months	三个月
+string	vr_service_tip_close	49	When on, you can wake Eva and use Eva voice service	开启后，可唤醒 Eva 并使用 Eva 语音服务
+string	vr_service_tip_open	54	When off, you cannot wake Eva or use Eva voice service	关闭后，将无法唤醒 Eva 并使用 Eva 语音服务
+string	vr_service_title	21	Eva voice authorization	Eva 语音服务授权
+string	wake_free	9	Wake-free	免唤醒
+string	wake_free_guide	11	Wake-free	免唤醒词
+string	wake_free_tip	68	In navigation, music, etc., say common commands without waking Eva	在导航、音乐等场景下无需唤醒 Eva，直接说出常用指令即可
+string	wake_tip	9	Wake me	唤醒我
+string	wake_word	9	Wake word	唤醒词
+string	wake_word_error_score	41	Score %s: likely to cause false wake-ups	此说法评分为%s，高概率引发误唤醒
+string	wake_word_set_tip	41	You can now wake me with "%s" or Hi Eva	你可以通过“%s”或 Hi Eva唤醒我啦
+string	wake_word_suggest_title	14	Wake word tips	唤醒词建议
+string	wake_word_tip	51	Wake me with "Hi Eva" or a custom wake word	可通过「Hi Eva」或「自定义唤醒词」唤醒我
+string	wake_word_tip_default	9	Not set	未设置
+string	wisdom_close_content	101	Turning this off affects multi-turn conversations and disables wake-free commands. We recommend keeping it on. Turn off anyway?	关闭后，语音多轮对话体验将受到影响，且无法使用免唤醒词，建议保持开启，确认关闭吗？
+string	wisdom_close_title	16	Turn off Smart Chat	关闭极智对话
+string	wisdom_talk	11	Smart Chat	极智对话
+string	wisdom_talk_tip	60	Eva provides continuous, natural and smart conversations	Eva 语音服务将为你提供连续、自然、智能的对话体验
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	you_can	9	You can	你可以
+string	you_can_say	19	Try saying:	你可以这样说：
+string	you_can_say_geek	19	Just say:	你可以直接说：
+string	you_can_say_wakefree	19	Just say:	你可以直接说：
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

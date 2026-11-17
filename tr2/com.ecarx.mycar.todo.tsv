@@ -1,0 +1,6 @@
+string	app_widget_desc_tire	14	missing	胎压检测卡片	
+string	main_bar_trip_consumption_driving_cycle	22	missing	行程2(自上次停车后)	
+string	maintenance_notify_desc	41	missing	您的爱车已到保养里程，请注意及时保养。	
+string	mini_bar_trip_consumption_charing	22	missing	行程2(自上次充电后)	
+string	tire_result_fault_multiple	33	missing	"多个轮胎系统故障\n请维修"	
+string	tire_warn_call_sensor	89	missing	传感器异常，您可以联系售后服务中心4000-036-036或到最近维修点进行维修	

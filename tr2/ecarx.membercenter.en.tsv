@@ -1,0 +1,640 @@
+string	account_center_phone_number	Phone No.
+string	agreement_change_content	"Dear user, thank you for your continued support.\nTo provide better services, better protect your rights, help you understand how we process and protect your personal information, and comply with regulatory requirements, we have updated the %1s and %2s"
+string	agreement_change_content_user_privacy	"Dear user, thank you for your continued support.\nTo provide better services, better protect your rights, help you understand how we process and protect your personal information, and comply with regulatory requirements, we have updated the %1s"
+string	agreement_change_privacy	"Privacy Policy"
+string	agreement_change_protocol	"User Agreement"
+string	agreement_face_change_title	Face ID Privacy Policy Update
+string	agreement_face_refuse_btn_cancel	Later
+string	agreement_face_refuse_btn_confirm	Decline
+string	agreement_face_refuse_tip	If you decline, your face data will be deleted
+string	agreement_privacy_change_title	Privacy Policy Update
+string	agreement_user_change_title	User Agreement Update
+string	app_guest_mode_not_allow	Unavailable in guest mode
+string	car_is_driving_tip	Unavailable while driving. Shift to P.
+string	common_agree	Agree
+string	common_back	Back
+string	common_cancel	Cancel
+string	common_close	Close
+string	common_confirm	OK
+string	common_know	Got it
+string	common_ok	Confirm
+string	common_refuse	Decline
+string	common_retry	Retry
+string	dialog_title_prompt	Notice
+string	error_message_1000	Success
+string	error_message_10001	Order already paid
+string	error_message_10011	Order canceled
+string	error_message_1400	Invalid parameters
+string	error_message_1401	Auth failed
+string	error_message_1402	Invalid token
+string	error_message_1403	Invalid refresh token
+string	error_message_1404	Access and refresh tokens mismatch
+string	error_message_1405	Resource not found
+string	error_message_1406	Invalid appId
+string	error_message_1407	Invalid CSP token
+string	error_message_1408	Signed in elsewhere. Sign in again.
+string	error_message_1409	Binding expired. Please bind again.
+string	error_message_1410	Too many wrong passwords. Retry in 5 min.
+string	error_message_1412	Invalid token
+string	error_message_1413	Only super admin can reset others' passwords
+string	error_message_1420	SMS code check required
+string	error_message_1421	Email check required
+string	error_message_1422	Captcha check required
+string	error_message_1442	Signature expired
+string	error_message_1443	Duplicate nonce
+string	error_message_1445	Invalid signature
+string	error_message_1498	Timed out
+string	error_message_1499	Timed out
+string	error_message_1500	Server error
+string	error_message_1501	Third-party login error
+string	error_message_1502	Server error
+string	error_message_1509	Server error
+string	error_message_1510	Server busy
+string	error_message_1511	Service degraded
+string	error_message_1854	App purchased
+string	error_message_200	Success
+string	error_message_2001	Invalid phone no.
+string	error_message_2002	Invalid email
+string	error_message_2003	Update key required
+string	error_message_2004	New key must be empty
+string	error_message_2005	Duplicate VIN
+string	error_message_2006	VIN not found
+string	error_message_2007	Series ID not found
+string	error_message_2008	Series code not found
+string	error_message_2009	Series code exists
+string	error_message_2010	Model code not found
+string	error_message_2011	Model code exists
+string	error_message_2012	Config code not found
+string	error_message_2013	Engine code not found
+string	error_message_2014	Color code not found
+string	error_message_2015	No vehicle for this VIN
+string	error_message_2053	VIN does not match the head unit
+string	error_message_3	Request failed
+string	error_message_3001	Unsupported code type
+string	error_message_3002	Enter a valid code
+string	error_message_3003	SMS failed
+string	error_message_3004	Failed: request invalid or expired
+string	error_message_3005	Failed to read Excel
+string	error_message_3006	Alias update failed
+string	error_message_3007	App status update failed
+string	error_message_3008	Log save failed; file uploaded
+string	error_message_3009	OSS chunk merge failed
+string	error_message_3010	OSS upload failed
+string	error_message_3011	File merge failed
+string	error_message_3016	Failed
+string	error_message_3017	Bad request
+string	error_message_3018	Invalid. Try again.
+string	error_message_3019	Failed
+string	error_message_3020	Bad request
+string	error_message_4	System error
+string	error_message_4000	Password, code or third-party token required
+string	error_message_4001	Account exists
+string	error_message_4002	Wrong password. Retry.
+string	error_message_4003	No such account
+string	error_message_4004	Phone not registered
+string	error_message_4005	Wrong password
+string	error_message_4006	Invalid request
+string	error_message_4007	Vehicle bound
+string	error_message_4008	No login access
+string	error_message_4009	Enter a valid VIN
+string	error_message_4010	Enter the registered phone
+string	error_message_4011	Device error
+string	error_message_4012	Phone not registered. Please sign up first.
+string	error_message_4013	This account isn't authorized for this car. To change owner, call 400-111-5555.
+string	error_message_4014	ID not verified
+string	error_message_4015	clientId not found
+string	error_message_4016	VIN bound to multiple UIDs
+string	error_message_4017	No data plan found for this VIN/ICCID
+string	error_message_4018	No VoIP plan found for this mobile
+string	error_message_4019	Unbind failed: device info error
+string	error_message_4020	Already signed in
+string	error_message_4021	CSP service error
+string	error_message_4022	Device platform error
+string	error_message_4023	Can't bind vehicle. Check the details.
+string	error_message_4024	Phone in use
+string	error_message_4025	Phone already in GID
+string	error_message_4026	No user data
+string	error_message_4027	User exists
+string	error_message_4028	Code expired
+string	error_message_4029	Wrong code
+string	error_message_4030	No such user
+string	error_message_4031	No such user
+string	error_message_4032	Invalid type
+string	error_message_4033	No vehicle info found
+string	error_message_4034	Empty object
+string	error_message_4035	No T-service for vehicle
+string	error_message_4036	No T-service for these IDs
+string	error_message_4037	Empty parameter
+string	error_message_4038	Vehicle not in use
+string	error_message_4300	Can't parse params
+string	error_message_4301	No such order
+string	error_message_4302	Vehicle has no owner
+string	error_message_4303	Phone doesn't match the vehicle owner's
+string	error_message_4304	No vehicle for VIN
+string	error_message_5	Network error
+string	error_message_5002	Biometric key expired
+string	error_message_6666	Third-party error
+string	error_message_7001	Invalid car status
+string	error_message_7002	Phone used by another user
+string	error_message_7003	Vehicle not found
+string	error_message_7004	Vehicle exists
+string	error_message_7005	This is the connected car
+string	error_message_7006	User info save error
+string	error_message_7007	Cert error
+string	error_message_7008	Cert error
+string	error_message_7009	Cert error
+string	error_message_7010	User/car connect failed
+string	error_message_7011	User/car sync failed
+string	error_message_7012	User/car exists
+string	error_message_7013	Update error
+string	error_message_7014	Bind error
+string	error_message_7015	Bind data error
+string	error_message_7016	Unbind data err
+string	error_message_7017	Car unbound. Please add it again.
+string	error_message_7018	User svc unavailable
+string	error_message_7019	Vehicle exists
+string	error_message_7020	No such car
+string	error_message_7021	Car data error
+string	error_message_7022	Car data delete err
+string	error_message_7023	VIN mismatch
+string	error_message_7024	IHU exists
+string	error_message_7025	T-BOX exists
+string	error_message_7026	No such car
+string	error_message_7027	Query params required
+string	error_message_7028	No car params
+string	error_message_7029	VIN is empty
+string	error_message_7030	Wrong VIN length
+string	error_message_7031	No car data
+string	error_message_7032	Module no. empty
+string	error_message_7033	Car matCode empty
+string	error_message_7034	Car color empty
+string	error_message_7035	Factory no. empty
+string	error_message_7036	Engine no. empty
+string	error_message_7037	Car ICCID empty
+string	error_message_7038	VIN missing in request
+string	error_message_7039	VIN in request isn't 17 characters
+string	error_message_7040	Invalid VIN. Please re-enter.
+string	error_message_7041	Car svc unavailable
+string	error_message_7042	File exists
+string	error_message_7043	No such file
+string	error_message_7044	Data exists
+string	error_message_7045	No such data
+string	error_message_7046	Invalid status
+string	error_message_7047	Invalid data
+string	error_message_7048	Bad format
+string	error_message_7049	Car asleep
+string	error_message_7050	Bad condition
+string	error_message_7051	Failed
+string	error_message_7052	No xCall event
+string	error_message_7053	Remote op denied
+string	error_message_7054	Service ID unknown
+string	error_message_7055	System error: no event
+string	error_message_7056	Failed to read car status (M2M)
+string	error_message_7057	Failed to save car status (M2M)
+string	error_message_7058	Failed to send to dispatcher
+string	error_message_7059	Time is in the past
+string	error_message_7060	Start must be before end
+string	error_message_7061	End must be after start
+string	error_message_7062	Calendar error
+string	error_message_7063	Request ID failed
+string	error_message_7064	Theft tracking on
+string	error_message_7065	System error: event exists
+string	error_message_7066	System error: event expired
+string	error_message_7067	TEM error
+string	error_message_7068	Op discarded
+string	error_message_7069	Start/end time empty
+string	error_message_7070	Interval must be >0
+string	error_message_7071	Duration must be >0
+string	error_message_7072	No session. Remote-start %s first.
+string	error_message_7073	DB query failed
+string	error_message_7074	DB update failed
+string	error_message_7075	Remote control inactive
+string	error_message_7076	Too many remote ops
+string	error_message_7077	Wrong PIN
+string	error_message_7078	Wrong PIN
+string	error_message_7079	Unknown error
+string	error_message_7080	ID not found
+string	error_message_7082	No such client
+string	error_message_7083	Customer info save error
+string	error_message_7084	Customer delete err
+string	error_message_7085	VIN mismatch
+string	error_message_7086	Customer ID no. exists
+string	error_message_7087	Customer phone exists
+string	error_message_7088	VIN already exists
+string	error_message_7089	VRN exists
+string	error_message_70891	Client exists
+string	error_message_7090	Customer phone missing
+string	error_message_7091	No client params
+string	error_message_7092	VIN empty
+string	error_message_7093	Name empty
+string	error_message_7094	ID no. empty
+string	error_message_7095	ID type empty
+string	error_message_7096	Phone empty
+string	error_message_7097	Plate no. empty
+string	error_message_7098	Delivery date empty
+string	error_message_7099	Date empty
+string	error_message_7100	Client ID empty
+string	error_message_7101	Std params empty
+string	error_message_7102	Owner params error
+string	error_message_7103	Client svc down
+string	error_message_7104	Msg server conn error
+string	error_message_7105	Msg server API error
+string	error_message_7106	Msg format error
+string	error_message_7107	Push to server: empty result
+string	error_message_7108	No such message
+string	error_message_7109	Msg DB insert error
+string	error_message_7110	Msg DB delete error
+string	error_message_7111	Msg update error
+string	error_message_7112	Msg list send error
+string	error_message_7113	Msg to IHU failed
+string	error_message_7114	Msg to SMS failed
+string	error_message_7115	Msg to app failed
+string	error_message_7116	Msg request ID empty
+string	error_message_7117	Content and template ID both empty
+string	error_message_7118	Title and role required when content is set
+string	error_message_7119	Msg params empty
+string	error_message_7120	Msg VIN empty
+string	error_message_7121	Msg target empty
+string	error_message_7122	Msg DB ID fetch error
+string	error_message_7123	Msg target must be app or IHU
+string	error_message_7124	Msg param error
+string	error_message_7125	IoV msg empty
+string	error_message_7126	IoV msg alias empty
+string	error_message_7127	IoV msg notice empty
+string	error_message_7128	IoV msg result empty
+string	error_message_7129	Msg query error
+string	error_message_7130	Msg template save error
+string	error_message_7131	Msg template delete error
+string	error_message_7132	No msg template
+string	error_message_7133	Msg template query error
+string	error_message_7134	Template update err
+string	error_message_7135	Template param ID mismatch
+string	error_message_7136	Template param values missing
+string	error_message_7138	Template params empty
+string	error_message_7139	Template content empty
+string	error_message_7140	Template ID not integer
+string	error_message_7141	No msg template
+string	error_message_7142	Msg task save error
+string	error_message_7143	No msg task
+string	error_message_7144	Msg task delete error
+string	error_message_7145	Msg task request ID empty
+string	error_message_7146	Task params empty
+string	error_message_7147	Msg task target empty
+string	error_message_7148	Msg task timestamp empty
+string	error_message_7149	Msg task needs a start and end date
+string	error_message_7150	Msg task start date is after end date
+string	error_message_7151	Task template empty
+string	error_message_7152	Msg task DB ID fetch error
+string	error_message_7153	Task can't be deleted
+string	error_message_7154	Msg server down
+string	error_message_7155	Admin: bad param
+string	error_message_7156	Admin: failed to get client IP
+string	error_message_7157	Admin: no app group
+string	error_message_7158	Admin: no app group ID/name
+string	error_message_7159	Admin: no app ID/params
+string	error_message_7160	Admin: no changes
+string	error_message_7161	App: bad param
+string	error_message_7162	App conn failed
+string	error_message_7163	Dealer: bad param
+string	error_message_7164	Dealer update fail
+string	error_message_7165	Dealer DB update error
+string	error_message_7166	No such dealer
+string	error_message_7167	Dealer DB query error
+string	error_message_7168	Bad version param
+string	error_message_7169	Version query error
+string	error_message_717	Template request ID empty
+string	error_message_7170	Access key error
+string	error_message_7171	Key create error
+string	error_message_7172	Key parse error
+string	error_message_7173	Key verify error
+string	error_message_7174	Bad signature
+string	error_message_7175	Session expired. Sign in again.
+string	error_message_7176	Account error
+string	error_message_7177	Wrong account or password
+string	error_message_7178	Wrong old password
+string	error_message_7179	Inactive too long. Sign in again.
+string	error_message_7180	Signed in elsewhere
+string	error_message_7181	PIN save failed
+string	error_message_7182	User save failed
+string	error_message_7183	Account locked. Call customer service at 400-111-5555?
+string	error_message_7184	Store unavailable
+string	error_message_7185	Too many failed attempts. Please reset your password.
+string	error_message_7186	Place saved
+string	error_message_7187	Bind error
+string	error_message_8001	Device not unique
+string	error_message_8002	Device (car) not found
+string	error_message_8003	Device's car not found
+string	error_message_8004	No car bound to device
+string	error_message_8005	Device offline
+string	error_message_8006	User-device link missing
+string	error_message_8007	Account-car link missing
+string	error_message_8008	No owner registration
+string	error_message_8009	No environment
+string	error_message_8010	Owner-only access
+string	error_message_8011	No ID update needed
+string	error_message_8012	Violation car unbind failed
+string	error_message_8013	Violation car bind failed
+string	error_message_8014	Device type error
+string	error_message_8015	Server location error
+string	error_message_8016	Series still has models
+string	error_message_8017	Model still has vehicles
+string	error_message_8018	No platform code
+string	error_message_8019	Upload is empty
+string	error_message_8020	Upload name empty
+string	error_message_8021	Excel is empty
+string	error_message_8022	ihuId exists
+string	error_message_8023	The car with this VIN already has an IHU
+string	error_message_8024	No device model code
+string	error_message_8025	tboxId exists
+string	error_message_8026	The car with this VIN already has a T-Box
+string	error_message_8027	Invalid requestId or timed out. Please import again.
+string	error_message_8028	Empty object. Failed to get user ID from authToken.
+string	error_message_8029	Business key already exists
+string	error_message_8030	Code is required
+string	error_message_8031	Device type missing
+string	error_message_8032	Device class error
+string	error_message_8033	Device has no user
+string	error_message_8034	App not found, init failed
+string	error_message_8035	Sign-up failed: UID required
+string	error_message_8036	Sign-up failed: appType required
+string	error_message_8037	File key required
+string	error_message_8038	Chunk size required
+string	error_message_8039	Invalid file name format
+string	error_message_8040	No vehicle bound to this VIN and UID. Please check the data.
+string	error_message_8041	The vehicle bound to this VIN and UID is in use. Please check the data.
+string	error_message_8042	VIN empty, skipped
+string	error_message_8043	All five codes empty, skipped
+string	error_message_8044	No car for this VIN, skipped
+string	error_message_8045	Five codes unchanged, no update needed
+string	error_message_8046	No violation car bound to device
+string	error_message_8047	No such car
+string	error_message_8048	Multiple car records
+string	error_message_8049	No such owner
+string	error_message_8050	Multiple owner records
+string	error_message_8051	Extension field missing
+string	error_message_8052	Model differs from original
+string	error_message_8053	IHU doesn't match the VIN's IHU
+string	error_message_8054	VIN doesn't match the T-Box's VIN
+string	error_message_8055	T-Box info doesn't match the VIN's T-Box
+string	error_message_8056	Not the owner's registered phone
+string	error_message_8057	Timed out
+string	error_message_8058	User has no car in use
+string	error_message_8059	User has multiple cars in use
+string	error_message_8060	No car for this VIN
+string	error_message_8061	No IHU info for this VIN
+string	error_message_8062	No T-Box info for this VIN
+string	error_message_8063	No vehicle info for this VIN. Please check the data.
+string	error_message_8064	Can't get UID from token
+string	error_message_8065	Status update fail
+string	error_message_8066	No T-service subscribed for VIN
+string	error_message_8067	MD5 fetch failed
+string	error_message_8068	No car status info
+string	error_message_8069	Status parse error
+string	error_message_8070	Previous request pending. Try again later.
+string	error_message_8071	Log save failed
+string	error_message_8100	File name required
+string	error_message_8101	Update failed
+string	error_message_8102	New data key must be empty
+string	error_message_8103	Header param missing
+string	error_message_8104	Upgrade query error: no software to update
+string	error_message_8105	Request param error
+string	error_message_8106	No updates
+string	error_message_8107	X_APP_ID is required
+string	error_message_8108	Publish error
+string	error_message_8109	No such software
+string	error_message_8110	Bad SW version
+string	error_message_8111	No update task
+string	error_message_8112	Bad parameter
+string	error_message_8113	Task status error
+string	error_message_8114	No update package
+string	error_message_8115	No package uploaded, can't publish
+string	error_message_8116	Upload incomplete, can't publish
+string	error_message_8117	Task not found or offline
+string	error_message_8118	Package not found or offline
+string	error_message_8119	No TEM info
+string	error_message_8120	No ECU info
+string	error_message_8121	Server error
+string	error_message_8122	Device not found or can't update now
+string	error_message_8123	No results: no vehicle for this phone number
+string	error_message_8124	No results: no vehicle for this VIN
+string	error_message_8125	No result for ihuId
+string	error_message_8126	VIN, M value or ecuType empty
+string	error_message_8127	Invalid ecuType. Please check the data.
+string	error_message_8128	No car for this VIN
+string	error_message_8129	No IHU info for the given VIN. Please check the data.
+string	error_message_8130	No T-Box info for the given VIN. Please check the data.
+string	error_message_8131	PKI cert fetch failed
+string	error_message_8132	ECU addresses don't all belong to one model ID. Please check the data.
+string	error_message_8133	No model results
+string	error_message_8134	No such env
+string	error_message_8135	Upload is empty
+string	error_message_8136	Upload-to-file conversion error
+string	error_message_8137	Upload error
+string	error_message_8138	No owner info for deviceId (this car's VIN)
+string	error_message_8139	Phone is not the owner's phone for this deviceId
+string	error_message_8140	Dealer delete failed
+string	error_message_8141	Enter ID
+string	error_message_8142	Bad request
+string	error_message_8143	app_id fetch failed
+string	error_message_8144	Package too large
+string	error_message_8145	Package locked
+string	error_message_8146	No cars to import
+string	error_message_8147	Path not found
+string	error_message_8150	Disable failed
+string	error_message_8151	No device app info
+string	error_message_8152	User has no app in use
+string	error_message_8153	Service call fail
+string	error_message_8154	No packages
+string	error_message_8155	Bad auth format
+string	error_message_8156	Car auth failed
+string	error_message_8157	Can't verify
+string	error_message_8160	Not allowed while sharing
+string	error_message_8200	Auth failed
+string	error_message_8201	No such user
+string	error_message_8202	Token check failed
+string	error_message_8203	Token refresh failed
+string	error_message_8300	Service error
+string	error_message_8301	No results
+string	error_message_8302	Data exists, can't add again
+string	error_message_8303	No results: no such environment
+string	error_message_8400	Input is required
+string	error_message_8500	Internal server error
+string	error_message_failure	Failed
+string	error_message_gateway_sign_app_not_found	Sign app missing
+string	error_message_gateway_sign_appid_not_found	Sign APPID missing
+string	error_message_gateway_sign_date_format_error	Bad sign date format
+string	error_message_gateway_sign_date_not_found	Sign date missing
+string	error_message_gateway_sign_nonce_not_found	Sign nonce missing
+string	error_message_gateway_sign_not_found	Signature missing
+string	error_message_gateway_sign_version_not_found	Sign version missing
+string	error_message_illegal_argument	Input is required
+string	error_message_internal_server_error	Internal server error
+fix	error_message_network	Network error
+string	error_message_preferred_dealer_exists	Dealer already set
+string	error_message_success	Success
+string	error_message_upload_part_success	Partly uploaded
+string	family_fragment_name	Family
+string	family_fragment_net_error	Poor network. Retry later.
+string	family_fragment_no_data	No family accounts. Set them up in ZEEKR App > My Car > Vehicle Settings.
+string	family_fragment_owner_tip	Set up family accounts in ZEEKR App > My Car > Vehicle Settings
+string	load_failure_click_to_reload	Poor network. Tap to retry.
+fix	load_net_failure	Network error. Retry.
+fix	load_request_failure	Network error. Retry.
+string	loading	Loading...
+string	login_driving_timer	Close (%ds)
+string	login_policy	"By scanning to sign in, you agree to the\n%1s and %2s"
+string	message_button_cancel	Cancel
+string	message_button_delete	Delete
+string	message_button_delete_count	Delete (%s)
+string	message_button_done	Done
+string	message_button_edit	Edit
+string	message_button_read_all	Read all
+string	message_detail_btn_go	Go now
+string	message_detail_failed_toast	Delete failed
+string	message_detail_jump_tips	App not installed, can't open
+string	message_detail_success_toast	Deleted
+string	message_detail_title	Message
+string	message_empty_tip	No messages
+string	message_title	Messages
+string	mine_accountinfo_logout	Sign out
+string	mine_car_profile	Driving profile
+string	mine_change_account	Switch
+string	mine_family	Family
+string	mine_login_settings	Sign-in
+string	mine_logout_dialog_message	Sign out of this account?
+string	mine_settings	Settings
+string	profile_bottom_tip	Save ergonomic positions (seats, mirrors, etc.) here and switch between them as needed. When the account is switched or Easy Entry is triggered, the seats and other ergonomic settings move to the driving position profile.
+string	profile_btn_common_use	Set as driving
+string	profile_btn_recover	Restore
+string	profile_btn_rename	Rename
+string	profile_btn_save	Save
+string	profile_dialog_have_name	Profile name already used
+string	profile_dialog_max_character	Up to 10 characters
+string	profile_dialog_title	Profile name
+string	profile_driving_position	Driving
+string	profile_loading_change	Switching
+string	profile_loading_recover	Restoring
+string	profile_loading_save	Saving
+string	profile_title	Driving profile
+string	profile_toast_have_change	Switched to %s
+string	profile_toast_have_recover	Restored to %s
+string	profile_toast_have_save	Saved to %s
+string	profile_toast_rename_failed	Rename failed
+string	profile_toast_rename_success	Renamed
+string	qr_code_error_text	Poor network. Retry later.
+string	qr_code_expired_text	QR code expired. Retry.
+string	setting_about_face_policy	Face ID Privacy Policy
+string	setting_about_privacy_policy	Privacy Policy
+string	setting_about_title	About
+string	setting_about_user_protocol	User Agreement
+string	setting_about_version	Version
+string	setting_change_face_button	Change
+string	setting_change_face_tip	Your current face data will be deleted and a new face added.
+string	setting_delete_face_tip	Delete face data?
+string	setting_dialog_history_btn_open	Turn on
+string	setting_dialog_history_cancel	Later
+string	setting_dialog_history_tip	When on, you can quickly switch to your account from the recent accounts list in the status bar
+string	setting_dialog_history_title	Quick switching
+string	setting_digital_key_sub_tip	When on, the head unit signs in to your account automatically after you unlock with your digital key.
+string	setting_digital_key_tip	Auto sign-in with digital key
+string	setting_face_add_bottom_tip	Face enrollment starting. Sit upright, look at the camera, and make sure the camera is fully visible.
+string	setting_face_add_btn	Add
+string	setting_face_add_success	Enrolled
+string	setting_face_add_title_tip	Face enrollment
+string	setting_face_agree	Accept
+string	setting_face_all_rule	Full terms
+string	setting_face_button_start	Start
+string	setting_face_change_btn	Change
+string	setting_face_change_delete_failed	Couldn't delete old face. Retry.
+string	setting_face_change_success	Changed
+string	setting_face_delete_btn	Delete
+string	setting_face_delete_failed	Delete failed
+string	setting_face_delete_success	Deleted
+string	setting_face_door_closed	Keep driver door shut, in P
+string	setting_face_enroll_failed	Face enroll failed
+string	setting_face_enroll_failed_tts	Face enrollment failed. Adjust your posture and try again.
+string	setting_face_enroll_success_tts	Face enrolled
+string	setting_face_family_tips	Ask the owner to turn on Face ID first
+string	setting_face_info_title	Face data
+string	setting_face_login_have_entry	Enrolled
+string	setting_face_login_no_entry	None
+string	setting_face_login_see_manual	Face ID guide
+string	setting_face_login_sub_tip	When on, face recognition identifies the driver at vehicle start-up, then signs in to the account and loads the driving profile. Only the owner account can turn this on or off.
+string	setting_face_login_tip	Face ID
+string	setting_face_open_tips	Turn on Face ID before adding a face
+string	setting_face_policy	"Face ID Privacy Policy"
+string	setting_face_read_rule	Read and accept terms
+string	setting_face_start_tips_one	Avoid dim light, direct strong light or backlight when enrolling. Keep your facial features
+string	setting_face_start_tips_two	clearly visible, no hats or masks. Keep doors closed and in P.
+string	setting_face_title	Face data
+string	setting_family_hint	The owner hasn't turned on Face ID. Ask the owner to turn it on.
+string	setting_history_account_sub_tip	When on, you can switch to your account from the head unit at the next sign-in without a password or QR confirmation. However, this cannot prevent others from accidentally signing in to your account under some conditions, which may let them view your personal information or grant permissions to collect it. Please turn this on with care.
+string	setting_history_account_tip	Quick account switching
+string	setting_iv_key_text_face_privacy	Face ID Privacy Policy
+string	setting_iv_key_text_new_privacy	Privacy Policy
+string	setting_iv_key_text_protocol	User Agreement
+string	setting_owner_hint	This feature only works when Face ID is on. Turn it on?
+string	setting_title	Sign-in
+string	string_associated_confirm_bind_dialog_agree	Agree
+string	string_associated_confirm_bind_dialog_bind_gaode_title	Amap Binding Terms
+string	string_associated_confirm_bind_dialog_content	When you link your %1s account, your ZEEKR account ID and sign-in status will be shared with the third party. You have read and agree to the %2s and %3s
+string	string_associated_confirm_bind_dialog_content_gaode	When you link your Amap account, your ZEEKR account ID, sign-in status and phone number (%1s) will be shared with the third party. You have read and agree to the %2s, %3s and %4s
+string	string_associated_confirm_bind_dialog_gaode_bind	"Amap Binding Terms"
+string	string_associated_confirm_bind_dialog_gaode_proxy	"Amap Privacy Policy"
+string	string_associated_confirm_bind_dialog_gaode_server	"Amap Terms"
+string	string_associated_confirm_bind_dialog_privacy	"ZEEKR Privacy Policy"
+string	string_associated_confirm_bind_dialog_privacy_title	ZEEKR Privacy Policy
+string	string_associated_confirm_bind_dialog_proxy	"ZEEKR User Agreement"
+string	string_associated_confirm_bind_dialog_proxy_title	ZEEKR User Agreement
+string	string_associated_confirm_bind_dialog_reject	Decline
+string	string_associated_confirm_privacy	"Privacy Policy"
+string	string_associated_confirm_proxy	"User Agreement"
+string	string_associated_confirm_unbind_dialog_content	Once unlinked, your %1s account won't sign in with ZEEKR
+string	string_associated_platform_name	%1s account
+string	third_account_repeat_bind	Already linked to ZEEKR ID
+string	third_bind_desc	Once linked, the third-party account signs in with your ZEEKR account. You can choose whether it also signs out with it.
+string	third_bind_fail	Link failed
+string	third_bind_fail_retry_plz	Link failed. Scan the QR code again.
+string	third_bind_quick_register_map	Your phone number (%1s) has no Amap account. We suggest quickly registering and linking one. You have read and agree to the %2s, %3s and %4s.
+string	third_bind_success	Linked
+string	third_close_logout_with_zeekr	Turn off sync sign-out
+string	third_logout_with_zeekr	Sign out with ZEEKR
+string	third_name_cloud_music	NetEase Music
+string	third_name_gaode	Amap
+string	third_name_iqiyi	iQIYI
+string	third_name_leishiktv	Leishi KTV
+string	third_name_qqmusic	QQ Music
+string	third_name_tai	Tencent Aiqu
+string	third_name_wx	WeChat
+string	third_plz_use_qqmusic_scan	"Scan with WeChat / QQ / QQ Music\nYou'll be signed in and linked once done"
+string	third_q_music_already_bind_another	QQ Music account already linked. Unlink it or use another account.
+string	third_quick_register_tips	Quick sign-up
+string	third_unbind_fail	Unlink failed
+string	third_unbind_success	Unlinked
+string	user_account_owner	Owner
+string	user_accountinfo_fragment_title	Account
+string	user_btn_confirm	OK
+string	user_cancel	Close
+string	user_cannot_while_driving_plz_stop	Unavailable while driving. Shift to P.
+string	user_change_third_qr_bind	Link %1s
+string	user_has_login	Already signed in
+string	user_login_login_qr_code_description	Scan with ZEEKR App
+string	user_login_title_tip_failure	Sign-in failed. Retry.
+string	user_logining	Signing in
+string	user_logout_success	Signed out
+string	user_logout_token_401	Session expired. Sign in again.
+string	user_provision_login_success	Signed in
+string	user_provision_privilege_face	Precise face recognition
+string	user_provision_privilege_member	Premium online services
+string	user_provision_privilege_music	Free quality music
+string	user_provision_privilege_upgrade	Free lifetime updates
+string	user_third_auth_deauth_dialog_negative_text	Cancel
+string	user_third_auth_fragment_title	Linked accounts
+string	user_third_bind_auth	Link consent
+string	user_third_bind_bind_immediately	Link now
+string	user_third_bind_sync_logout	When off, your %1s account won't sign out with ZEEKR
+string	user_third_bind_unbind_immediately	Unlink
+string	user_use_third_account_bind	Scan with %1s
+string	user_zeekr_app	ZEEKR App
+string	usercenter_scan_qr_login	QR sign-in
+string	usercenter_use	Use

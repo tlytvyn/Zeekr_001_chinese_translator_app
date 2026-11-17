@@ -1,0 +1,165 @@
+array	register_name	ZEEKR User 1 ‖ ZEEKR User 2 ‖ ZEEKR User 3 ‖ ZEEKR User 4
+array	register_title	Say to me ‖ Say ‖ Say again ‖ Finally, say
+string	add_wake_word	Add wake word
+string	after_eva_wakeup	After waking Eva
+string	after_eva_wakeup_geek	Without waking Eva
+string	after_eva_wakeup_wakefree	No need to wake Eva
+string	afternoon	Good afternoon
+string	anti_interference	Zone anti-noise
+string	anti_interference_tip	In left/right zone mode, Eva can tell where you are speaking from and execute commands for that zone. Passengers in other seats need to wake Eva again
+string	app_name	Voice
+string	cancel	Cancel
+string	car_driver	Navigator
+string	classic	Classic
+string	close	Off
+string	close_now	Turn off
+string	continue_talk	Continuous
+string	continue_talk_tip	Listens for 16s after each wake-up. You can interrupt Eva at any time
+string	default_wake_word	Default wake word
+string	delete	Delete
+string	delete_vprint	Delete voiceprint
+string	delete_vprint_ensure	Voiceprint features will be unavailable
+string	ensure	OK
+string	ensure_confirm	Use anyway
+string	eva	Hi, Eva
+string	eva_tts_mode	Eva voice style
+string	eva_tts_mode_tip_default	Eva gives more detailed replies
+string	eva_tts_mode_tip_simple	Eva gives shorter replies
+string	eve_process_restart_success	Voice service restarted. Try waking Eva again
+string	evening	Good evening
+string	experience_close_content	Eva will no longer collect your voice data to improve products and services
+string	experience_close_tip	Stored voice-related data will also be deleted
+string	experience_close_title	Turn off Eva Voice Improvement Program
+string	experience_now	OK
+string	experience_policy_dialog_title	Voice Improvement Program
+string	experience_policy_title	"Voice Improvement Program"
+string	experience_sub_title	Eva will collect your voice data to improve products and services
+string	experience_title	Eva Voice Improvement Program
+string	geek_guide	Geek skills
+string	geek_mode_open_tip	This feature is in beta and only works with common vehicle commands. When on, Eva may be woken by mistake while the driver is chatting
+string	geek_skill_lib	Geek skills
+string	get_again	Retry
+string	jike_skill_lib	Geek skills
+string	know	Got it
+string	lab	Labs
+string	loss_content	Loading...
+string	main_geek_mode	Driver geek mode
+string	main_geek_mode_tip	The driver can say common vehicle commands directly without waking Eva
+string	me_too_title	Try it
+string	midday	Good day
+string	morning	Good morning
+string	morning2	Good morning
+string	multi_intent_guide	Multi-intent tips
+string	multi_intent_title	Multi-intent
+string	multi_intent_word1	Nav + media
+string	multi_intent_word2	Car + media
+string	multi_intent_word3	Nav + car
+string	multi_intent_word4	Car + phone
+string	multi_intent_word5	Chained car commands
+string	net_error_content	Loading...
+string	not_define_wake_word	Not set
+string	not_open_now	Cancel
+string	one_shot	One-shot
+string	one_shot_guide	One-shot tips
+string	one_shot_tip	Say "Hi, Eva" followed by a command, or use set phrases to talk to Eva
+string	personal_dress	Appearance
+string	personal_dress_tip	Give Eva a new look?
+string	record_mode_left_behind	Rear left
+string	record_mode_left_front	Driver
+string	record_mode_right_behind	Rear right
+string	record_mode_right_front	Passenger
+string	record_mode_sub_title	Only selected zones can wake Eva
+string	record_mode_title	Wake-up zones
+string	say_such_order	and say these combined commands
+string	see_and_say	Say what you see
+string	see_and_say_tip	After waking Eva, say the name of any function on screen to select it by voice
+string	skill_lib	Skills
+string	skill_lib_tip	How many voice skills have you unlocked?
+string	skill_multi_intent_sub_title	Multiple actions in one sentence
+string	skill_multi_intent_title	Multi-intent tips
+string	skill_multi_record_location_sub_title	Reuse commands from others
+string	skill_multi_record_location_title	Cross-zone control
+string	skill_mutli_record_first_title	After someone adjusts windows, seats, A/C, etc. by voice
+string	skill_mutli_record_five_title	can quickly do
+string	skill_mutli_record_four_title	User
+string	skill_mutli_record_six_title	the same
+string	skill_mutli_record_third_title	in any seat
+string	skill_one_shot_sub_title	Talk to Eva faster
+string	skill_one_shot_title	One-shot tips
+string	skill_use	Skill usage
+string	skill_use_and_num	Skills used %1$d/%2$d
+string	skill_wake_free_sub_title	18 wake-free commands
+string	skill_wake_free_title	Wake-free
+string	stare_smart_app_tip	Driver looks at the center screen and says the name of a function to select it by voice
+string	stare_smart_app_title	Gaze + say what you see
+string	stay_tuned	Coming soon
+string	think_abount	Not now
+string	tips	Notice
+string	tts_mode_default	Default
+string	tts_mode_simple	Brief
+string	unlock_category	Unlocked
+string	update_log	Eva changelog
+string	voice_confirm_dialog_cancel	Cancel
+string	voice_confirm_dialog_commit	OK
+string	voice_confirm_dialog_hint	ZEEKR User
+string	voice_confirm_dialog_tips	Use 2–5 Chinese characters as your name, no special characters
+string	voice_confirm_dialog_title	Your name
+string	voice_confirm_welcome_descript	Just say "Hi，Eva" and Eva will recognize you
+string	voice_confirm_welcome_name	Hello, %s!
+string	voice_print_name	Voiceprint %s
+string	voice_prints_manager	Voiceprints
+string	voice_prints_register	Register voice
+string	voice_prints_tip	After wake-up, Eva recognizes your voice and replies with your personal greeting
+string	voice_prints_title	Eva memory
+string	vp_register_not_has_focus	Voiceprint recording unavailable now. Try again later
+string	vp_register_not_p	Shift to P to register voiceprint
+string	vprint_err_msg_70942	Eva didn't get that
+string	vprint_err_msg_70943	Eva didn't get that
+string	vprint_err_msg_70945	Eva didn't get that. Try again
+string	vprint_err_msg_70946	Eva didn't get that
+string	vprint_err_msg_70947	Please speak faster and try again
+string	vprint_err_msg_70948	Too fast. Please speak slower
+string	vprint_err_msg_70949	Eva couldn't hear you. Try somewhere quieter
+string	vprint_err_msg_70950	Eva couldn't hear you. Try again
+string	vprint_err_name_msg	Name not supported
+string	vprint_err_name_msg1	Chinese only
+string	vprint_err_name_msg2	2–5 Chinese chars only
+string	vprint_err_name_msg3	Network error. Please try again later
+string	vprint_has_register	Voiceprint may match %s
+string	vr_service	Eva voice service
+string	vr_service_close_content	When off, voice service cannot be used in any way
+string	vr_service_close_title	Eva voice authorization
+string	vr_service_content	Under national data security regulations, voice service requires your consent. Once enabled, wake voice via "Hi, Eva", tapping Eva, or the steering wheel voice button
+string	vr_service_not_open	Not now
+string	vr_service_not_ready	Voice is starting. Try again later
+string	vr_service_open	Agree
+string	vr_service_policy_dialog_title	ZEEKR Eva Voice Service Privacy Policy
+string	vr_service_policy_title	ZEEKR Eva Voice Service Privacy Policy
+string	vr_service_sub_title	Valid for
+string	vr_service_time_half_year	6 months
+string	vr_service_time_one_year	1 year
+string	vr_service_time_sub_title	Valid for
+string	vr_service_time_sub_title_delay	Extend consent
+string	vr_service_time_third_month	3 months
+string	vr_service_tip_close	When on, you can wake Eva and use Eva voice service
+string	vr_service_tip_open	When off, you cannot wake Eva or use Eva voice service
+string	vr_service_title	Eva voice authorization
+string	wake_free	Wake-free
+string	wake_free_guide	Wake-free
+string	wake_free_tip	In navigation, music, etc., say common commands without waking Eva
+string	wake_tip	Wake me
+string	wake_word	Wake word
+string	wake_word_error_score	Score %s: likely to cause false wake-ups
+string	wake_word_set_tip	You can now wake me with "%s" or Hi Eva
+string	wake_word_suggest_content	Use 3–5 Chinese chars; avoid everyday words or repeated chars\nOr wake me and say "给你取个名字叫XXX"
+string	wake_word_suggest_title	Wake word tips
+string	wake_word_tip	Wake me with "Hi Eva" or a custom wake word
+string	wake_word_tip_default	Not set
+string	wisdom_close_content	Turning this off affects multi-turn conversations and disables wake-free commands. We recommend keeping it on. Turn off anyway?
+string	wisdom_close_title	Turn off Smart Chat
+string	wisdom_talk	Smart Chat
+string	wisdom_talk_tip	Eva provides continuous, natural and smart conversations
+string	you_can	You can
+string	you_can_say	Try saying:
+string	you_can_say_geek	Just say:
+string	you_can_say_wakefree	Just say:

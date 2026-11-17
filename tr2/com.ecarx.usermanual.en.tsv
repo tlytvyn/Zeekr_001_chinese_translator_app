@@ -1,0 +1,24 @@
+string	app_name	User Manual
+string	app_params	Pass required params
+string	dialog_button_confirm_exit_text	Exit now (%sS)
+string	dialog_car_safety_content	For your safety and that of others, do not watch videos while driving!
+string	error_likewise	Like failed
+string	error_negative	Dislike failed
+string	error_user	Failed to get user info
+string	main_got_it	Got it
+string	main_safety_tips	Safety Tip
+string	main_safety_tips_content	For your safety and that of others, do not watch videos or perform any other operations that interfere with safe driving while driving. You shall bear the consequences of violating these legal obligations.
+string	manual_txt	User Manual
+string	no_data_tip	No data yet
+string	not_match_data	Failed to load data. Try again later
+string	recommend_txt	Highlights
+string	search_hint	Enter keywords
+string	search_no_tip	No results found
+string	search_tip_exception	Something went wrong. Retry
+string	search_tip_no_net	Poor network. Try again later
+string	search_video	[Video]
+string	start_loading	Loading...
+string	tip_refresh	Refresh
+string	video_back	Back
+string	video_loading	Loading...
+string	video_refresh	Video failed to load. Tap to retry

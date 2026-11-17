@@ -1,0 +1,262 @@
+string	alarm_ahead_500_meters	43	missing	"即将驶出NZP路段，\n请手握方向盘"	
+string	alarm_attention	16	missing	请注视前方道路	
+string	alarm_auto_pilot_stop	22	missing	ZEEKR Pilot 已退出	
+string	alarm_hands_off	14	missing	请手握方向盘	
+string	alarm_hands_off_pilot_stop	12	missing	未及时接管	
+string	alarm_incorrect_stop	33	missing	请手握方向盘，再次按下取消按键	
+string	alarm_lcc_running	11	missing	LCC运行中	
+string	alarm_level_1_change_to_the_left	14	missing	即将向左变道	
+string	alarm_level_1_change_to_the_right	14	missing	即将向右变道	
+string	alarm_level_1_nzp_activated	12	missing	NZP 已开启	
+string	alarm_level_1_prepare_for_lane_change	12	missing	准备变道中	
+string	alarm_level_1_the_lane_change_failed	14	missing	本次变道失败	
+string	alarm_level_1_the_lane_change_finish	14	missing	本次变道结束	
+string	alarm_level_1_turn_on_the_left	38	missing	"即将向左变道\n请打转向灯确认"	
+string	alarm_level_1_turn_on_the_right	38	missing	"即将向右变道\n请打转向灯确认"	
+string	alarm_level_1_upgraded_tp_nzp	33	missing	"已升级为NZP\n可脱手驾驶"	
+string	alarm_level_2_ahead_of_200_meters	52	missing	"前方200米将驶出NZP路段\n请提前接管车辆"	
+string	alarm_level_2_ahead_of_500_meters	52	missing	"前方500米将驶出NZP路段\n请提前接管车辆"	
+string	alarm_level_2_alca_withdrawn	12	missing	ALC 已退出	
+string	alarm_level_2_downgraded_to_automatic	41	missing	"已降级为辅助驾驶\n请手握方向盘"	
+string	alarm_level_2_nzp_withdrawn	12	missing	NZP 已退出	
+string	alarm_level_3_grip_the_steering_wheel	18	missing	请立即紧握方向盘	
+string	alarm_level_3_take_over_the_vehicle	16	missing	请立即接管车辆	
+string	alarm_nzp_active	11	missing	NZP已激活	
+string	alarm_nzp_road_rendering	38	missing	正在渲染道路信息，NZP功能正常运行中	
+string	alarm_nzp_running	11	missing	NZP运行中	
+string	alarm_nzp_to_be_end_odd	32	missing	即将驶出NZP路段，请手握方向盘	
+string	alarm_pilot_disable	46	missing	"功能无法激活\n请停车并重新启动车辆"	
+string	alarm_pilot_stop	20	missing	ZEEKR Pilot已退出	
+string	alarm_pilot_stop_and_hands_off	18	missing	请立即紧握方向盘	
+string	alarm_safe_stop	24	missing	安全停车中，请接管车辆	
+string	alarm_take_over	12	missing	请立即接管	
+string	alarm_take_over_car	12	missing	请接管车辆	
+string	alarm_turn_confirm	22	missing	请操作转向拨杆以变道	
+string	alarm_turn_left_confirm	30	missing	请操作转向拨杆，进行向左变道	
+string	alarm_turn_right_confirm	30	missing	请操作转向拨杆，进行向右变道	
+string	auto_navi_text_heading_distance	10	missing	剩余距离	
+string	cancel_turn	16	missing	本次变道已取消	
+string	change_to_lcc	11	missing	切换至LCC	
+string	change_to_nzp	11	missing	切换至NZP	
+string	changed_to_lcc	13	missing	已切换至LCC	
+string	changed_to_nzp	13	missing	已切换至NZP	
+string	changing_to_lcc	19	missing	正在切换至LCC...	
+string	changing_to_nzp	19	missing	正在切换至NZP...	
+string	dialog_login_cancel	6	missing	取消	
+string	dialog_login_confirm	10	missing	账号登录	
+string	dialog_login_description	45	missing	开启前需要登录账号，是否跳转至用户中心登录	
+string	dialog_login_description2	39	missing	需要登录账号，是否跳转至用户中心登录	
+string	dialog_protocol_cancel	6	missing	拒绝	
+string	dialog_protocol_confirm	6	missing	同意	
+string	dialog_protocol_confirm_timer	11	missing	同意(%1$s)	
+string	dialog_protocol_description	510	missing	"一 UI中的协议内容（白色文本）为样式示意。本协议确认与您了解本公司为您提供的服务内容及您使用易于您了解本公司为您提供的服务内容。UI中的协议内容（白色文本）为样式示意。\n1、本协议有助于您了解本公司为您提供的服务内容及您使用易联账户的权利和义务， 请您仔细阅读 （特别是以粗体标注的内容）。 如果您对本协议的条款有疑问，您可通过易联官网（http://www.easy-link.cn/）的在线客服，或通过客服电话95192进行咨询。"	
+string	dialog_protocol_title	10	missing	用户协议	
+string	exit_toast	18	missing	NZP APP即将退出	
+string	failed_change_to_nzp	16	missing	切换 NZP 失败	
+string	failed_turn_left	26	missing	左侧变道失败，请接管车辆	
+string	failed_turn_right	26	missing	右侧变道失败，请接管车辆	
+string	finish_turn	12	missing	变道已完成	
+string	level1_about_to_change_lane_to_the_left_alarm	14	missing	即将向左变道	
+string	level1_about_to_change_lane_to_the_right_alarm	14	missing	即将向右变道	
+string	level1_ai_assisted_driving_is_on_alarm	16	missing	辅助驾驶已开启	
+string	level1_has_been_downgraded_to_nzp_intelligent_pilot_alarm	22	missing	已降级为nzp智能领航	
+string	level1_has_been_upgraded_to_ai_assisted_driving_alarm	20	missing	已升级为ai辅助驾驶	
+string	level1_has_been_upgraded_to_nzp_autonomous_navigation_alarm	22	missing	已升级为nzp自主领航	
+string	level1_lane_change_completed_alarm	12	missing	变道已完成	
+string	level1_lane_change_conditions_are_not_met_alarm	16	missing	本次变道已取消	
+string	level1_lane_change_has_been_cancelled_alarm	16	missing	本次变道已取消	
+string	level1_lane_change_in_progress_alarm	12	missing	变道进行中	
+string	level1_lane_change_is_cancelled_alarm	16	missing	本次变道已取消	
+string	level1_lane_changing_in_progress_please_pay_attention_alarm	12	missing	变道进行中	
+string	level1_lcc_function_on_alarm	11	missing	LCC已激活	
+string	level1_lcc_is_running_alarm	11	missing	LCC运行中	
+string	level1_nzp_autonomous_pilot_is_in_operation_alarm	11	missing	NZP运行中	
+string	level1_nzp_autonomous_piloting_has_been_activated_alarm	11	missing	NZP已激活	
+string	level1_please_hold_the_steering_wheel_alarm	14	missing	请手握方向盘	
+string	level1_please_hold_the_steering_wheel_press_the_cancel_button_again_alarm	35	missing	请手握方向盘，10再次按下取消按键	
+string	level1_please_look_at_the_road_ahead_alarm	16	missing	请注视前方道路	
+string	level1_please_operate_the_steering_lever_change_the_left_alarm	33	missing	请操作转向拨杆，10进行向左变道	
+string	level1_please_operate_the_steering_lever_change_the_right_alarm	33	missing	请操作转向拨杆，10进行向右变道	
+string	level1_the_function_cannot_be_activated_alarm	39	missing	功能无法激活，10请停车并重新启动车辆	
+string	level1_this_lane_change_failed_alarm	14	missing	本次变道失败	
+string	level1_zca_is_running_alarm	11	missing	ZCA运行中	
+string	level1_zeekr_pilot_exited_alarm	20	missing	ZEEKR Pilot已退出	
+string	level2_about_to_leave_the_workable_area_alarm	41	missing	即将驶出可工作区域路段，10请手握方向盘	
+string	level2_downgraded_to_manual_driving_please_hold_the_steering_wheel_alarm	39	missing	已降级为手动驾驶状态，10请手握方向盘	
+string	level2_has_been_downgraded_to_a_manual_driving_condition_please_hold_the_steering_wheel_alarm	34	missing	左侧/右侧变道失败，10请接管车辆	
+string	level2_has_been_downgraded_to_lcc_alarm	13	missing	已降级为lcc	
+string	level2_lane_changed_failed_left_alarm	28	missing	左侧变道失败,10请接管车辆	
+string	level2_lane_changed_failed_right_alarm	28	missing	右侧变道失败,10请接管车辆	
+string	level2_pilot_function_exit_failure_to_take_over_alarm	33	missing	ZEEKR Pilot退出，10未及时接管	
+string	level2_please_hold_the_steering_wheel_alarm	14	missing	请手握方向盘	
+string	level2_please_look_at_the_road_ahead_alarm	16	missing	请注视前方道路	
+string	level2_zeekr_pilot_function_exit_alarm	20	missing	ZEEKR Pilot已退出	
+string	level3_has_been_downgraded_to_manual_driving_condition_alarm	39	missing	已降级为手动驾驶状态，10请手握方向盘	
+string	level3_please_hold_the_steering_wheel_alarm	18	missing	请立即紧握方向盘	
+string	level3_please_look_at_the_road_ahead_alarm	16	missing	请注视前方道路	
+string	level3_please_take_over_the_vehicle_immediately_alarm	16	missing	请立即接管车辆	
+string	level3_please_take_over_the_vehicle_immediately_lcc_alarm	16	missing	请立即接管车辆	
+string	level3_please_take_over_the_vehicle_in_the_safe_parking_alarm	24	missing	安全停车中，请接管车辆	
+string	level3_zeekr_pilot_function_exit_alarm	20	missing	ZEEKR Pilot已退出	
+string	level4_unity_warning	40	missing	正在渲染道路信息，10NZP功能正常运行中	
+string	level_unknown_alarm	7	missing	注意!	
+string	main_settings_ai_assist_default_on_summary	43	missing	车辆每次上电后，会自动打开AI辅助驾驶功能	
+string	main_settings_ai_assist_default_on_title	14	missing	上电默认开启	
+string	main_settings_ai_assist_lane_change_confirm_summary	117	missing	开启后，系统进行自动变道时，则会提醒用户即将变道，并需要用户通过拨动转向灯杆的方式以确认变道	
+string	main_settings_ai_assist_lane_change_confirm_title	10	missing	变道确认	
+string	main_settings_ai_assist_lane_change_strategy_gentle	6	missing	平缓	
+string	main_settings_ai_assist_lane_change_strategy_radical	6	missing	快速	
+string	main_settings_ai_assist_lane_change_strategy_standard	6	missing	标准	
+string	main_settings_ai_assist_lane_change_strategy_title	14	missing	自动超车策略	
+string	main_settings_ai_assist_lane_change_warning_radio_both	6	missing	同时	
+string	main_settings_ai_assist_lane_change_warning_radio_vibrate	6	missing	震动	
+string	main_settings_ai_assist_lane_change_warning_radio_voice	6	missing	声音	
+string	main_settings_ai_assist_lane_change_warning_title	10	missing	变道提醒	
+string	main_settings_ai_assist_out_overtaking_lane_summary	95	missing	开启后，在封闭道路上变道超车后，若条件允许，可再次进行自动变道以让出超车道	
+string	main_settings_ai_assist_out_overtaking_lane_title	16	missing	自动让出超车道	
+string	main_settings_ai_driver_assist_summary	53	missing	进入指定路段，系统将会自动变道超车，及控制前车距离	
+string	main_settings_ai_driver_assist_title	13	missing	AI 辅助驾驶	
+string	main_settings_auto_lane_change_assist_summary	67	missing	进入指定路段，可通过拨动转向灯杆的方式，实现自动变道	
+string	main_settings_auto_lane_change_assist_title	18	missing	手动辅助自动变道	
+string	main_settings_big_data_speed_limit_summary	41	missing	道路限速数值取自对道路的大数据车速限制	
+string	main_settings_big_data_speed_limit_title	12	missing	大数据车速	
+string	main_settings_convergence_speed_title	10	missing	融合速度	
+string	main_settings_drive_pilot_summary	51	missing	进入指定路段按用户设定的导航路线实现智能辅助驾驶	
+string	main_settings_drive_pilot_title	14	missing	NZP 自主领航	
+string	main_settings_speed_limit_warning_offset_data_title	25	missing	在道路限速牌上增加/减少	
+string	main_settings_speed_limit_warning_offset_switch_title	12	missing	道路限速牌	
+string	main_study_guide_description1	260	missing	"Zeekr AD是一套高级智能驾驶辅助系统，在高速及城市快速路场景下，实现基于导航路径的自动上\n下匝道、巡航、车道变换、互通切换等功能。未来将实现交通信号灯识别、红灯刹车辅助，具备在\n城市开放道路的自主领航能力。"	
+string	main_study_guide_description2	34	missing	首先，您需要在设置页面中打开xxx	
+string	main_study_guide_description3	31	missing	满足条件后才能开启AI辅助驾驶	
+string	main_study_guide_description4	26	missing	开启Zeeker AD的操作步骤	
+string	main_study_guide_description5	28	missing	Zeekr AD 开启后您需要关注	
+string	main_study_guide_inspect	8	missing	去测试	
+string	main_study_guide_welcome	19	missing	欢迎使用Zeekr AD	
+string	main_study_synopsis_reminder	147	missing	"为了保障您的安全，开启Zeekr AD智能驾驶功能，\n必需学习相关操作说明，并完成一个简单的测试，大约会占用您10-15分钟。"	
+string	main_tab_achievement	10	missing	我的勋章	
+string	main_tab_settings	12	missing	AI驾驶设置	
+string	main_tab_study	12	missing	AI驾驶学习	
+string	navi_interval_camera_info_avert_speed	10	missing	平均速度	
+string	nop_close	16	missing	开启AI辅助驾驶	
+string	nop_open	16	missing	关闭AI辅助驾驶	
+string	on_nzp_dt_miss	19	missing	地图数据加载中...	
+string	push_study	8	missing	去学习	
+string	push_subtitle	74	missing	"关闭此推送后，可以在「」应用中找到智能驾驶\n的学习入口。"	
+string	push_title	78	missing	"极氪支持智能驾驶功能,但是需要学习智能\n驾驶知识才能开启哦。"	
+string	start_turn	12	missing	变道进行中	
+string	study_guide_condition_description	12	missing	AI辅助驾驶	
+string	study_guide_condition_step1	18	missing	已设置导航目的地	
+string	study_guide_condition_step2	33	missing	所有传感器正常工作，无遮挡物体	
+string	study_guide_condition_step3	65	missing	"进入Zeekr AD可用区域，\n出现可开启的智能驾驶图标"	
+string	study_guide_function_description	34	missing	首先，您需要在设置页面中打开xxx	
+string	study_guide_inspect	8	missing	去测试	
+string	study_guide_next	6	missing	继续	
+string	study_guide_open_description	37	missing	行驶过程中，如果您需要开始智能驾驶	
+string	study_guide_open_step1	22	missing	点击方向盘左侧xx按钮	
+string	study_guide_open_step2	16	missing	向左侧滑动开启	
+string	study_guide_tab_condition	10	missing	进入条件	
+string	study_guide_tab_function	10	missing	功能设置	
+string	study_guide_tab_notes	10	missing	注意事项	
+string	study_guide_tab_open	10	missing	如何开启	
+string	study_inspected_description	29	missing	一键开启Zeekr AD安全出发。	
+string	study_inspected_finish	6	missing	完成	
+string	study_inspected_switch	13	missing	AI 辅助驾驶	
+string	study_inspected_title	12	missing	测试通过！	
+string	study_inspecting_next	8	missing	下一题	
+string	study_inspecting_tips	8	missing	提示：	
+string	study_inspecting_title	22	missing	随堂测试（%1$s/%2$s）	
+string	study_synopsis_chart_cruise	6	missing	巡航	
+string	study_synopsis_chart_each	10	missing	互通切换	
+string	study_synopsis_chart_lane	10	missing	车道变换	
+string	study_synopsis_chart_ramp	14	missing	自动上下匝道	
+string	study_synopsis_description	260	missing	"Zeekr AD是一套高级智能驾驶辅助系统，在高速及城市快速路场景下，实现基于导航路径的自动上\n下匝道、巡航、车道变换、互通切换等功能。未来将实现交通信号灯识别、红灯刹车辅助，具备在\n城市开放道路的自主领航能力。"	
+string	study_synopsis_look	10	missing	查看说明	
+string	study_synopsis_reminder	147	missing	"为了保障您的安全，开启Zeekr AD智能驾驶功能，必需学习相关操作说明，并完成一个简单的测试，\n大约会占用您10-15分钟。"	
+string	study_synopsis_study	10	missing	开始学习	
+string	study_welcome	31	missing	欢迎使用Zeekr AD智能驾驶系统	
+string	study_welcome1	26	missing	欢迎使用NZP智能驾驶系统	
+string	study_welcome2	76	missing	"欢迎使用NZP高速自主领航辅助功能\n（简称NZP或NZP高速领航）"	
+string	toast_ai_pilot_cannot_open	19	missing	Ai辅助驾驶⽆法开启	
+string	toast_ai_pilot_not_finished	42	missing	新手引导未完成，NZP智能领航功能不可开启	
+string	toast_ai_pilot_not_finished2	34	missing	NZP高速自主领航辅助功能无法开启	
+string	toast_guide	22	missing	请先阅读「%1$s」教程	
+string	toast_no_parking	32	missing	请确保当前车辆处于P档驻车状态	
+string	toast_nzp_study_finished	62	missing	NZP学习及测试已完成，您可在ZEEKR AD探索相关功能	
+string	toast_open_ai_driver_assist	27	missing	请先开启”AI辅助驾驶“选项	
+string	toast_open_auto_lane_change_assist	33	missing	请先开启”手动辅助自动变道“选项	
+string	toast_open_auto_lane_change_assist_ai_driver_assist	63	missing	请先开启”手动辅助自动变道“选项，“AI辅助驾驶”选项	
+string	toast_open_failed	14	missing	功能打开失败	
+string	toast_study_no_finish	41	missing	驾驶学习未完成，AI辅助驾驶功能不可开启	
+string	unit_hour	6	missing	小时	
+string	unit_min	6	missing	分钟	
+string	unit_zh_km	6	missing	公里	
+string	unit_zh_meter	4	missing	米	
+string	warning_safe_drive	28	missing	请时刻手握方向盘，安全驾驶	
+string	window_go_study_guide_cancel	6	missing	取消	
+string	window_go_study_guide_confirm	8	missing	去学习	
+string	window_go_study_guide_description	97	missing	"首次开启NZP智能领航，您需要完成新手引导。\n请将使当前车辆处于P档驻车状态。"	
+string	window_go_study_guide_description2	93	missing	首次开启NZP智能领航，您需要完成新手引导。请将使当前车辆处于P档驻车状态。	
+string	window_go_study_guide_description3	139	missing	首次开启NZP高速自主领航辅助功能（简称NZP或NZP高速领航），您需要完成新手引导。请将使当前车辆处于P档驻车状态。	
+string	window_go_study_guide_title	13	missing	进⼊学习引导	
+string	window_nzp_function_details_close	6	missing	关闭	
+string	window_nzp_function_details_content1	332	missing	"前方有目标车辆时，NZP可跟车行驶，自动实现加速与减速；如前方目标减速到停，NZP可自动跟停并保持车距，在一定时间内，可自动跟随前方目标车辆起步;\n前方无目标车辆时，NZP可融合大数据车速（道路当前及历史车流速度）或道路限速控制车辆行驶，用户可通过开关“大数据车速”选择。"	
+string	window_nzp_function_details_content1_2560	338	missing	"前方有目标车辆时，NZP可跟车行驶，自动实现加速与减速；\n如前方目标减速到停，NZP可自动跟停并保持车距，在一定时\n间内，可自动跟随前方目标车辆起步；前方无目标车辆时，\nNZP可融合大数据车速（道路当前及历史车流速度）或道路限\n速控制车辆行驶，用户可通过开关“大数据车速”选择。"	
+string	window_nzp_function_details_content1_title	15	missing	1. 智能巡航：	
+string	window_nzp_function_details_content2	197	missing	"NZP可控制车辆保持在车道中心行驶。\n若遇到相邻车道卡车等大型车辆时，NZP 会在车道内进行一定幅度的偏移，以远离大车，驶离大型车辆后，自动恢复至车道中心行驶。"	
+string	window_nzp_function_details_content2_2560	200	missing	"NZP可控制车辆保持在车道中心行驶。 若遇到相邻车道卡车等\n大型车辆时，NZP 会在车道内进行一定幅度的偏移，以远离大\n车，驶离大型车辆后，自动恢复至车道中心行驶。"	
+string	window_nzp_function_details_content2_title	15	missing	2. 道路居中：	
+string	window_nzp_function_details_content3	364	missing	"当前方目标车行驶较慢时，NZP判断周边环境满足后，可以自动辅助超车。当驾驶员拨动转向灯时，NZP判断周边环境满足后，可以进行自动辅助变道。当开启导航后，在需要变道时，NZP判断周边环境满足后，可以自动辅助变至目标车道。\n在变道过程中驾驶员需保持注意力集中，关注周围路况，并在必要时及时接管车辆。"	
+string	window_nzp_function_details_content3_2560	371	missing	"当前方目标车行驶较慢时，NZP判断周边环境满足后，可以自\n动辅助超车。当驾驶员拨动转向灯时，NZP判断周边环境满足\n后，可以进行自动辅助变道。当开启导航后，在需要变道时，\nNZP判断周边环境满足后，可以自动辅助变至目标车道。 在变\n道过程中驾驶员需保持注意力集中，关注周围路况，并在必要\n时及时接管车辆。"	
+string	window_nzp_function_details_content3_title	15	missing	3. 车道变换：	
+string	window_nzp_function_details_content4	253	missing	在高精地图覆盖区域开启导航后，NZP自主领航可以按照导航路线指示控制车辆上下匝道，包括进入匝道，高速公路间交换，离开高速公路等。在变道过程中驾驶员需保持注意力集中，关注周围路况，并在必要时及时接管车辆。	
+string	window_nzp_function_details_content4_2560	260	missing	"在高精地图覆盖区域开启导航后，NZP自主领航可以按照导航\n路线指示控制车辆上下匝道，包括进入匝道，高速公路间交\n换，离开高速公路等。在变道过程中驾驶员需保持注意力集\n中，关注周围路况，并在必要时及时接管车辆。"	
+string	window_nzp_function_details_content4_title	15	missing	4. 上下匝道：	
+string	window_nzp_function_details_content5_2560	432	missing	"高速领航功能（Navigation on ZEEKR Pilot，以下简称NZP）\n适用于在高精度地图覆盖的封闭城市快速路和高速公路（以适\n用法律法规允许且ZEEKR极氪开通的区域为准），用户可以通\n过连续向下拨动两次换挡拨杆以开启此功能；此功能可以辅助\n驾驶员控制车辆沿设定的导航路线行驶、根据道路限速值自动\n的调整巡航车速、智能切换至合适的车道、辅助驾驶员进出匝\n道等。"	
+string	window_nzp_function_details_content5_title	19	missing	1. NZP高速领航：	
+string	window_nzp_function_details_content6_2560	270	missing	"开启NZP后，当相邻车道有大型车辆时，系统将控制车辆在车\n道内反方向偏移，以远离大车。当检测到本车道前方有锥桶等\n障碍物时，系统会适当减速且智能规划避障路径，包括在本车\n道内绕行该障碍物和通过变道的方式绕行该障碍物。"	
+string	window_nzp_function_details_content6_title	15	missing	2. 智能避障：	
+string	window_nzp_function_details_content7_2560	269	missing	"开启NZP后，NZP可根据导航路径选择适宜车道行驶，并控制\n车辆自主上下匝道，在检测到前方车辆车速较慢时可自主变道\n超车。驾驶员也可通过开启一侧转向灯，系统将辅助驾驶员进\n行对应方向的变道，变道成功后转向灯会自动关闭。"	
+string	window_nzp_function_details_content7_title	15	missing	3. 自主变道：	
+string	window_nzp_function_details_content8_2560	265	missing	"NZP可以根据导航路径，辅助用户在合适的时机，通过适当的\n调整车速及变换车道，自动完成从主路驶入匝道及匝道汇入主\n路的动作。如果在拥堵路段，系统无法完成主动换道，系统会\n向用户寻求帮助，用户需要注意及时接管车辆。"	
+string	window_nzp_function_details_content8_title	15	missing	4. 上下匝道：	
+string	window_nzp_function_details_title1	10	missing	智能巡航	
+string	window_nzp_function_details_title2	10	missing	车道居中	
+string	window_nzp_function_details_title2_2560	10	missing	道路居中	
+string	window_nzp_function_details_title3	10	missing	车道变换	
+string	window_nzp_function_details_title4	10	missing	上下匝道	
+string	window_nzp_function_details_title5	13	missing	NZP高速领航	
+string	window_nzp_function_details_title6	10	missing	智能避障	
+string	window_nzp_function_details_title7	10	missing	自主变道	
+string	window_nzp_function_introduction_cancel	6	missing	取消	
+string	window_nzp_function_introduction_confirm	10	missing	开始学习	
+string	window_nzp_function_introduction_content1	238	missing	NZP是一套高级智能驾驶辅助系统，在高速及城市快速路场景下，实现基于导航路径的巡航、车道居中、车道变换、上下匝道等，未来将实现交通信号灯识别、红灯刹车辅助，具备在城市开放道路的自主领航能力。	
+string	window_nzp_function_introduction_content1_cs	373	missing	NZP高速自主领航辅助（简称NZP或NZP高速领航）是一项能够大幅度降低驾驶员疲劳程度，并提升驾驶安全性的智能辅助驾驶功能。NZP可以基于导航路线，在高精度地图覆盖的封闭城市快速路和高速公路（以适用法律法规允许且ZEEKR极氪开通的区域为准）上，由驾驶员监督，实现自动上下匝道，自主变道超车等领航辅助驾驶功能。	
+string	window_nzp_function_introduction_content2	159	missing	为了保障您的安全，开启NZP智能驾驶功能之前，必须学习该功能的使用方法和注意事项，并完成一个简单的测试，大约会占用您10-15分钟。	
+string	window_nzp_function_introduction_content2_cs	169	missing	为了保障您的安全，开启NZP高速自主领航辅助功能之前，必须学习该功能的使用方法和注意事项，并完成一个简单的测试，大约会占用您10-15分钟。	
+string	window_nzp_function_introduction_item_content1	10	missing	智能巡航	
+string	window_nzp_function_introduction_item_content2	10	missing	车道居中	
+string	window_nzp_function_introduction_item_content3	10	missing	车道变换	
+string	window_nzp_function_introduction_item_content4	10	missing	上下匝道	
+string	window_nzp_function_introduction_item_content5	13	missing	NZP高速领航	
+string	window_nzp_function_introduction_item_content6	10	missing	智能避障	
+string	window_nzp_function_introduction_item_content7	10	missing	自主变道	
+string	window_nzp_function_introduction_learning_guidance	10	missing	学习引导	
+string	window_qrcode_study_close_button	6	missing	关闭	
+string	window_qrcode_study_content	116	missing	若要开启NZP相关功能，请用手机打开极氪app或微信扫描上方二维码，观看视频介绍并完成安全测试。	
+string	window_qrcode_study_content2	136	missing	若要开启NZP高速自主领航辅助相关功能，请用手机打开极氪app或微信扫描上方二维码，观看视频介绍并完成安全测试。	
+string	window_qrcode_study_finish_button	8	missing	已完成	
+string	window_qrcode_study_title	10	missing	开始学习	
+string	window_use_instructions_cancel	6	missing	取消	
+string	window_use_instructions_confirm	6	missing	确认	
+string	window_use_instructions_confirm_timer	11	missing	确认(%d)	
+string	window_use_instructions_description	598	missing	"尊敬的客户：\n在您使⽤AI辅助驾驶和/或NZP⾃主领航及其他相关功能（以下统称“相关功能”）前，请仔细阅读如下内容：\n相关功能均为辅助驾驶功能，其⽬的为提升驾驶便利和舒适性，并不会让⻋辆实现⾃动驾驶。使⽤相关功能时，驾驶员必须时刻保持注意⼒，确保⻋辆⾏驶和环境安全，⼿握⽅向盘，以便能够随时接管⻋辆或采取修正措施，请勿完全依赖相关功能进⾏驾驶。相关功能主要为⾼速公路、⾼架路等特定使⽤场景⽽设计，要求⾏驶道路存在隔离带和清晰的⻋道线，并满⾜其他必须的运⾏条件，倘若有⾏⼈或施⼯场景以及恶劣天⽓，或其他。"	
+string	window_use_instructions_description2	596	missing	"尊敬的客户：\n在您使⽤AI辅助驾驶和/或NZP⾃主领航及其他相关功能（以下统称“相关功能”）前，请仔细阅读如下内容：相关功能均为辅助驾驶功能，其⽬的为提升驾驶便利和舒适性，并不会让⻋辆实现⾃动驾驶。使⽤相关功能时，驾驶员必须时刻保持注意⼒，确保⻋辆⾏驶和环境安全，⼿握⽅向盘，以便能够随时接管⻋辆或采取修正措施，请勿完全依赖相关功能进⾏驾驶。相关功能主要为⾼速公路、⾼架路等特定使⽤场景⽽设计，要求⾏驶道路存在隔离带和清晰的⻋道线，并满⾜其他必须的运⾏条件，倘若有⾏⼈或施⼯场景以及恶劣天⽓，或其他。"	
+string	window_use_instructions_description3	1942	missing	"尊敬的客户：\n\u0009\u0009\u0009\u0009在您使用NZP高速自主领航辅助及其他驾驶辅助相关功能（以下统称“相关功能”）前，请仔细阅读如下内容：\n\u0009\u0009\u0009\u0009相关功能均为辅助驾驶功能，其⽬的为提升驾驶便利和舒适性，并不会让⻋辆实现⾃动驾驶。相关功能无法应对所有交通、天气和道路状况，且不能替代您的驾驶。您始终有责任安全审慎地驾驶车辆，时刻关注交通状况及道路环境，并在确保安全的情况下自主决定是否使用相关功能。\n\u0009\u0009\u0009\u0009使⽤相关功能时，驾驶员必须时刻保持注意⼒，确保⻋辆⾏驶和环境安全，⼿握⽅向盘，以便能够随时接管⻋辆或采取修正措施，请勿完全依赖相关功能进⾏驾驶。相关功能主要为在高精度地图覆盖的封闭城市快速路和高速公路（以适用法律法规允许且ZEEKR极氪开通的区域为准）等特定使用场景而设计，要求行驶道路存在隔离带和清晰的车道线，并满足其他必须的运行条件（详见《用户手册》对应章节），倘若有行人或施工场景以及恶劣天气，或其他运行条件未满足的情况下，相关功能将受限，此时驾驶员需要立即接管车辆。\n\u0009\u0009\u0009\u0009相关功能的运行需要车辆摄像头、传感器、定位系统等辅助驾驶相关组件的支持，在开启相关功能前，请确保辅助驾驶相关组件性能良好且工作正常。\n\u0009\u0009\u0009\u0009此使用须知适用于您确认开启相关功能后的全过程，直至车辆被接管或相关功能被关闭。\n\n\u0009\u0009\u0009\u0009使用要求：\n\u0009\u0009\u0009\u0009在使用相关功能之前，驾驶员需确认知晓NZP高速自主领航辅助功能的详细信息（详见《用户手册》），掌握如何开启及取消等操作，并同意相关信息和数据收集规则。\n\n\u0009\u0009\u0009\u0009您是否同意以上全部使用须知内容并希望开启NZP高速自主领航辅助？\n\u0009\u0009\u0009\u0009我已阅读理解并完全同意上述使用须知内容。"	
+string	window_use_instructions_title	44	missing	NZP智能领航及NZP自主领航相关功能使用须知	
+string	window_use_instructions_title2	14	missing	进入学习引导	
+string	window_user_instructions_agree	33	missing	我已阅读理解并完全同意以上要求	
+string	window_user_instructions_cancel	6	missing	取消	
+string	window_user_instructions_confirm	10	missing	开始学习	
+string	window_user_instructions_content	404	missing	"当您通过您车辆内的中控屏扫码进入手机端的学习地图时，需要向我们提供或允许我们收集的必要信息包括：手机号、极氪app账户信息、极氪app账号登录状态、学习进度相关信息，用于同步您在该账号下的学习情况，记录您对于该功能的学习状态和完成记录。\n\n请注意，本信息将会永久储存在极氪，我们将会按公司的通用信息安全标准保护您的个人信息。"	
+string	window_user_instructions_nzp_function_introduction	13	missing	NZP功能介绍	
+string	window_user_instructions_title	10	missing	用户须知	

@@ -1,0 +1,54 @@
+string	app_name	19	CarLauncher3D	CarLauncher3D
+string	cancel	6	Cancel	取消
+string	car_skin_data	11	Digital car wrap	数字车衣
+string	car_suspension_adjust	11	Suspension adjustment	悬架调节
+string	car_suspension_disable	43	Jack mode is on, suspension adjustment unavailable	千斤顶模式已开启，无法使用悬架调节
+string	close	6	Close	关闭
+string	copilot_seat	16	“Passenger seat”	「副驾座椅」
+string	enter_wash_mode	16	Enter car wash mode	进入洗车模式
+string	error_a11y_label	20	Error: invalid	
+string	game_view_content_description	41	game_view_content_description	game_view_content_description
+string	i_known	9	Got it	知道了
+string	main_driver_seat	16	“Driver seat”	「主驾座椅」
+string	mode_switch_exit	11	Exit now	立即退出
+string	mode_switch_open	6	Turn on	开启
+string	neutral_gear_tip_content	313	1. For conveyor car washes, fold the mirrors and shift to N. Stay in the car; leaving it shifts to P.\n2. If Auto Hold is off, you can shift to N.\n3. If Auto Hold is on, turn it off first, then shift to N.\nNote: in P, unbuckle the driver seatbelt or press the brake firmly to turn off Auto Hold	"1. 使用传送带洗车机请翻折后视镜，挂入N挡，人员请勿离车，离车时挡位会切换P挡。\n2. 自动驻车（Autohold）己关闭时，可挂入N挡。\n3. 自动驻车（Autohold）未关闭时，请先关闭自动驻车，再挂入 N挡。\n注：车辆P挡时，解开驾驶员安全带或深踩制动踏板，即可关闭自动驻车"
+string	neutral_gear_tip_title	15	Neutral (N) notes	N挡注意事项
+string	pet_mode	11	Pet mode	宠物模式
+string	pet_mode_remind	11	Pet mode	宠物模式
+string	pet_remind_know	9	Got it	知道了
+string	pet_remind_not_airy_content	40	Fresh air on so your pet breathes easily	自动开启空气外循环，爱宠畅快呼吸
+string	pet_remind_not_airy_title	11	Ventilation	保证通风
+string	pet_remind_not_careful_content	36	Doors, windows, screen and voice locked	门窗、车机屏幕和语音交互禁用
+string	pet_remind_not_careful_title	11	Touch lock	防止误触
+string	pet_remind_not_exception_content	59	Notifies owner and opens windows\nwhen battery is low or Pet mode exits	"低电量或退出宠物模式时通知车主\n并自动开窗通风"
+string	pet_remind_not_exception_title	11	Fault protection	异常保护
+string	pet_remind_sub_title	45	For animals only. Never leave children alone in the vehicle	仅适用于动物，请勿将儿童独自留在车内
+string	pet_remind_temperature_content	33	Climate keeps your pet comfortable	空调维持恒温，宠物自在舒适
+string	pet_remind_temperature_title	11	Keep temperature	维持温度
+string	rest_driver	16	Driver rest mode	主驾一键休憩
+string	rest_driver_tips	65	Driver rest mode adjusts the “Driver seat”. Use with care	主驾休憩模式开启时将调节「主驾座椅」设置，请谨慎操作
+string	rest_mode	11	Rest mode	休憩模式
+string	rest_mode_text	65	Driver rest mode adjusts the “Driver seat”. Use with care	主驾休憩模式开启时将调节「主驾座椅」设置，请谨慎操作
+string	rest_passenger	16	Passenger rest mode	副驾一键休憩
+string	rest_select_tips	46	Rest mode adjusts %1$s. Use with care	休憩模式开启时将调节%1$s，请谨慎操作
+string	row_front_seat	16	“Front seats”	「前排座椅」
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	seat	6	Seats	座椅
+string	seat_adjustment_in_progress_please_waiting	23	Adjusting seat, please wait	座椅调整中，请稍后
+string	start	6	Turn on	开启
+string	wash_car_outside_exit_simple_txt	70	Unlock with the physical key or phone key (Bluetooth connected) to exit car wash mode	实体钥匙或手机钥匙（蓝牙已连接）解锁车辆，洗车模式将退出
+string	wash_car_outside_exit_title	16	Exit from outside	车外退出方法
+string	wash_car_outside_exit_txt	139	1. Unlock with physical key or phone key (Bluetooth connected) to exit car wash mode\n2. When unlocked, hold the door handle lock button for 6s to exit car wash mode	"1. 实体钥匙或手机钥匙（蓝牙已连接）解锁车辆，洗车模式将退出\n2. 解锁状态长按6秒门把手电子锁开关，洗车模式将退出"
+string	wash_exit_title	11	Exit notice	退出提示
+string	wash_exit_txt	60	Exiting wash mode turns off parking comfort and restores all functions	洗车模式退出后，将关闭驻车舒享并恢复所有禁用功能
+string	wash_mode	11	Car wash mode	洗车模式
+string	wash_mode_text	469	When Car Wash mode is on, Park Comfort turns on, climate switches to recirculation, and all windows, the trunk and the charge port lid close. These are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alerts, walk-up unlock / walk-away lock.\n\nNote: Car Wash mode exits automatically above 15 km/h.\n\nAutomatic car wash: keep battery above 20% and do not move the car, otherwise Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors and shift to N. Stay in the car; leaving it shifts to P.	"洗车模式激活后，将开启驻车舒享，空调切为内循环，关闭所有车窗、后备箱、充电口盖；并禁用以下功能：无钥匙进入开关、充电口盖开关、自动雨刮器、障碍物报警、接近解锁/远离上锁。\n\n注：若车速大于15公里/小时，将自动退出洗车模式。\n\n自动洗车提示：请确保电量大于20%并且不要移动车辆，否则主驾人员离车后洗车模式会自动退出；使用传送带洗车机请翻折后视镜，挂入N挡，人员请勿离车，离车时挡位会切换P挡。"
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

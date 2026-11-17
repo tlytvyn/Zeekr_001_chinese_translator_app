@@ -1,0 +1,4 @@
+array	channel_black_list	ALR ‖ SCN ‖ SCN_HEADSUP ‖ GEN ‖ DSK ‖ TPP ‖ BAT ‖ HNT ‖ NETWORK_STATUS ‖ NETWORK_ALERTS ‖ NETWORK_AVAILABLE ‖ USB ‖ SYSTEM_CHANGES ‖ VIRTUAL_KEYBOARD ‖ PHYSICAL_KEYBOARD ‖ SECURITY ‖ CAR_MODE ‖ ACCOUNT ‖ DEVELOPER ‖ UPDATES ‖ VPN ‖ HEAVY_WEIGHT_APP ‖ FOREGROUND_SERVICE ‖ DO_NOT_DISTURB ‖ HEAVY_WEIGHT_APP ‖ QDMAUI_Noti_Channel
+array	notify_black_list	android ‖ system ‖ com.android.server.telecom ‖ com.android.bluetooth
+string	app_name	Сповіщення
+string	btn_deault	Кнопка1

@@ -1,0 +1,4 @@
+string	strNetworkTipsMessage	Switched to mobile data. Continue download?
+string	strNotificationClickToContinue	Continue
+string	strNotificationDownloadSucc	Downloaded
+string	use_online_phone	Bluetooth not connected\nBluetooth phone unavailable\nTry online phone

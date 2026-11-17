@@ -1,0 +1,28 @@
+string	bt_a2dp_disconnect	67	en_too_long	蓝牙音乐连接失败，请确认手机的蓝牙『媒体音频』已开启	"Bluetooth Music connection failed. Make sure that your phone's Bluetooth \"Media Audio\" is turned on."
+string	bt_disconnect	16	en_too_long	蓝牙设备已断开	Devices was disconnected
+string	bt_not_connected	18	en_too_long	你未连接蓝牙设备	You have not connected a Bluetooth device
+string	collect_more_than_thirty	22	en_too_long	最多只能收藏30个电台	Up to 30 radios can be collected
+string	connect_bt	10	en_too_long	连接蓝牙	connect bluetooth
+string	customactivityoncrash_error_activity_close_app	10	missing	关闭程序	
+string	customactivityoncrash_error_activity_error_details	10	missing	错误日志	
+string	customactivityoncrash_error_activity_error_details_clipboard_label	10	missing	错误信息	
+string	customactivityoncrash_error_activity_error_details_close	6	missing	关闭	
+string	customactivityoncrash_error_activity_error_details_copied	10	missing	复制日志	
+string	customactivityoncrash_error_activity_error_details_copy	10	missing	复制日志	
+string	customactivityoncrash_error_activity_error_details_title	10	missing	错误详情	
+string	customactivityoncrash_error_activity_error_occurred_explanation	49	missing	"发生意外错误。\n抱歉，给您带来不便。"	
+string	customactivityoncrash_error_activity_restart_app	10	missing	重新启动	
+string	empty_radio	14	en_too_long	电台列表为空	The radio list is empty
+string	incompatible_usb_device	14	en_too_long	设备无法识别	Unable to identify the device
+string	local_music_fail_next	26	en_too_long	播放异常，自动播放下一首	Playing exception. The next song is played automatically
+string	no_title	10	en_too_long	暂无曲名	Unknown music name
+string	no_usb_device	15	en_too_long	请插入USB设备	Please insert a USB device
+string	no_usb_music	14	en_too_long	无可播放内容	No music file in the USB
+string	radio_collect_cancel	12	en_too_long	收藏已取消	Collection cancelled
+string	radio_collect_max_tip	22	en_too_long	最多只能收藏30个电台	Up to 30 radios can be collected
+string	radio_collect_success	10	en_too_long	收藏成功	Added to Favorites
+string	storage_permission_remind	33	en_too_long	读取USB,需要开启存储读取权限！	To read data from the USB device, you need to enable the storage reading permission.
+string	usb1_unmount	12	en_too_long	USB1已断开	USB1 is disconnected
+string	usb2_unmount	12	en_too_long	USB2已断开	USB2 is disconnected
+string	usb_scan_finish	10	en_too_long	扫描完成	Scanning completed
+string	usb_unmount_tips	15	en_too_long	USB设备已拔出	The USB device is removed

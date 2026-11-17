@@ -1,0 +1,10 @@
+string	eui_app_demo_tip	This is a test version
+string	keyword_eav	Charging station
+string	keyword_oil	Gas station
+string	str_error_msg	System busy, try again later
+string	str_image_service_area_hint	%1$s ahead, %2$s km away
+string	str_image_service_no_area	No service area ahead, check again later
+string	str_image_weather_info_hint	%1$s today: %2$s, temperature %3$s
+string	str_weather_error_msg	Only available while navigating
+string	vr_remind_tips	Say “remind me” to add a reminder
+string	vr_stopby_tips	Where do you want to stop?

@@ -1,0 +1,19 @@
+string	app_name	11	Feedback	我要建议
+string	cancel	6	Cancel	取消
+string	chip_text	14	Chip text	
+string	close	6	Close	关闭
+string	counting	9	Countdown	倒计时
+string	label	8	Label	
+string	record_tips	23	Tell Eva your suggestion	告诉eva你的建议吧
+string	request_focus_error	54	Microphone busy, try feedback later	当前mic被占用，暂不支持反馈问题，请稍后再试
+string	submit	6	Submit	提交
+string	submit_record	11	Submit recording	提交录音
+string	submit_tips	43	Your suggestion was recorded. Thank you!	您的建议已记录，感谢您的支持与信任
+string	tips	94	Example 1 – add automatic parking in and out;\nExample 2 – add Sentry mode	"示例1-建议新增自动泊车功能，支持自动泊入泊出功能；\n示例2-建议新增哨兵模式"
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_show_psw	11	show password	显示密码

@@ -1,0 +1,321 @@
+string	After_the_last_charge	Поїздка 2 (з моменту останньої зарядки)
+string	After_the_last_parking	Поїздка 2 (з моменту останньої зупинки)
+string	Check_the_tires	Кілька шин несправні.\nПеревірте шини.
+string	Checking_vehicle_condition	Перевірка стану автомобіля
+string	Current_location	Поточне місце
+string	Front_left_tire_pressure_is_low	Низький тиск у передній лівій шині
+string	Front_right_tire_pressure_is_low	Низький тиск у передній правій шині
+string	Left_front_tire_temperature_is_high	Висока температура передньої лівої шини
+string	Left_rear_tire_temperature_is_high	Висока температура задньої лівої шини
+string	Open_App_Store	Відкрити App Store
+string	Open_app	Відкрити застос.
+string	Previous_km	Останні %s км
+string	Rear_left_tire_pressure_is_low	Низький тиск у задній лівій шині
+string	Rear_right_tire_pressure_is_low	Низький тиск у задній правій шині
+string	Right_front_tire_temperature_is_high	Висока температура передньої правої шини
+string	Right_front_wheel_Low_tire_pressure_high_fetal_temperature	Низький тиск / висока температура передньої правої шини
+string	Right_rear_tire_temperature_is_high	Висока температура задньої правої шини
+string	Right_rear_wheel_Low_tire_pressure_high_fetal_temperature	Низький тиск / висока температура задньої правої шини
+string	System_exception	Системна помилка
+string	Tire_Pressure_Check	Перевірка тиску в шинах
+string	Tire_system_failure	Несправність системи кількох шин.\nВідремонтуйте шини.
+string	Vehicle_condition_is_normal	Стан автомобіля в нормі
+string	app_name	Мій авто
+string	app_widget_desc_tire	Тиск у шинах
+string	bx_tire_pressure_advice_ok	Оптимальний тиск у шинах знижує енергоспоживання та знос шин і покращує керованість
+string	car_service_tab_bar_maintenance	ТО
+string	car_service_tab_bar_violation	Порушення
+string	current_trip_energy_usage	Енергія поїзд.
+string	dialog_bluetooth_cancel_btn	Скас.
+string	dialog_bluetooth_confirm_btn	Підкл
+string	dialog_bluetooth_content	Bluetooth не підключено
+string	dialog_call_cancel_btn	Скас.
+string	dialog_call_confirm_btn	Дзвін.
+string	driving	Поїздки
+string	driving_bx_tab_bar_trips	Поїздка
+string	driving_current_position	Де я зараз
+string	driving_data_detail_desc	Дані цієї поїздки
+string	driving_other_position	Ост. %sкм
+string	driving_review	Огляд
+string	driving_score_behavior_unit	раз
+string	driving_score_history_title	Оцінка
+string	driving_score_kwh	kWh
+string	driving_score_min	хв
+string	driving_score_over_speed	Швидк.
+string	driving_score_points_	Оцінка:
+string	driving_score_rapid_acceleration	Розгін
+string	driving_score_rapid_deceleration	Гальмув.
+string	driving_score_rules_dialog_content	Під час першого запуску автомобіля щодня початкова оцінка водіння становить 80 балів. Оцінка водіння змінюється в реальному часі \nу зворотній залежності від такої поведінки: \n \n1. Різкий розгін, різке гальмування та агресивні повороти. \n2. Перевищення обмеження швидкості. \n \nЩодня оцінка перед останнім вимкненням автомобіля записується як підсумкова оцінка за цей день.
+string	driving_score_rules_dialog_title	Правила
+string	driving_score_sep	1 вер.
+string	driving_score_sudden_turning	Поворот
+string	driving_score_time	Час
+string	driving_score_title	Оцінка
+string	driving_score_trip	Шлях
+string	driving_tab_bar_driving_score	Тренер
+string	driving_tab_bar_power_flow	Запас ходу
+string	driving_tab_bar_trips	Поїздки
+string	engine_coolant_level_low	Низький рівень охолоджувальної рідини
+string	engine_coolant_temp_high	Перегрів охолоджувальної рідини
+string	engine_coolant_temp_high_level_1	Перегрів охолоджувальної рідини. Попередження рівня 1
+string	engine_coolant_temp_high_level_2	Перегрів охолоджувальної рідини. Попередження рівня 2
+string	error_a11y_label	Помилка: недійсне
+string	exposed_dropdown_menu_content_description	Показати меню
+string	home_loading_dialog_txt	Завантаж.
+string	hvac_close	A/C вимк.
+string	loading_dialog_txt	Завантаж...
+string	main_bar_trip_consumption_driving_cycle	Поїздка 2 (з ост. зупинки)
+string	main_tab_bar_car_service	Сервіс
+string	main_tab_bar_driving	Поїздки
+string	main_tab_bar_my_car	Мій авто
+string	main_tab_bar_vehicle_condition	Тиск шин
+string	maintenance_cancel	Скас.
+string	maintenance_commonly_4s_shop	Обрати сервіс
+string	maintenance_confirm_reset	Скинути
+string	maintenance_default_load	За замовч.
+string	maintenance_dialog_cancel	Скас.
+string	maintenance_done	Готово
+string	maintenance_items_	Роботи ТО: %s
+string	maintenance_mile	миль
+string	maintenance_mileage	Пробіг ТО
+string	maintenance_mileage_exceeded	ТО прострочено
+string	maintenance_mileage_remained	Залишок до ТО
+string	maintenance_next	Наступне ТО
+string	maintenance_no_data	Не вдалося отримати дані. Спробуйте пізніше або зверніться до сервісного центру.
+string	maintenance_notify_cancel	Скас.
+string	maintenance_notify_desc	Настав час ТО вашого автомобіля. Заплануйте обслуговування найближчим часом.
+string	maintenance_notify_reset	Скин.
+string	maintenance_recommend_mileage	Поради ТО
+string	maintenance_search_hint	Пошук сервісних центрів
+string	maintenance_search_result_empty	На жаль, за запитом %s нічого не знайдено \nВведіть назву салону ZEEKR Experience Center
+string	maintenance_set_4s_shop_success	Сервісний центр обрано
+string	maintenance_tab_dealer	Дилер
+string	maintenance_tab_favorite	Мій сервіс
+string	maintenance_unmaintained	ТО не пройдено, інтервал перевищено
+string	mini_bar_trip_consumption_charing	Поїздка 2 (з ост. зарядки)
+string	my_car_battery_capacity	Ємн. АКБ
+string	my_car_car_purchase_date	Купівля
+string	my_car_dealer_address	Адреса
+string	my_car_dealer_name	Назва дилера
+string	my_car_dealer_phone	Тел. дилера
+string	my_car_engine_number	№ двигуна
+string	my_car_licence_plate	Номер
+string	my_car_licence_plate_default	Заповніть у застосунку ZEEKR
+string	my_car_production_date	Дата вип.
+string	my_car_production_place	Країна
+string	my_car_sales_information	Продаж
+string	my_car_title	Назва
+string	my_car_title_value	DC1E Sport 1.8TD
+string	my_car_total_distance	Пробіг
+string	my_car_vehicle_type	Тип авто
+string	my_car_vehicle_type_2	Модель
+string	my_car_vin	VIN
+string	my_car_vin_vin	VIN
+string	network_load_fail	Помилка завантаження. Перевірте налаштування мережі
+string	network_loading	Завантаж.
+string	network_refresh	Онов.
+string	notification_remind_beyond_maintenance_distance	Рекомендований пробіг до ТО перевищено на %s км. Негайно пройдіть обслуговування
+string	notification_remind_beyond_maintenance_time	Рекомендований термін ТО перевищено на %s дн. Негайно пройдіть обслуговування
+string	notification_remind_maintenance	Нагад. ТО
+string	notification_remind_maintenance_distance	До наступного рекомендованого ТО залишилось %s км. Пройдіть обслуговування вчасно
+string	notification_remind_maintenance_time	До наступного рекомендованого ТО залишилось %s дн. Пройдіть обслуговування вчасно
+string	power_flow_ac_off	Увімк. A/C
+string	power_flow_endurance_mileage	Запас ходу
+string	power_flow_mile	миль
+string	power_flow_total_distance	Пробіг
+string	qr_code_load_fail	Не вдалося завантажити QR-код. Натисніть, щоб оновити.
+string	qr_code_load_success	Скануйте QR-код, щоб завантажити застосунок ZEEKR.\nУвійдіть і прив’яжіть номерний знак, щоб переглядати порушення.
+string	recommended_tire_pressure	Рекоменд. тиск (холодні шини): 260-290 kPa
+string	revolver_front_Low_tire_pressure_high_fetal_temperature	Низький тиск / висока температура передньої лівої шини
+string	revolver_rear_Low_tire_pressure_high_fetal_temperature	Низький тиск / висока температура задньої лівої шини
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	service	Сервіс
+string	tire_pressure_advice_checked_in_4s	Зверніться на найближчий сервіс для перевірки
+string	tire_pressure_advice_checked_in_4s_and_call_for_help	Зверніться на найближчий сервіс для перевірки або викличте допомогу
+string	tire_pressure_advice_ok	Оптимальний тиск у шинах знижує енергоспоживання та знос шин, а також покращує керованість автомобіля
+string	tire_pressure_advice_pressure_is_above_safe_value	Тиск у шині вище безпечного
+string	tire_pressure_advice_temperature_is_above_safe_value	Температура шини вище безпечної
+string	tire_pressure_btn_4s_shop	Сервіс
+string	tire_pressure_btn_road_service	Допомога
+string	tire_pressure_pressure_unit_bar	bar
+string	tire_pressure_pressure_unit_kpa	kPa
+string	tire_pressure_pressure_unit_psi	psi
+string	tire_pressure_result_fast_pressure_loss_front_left	Шина спускає\nПеревірте передню ліву шину
+string	tire_pressure_result_fast_pressure_loss_front_right	Шина спускає\nПеревірте передню праву шину
+string	tire_pressure_result_fast_pressure_loss_multiple	Шини спускають\nПеревірте шини
+string	tire_pressure_result_fast_pressure_loss_rear_left	Шина спускає\nПеревірте задню ліву шину
+string	tire_pressure_result_fast_pressure_loss_rear_right	Шина спускає\nПеревірте задню праву шину
+string	tire_pressure_result_high_pressure_front_left	Високий тиск у шині\nПеревірте передню ліву шину
+string	tire_pressure_result_high_pressure_front_right	Високий тиск у шині\nПеревірте передню праву шину
+string	tire_pressure_result_high_pressure_multiple	Високий тиск у кількох шинах\nПеревірте шини
+string	tire_pressure_result_high_pressure_rear_left	Високий тиск у шині\nПеревірте задню ліву шину
+string	tire_pressure_result_high_pressure_rear_right	Високий тиск у шині\nПеревірте задню праву шину
+string	tire_pressure_result_high_temperature_front_left	Висока температура шини\nПеревірте передню ліву шину
+string	tire_pressure_result_high_temperature_front_right	Висока температура шини\nПеревірте передню праву шину
+string	tire_pressure_result_high_temperature_multiple	Висока температура кількох шин\nПеревірте шини
+string	tire_pressure_result_high_temperature_rear_left	Висока температура шини\nПеревірте задню ліву шину
+string	tire_pressure_result_high_temperature_rear_right	Висока температура шини\nПеревірте задню праву шину
+string	tire_pressure_result_low_pressure_front_left	Низький тиск у шині\nПеревірте передню ліву шину
+string	tire_pressure_result_low_pressure_front_right	Низький тиск у шині\nПеревірте передню праву шину
+string	tire_pressure_result_low_pressure_multiple	Низький тиск у кількох шинах\nПеревірте шини
+string	tire_pressure_result_low_pressure_rear_left	Низький тиск у шині\nПеревірте задню ліву шину
+string	tire_pressure_result_low_pressure_rear_right	Низький тиск у шині\nПеревірте задню праву шину
+string	tire_pressure_result_monitor_system_fault_front_left	Несправність TPMS\nПеревірте передню ліву шину
+string	tire_pressure_result_monitor_system_fault_front_right	Несправність TPMS. Перевірте передню праву шину
+string	tire_pressure_result_monitor_system_fault_multiple	Несправність TPMS кількох шин \nПеревірте шини.
+string	tire_pressure_result_monitor_system_fault_rear_left	Несправність TPMS\nПеревірте задню ліву шину
+string	tire_pressure_result_monitor_system_fault_rear_right	Несправність TPMS\nПеревірте задню праву шину
+string	tire_pressure_result_ok	Тиск норм.
+string	tire_pressure_result_sensor_battery_low_front_left	Низький заряд датчика тиску\nПеревірте передню ліву шину
+string	tire_pressure_result_sensor_battery_low_front_right	Низький заряд датчика тиску\nПеревірте передню праву шину
+string	tire_pressure_result_sensor_battery_low_multiple	Низький заряд датчиків TPMS кількох шин\nПеревірте датчики шин
+string	tire_pressure_result_sensor_battery_low_rear_left	Низький заряд датчика тиску\nПеревірте задню ліву шину
+string	tire_pressure_result_sensor_battery_low_rear_right	Низький заряд датчика тиску\nПеревірте задню праву шину
+string	tire_result_fault_front_left	Несправність системи шин\nПеревірте передню ліву шину
+string	tire_result_fault_front_right	Несправність системи шин\nПеревірте передню праву шину
+string	tire_result_fault_multiple	Несправність системи кількох шин\nПотрібен ремонт
+string	tire_result_fault_rear_left	Несправність системи шин\nПеревірте задню ліву шину
+string	tire_result_fault_rear_right	Несправність системи шин\nПеревірте задню праву шину
+string	tire_result_multiple_warning_front_left	Проблема з шиною\nПеревірте передню ліву шину
+string	tire_result_multiple_warning_front_right	Проблема з шиною\nПеревірте передню праву шину
+string	tire_result_multiple_warning_multiple_tire	Несправні кілька шин.\nПеревірте шини.
+string	tire_result_multiple_warning_rear_left	Проблема з шиною\nПеревірте задню ліву шину
+string	tire_result_multiple_warning_rear_right	Проблема з шиною\nПеревірте задню праву шину
+string	tire_result_ok	Норма
+string	tire_warn_call_sensor	Несправність датчика. Зверніться до сервісного центру за номером 4000-036-036 або відвідайте найближчий сервіс для ремонту.
+string	tire_warn_call_sys	Якщо система шин несправна, зверніться до сервісного центру за номером 4000-036-036 або відвідайте найближчий сервіс для ремонту.
+string	tire_warning_battery_low	Розряд датчика
+string	tire_warning_quick_leaking	Витік
+string	tire_warning_sys_error	Збій сист.
+string	trips_100_mile	60 миль
+string	trips_10_mile	6 миль
+string	trips_automatic_prefix	Поїзд. 2
+string	trips_automatic_title	Початок: %1$s
+string	trips_average_consumption	Сер. витр.
+string	trips_average_consumption_mini_bar	Сер. витр.
+string	trips_average_speed	Сер. швид.
+string	trips_battery_climate	Темп. АКБ
+string	trips_cabin_climate	Клімат
+string	trips_consumption_history	Історія
+string	trips_current_consumption	Пот. витр.
+string	trips_distance	Відстань
+string	trips_dynamic_consumption	У русі
+string	trips_elapsed_time	Час руху
+string	trips_energy_distribution	Розподіл
+string	trips_energy_distribution_desc	Частка енергоспоживання кожної системи від початку поїздки
+string	trips_entertainment	Розваги
+string	trips_km_h	km/h
+string	trips_kwh_100km	kWh/100 км
+string	trips_kwh_100mile	kWh/100 миль
+string	trips_kwh_10km	kWh/10 км
+string	trips_light	Світло
+string	trips_low_pressure	12V
+string	trips_manual_prefix	Поїзд. 1
+string	trips_manual_title	Початок: %1$s
+string	trips_mile_h	mph
+string	trips_other	Інші
+string	trips_propulsion	Привід
+string	trips_reset	Скин.
+string	trips_reset_after_charging	Після зар.
+string	trips_reset_after_driving_cycle	Після зуп.
+string	trips_static_consumption	Стоячи
+string	trips_total_consumption	Усього
+string	trips_total_consumption_mini_bar	Усього
+string	trips_total_regeneration	Рекуперація
+string	tyre_pressure	Тиск шин
+string	vehicle	Мій авто
+string	violation_Reason	Порушення
+string	violation_btn_update	Онов.
+string	violation_cny	CNY
+string	violation_detail_fine	Штраф
+string	violation_detail_points	Бали
+string	violation_dialog_title	Деталі
+string	violation_fine	Штраф
+string	violation_fine_	Штраф:
+string	violation_no_record	Порушень немає
+string	violation_points	Бали
+string	violation_points_	Бали:
+string	violation_refresh_success	Нові порушення оновлено
+string	violation_time	Час
+string	violation_unhandled_violations	Несплачені
+string	violation_update_time	Оновлено: %s
+string	widget_app_title	Мій авто
+string	widget_charge_status_battery_fault	ЗБІЙ ТЯГ. АКБ
+string	widget_charge_status_charging	Зарядка
+string	widget_charge_status_charging_done	Зупинено
+string	widget_charge_status_charging_fault	ЗБІЙ ЗАР.
+string	widget_charge_status_discharging	РОЗРЯДЖАННЯ
+string	widget_charge_status_discharging_done	РОЗРЯД OK
+string	widget_charge_status_fast_charging	ШВИДКА
+string	widget_charge_status_schedule_charging	Запланована зарядка (за таймером)
+string	widget_charge_status_text	Зарядка
+string	widget_charge_status_ultra_charging	ШВИДКА
+string	widget_charge_time_normal	Залишилось
+string	widget_charge_time_will_full	Майже 100%
+string	widget_charging_estimate_24	Залишилось: >24 год
+string	widget_charging_minute_unit	хв
+string	widget_connect_status_connect_ac	Підкл. (повільна)
+string	widget_connect_status_connect_dc	Підкл. (швидка)
+string	widget_connect_status_connect_failure_ac	Збій підключення (AC)
+string	widget_connect_status_no_double	Не підключайте кабелі AC і DC одночасно
+string	widget_connect_status_text	Підкл. (повільна)
+string	widget_drive_score_behavior_unit	раз
+string	widget_drive_score_kwh	kWh
+string	widget_drive_score_login_status_login	Вхід у ZEEKR ID
+string	widget_drive_score_login_status_no_login	Немає входу в ZEEKR ID
+string	widget_drive_score_min	хв
+string	widget_drive_score_over_speed	Швидк.
+string	widget_drive_score_power	Усього
+string	widget_drive_score_rapid_acceleration	Розгін
+string	widget_drive_score_rapid_deceleration	Гальмув.
+string	widget_drive_score_real_time	Оцінка
+string	widget_drive_score_sudden_turning	Поворот
+string	widget_drive_score_time	Час
+string	widget_drive_score_trip	Шлях
+string	widget_last_refresh	Оновлено:
+string	widget_open_lid_close_text	Вим
+string	widget_power_external_device_text	Живл. пристроїв
+string	widget_power_other_vehicle_text	Живлення авто
+string	widget_start_charge_text	Почати
+string	widget_stop_charge_text	Зупинити
+string	widget_stop_discharge_text	Зупинити
+string	widget_tire_pressure_quick_leaking	Спускає
+string	widget_tire_pressure_result_fast_pressure_loss_front_left	Передня ліва спускає
+string	widget_tire_pressure_result_fast_pressure_loss_front_right	Передня права спускає
+string	widget_tire_pressure_result_fast_pressure_loss_multiple	Кілька шин спускають
+string	widget_tire_pressure_result_fast_pressure_loss_rear_left	Задня ліва спускає
+string	widget_tire_pressure_result_fast_pressure_loss_rear_right	Задня права спускає
+string	widget_tire_pressure_result_high_pressure_front_left	Високий тиск: пер. ліва
+string	widget_tire_pressure_result_high_pressure_front_right	Високий тиск: пер. права
+string	widget_tire_pressure_result_high_pressure_multiple	Високий тиск у шинах
+string	widget_tire_pressure_result_high_pressure_rear_left	Високий тиск: задня ліва
+string	widget_tire_pressure_result_high_pressure_rear_right	Високий тиск: задня права
+string	widget_tire_pressure_result_high_temperature_front_left	Висока темп.: пер. ліва
+string	widget_tire_pressure_result_high_temperature_front_right	Висока темп.: пер. права
+string	widget_tire_pressure_result_high_temperature_multiple	Висока темп. кількох шин
+string	widget_tire_pressure_result_high_temperature_rear_left	Висока темп.: задня ліва
+string	widget_tire_pressure_result_high_temperature_rear_right	Висока темп.: задня права
+string	widget_tire_pressure_result_low_pressure_front_left	Низький тиск: пер. ліва
+string	widget_tire_pressure_result_low_pressure_front_right	Низький тиск: пер. права
+string	widget_tire_pressure_result_low_pressure_multiple	Низький тиск у шинах
+string	widget_tire_pressure_result_low_pressure_rear_left	Низький тиск: задня ліва
+string	widget_tire_pressure_result_low_pressure_rear_right	Низький тиск: задня права
+string	widget_tire_pressure_result_monitor_system_fault_front_left	Збій TPMS передньої лівої шини
+string	widget_tire_pressure_result_monitor_system_fault_front_right	Збій TPMS передньої правої шини
+string	widget_tire_pressure_result_monitor_system_fault_multiple	Збій TPMS кількох шин
+string	widget_tire_pressure_result_monitor_system_fault_rear_left	Збій TPMS задньої лівої шини
+string	widget_tire_pressure_result_monitor_system_fault_rear_right	Збій TPMS задньої правої шини
+string	widget_tire_pressure_result_ok	Тиск норм.
+string	widget_tire_pressure_result_sensor_battery_low_front_left	Розряд датчика: пер. ліва
+string	widget_tire_pressure_result_sensor_battery_low_front_right	Розряд датчика: пер. права
+string	widget_tire_pressure_result_sensor_battery_low_multiple	Розряд датчиків кількох шин
+string	widget_tire_pressure_result_sensor_battery_low_rear_left	Розряд датчика: задня ліва
+string	widget_tire_pressure_result_sensor_battery_low_rear_right	Розряд датчика: задня права
+string	xpopup_image_not_exist	Зображення не існує
+string	xpopup_save	Зберег
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показати

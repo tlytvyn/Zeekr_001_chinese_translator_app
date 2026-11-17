@@ -1,0 +1,106 @@
+am_str	AM
+answer	Answer
+app_demo_version	This is an engineering version
+bt_not_connect	Bluetooth not connected
+btn_bt_connect	Connect Bluetooth
+btn_bt_phone	Bluetooth phone
+btn_online	Online
+btn_online_phone	Online phone
+call_state_call_active	In call
+call_state_call_ended	Call ended
+call_state_call_ending	Ending call
+call_state_call_ringing	Ringing
+call_state_connecting	Connecting
+call_state_dialing	Dialing
+call_state_hold	On hold
+calling_now	Calling...
+calllog_all	All calls
+calllog_missed	Missed calls
+can_not_call_again_when_calling	Call in progress
+can_not_call_your_number	Cannot call your own number
+can_not_make_call	Cannot make call
+can_not_make_call_no_hfp	Bluetooth not connected
+can_not_make_more_call	Cannot make more calls
+cancel	Cancel
+cancel_favorites	Remove from favorites
+clear_fav	Clear favorites
+company	Work
+conference_call	Conference call
+connect	Connect
+connect_bluetooth_before_call	Connect Bluetooth first
+contact_address_label	Address
+contact_email_label	Email
+contact_phone_label	Phone
+contacts	Contacts
+contacts_are_not_synchronized	Contacts not synced
+contacts_more	Too many contacts to download all
+contacts_sync_complete	Sync complete
+contacts_sync_fail	Sync failed. Check that contact sharing is allowed on your phone
+contacts_sync_no_support	Contact sync is off on your phone
+contacts_unable_sync	Cannot sync
+customization	Custom
+delete	Delete
+delete_all_favorite	Favorites cleared
+delete_all_favorites_fail	Failed to clear favorites
+delete_favorite	Removed from favorites
+delete_personal_favorite	Remove favorite
+dial_fail	Call failed
+dial_pad	Keypad
+dialing_call	Calling
+enter_again	Invalid number, please enter again
+favorites_show_more_than	Up to 100 favorite contacts
+fax_home	Home fax
+fax_work	Work fax
+go_to_connect	Connect
+hang_up	Hang up
+hang_up_answer	End and answer
+hide	Hide
+hold_answer	Hold and answer
+holding	On hold
+home	Home
+incoming_call	Incoming call
+just_now	Just now
+main_contacts	Contacts
+main_dial	Keypad
+main_favorites	Favorites
+main_recent	Recents
+minutes_ago	min ago
+mobile_phone	Mobile
+mute	Mute
+no_collection	No favorites yet. Add them in “Contacts”
+no_contact	No contacts
+no_matched_contact	No contact found
+no_missed_recent	No missed calls
+no_recent	No recent calls
+no_sim_card	No SIM card
+not_dialing_call	No recent outgoing calls
+not_incoming_call	No recent incoming calls
+others	Other
+pager	Pager
+phone_app_name1	Phone
+phone_app_name2	Bluetooth phone
+phone_is_use_please_try_again	Phone is busy, try again later
+please_make_call_later	Please call later
+pm_str	PM
+private_call	Use phone
+private_calling	Using phone
+remove_all_favor_tips	Clear all favorite contacts?
+remove_contact_favor_contact_tips	Remove %1$s (%2$s) from favorites?
+remove_favor_contact_tips	Remove %1$s (%2$s) from your favorites list?
+ring_is_off	Ringer is off
+search	Search
+search_contact	Search contacts
+search_count	%1$d contacts found
+search_empty	No contacts found
+search_zero_count	0 contacts found
+special_dialing_on_phone	Special dialing on phone
+sure	OK
+switch_calls	Switch calls
+sync	Sync
+syncing	Syncing
+title_select_call_type	Choose how to call
+today	Today
+unknown	Unknown
+unknown_call	Unknown caller
+unknown_number	Unknown number
+yesterday	Yesterday

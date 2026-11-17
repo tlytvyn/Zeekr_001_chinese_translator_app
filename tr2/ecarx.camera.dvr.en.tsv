@@ -1,0 +1,10 @@
+array	ar_capture	Cheese
+array	ar_finish	Stop
+array	ar_other_again	Again
+array	ar_start	Start
+array	ar_to_gallery	Gallery
+string	setting_text_dvr_format_sdcard	Format card
+string	setting_text_video_resolution	Resolution
+string	user_agreement_title	Instructions
+string	textID_camera_streaming_press_3s	Hold 3s
+string	text_permission_denied	No permission

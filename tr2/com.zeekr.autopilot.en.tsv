@@ -1,0 +1,261 @@
+string	alarm_ahead_500_meters	Leaving NZP section soon,\nhold the steering wheel
+string	alarm_attention	Watch the road ahead
+string	alarm_auto_pilot_stop	ZEEKR Pilot exited
+string	alarm_hands_off	Hold the wheel
+string	alarm_hands_off_pilot_stop	No takeover
+string	alarm_incorrect_stop	Hold the wheel, press Cancel again
+string	alarm_lcc_running	LCC active
+string	alarm_level_1_change_to_the_left	Moving left soon
+string	alarm_level_1_change_to_the_right	Moving right soon
+string	alarm_level_1_nzp_activated	NZP on
+string	alarm_level_1_prepare_for_lane_change	Preparing to change
+string	alarm_level_1_the_lane_change_failed	Lane change failed
+string	alarm_level_1_the_lane_change_finish	Lane change ended
+string	alarm_level_1_turn_on_the_left	Changing lanes left\nUse turn signal to confirm
+string	alarm_level_1_turn_on_the_right	Changing lanes right\nUse turn signal to confirm
+string	alarm_level_1_upgraded_tp_nzp	Upgraded to NZP\nHands-off allowed
+string	alarm_level_2_ahead_of_200_meters	Leaving NZP section in 200 m\nPrepare to take over
+string	alarm_level_2_ahead_of_500_meters	Leaving NZP section in 500 m\nPrepare to take over
+string	alarm_level_2_alca_withdrawn	ALC exited
+string	alarm_level_2_downgraded_to_automatic	Downgraded to assisted driving\nHold the wheel
+string	alarm_level_2_nzp_withdrawn	NZP exited
+string	alarm_level_3_grip_the_steering_wheel	Grip the wheel now
+string	alarm_level_3_take_over_the_vehicle	Take over now
+string	alarm_nzp_active	NZP active
+string	alarm_nzp_road_rendering	Rendering road info, NZP working normally
+string	alarm_nzp_running	NZP running
+string	alarm_nzp_to_be_end_odd	Leaving NZP section, hold the wheel
+string	alarm_pilot_disable	Function unavailable\nStop and restart the vehicle
+string	alarm_pilot_stop	ZEEKR Pilot exited
+string	alarm_pilot_stop_and_hands_off	Grip the wheel now
+string	alarm_safe_stop	Safe stop, take over now
+string	alarm_take_over	Take over now
+string	alarm_take_over_car	Take over
+string	alarm_turn_confirm	Use turn lever to change
+string	alarm_turn_left_confirm	Use turn lever to change left
+string	alarm_turn_right_confirm	Use turn lever to change right
+string	auto_navi_text_heading_distance	Remaining
+string	cancel_turn	Lane change canceled
+string	change_to_lcc	Switch to LCC
+string	change_to_nzp	Switch to NZP
+string	changed_to_lcc	Switched to LCC
+string	changed_to_nzp	Switched to NZP
+string	changing_to_lcc	Switching to LCC...
+string	changing_to_nzp	Switching to NZP...
+string	dialog_login_cancel	Cancel
+string	dialog_login_confirm	Log in
+string	dialog_login_description	Login required. Go to User Center to log in?
+string	dialog_login_description2	Login required. Go to User Center?
+string	dialog_protocol_cancel	Decline
+string	dialog_protocol_confirm	Agree
+string	dialog_protocol_confirm_timer	Agree (%1$s)
+string	dialog_protocol_title	User Agreement
+string	exit_toast	NZP app is closing
+string	failed_change_to_nzp	NZP switch failed
+string	failed_turn_left	Left change failed, take over
+string	failed_turn_right	Right change failed, take over
+string	finish_turn	Lane changed
+string	level1_about_to_change_lane_to_the_left_alarm	Moving left soon
+string	level1_about_to_change_lane_to_the_right_alarm	Moving right soon
+string	level1_ai_assisted_driving_is_on_alarm	AI assist is on
+string	level1_has_been_downgraded_to_nzp_intelligent_pilot_alarm	Downgraded to NZP
+string	level1_has_been_upgraded_to_ai_assisted_driving_alarm	Upgraded to AI assist
+string	level1_has_been_upgraded_to_nzp_autonomous_navigation_alarm	Upgraded to NZP
+string	level1_lane_change_completed_alarm	Lane changed
+string	level1_lane_change_conditions_are_not_met_alarm	Lane change canceled
+string	level1_lane_change_has_been_cancelled_alarm	Lane change canceled
+string	level1_lane_change_in_progress_alarm	Changing lanes
+string	level1_lane_change_is_cancelled_alarm	Lane change canceled
+string	level1_lane_changing_in_progress_please_pay_attention_alarm	Changing lanes
+string	level1_lcc_function_on_alarm	LCC active
+string	level1_lcc_is_running_alarm	LCC running
+string	level1_nzp_autonomous_pilot_is_in_operation_alarm	NZP running
+string	level1_nzp_autonomous_piloting_has_been_activated_alarm	NZP active
+string	level1_please_hold_the_steering_wheel_alarm	Hold the wheel
+string	level1_please_hold_the_steering_wheel_press_the_cancel_button_again_alarm	Hold the wheel,\npress Cancel again
+string	level1_please_look_at_the_road_ahead_alarm	Watch the road ahead
+string	level1_please_operate_the_steering_lever_change_the_left_alarm	Use turn lever\nto change left
+string	level1_please_operate_the_steering_lever_change_the_right_alarm	Use turn lever\nto change right
+string	level1_the_function_cannot_be_activated_alarm	Function unavailable,\nstop and restart vehicle
+string	level1_this_lane_change_failed_alarm	Lane change failed
+string	level1_zca_is_running_alarm	ZCA running
+string	level1_zeekr_pilot_exited_alarm	ZEEKR Pilot exited
+string	level2_about_to_leave_the_workable_area_alarm	Leaving operating area,\nhold the steering wheel
+string	level2_downgraded_to_manual_driving_please_hold_the_steering_wheel_alarm	Switched to manual driving,\nhold the wheel
+string	level2_has_been_downgraded_to_a_manual_driving_condition_please_hold_the_steering_wheel_alarm	Left/right change failed,\ntake over
+string	level2_has_been_downgraded_to_lcc_alarm	Downgraded to LCC
+string	level2_lane_changed_failed_left_alarm	Left change failed,\ntake over
+string	level2_lane_changed_failed_right_alarm	Right change failed,\ntake over
+string	level2_pilot_function_exit_failure_to_take_over_alarm	ZEEKR Pilot exited,\nno takeover
+string	level2_please_hold_the_steering_wheel_alarm	Hold the wheel
+string	level2_please_look_at_the_road_ahead_alarm	Watch the road ahead
+string	level2_zeekr_pilot_function_exit_alarm	ZEEKR Pilot exited
+string	level3_has_been_downgraded_to_manual_driving_condition_alarm	Switched to manual driving,\nhold the wheel
+string	level3_please_hold_the_steering_wheel_alarm	Grip the wheel now
+string	level3_please_look_at_the_road_ahead_alarm	Watch the road ahead
+string	level3_please_take_over_the_vehicle_immediately_alarm	Take over now
+string	level3_please_take_over_the_vehicle_immediately_lcc_alarm	Take over now
+string	level3_please_take_over_the_vehicle_in_the_safe_parking_alarm	Safe stop, take over now
+string	level3_zeekr_pilot_function_exit_alarm	ZEEKR Pilot exited
+string	level4_unity_warning	Rendering road info,\nNZP working normally
+string	level_unknown_alarm	Caution!
+string	main_settings_ai_assist_default_on_summary	AI driving assist turns on automatically each time the vehicle powers on
+string	main_settings_ai_assist_default_on_title	On at power-up
+string	main_settings_ai_assist_lane_change_confirm_summary	When on, the system alerts you before an automatic lane change, and you must confirm it by moving the turn signal lever
+string	main_settings_ai_assist_lane_change_confirm_title	Confirm LC
+string	main_settings_ai_assist_lane_change_strategy_gentle	Gentle
+string	main_settings_ai_assist_lane_change_strategy_radical	Fast
+string	main_settings_ai_assist_lane_change_strategy_standard	Normal
+string	main_settings_ai_assist_lane_change_strategy_title	Auto overtaking
+string	main_settings_ai_assist_lane_change_warning_radio_both	Both
+string	main_settings_ai_assist_lane_change_warning_radio_vibrate	Vibrate
+string	main_settings_ai_assist_lane_change_warning_radio_voice	Sound
+string	main_settings_ai_assist_lane_change_warning_title	LC alert
+string	main_settings_ai_assist_out_overtaking_lane_summary	When on, after overtaking on a controlled-access road, the car may change lanes again to leave the passing lane if conditions allow
+string	main_settings_ai_assist_out_overtaking_lane_title	Auto-exit fast lane
+string	main_settings_ai_driver_assist_summary	On designated roads, the system auto-overtakes and keeps distance to the car ahead
+string	main_settings_ai_driver_assist_title	AI Drive Assist
+string	main_settings_auto_lane_change_assist_summary	On designated roads, move the turn signal lever to change lanes automatically
+string	main_settings_auto_lane_change_assist_title	Lever lane change
+string	main_settings_big_data_speed_limit_summary	Speed limit based on big-data road speed info
+string	main_settings_big_data_speed_limit_title	Big-data speed
+string	main_settings_convergence_speed_title	Fused speed
+string	main_settings_drive_pilot_summary	On designated roads, assisted driving follows your navigation route
+string	main_settings_drive_pilot_title	NZP
+string	main_settings_speed_limit_warning_offset_data_title	Offset from speed limit sign
+string	main_settings_speed_limit_warning_offset_switch_title	Speed limit sign
+string	main_study_guide_description1	Zeekr AD is an advanced driver assistance system. On highways and urban expressways, it enables navigation-based automatic ramp\nentry/exit, cruising, lane changes and interchange transitions. Traffic light recognition and red-light braking assist will come in future, enabling\nnavigated piloting on open city roads.
+string	main_study_guide_description2	First, turn on xxx in Settings
+string	main_study_guide_description3	AI assist available once conditions met
+string	main_study_guide_description4	How to turn on Zeekr AD
+string	main_study_guide_description5	When Zeekr AD is on, watch for
+string	main_study_guide_inspect	Take test
+string	main_study_guide_welcome	Welcome to Zeekr AD
+string	main_study_synopsis_reminder	For your safety, before enabling Zeekr AD you must study the instructions\nand pass a short test. This takes about 10-15 minutes.
+string	main_tab_achievement	My Badges
+string	main_tab_settings	AI Settings
+string	main_tab_study	AI Learning
+string	navi_interval_camera_info_avert_speed	Avg speed
+string	nop_close	Turn on AI assist
+string	nop_open	Turn off AI assist
+string	on_nzp_dt_miss	Loading map data...
+string	push_study	Learn
+string	push_subtitle	After closing this notification, find the driving assist\ntutorial in the 「」 app.
+string	push_title	ZEEKR supports intelligent driving, but you need to\ncomplete the tutorial to enable it.
+string	start_turn	Changing lanes
+string	study_guide_condition_description	AI Assist
+string	study_guide_condition_step1	Destination set
+string	study_guide_condition_step2	All sensors working and unobstructed
+string	study_guide_condition_step3	Enter a Zeekr AD available area,\nand the driving assist icon appears
+string	study_guide_function_description	First, turn on xxx in Settings
+string	study_guide_inspect	Take test
+string	study_guide_next	Next
+string	study_guide_open_description	To start assisted driving while driving
+string	study_guide_open_step1	Press xx on left of wheel
+string	study_guide_open_step2	Swipe left to turn on
+string	study_guide_tab_condition	Conditions
+string	study_guide_tab_function	Settings
+string	study_guide_tab_notes	Notes
+string	study_guide_tab_open	How to use
+string	study_inspected_description	Turn on Zeekr AD and go safely.
+string	study_inspected_finish	Done
+string	study_inspected_switch	AI Assist
+string	study_inspected_title	Test passed!
+string	study_inspecting_next	Next
+string	study_inspecting_tips	Tip:
+string	study_inspecting_title	Quiz (%1$s/%2$s)
+string	study_synopsis_chart_cruise	Cruise
+string	study_synopsis_chart_each	Interchange
+string	study_synopsis_chart_lane	Lane change
+string	study_synopsis_chart_ramp	Auto ramp in/out
+string	study_synopsis_description	Zeekr AD is an advanced driver assistance system. On highways and urban expressways, it enables navigation-based automatic ramp\nentry/exit, cruising, lane changes and interchange transitions. Traffic light recognition and red-light braking assist will come in future, enabling\nnavigated piloting on open city roads.
+string	study_synopsis_look	View guide
+string	study_synopsis_reminder	For your safety, before enabling Zeekr AD you must study the instructions and pass a short test.\nThis takes about 10-15 minutes.
+string	study_synopsis_study	Start
+string	study_welcome	Welcome to Zeekr AD
+string	study_welcome1	Welcome to NZP
+string	study_welcome2	Welcome to NZP Highway Navigation Assist\n(NZP or NZP Highway Pilot)
+string	toast_ai_pilot_cannot_open	AI assist unavailable
+string	toast_ai_pilot_not_finished	Complete the tutorial to enable NZP
+string	toast_ai_pilot_not_finished2	NZP cannot be turned on
+string	toast_guide	Read the "%1$s" tutorial first
+string	toast_no_parking	Make sure the car is parked in P
+string	toast_nzp_study_finished	NZP tutorial and test complete. Explore features in ZEEKR AD
+string	toast_open_ai_driver_assist	Turn on "AI Drive Assist" first
+string	toast_open_auto_lane_change_assist	Turn on "Lever lane change" first
+string	toast_open_auto_lane_change_assist_ai_driver_assist	Turn on "Lever lane change" and "AI Drive Assist" first
+string	toast_open_failed	Failed to turn on
+string	toast_study_no_finish	Complete driving tutorial to enable AI assist
+string	unit_hour	h
+string	unit_min	min
+string	unit_zh_km	km
+string	unit_zh_meter	m
+string	warning_safe_drive	Keep hands on wheel, drive safely
+string	window_go_study_guide_cancel	Cancel
+string	window_go_study_guide_confirm	Learn
+string	window_go_study_guide_description	To use NZP for the first time, you need to complete the tutorial.\nPlease park the vehicle in P.
+string	window_go_study_guide_description2	To use NZP for the first time, you need to complete the tutorial. Please park the vehicle in P.
+string	window_go_study_guide_description3	To use NZP Highway Navigation Assist (NZP or NZP Highway Pilot) for the first time, you need to complete the tutorial. Please park the vehicle in P.
+string	window_go_study_guide_title	Start tutorial
+string	window_nzp_function_details_close	Close
+string	window_nzp_function_details_content1	With a target vehicle ahead, NZP follows it and accelerates and decelerates automatically. If the vehicle ahead slows to a stop, NZP stops behind it and keeps a gap, and can resume following within a certain time.\nWith no target vehicle ahead, NZP controls speed using big-data speed (current and historical traffic speed) or the road speed limit; choose via the "Big-data speed" switch.
+string	window_nzp_function_details_content1_2560	With a target vehicle ahead, NZP follows it and accelerates and decelerates automatically.\nIf the vehicle ahead slows to a stop, NZP stops behind it and keeps a gap,\nand can resume following within a certain time. With no target vehicle ahead,\nNZP controls speed using big-data speed (current and historical traffic speed) or the road\nspeed limit; choose via the "Big-data speed" switch.
+string	window_nzp_function_details_content1_title	1. Smart Cruise:
+string	window_nzp_function_details_content2	NZP keeps the vehicle centered in the lane.\nWhen passing a truck or other large vehicle in an adjacent lane, NZP shifts within the lane away from it, then returns to the lane center once past.
+string	window_nzp_function_details_content2_2560	NZP keeps the vehicle centered in the lane. When passing a truck or other\nlarge vehicle in an adjacent lane, NZP shifts within the lane away from it,\nthen returns to the lane center once past.
+string	window_nzp_function_details_content2_title	2. Lane Centering:
+string	window_nzp_function_details_content3	When the vehicle ahead is slow and conditions allow, NZP can assist with overtaking. When the driver moves the turn signal lever and conditions allow, NZP can assist with the lane change. With navigation on, NZP can assist in changing to the target lane when needed and conditions allow.\nDuring lane changes, the driver must stay focused, watch the surroundings, and take over when necessary.
+string	window_nzp_function_details_content3_2560	When the vehicle ahead is slow and conditions allow, NZP can\nassist with overtaking. When the driver moves the turn signal lever and conditions allow,\nNZP can assist with the lane change. With navigation on, NZP can assist in changing\nto the target lane when needed and conditions allow. During lane changes,\nthe driver must stay focused, watch the surroundings, and take over\nwhen necessary.
+string	window_nzp_function_details_content3_title	3. Lane Change:
+string	window_nzp_function_details_content4	With navigation on in HD map coverage areas, NZP can guide the vehicle on and off ramps along the route, including ramp entry, highway interchanges and highway exits. During lane changes, the driver must stay focused, watch the surroundings, and take over when necessary.
+string	window_nzp_function_details_content4_2560	With navigation on in HD map coverage areas, NZP can guide the vehicle on and off\nramps along the route, including ramp entry, highway interchanges and highway exits.\nDuring lane changes, the driver must stay focused, watch the surroundings,\nand take over when necessary.
+string	window_nzp_function_details_content4_title	4. On/Off Ramps:
+string	window_nzp_function_details_content5_2560	Navigate ZEEKR Pilot (NZP) is available on controlled-access urban expressways\nand highways covered by HD maps (where permitted by applicable laws and regulations\nand enabled by ZEEKR). Turn it on by pushing the gear lever down twice in a row.\nIt assists the driver in following the set navigation route, automatically adjusts\ncruise speed to the speed limit, switches to suitable lanes, and assists with\nentering and exiting\nramps.
+string	window_nzp_function_details_content5_title	1. NZP Highway Pilot:
+string	window_nzp_function_details_content6_2560	With NZP on, when a large vehicle is in an adjacent lane, the system shifts the car within\nits lane away from it. When obstacles such as traffic cones are detected ahead in the lane,\nthe system slows appropriately and plans an avoidance path, either going around the obstacle\nwithin the lane or changing lanes to pass it.
+string	window_nzp_function_details_content6_title	2. Obstacle Avoidance:
+string	window_nzp_function_details_content7_2560	With NZP on, NZP selects suitable lanes along the navigation route, takes on and off ramps\nautomatically, and overtakes when the vehicle ahead is slow. The driver can also turn on\na turn signal and the system will assist with a lane change in that direction; the signal\nturns off automatically once the lane change is complete.
+string	window_nzp_function_details_content7_title	3. Auto Lane Change:
+string	window_nzp_function_details_content8_2560	Following the navigation route, NZP helps you at the right moment, by adjusting speed\nand changing lanes, to automatically exit the main road onto ramps and merge from ramps into\nthe main road. In heavy traffic, if the system cannot complete a lane change, it will ask\nfor your help; be ready to take over the vehicle promptly.
+string	window_nzp_function_details_content8_title	4. On/Off Ramps:
+string	window_nzp_function_details_title1	Smart Cruise
+string	window_nzp_function_details_title2	Lane Center
+string	window_nzp_function_details_title2_2560	Lane Center
+string	window_nzp_function_details_title3	Lane Change
+string	window_nzp_function_details_title4	Ramps
+string	window_nzp_function_details_title5	NZP Highway
+string	window_nzp_function_details_title6	Avoidance
+string	window_nzp_function_details_title7	Auto LC
+string	window_nzp_function_introduction_cancel	Cancel
+string	window_nzp_function_introduction_confirm	Start
+string	window_nzp_function_introduction_content1	NZP is an advanced driver assistance system. On highways and urban expressways, it provides navigation-based cruising, lane centering, lane changes and ramp entry/exit. Traffic light recognition and red-light braking assist will come in future, enabling navigated piloting on open city roads.
+string	window_nzp_function_introduction_content1_cs	NZP Highway Navigation Assist (NZP or NZP Highway Pilot) is an intelligent driver assistance feature that greatly reduces driver fatigue and improves driving safety. Based on the navigation route, on controlled-access urban expressways and highways covered by HD maps (where permitted by applicable laws and regulations and enabled by ZEEKR), and under driver supervision, NZP provides navigation assist functions such as automatic ramp entry/exit and automatic lane changes for overtaking.
+string	window_nzp_function_introduction_content2	For your safety, before enabling NZP you must learn how to use it and its precautions, and pass a short test. This takes about 10-15 minutes.
+string	window_nzp_function_introduction_content2_cs	For your safety, before enabling NZP Highway Navigation Assist you must learn how to use it and its precautions, and pass a short test. This takes about 10-15 minutes.
+string	window_nzp_function_introduction_item_content1	Smart Cruise
+string	window_nzp_function_introduction_item_content2	Lane Center
+string	window_nzp_function_introduction_item_content3	Lane Change
+string	window_nzp_function_introduction_item_content4	Ramps
+string	window_nzp_function_introduction_item_content5	NZP Highway
+string	window_nzp_function_introduction_item_content6	Avoidance
+string	window_nzp_function_introduction_item_content7	Auto LC
+string	window_nzp_function_introduction_learning_guidance	Tutorial
+string	window_qrcode_study_close_button	Close
+string	window_qrcode_study_content	To enable NZP features, scan the QR code above with the ZEEKR app or WeChat on your phone, watch the video and complete the safety test.
+string	window_qrcode_study_content2	To enable NZP Highway Navigation Assist features, scan the QR code above with the ZEEKR app or WeChat on your phone, watch the video and complete the safety test.
+string	window_qrcode_study_finish_button	Done
+string	window_qrcode_study_title	Start
+string	window_use_instructions_cancel	Cancel
+string	window_use_instructions_confirm	Confirm
+string	window_use_instructions_confirm_timer	Confirm (%d)
+string	window_use_instructions_description	Dear Customer:\nBefore using AI driving assist and/or NZP and other related functions (collectively, the "Related Functions"), please read the following carefully:\nThe Related Functions are driver assistance functions intended to improve driving convenience and comfort; they do not make the vehicle self-driving. When using the Related Functions, the driver must stay attentive at all times, ensure the safety of the vehicle and its surroundings, and keep hands on the steering wheel so as to be able to take over or take corrective action at any time. Do not rely entirely on the Related Functions to drive. The Related Functions are mainly designed for specific scenarios such as highways and elevated roads, and require roads with median barriers and clear lane markings, as well as other necessary operating conditions. In the presence of pedestrians, construction zones, bad weather, or other conditions.
+string	window_use_instructions_description2	Dear Customer:\nBefore using AI driving assist and/or NZP and other related functions (collectively, the "Related Functions"), please read the following carefully: The Related Functions are driver assistance functions intended to improve driving convenience and comfort; they do not make the vehicle self-driving. When using the Related Functions, the driver must stay attentive at all times, ensure the safety of the vehicle and its surroundings, and keep hands on the steering wheel so as to be able to take over or take corrective action at any time. Do not rely entirely on the Related Functions to drive. The Related Functions are mainly designed for specific scenarios such as highways and elevated roads, and require roads with median barriers and clear lane markings, as well as other necessary operating conditions. In the presence of pedestrians, construction zones, bad weather, or other conditions.
+string	window_use_instructions_description3	Dear Customer:\n\u0009\u0009\u0009\u0009Before using NZP Highway Navigation Assist and other driver assistance functions (collectively, the "Related Functions"), please read the following carefully:\n\u0009\u0009\u0009\u0009The Related Functions are driver assistance functions intended to improve driving convenience and comfort; they do not make the vehicle self-driving. The Related Functions cannot handle all traffic, weather and road conditions, and cannot replace you as the driver. You are always responsible for driving safely and prudently, paying constant attention to traffic and the road environment, and deciding for yourself whether to use the Related Functions when it is safe to do so.\n\u0009\u0009\u0009\u0009When using the Related Functions, the driver must stay attentive at all times, ensure the safety of the vehicle and its surroundings, and keep hands on the steering wheel so as to be able to take over or take corrective action at any time. Do not rely entirely on the Related Functions to drive. The Related Functions are mainly designed for specific scenarios such as controlled-access urban expressways and highways covered by HD maps (where permitted by applicable laws and regulations and enabled by ZEEKR), and require roads with median barriers and clear lane markings, as well as other necessary operating conditions (see the relevant chapter of the User Manual). In the presence of pedestrians, construction zones, bad weather, or when other operating conditions are not met, the Related Functions will be limited and the driver must take over the vehicle immediately.\n\u0009\u0009\u0009\u0009The Related Functions require the support of driver assistance components such as the vehicle's cameras, sensors and positioning system. Before turning on the Related Functions, make sure these components are in good condition and working properly.\n\u0009\u0009\u0009\u0009These terms of use apply to the entire period after you confirm turning on the Related Functions, until the vehicle is taken over or the Related Functions are turned off.\n\n\u0009\u0009\u0009\u0009Requirements:\n\u0009\u0009\u0009\u0009Before using the Related Functions, the driver must confirm awareness of the details of NZP Highway Navigation Assist (see the User Manual), know how to turn it on and cancel it, and agree to the related information and data collection rules.\n\n\u0009\u0009\u0009\u0009Do you agree to all of the above terms of use and wish to turn on NZP Highway Navigation Assist?\n\u0009\u0009\u0009\u0009I have read, understood and fully agree to the above terms of use.
+string	window_use_instructions_title	NZP Terms of Use
+string	window_use_instructions_title2	Start tutorial
+string	window_user_instructions_agree	I have read and fully agree
+string	window_user_instructions_cancel	Cancel
+string	window_user_instructions_confirm	Start
+string	window_user_instructions_content	When you scan the code on your vehicle's center display to open the learning map on your phone, the necessary information you provide or allow us to collect includes: mobile number, ZEEKR app account info, ZEEKR app login status, and learning progress, used to sync your learning status under this account and record your learning status and completion for this function.\n\nPlease note that this information will be stored permanently by ZEEKR, and we will protect your personal information according to the company's general information security standards.
+string	window_user_instructions_nzp_function_introduction	NZP Overview
+string	window_user_instructions_title	User Notice

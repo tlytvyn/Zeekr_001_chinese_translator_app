@@ -1,0 +1,6 @@
+string	app_name	22	md_media_switch	
+string	bluetooth_no_connect	20	Bluetooth music – not connected	蓝牙音乐-未连接
+string	chip_text	14	Chip text	
+string	label	8	Label	
+string	udisk_no_connect	19	USB music – not connected	USB音乐-未连接
+string	udisk_yes_connect	20	USB music – My USB	USB音乐-My USB

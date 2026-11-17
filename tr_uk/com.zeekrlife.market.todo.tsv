@@ -1,0 +1,179 @@
+string	agentweb_camera	10	Camera	
+string	agentweb_cancel	10	Cancel	
+string	agentweb_click_open	22	Tap to continue	
+string	agentweb_coming_soon_download	45	Coming soon to download the file	
+string	agentweb_continue	12	Continue	
+string	agentweb_current_downloaded_length	19	downloaded:%s	
+string	agentweb_current_downloading_progress	20	Downloading:%s	
+string	agentweb_default_page_error	10	error~	
+string	agentweb_download	12	Download	
+string	agentweb_download_fail	23	Download failed!	
+string	agentweb_download_task_has_been_exist	78	The task already exists, do not repeat click to download!	
+string	agentweb_file_chooser	8	Files	
+string	agentweb_file_download	12	Download	
+string	agentweb_honeycomblow	91	Wi-Fi disconnected. Continue the download via mobile data network?	
+string	agentweb_leave	11	Go away	
+string	agentweb_leave_app_and_go_other_page	49	leaving %s and opening another app?	
+string	agentweb_loading	16	Loading ...	
+string	agentweb_max_file_length_limit	64	The selected file can not be larger than %s MB	
+string	agentweb_message_show_continue	43	Do you want to continue anyway?	
+string	agentweb_message_show_ssl_error	31	SSL Certificate error.	
+string	agentweb_message_show_ssl_expired	39	The certificate has expired.	
+string	agentweb_message_show_ssl_hostname_mismatch	47	The certificate Hostname mismatch.	
+string	agentweb_message_show_ssl_not_yet_valid	46	The certificate is not yet valid.	
+string	agentweb_message_show_ssl_untrusted	57	The certificate authority is not trusted.	
+string	agentweb_tips	7	Note	
+string	agentweb_title_ssl_error	30	SSL Certificate Error	
+string	agentweb_trickter	30	You have a new notice	
+string	app_detail_app_name	6	App	应用
+string	app_detail_back	6	Back	返回
+string	app_detail_btn_cancel_download	6	Stop	终止
+string	app_detail_btn_uninstall	6	Remove	卸载
+string	app_detail_developer	9	Developer	开发者
+string	app_detail_dialog_button_cancel	6	Cancel	取消
+string	app_detail_info	6	Info	信息
+string	app_detail_introduce	11	About app	应用介绍
+string	app_detail_preview	6	Preview	预览
+string	app_detail_privacy_policy	11	Privacy policy	隐私政策
+string	app_detail_size_name	6	Size	大小
+string	app_detail_toast_uninstall_warning	21	App can't be removed	该应用不允许卸载
+string	app_detail_uninstall	6	Remove	卸载
+string	app_detail_uninstall_dialog_content	24	Uninstall %s?	您确认要卸载%s吗？
+string	app_detail_uninstall_fail	11	Failed	卸载失败
+string	app_detail_uninstall_success	11	Uninstalled	卸载成功
+string	app_detail_uninstalling	10	Removing…	卸载中…
+string	app_detail_update_time	11	Updated	更新时间
+string	app_detail_version_info	11	Latest ver.	最新版本
+string	app_detail_version_name	6	Ver.	版本
+string	app_install_force_update_tips	33	Required system update running	因系统原因，应用强制更新中
+string	app_install_no_space_enough	28	Not enough storage	存储空间不足，无法下载
+string	app_install_self_updating	57	Downloaded. Installing now; App Store will close	下载完成，即将开始自动安装，应用市场将自动退出
+string	app_name	11	App Store	应用市场
+string	app_search_enter_name	11	Enter name	输入名称
+string	bottom_title_my_app	11	My apps	我的应用
+string	bottom_title_paper	6	Tests	组卷
+string	bottom_title_read	6	Grading	阅卷
+string	bottom_title_report	11	Reports	学业报告
+string	bottom_title_user	11	Profile	个人中心
+string	brvah_load_complete	16	Tap to load more	点击加载更多
+string	brvah_load_end	16	No more data	没有更多数据
+string	brvah_load_failed	26	Failed. Tap to retry	加载失败，请点我重试
+string	brvah_loading	18	Loading...	正在加载中...
+string	common_cancel	6	Cancel	取消
+string	common_code_error_hint	28	Wrong code. Check input	验证码错误，请检查输入
+string	common_code_input_hint	16	Enter code	请输入验证码
+string	common_code_send	14	Send code	发送验证码
+string	common_code_send_hint	31	Verification code sent	验证码已发送，请注意查收
+string	common_i_see	9	Got it	知道了
+string	common_no_more_data	19	No more data	没有更多数据了
+string	common_permission_activity_recognition	16	Activity access	健身运动权限
+string	common_permission_alert	11	Permission	授权提醒
+string	common_permission_calendar	11	Calendar	日历权限
+string	common_permission_call_log	16	Call log	通话记录权限
+string	common_permission_camera	11	Camera	相机权限
+string	common_permission_contacts	14	Contacts	通讯录权限
+string	common_permission_fail_1	31	Failed. Grant permission	授权失败，请正确授予权限
+string	common_permission_fail_2	36	Failed. Grant permission manually	获取权限失败，请手动授予权限
+string	common_permission_fail_3	33	Failed. Please grant %s manually	获取权限失败，请手动授予%s
+string	common_permission_fail_4	48	Background location not granted. Choose "Allow all the time"	没有授予后台定位权限，请您选择始终允许
+string	common_permission_goto	11	Grant	前往授权
+string	common_permission_install	16	Install apps	安装应用权限
+string	common_permission_location	11	Location	定位权限
+string	common_permission_location_background	16	Bg location	后台定位权限
+string	common_permission_microphone	14	Microphone	麦克风权限
+string	common_permission_notification	14	Notifications	通知栏权限
+string	common_permission_phone	11	Phone	电话权限
+string	common_permission_sensors	19	Body sensors	身体传感器权限
+string	common_permission_setting	16	System settings	系统设置权限
+string	common_permission_sms	11	SMS	短信权限
+string	common_permission_storage	11	Storage	存储权限
+string	common_permission_window	14	Overlay	悬浮窗权限
+string	common_refresh	6	Refresh	刷新
+string	common_see	9	Got it	知道了
+string	driving_restricted_use	44	Unavailable while driving. Shift to P	行车过程中不可使用，请挂 P 档后再试
+string	error_a11y_label	20	Error: invalid	
+string	exposed_dropdown_menu_content_description	26	Show dropdown menu	
+string	helper_loading_empty_result	16	No results	暂无搜索结果
+string	helper_loading_empty_tip	16	No data yet	暂时没有数据
+string	helper_loading_error_tip	26	Poor network. Try later	网络不佳，请稍后重试
+string	helper_loading_net_empty	11	Tap to retry	点击重试
+string	helper_loading_net_error	33	Poor network. Check and retry	网络不佳，请检查网络后重试
+string	helper_loading_tip	10	Loading…	加载中…
+string	home_search	6	Search	搜索
+string	home_setting	6	Settings	设置
+string	install_failed_already_exists	33	App is already installed	该应用已安装，请勿重复安装
+string	install_failed_duplicate_package	33	App is already installed	该应用已安装，请勿重复安装
+string	install_failed_insufficient_storage	28	Failed: not enough storage	安装失败，存储空间不足
+string	install_failed_invalid	14	Invalid package	安装包无效
+string	install_failed_update_incompatible	51	App signature changed. Remove the old app first, then install	应用签名变化，请先删除原App，再安装此App
+string	install_failed_version_downgrade	36	Older than installed version	此安装版版本低于已安装的版本
+string	install_prepare_toast_tip	37	%s is updating and will close in 5s	%s将安装新版本，5秒后将被关闭
+string	item_app_update_time	11	Updated	更新时间
+string	launcher_dialog_title_pp	31	App Store Privacy Policy	应用市场个人信息保护政策
+string	launcher_dialog_title_ua	21	App Store Terms	应用市场用户协议
+string	login_password	6	Password	密码
+string	login_phone	9	Phone	手机号
+string	login_register	6	Sign up	注册
+string	login_submit	6	Log in	登录
+string	login_tips	16	Teacher login	教师账号登录
+string	my_app_no_update	11	No updates	暂无更新
+string	my_app_quick_update	11	Update all	一键更新
+string	my_app_title_name	11	My apps	我的应用
+string	my_app_update_tips	29	%1$s updates     %2$sMB	%1$s个更新     %2$sMB
+string	my_app_updating	10	Updating…	更新中…
+string	nav_app_bar_navigate_up_description	16	Navigate up	
+string	nav_app_bar_open_drawer_description	31	Open navigation drawer	
+string	privacy	235	This service requires network access, storage access and device permissions, and collects device, network, account, identity, transaction and app information, as well as data you upload. By tapping "Agree", you agree to the above and to the "App Store User Agreement" and "App Store Personal Information Protection Policy".	本服务需要联网、调用存储、获取设备权限，获取设备、网络、账号、身份、交易、应用信息，以及您主动上传的数据。点击“同意”，即表示您同意上述内容及《应用市场用户协议》、《应用市场个人信息保护政策》。
+string	privacy_update	121	We have recently updated the "App Store User Agreement" and "App Store Personal Information Protection Policy". By tapping "Agree", you agree to the above.	近期我们更新了《应用市场用户协议》、《应用市场个人信息保护政策》。点击“同意”，即表示您同意上述内容
+string	recommend_app_page_not_found	19	Page not found	跳转页面不存在
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	setting_app_download_progress	19	Updating: %s%%	正在更新：%s%%
+string	setting_app_is_latest_version	21	Already up to date	当前已是最新版本
+string	setting_app_update_background	28	Updating in background	应用市场更新已进入后台
+string	setting_app_update_break_point_content	36	Last update incomplete. Continue?	上次更新任务未完成，是否继续
+string	setting_app_update_break_point_title	19	Update incomplete	未完成更新任务
+string	setting_app_update_checking	16	Checking…	正在检查更新
+string	setting_app_update_continue	11	Continue	继续更新
+string	setting_app_update_download_progress	17	Downloading: %s%%	下载中：%s%%
+string	setting_app_update_downloading	10	Loading…	下载中…
+string	setting_app_update_failed_please_try_again	21	Update failed. Retry	更新失败，请重试
+string	setting_app_update_installing	10	Installing…	安装中…
+string	setting_app_update_later	11	Later	稍后再说
+string	setting_app_update_new_version	14	New version	发现新版本
+string	setting_app_update_now	11	Update now	立即更新
+string	setting_auto_update	16	Auto-update apps	自动更新应用
+string	setting_auto_update_off	6	Off	关闭
+string	setting_check_update	14	Check for update	检查新版本
+string	setting_detecting_update	15	Checking…	检测更新中…
+string	setting_loading_update	16	Checking…	正在检查更新
+string	setting_none_privacy_agreement	26	No privacy policy yet	暂无个人信息保护政策
+string	setting_none_user_agreement	16	No terms yet	暂无用户协议
+string	setting_privacy_agreement	31	App Store Privacy Policy	应用市场个人信息保护政策
+string	setting_user_agreement	21	App Store Terms	应用市场用户协议
+string	setting_version_name_text	11	Ver.: %s	版本：%s
+string	setting_version_number	9	Version	版本号
+string	task_state_download_completed	6	Install	安装
+string	task_state_download_error_default_toast	21	Download failed. Retry	下载失败，请重试
+string	task_state_download_paused	11	Resume	恢复下载
+string	task_state_download_pending	9	Waiting	准备中
+string	task_state_download_progress	9	Loading	下载中
+string	task_state_downloadable	6	Get	下载
+string	task_state_install_completed	9	Installed	已安装
+string	task_state_install_error_default_toast	21	Install failed. Retry	安装失败，请重试
+string	task_state_install_pending	11	Queued	等待安装
+string	task_state_install_progress	9	Installing	安装中
+string	task_state_install_progress_default_toast	26	Installing app, please wait	正在安装应用，请稍后
+string	task_state_install_started	9	Installing	安装中
+string	task_state_installable	6	Install	安装
+string	task_state_need_pay_activity	11	Membership	购买会员
+string	task_state_openable	6	Open	打开
+string	task_state_updatable	6	Update	更新
+string	web_view_policy_should_override_url	49	For safety, download the app to view this	为了车机安全，请您下载App后在应用内查看
+string	xpopup_image_not_exist	22	Image not exist	
+string	xpopup_save	7	save	
+string	xpopup_saved_fail	24	Image save failed	
+string	xpopup_saved_to_gallery	20	Saved to album	
+string	zeekr_back	7	back	
+string	zeekr_cancel	10	cancel	
+string	zeekr_loading	14	loading..	
+string	zeekr_show_psw	19	show password	

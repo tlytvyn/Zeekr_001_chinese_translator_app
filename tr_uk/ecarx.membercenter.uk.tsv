@@ -1,0 +1,662 @@
+string	account_center_phone_number	Телефон
+string	agree	Згоден
+string	agreement_change_content	"Шановний користувачу, дякуємо за вашу постійну підтримку.\nЩоб надавати кращі послуги, краще захищати ваші права, допомогти вам зрозуміти, як ми обробляємо й захищаємо ваші персональні дані, а також дотримуватися регуляторних вимог, ми оновили %1s і %2s"
+string	agreement_change_content_user_privacy	"Шановний користувачу, дякуємо за вашу постійну підтримку.\nЩоб надавати кращі послуги, краще захищати ваші права, допомогти вам зрозуміти, як ми обробляємо й захищаємо ваші персональні дані, а також дотримуватися регуляторних вимог, ми оновили %1s"
+string	agreement_change_privacy	"Політику конфіденційності"
+string	agreement_change_protocol	"Угоду користувача"
+string	agreement_change_title	Повідомлення про зміну Угоди користувача/Політики конфіденційності
+string	agreement_face_change_title	Оновлення Політики конфіденційності Face ID
+string	agreement_face_refuse_btn_cancel	Пізніше
+string	agreement_face_refuse_btn_confirm	Відхилити
+string	agreement_face_refuse_tip	Якщо ви відмовитеся, дані вашого обличчя буде видалено
+string	agreement_privacy_change_title	Оновлення Політики конфіденційності
+string	agreement_user_change_title	Оновлення Угоди користувача
+string	app_guest_mode_not_allow	Недоступно в гостьовому режимі
+string	app_name	Кабінет
+string	car_is_driving_tip	Недоступно під час руху. Перемкніть на P.
+string	click_refresh	Оновити
+string	common_agree	Згоден
+string	common_back	Назад
+string	common_cancel	Скас.
+string	common_close	Закрити
+string	common_know	Зрозуміло
+string	common_ok	OK
+string	common_refuse	Відхил.
+string	common_retry	Повтор
+string	dialog_title_prompt	Увага
+string	error_a11y_label	Помилка: недійсне
+string	error_message_1000	Успішно
+string	error_message_10001	Замовлення вже оплачено
+string	error_message_10011	Замовлення скасовано
+string	error_message_1400	Недійсні параметри
+string	error_message_1401	Помилка автент.
+string	error_message_1402	Недійсний токен
+string	error_message_1403	Недійсний токен оновл.
+string	error_message_1404	Токени доступу й оновлення не збігаються
+string	error_message_1405	Ресурс не знайдено
+string	error_message_1406	Недійсний appId
+string	error_message_1407	Недійсний токен CSP
+string	error_message_1408	Вхід виконано на іншому пристрої. Увійдіть знову.
+string	error_message_1409	Прив’язка застаріла. Прив’яжіть знову.
+string	error_message_1410	Забагато невірних паролів. Повторіть за 5 хв.
+string	error_message_1412	Недійсний токен
+string	error_message_1413	Лише суперадмін може змінювати чужі паролі
+string	error_message_1420	Потрібна перевірка SMS-кодом
+string	error_message_1421	Потрібна перевірка email
+string	error_message_1422	Потрібна перевірка капчі
+string	error_message_1442	Підпис застарів
+string	error_message_1443	Повторний nonce
+string	error_message_1445	Недійсний підпис
+string	error_message_1498	Час минув
+string	error_message_1499	Час минув
+string	error_message_1500	Помилка сервера
+string	error_message_1501	Помилка стороннього входу
+string	error_message_1502	Помилка сервера
+string	error_message_1509	Помилка сервера
+string	error_message_1510	Сервер зайнятий
+string	error_message_1511	Сервіс обмежено
+string	error_message_1854	Застосунок придбано
+string	error_message_200	Успішно
+string	error_message_2001	Невірний номер телефону
+string	error_message_2002	Невірний email
+string	error_message_2003	Потрібен ключ оновлення
+string	error_message_2004	Новий ключ має бути порожнім
+string	error_message_2005	Дублікат VIN
+string	error_message_2006	VIN не знайдено
+string	error_message_2007	ID серії не знайдено
+string	error_message_2008	Код серії не знайдено
+string	error_message_2009	Код серії вже існує
+string	error_message_2010	Код моделі не знайдено
+string	error_message_2011	Код моделі вже існує
+string	error_message_2012	Код комплектації не знайдено
+string	error_message_2013	Код двигуна не знайдено
+string	error_message_2014	Код кольору не знайдено
+string	error_message_2015	Немає авто з цим VIN
+string	error_message_2053	VIN не відповідає головному пристрою
+string	error_message_3	Помилка запиту
+string	error_message_3001	Непідтримуваний тип коду
+string	error_message_3002	Введіть дійсний код
+string	error_message_3003	Помилка SMS
+string	error_message_3004	Помилка: запит недійсний або застарів
+string	error_message_3005	Не вдалося прочитати Excel
+string	error_message_3006	Не вдалося оновити псевдонім
+string	error_message_3007	Не вдалося оновити стан застосунку
+string	error_message_3008	Не вдалося зберегти журнал; файл завантажено
+string	error_message_3009	Помилка об’єднання частин OSS
+string	error_message_3010	Помилка завантаження в OSS
+string	error_message_3011	Помилка об’єднання файлів
+string	error_message_3016	Помилка
+string	error_message_3017	Невірний запит
+string	error_message_3018	Недійсно. Спробуйте ще.
+string	error_message_3019	Помилка
+string	error_message_3020	Невірний запит
+string	error_message_4	Збій системи
+string	error_message_4000	Потрібен пароль, код або сторонній токен
+string	error_message_4001	Акаунт уже існує
+string	error_message_4002	Невірний пароль. Повторіть.
+string	error_message_4003	Акаунта немає
+string	error_message_4004	Номер не зареєстр.
+string	error_message_4005	Невірний пароль
+string	error_message_4006	Недійсний запит
+string	error_message_4007	Авто прив’язане
+string	error_message_4008	Немає доступу
+string	error_message_4009	Введіть дійсний VIN
+string	error_message_4010	Введіть зареєстрований номер
+string	error_message_4011	Збій пристрою
+string	error_message_4012	Номер не зареєстровано. Спершу зареєструйтеся.
+string	error_message_4013	Цей акаунт не авторизовано для цього авто. Щоб змінити власника, телефонуйте 400-111-5555.
+string	error_message_4014	Особу не підтверджено
+string	error_message_4015	clientId не знайдено
+string	error_message_4016	VIN прив’язано до кількох UID
+string	error_message_4017	Не знайдено тарифу даних для цього VIN/ICCID
+string	error_message_4018	Не знайдено тарифу VoIP для цього номера
+string	error_message_4019	Помилка відв’язки: збій даних пристрою
+string	error_message_4020	Вхід уже виконано
+string	error_message_4021	Помилка сервісу CSP
+string	error_message_4022	Помилка платформи пристроїв
+string	error_message_4023	Не вдалося прив’язати авто. Перевірте дані.
+string	error_message_4024	Номер уже використовується
+string	error_message_4025	Номер уже є в GID
+string	error_message_4026	Немає даних корист.
+string	error_message_4027	Користувач існує
+string	error_message_4028	Код застарів
+string	error_message_4029	Невірний код
+string	error_message_4030	Немає такого корист.
+string	error_message_4031	Немає такого корист.
+string	error_message_4032	Недійсний тип
+string	error_message_4033	Інформацію про авто не знайдено
+string	error_message_4034	Порожній об’єкт
+string	error_message_4035	Немає T-сервісу для авто
+string	error_message_4036	Немає T-сервісу для цих ID
+string	error_message_4037	Порожній параметр
+string	error_message_4038	Авто не використовується
+string	error_message_4300	Помилка параметрів
+string	error_message_4301	Замовлення немає
+string	error_message_4302	Авто не має власника
+string	error_message_4303	Номер не збігається з номером власника авто
+string	error_message_4304	Немає авто з цим VIN
+string	error_message_5	Помилка мережі
+string	error_message_5002	Біометричний ключ застарів
+string	error_message_6666	Помилка сторонн. сервісу
+string	error_message_7001	Недійсний стан авто
+string	error_message_7002	Номер використовує інший користувач
+string	error_message_7003	Авто не знайдено
+string	error_message_7004	Авто вже існує
+string	error_message_7005	Це підключене авто
+string	error_message_7006	Помилка збереження даних
+string	error_message_7007	Помилка сертиф.
+string	error_message_7008	Помилка сертиф.
+string	error_message_7009	Помилка сертиф.
+string	error_message_7010	Збій підключення корист./авто
+string	error_message_7011	Збій синхр. корист./авто
+string	error_message_7012	Корист./авто існує
+string	error_message_7013	Помилка оновл.
+string	error_message_7014	Помилка прив’язки
+string	error_message_7015	Помилка даних прив’язки
+string	error_message_7016	Помилка відв’язки
+string	error_message_7017	Авто відв’язано. Додайте його знову.
+string	error_message_7018	Сервіс корист. недоступний
+string	error_message_7019	Авто вже існує
+string	error_message_7020	Немає такого авто
+string	error_message_7021	Помилка даних авто
+string	error_message_7022	Помилка видал. даних авто
+string	error_message_7023	VIN не збігається
+string	error_message_7024	IHU вже існує
+string	error_message_7025	T-BOX вже існує
+string	error_message_7026	Немає такого авто
+string	error_message_7027	Потрібні параметри запиту
+string	error_message_7028	Немає параметрів авто
+string	error_message_7029	VIN порожній
+string	error_message_7030	Невірна довжина VIN
+string	error_message_7031	Немає даних авто
+string	error_message_7032	Немає номера модуля
+string	error_message_7033	matCode авто порожній
+string	error_message_7034	Колір авто не вказано
+string	error_message_7035	Заводський № порожній
+string	error_message_7036	№ двигуна порожній
+string	error_message_7037	ICCID авто порожній
+string	error_message_7038	У запиті немає VIN
+string	error_message_7039	VIN у запиті не має 17 символів
+string	error_message_7040	Недійсний VIN. Введіть знову.
+string	error_message_7041	Сервіс авто недоступний
+string	error_message_7042	Файл існує
+string	error_message_7043	Файлу немає
+string	error_message_7044	Дані існують
+string	error_message_7045	Даних немає
+string	error_message_7046	Невірний стан
+string	error_message_7047	Недійсні дані
+string	error_message_7048	Невір. формат
+string	error_message_7049	Авто в сні
+string	error_message_7050	Невірна умова
+string	error_message_7051	Помилка
+string	error_message_7052	Немає події xCall
+string	error_message_7053	Дист. дію заборонено
+string	error_message_7054	Невідомий ID сервісу
+string	error_message_7055	Помилка системи: події немає
+string	error_message_7056	Не вдалося прочитати стан авто (M2M)
+string	error_message_7057	Не вдалося зберегти стан авто (M2M)
+string	error_message_7058	Не вдалося надіслати диспетчеру
+string	error_message_7059	Час уже минув
+string	error_message_7060	Початок має бути до кінця
+string	error_message_7061	Кінець має бути після початку
+string	error_message_7062	Помилка календаря
+string	error_message_7063	Не вдалося отримати ID
+string	error_message_7064	Відстеж. викрадення увімк.
+string	error_message_7065	Помилка системи: подія існує
+string	error_message_7066	Помилка системи: подія застаріла
+string	error_message_7067	Помилка TEM
+string	error_message_7068	Дію скасовано
+string	error_message_7069	Не вказано час початку/кінця
+string	error_message_7070	Інтервал має бути >0
+string	error_message_7071	Тривалість має бути >0
+string	error_message_7072	Немає сеансу. Спершу дистанційно запустіть %s.
+string	error_message_7073	Помилка запиту БД
+string	error_message_7074	Помилка оновлення БД
+string	error_message_7075	Дист. керування неактивне
+string	error_message_7076	Забагато дист. операцій
+string	error_message_7077	Невірний PIN
+string	error_message_7078	Невірний PIN
+string	error_message_7079	Невідома помилка
+string	error_message_7080	ID не знайдено
+string	error_message_7082	Немає клієнта
+string	error_message_7083	Помилка збереження даних клієнта
+string	error_message_7084	Помилка видал. клієнта
+string	error_message_7085	VIN не збігається
+string	error_message_7086	№ документа клієнта існує
+string	error_message_7087	Телефон клієнта існує
+string	error_message_7088	VIN уже існує
+string	error_message_7089	VRN існує
+string	error_message_70891	Клієнт існує
+string	error_message_7090	Немає телефону клієнта
+string	error_message_7091	Немає парам. клієнта
+string	error_message_7092	VIN порожній
+string	error_message_7093	Ім’я порожнє
+string	error_message_7094	№ документа порожній
+string	error_message_7095	Тип документа порожній
+string	error_message_7096	Телефон порожній
+string	error_message_7097	Номерний знак порожній
+string	error_message_7098	Дата передачі порожня
+string	error_message_7099	Дата порожня
+string	error_message_7100	ID клієнта порожній
+string	error_message_7101	Станд. параметри порожні
+string	error_message_7102	Помилка парам. власника
+string	error_message_7103	Сервіс клієнтів недоступний
+string	error_message_7104	Помилка з’єднання з сервером повідомл.
+string	error_message_7105	Помилка API сервера повідомлень
+string	error_message_7106	Помилка формату повідомл.
+string	error_message_7107	Надсилання на сервер: порожній результат
+string	error_message_7108	Повідомлення немає
+string	error_message_7109	Помилка запису повідомл. в БД
+string	error_message_7110	Помилка видал. повідомл. з БД
+string	error_message_7111	Помилка оновл. повідомл.
+string	error_message_7112	Помилка надсил. списку
+string	error_message_7113	Не надіслано на IHU
+string	error_message_7114	Не надіслано SMS
+string	error_message_7115	Не надіслано в застосунок
+string	error_message_7116	ID запиту порожній
+string	error_message_7117	Вміст і ID шаблону порожні
+string	error_message_7118	Якщо вказано вміст, потрібні заголовок і роль
+string	error_message_7119	Парам. повідомл. порожні
+string	error_message_7120	VIN у повідомл. порожній
+string	error_message_7121	Ціль повідомл. порожня
+string	error_message_7122	Помилка отримання ID з БД
+string	error_message_7123	Ціль повідомлення: застосунок або IHU
+string	error_message_7124	Помилка парам. повідомл.
+string	error_message_7125	Повідомл. IoV порожнє
+string	error_message_7126	Псевдонім IoV порожній
+string	error_message_7127	Сповіщення IoV порожнє
+string	error_message_7128	Результат IoV порожній
+string	error_message_7129	Помилка запиту повідомл.
+string	error_message_7130	Помилка збереження шаблону
+string	error_message_7131	Помилка видалення шаблону
+string	error_message_7132	Немає шаблону
+string	error_message_7133	Помилка запиту шаблону
+string	error_message_7134	Помилка оновл. шаблону
+string	error_message_7135	ID парам. шаблону не збігаються
+string	error_message_7136	Бракує значень парам. шаблону
+string	error_message_7138	Парам. шаблону порожні
+string	error_message_7139	Вміст шаблону порожній
+string	error_message_7140	ID шаблону не ціле число
+string	error_message_7141	Немає шаблону
+string	error_message_7142	Помилка збереження завдання
+string	error_message_7143	Немає завдання
+string	error_message_7144	Помилка видалення завдання
+string	error_message_7145	ID запиту завдання порожній
+string	error_message_7146	Парам. завдання порожні
+string	error_message_7147	Ціль завдання порожня
+string	error_message_7148	Мітка часу завдання порожня
+string	error_message_7149	Для завдання потрібні дати початку й кінця
+string	error_message_7150	Дата початку завдання пізніша за дату кінця
+string	error_message_7151	Шаблон завдання порожній
+string	error_message_7152	Помилка отримання ID завдання з БД
+string	error_message_7153	Завдання не можна видалити
+string	error_message_7154	Сервер повідомл. недоступний
+string	error_message_7155	Адмін: невірний парам.
+string	error_message_7156	Адмін: не вдалося отримати IP клієнта
+string	error_message_7157	Адмін: немає групи застос.
+string	error_message_7158	Адмін: немає ID/назви групи застос.
+string	error_message_7159	Адмін: немає ID/парам. застос.
+string	error_message_7160	Адмін: змін немає
+string	error_message_7161	Застос.: невірний парам.
+string	error_message_7162	Збій з’єдн. застос.
+string	error_message_7163	Дилер: невірний парам.
+string	error_message_7164	Збій оновл. дилера
+string	error_message_7165	Помилка оновл. дилера в БД
+string	error_message_7166	Немає дилера
+string	error_message_7167	Помилка запиту дилера в БД
+string	error_message_7168	Невірний парам. версії
+string	error_message_7169	Помилка запиту версії
+string	error_message_717	ID запиту шаблону порожній
+string	error_message_7170	Помилка ключа доступу
+string	error_message_7171	Помилка створ. ключа
+string	error_message_7172	Помилка розбору ключа
+string	error_message_7173	Помилка перев. ключа
+string	error_message_7174	Невір. підпис
+string	error_message_7175	Сеанс завершився. Увійдіть знову.
+string	error_message_7176	Помилка акаунта
+string	error_message_7177	Невірний акаунт або пароль
+string	error_message_7178	Невірний старий пароль
+string	error_message_7179	Довго без дій. Увійдіть знову.
+string	error_message_7180	Вхід виконано деінде
+string	error_message_7181	PIN не збережено
+string	error_message_7182	Корист. не збережено
+string	error_message_7183	Акаунт заблоковано. Зателефонувати в службу підтримки 400-111-5555?
+string	error_message_7184	Магазин недоступний
+string	error_message_7185	Забагато невдалих спроб. Відновіть пароль.
+string	error_message_7186	Місце збережено
+string	error_message_7187	Помилка прив’язки
+string	error_message_8001	Пристрій не унікальний
+string	error_message_8002	Пристрій (авто) не знайдено
+string	error_message_8003	Авто пристрою не знайдено
+string	error_message_8004	До пристрою не прив’язано авто
+string	error_message_8005	Пристрій офлайн
+string	error_message_8006	Немає зв’язку корист.-пристрій
+string	error_message_8007	Немає зв’язку акаунт-авто
+string	error_message_8008	Власника не зареєстровано
+string	error_message_8009	Немає середовища
+string	error_message_8010	Доступ лише для власника
+string	error_message_8011	Оновлення ID не потрібне
+string	error_message_8012	Не вдалося відв’язати авто (порушення)
+string	error_message_8013	Не вдалося прив’язати авто (порушення)
+string	error_message_8014	Помилка типу пристрою
+string	error_message_8015	Помилка розташування сервера
+string	error_message_8016	Серія ще має моделі
+string	error_message_8017	Модель ще має авто
+string	error_message_8018	Немає коду платформи
+string	error_message_8019	Файл порожній
+string	error_message_8020	Назва файлу порожня
+string	error_message_8021	Excel порожній
+string	error_message_8022	ihuId вже існує
+string	error_message_8023	Авто з цим VIN уже має IHU
+string	error_message_8024	Немає коду моделі пристрою
+string	error_message_8025	tboxId вже існує
+string	error_message_8026	Авто з цим VIN уже має T-Box
+string	error_message_8027	Недійсний requestId або час минув. Імпортуйте знову.
+string	error_message_8028	Порожній об’єкт. Не вдалося отримати ID користувача з authToken.
+string	error_message_8029	Бізнес-ключ уже існує
+string	error_message_8030	Потрібен код
+string	error_message_8031	Немає типу пристрою
+string	error_message_8032	Помилка класу пристрою
+string	error_message_8033	Пристрій без корист.
+string	error_message_8034	Застосунок не знайдено, збій ініціалізації
+string	error_message_8035	Збій реєстрації: потрібен UID
+string	error_message_8036	Збій реєстрації: потрібен appType
+string	error_message_8037	Потрібен ключ файлу
+string	error_message_8038	Потрібен розмір частини
+string	error_message_8039	Невірний формат назви файлу
+string	error_message_8040	Немає авто, прив’язаного до цих VIN і UID. Перевірте дані.
+string	error_message_8041	Авто, прив’язане до цих VIN і UID, уже використовується. Перевірте дані.
+string	error_message_8042	VIN порожній, пропущено
+string	error_message_8043	Усі п’ять кодів порожні, пропущено
+string	error_message_8044	Немає авто з цим VIN, пропущено
+string	error_message_8045	П’ять кодів не змінено, оновлення не потрібне
+string	error_message_8046	До пристрою не прив’язано авто з порушеннями
+string	error_message_8047	Немає такого авто
+string	error_message_8048	Кілька записів авто
+string	error_message_8049	Немає власника
+string	error_message_8050	Кілька записів власника
+string	error_message_8051	Бракує поля розширення
+string	error_message_8052	Модель відрізняється від початкової
+string	error_message_8053	IHU не відповідає IHU цього VIN
+string	error_message_8054	VIN не відповідає VIN цього T-Box
+string	error_message_8055	Дані T-Box не відповідають T-Box цього VIN
+string	error_message_8056	Це не зареєстрований номер власника
+string	error_message_8057	Час минув
+string	error_message_8058	Користувач не має авто у використанні
+string	error_message_8059	Користувач має кілька авто у використанні
+string	error_message_8060	Немає авто з цим VIN
+string	error_message_8061	Немає даних IHU для цього VIN
+string	error_message_8062	Немає даних T-Box для цього VIN
+string	error_message_8063	Немає даних авто для цього VIN. Перевірте дані.
+string	error_message_8064	Не вдалося отримати UID з токена
+string	error_message_8065	Збій оновл. стану
+string	error_message_8066	Для VIN немає підписки на T-сервіс
+string	error_message_8067	Не вдалося отримати MD5
+string	error_message_8068	Немає даних про стан авто
+string	error_message_8069	Помилка розбору стану
+string	error_message_8070	Попередній запит ще виконується. Спробуйте пізніше.
+string	error_message_8071	Не вдалося зберегти журнал
+string	error_message_8100	Потрібна назва файлу
+string	error_message_8101	Збій оновлення
+string	error_message_8102	Ключ нових даних має бути порожнім
+string	error_message_8103	Бракує параметра заголовка
+string	error_message_8104	Помилка запиту оновлення: немає ПЗ для оновлення
+string	error_message_8105	Помилка параметра запиту
+string	error_message_8106	Немає оновлень
+string	error_message_8107	Потрібен X_APP_ID
+string	error_message_8108	Помилка публікації
+string	error_message_8109	Немає такого ПЗ
+string	error_message_8110	Невірна версія ПЗ
+string	error_message_8111	Немає завдання оновл.
+string	error_message_8112	Невірний параметр
+string	error_message_8113	Помилка стану завдання
+string	error_message_8114	Немає пакета оновлення
+string	error_message_8115	Пакет не завантажено, публікація неможлива
+string	error_message_8116	Завантаження неповне, публікація неможлива
+string	error_message_8117	Завдання не знайдено або вимкнено
+string	error_message_8118	Пакет не знайдено або вимкнено
+string	error_message_8119	Немає даних TEM
+string	error_message_8120	Немає даних ECU
+string	error_message_8121	Помилка сервера
+string	error_message_8122	Пристрій не знайдено або оновлення зараз неможливе
+string	error_message_8123	Немає результатів: немає авто для цього номера телефону
+string	error_message_8124	Немає результатів: немає авто для цього VIN
+string	error_message_8125	Немає результату для ihuId
+string	error_message_8126	VIN, значення M або ecuType порожні
+string	error_message_8127	Недійсний ecuType. Перевірте дані.
+string	error_message_8128	Немає авто з цим VIN
+string	error_message_8129	Немає даних IHU для вказаного VIN. Перевірте дані.
+string	error_message_8130	Немає даних T-Box для вказаного VIN. Перевірте дані.
+string	error_message_8131	Не вдалося отримати сертифікат PKI
+string	error_message_8132	Адреси ECU не належать до одного ID моделі. Перевірте дані.
+string	error_message_8133	Немає моделей у результаті
+string	error_message_8134	Немає середовища
+string	error_message_8135	Файл порожній
+string	error_message_8136	Помилка перетворення завантаження на файл
+string	error_message_8137	Помилка завантаження
+string	error_message_8138	Немає даних власника для deviceId (VIN цього авто)
+string	error_message_8139	Номер не є номером власника для цього deviceId
+string	error_message_8140	Не вдалося видалити дилера
+string	error_message_8141	Введіть ID
+string	error_message_8142	Невірний запит
+string	error_message_8143	Не отримано app_id
+string	error_message_8144	Пакет завеликий
+string	error_message_8145	Пакет заблоковано
+string	error_message_8146	Немає авто для імпорту
+string	error_message_8147	Шлях не знайдено
+string	error_message_8150	Збій вимкнення
+string	error_message_8151	Немає даних застос. пристрою
+string	error_message_8152	Корист. не має активного застос.
+string	error_message_8153	Збій виклику сервісу
+string	error_message_8154	Немає пакетів
+string	error_message_8155	Невір. формат автент.
+string	error_message_8156	Збій автент. авто
+string	error_message_8157	Неможл. перевірити
+string	error_message_8160	Недоступно під час спільного доступу
+string	error_message_8200	Збій автент.
+string	error_message_8201	Немає корист.
+string	error_message_8202	Збій перевірки токена
+string	error_message_8203	Збій оновл. токена
+string	error_message_8300	Помилка сервісу
+string	error_message_8301	Немає результатів
+string	error_message_8302	Дані існують, повторне додавання неможливе
+string	error_message_8303	Немає результатів: такого середовища немає
+string	error_message_8400	Потрібні вхідні дані
+string	error_message_8500	Внутрішня помилка сервера
+string	error_message_conversion	Помилка розбору
+string	error_message_failure	Помилка
+string	error_message_gateway_sign_app_not_found	Немає застос. підпису
+string	error_message_gateway_sign_appid_not_found	Немає APPID підпису
+string	error_message_gateway_sign_date_format_error	Невірний формат дати підпису
+string	error_message_gateway_sign_date_not_found	Немає дати підпису
+string	error_message_gateway_sign_nonce_not_found	Немає nonce підпису
+string	error_message_gateway_sign_not_found	Немає підпису
+string	error_message_gateway_sign_version_not_found	Немає версії підпису
+string	error_message_illegal_argument	Потрібні вхідні дані
+string	error_message_internal_server_error	Внутрішня помилка сервера
+string	error_message_network	Помилка мережі
+string	error_message_preferred_dealer_exists	Дилера вже вибрано
+string	error_message_success	Успішно
+string	error_message_upload_part_success	Частково завант.
+string	family_fragment_name	Родина
+string	family_fragment_net_error	Слабка мережа. Повторіть пізніше.
+string	family_fragment_no_data	Немає родинних акаунтів. Налаштуйте їх у ZEEKR App > Моє авто > Налаштування авто.
+string	family_fragment_owner_tip	Налаштуйте родинні акаунти в ZEEKR App > Моє авто > Налаштування авто
+string	load_failure_click_to_reload	Слабка мережа. Торкніться, щоб повторити.
+string	load_net_failure	Помилка мережі. Повторіть.
+string	load_request_failure	Помилка мережі. Повторіть.
+string	loading	Завантаження...
+string	login_driving_timer	Закрити (%ds)
+string	login_policy	"Скануючи код для входу, ви приймаєте\n%1s і %2s"
+string	message_button_cancel	Скас.
+string	message_button_delete	Видал.
+string	message_button_delete_count	Видалити (%s)
+string	message_button_done	Готово
+string	message_button_edit	Змінити
+string	message_button_read_all	Прочит. все
+string	message_detail_btn_go	Перейти
+string	message_detail_failed_toast	Не видалено
+string	message_detail_jump_tips	Застосунок не встановлено, не вдалося відкрити
+string	message_detail_success_toast	Видалено
+string	message_detail_title	Повід.
+string	message_empty_tip	Немає повід.
+string	message_title	Повідомл.
+string	mine_about	Про
+string	mine_accountinfo_logout	Вийти
+string	mine_car_profile	Профіль
+string	mine_change_account	Змінити
+string	mine_family	Родина
+string	mine_login_settings	Вхід
+string	mine_logout_dialog_message	Вийти з цього акаунта?
+string	mine_message	Повідомл.
+string	mine_secure	Безпека і конфід.
+string	mine_settings	Налашт.
+string	mine_third_bind	Сторонні ак.
+string	profile_bottom_tip	Зберігайте тут ергономічні положення (сидінь, дзеркал тощо) і перемикайтеся між ними за потреби. Під час зміни акаунта або спрацювання функції Зручної посадки сидіння та інші ергономічні налаштування переходять у положення з профілю водія.
+string	profile_btn_common_use	Для водіння
+string	profile_btn_recover	Відн.
+string	profile_btn_rename	Перейм.
+string	profile_btn_save	Зберег.
+string	profile_dialog_have_name	Назва профілю вже існує
+string	profile_dialog_max_character	До 10 символів
+string	profile_dialog_title	Назва профілю
+string	profile_driving_position	Водіння
+string	profile_loading_change	Перемикання
+string	profile_loading_recover	Відновлення
+string	profile_loading_save	Збереження
+string	profile_title	Профіль водія
+string	profile_toast_have_change	Вибрано: %s
+string	profile_toast_have_recover	Відновлено: %s
+string	profile_toast_have_save	Збережено: %s
+string	profile_toast_rename_failed	Не перейменов.
+string	profile_toast_rename_success	Перейменов.
+string	qr_code_error_text	Слабка мережа. Повторіть пізніше.
+string	qr_code_expired_text	QR-код застарів. Повторіть.
+string	refuse	Відхил.
+string	refuse_and_logout	Відхилити й вийти
+string	res_content_empty	Немає вмісту
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	setting_about_face_policy	Політика конфіденційності Face ID
+string	setting_about_privacy_policy	Політика конфіденц.
+string	setting_about_title	Про
+string	setting_about_user_protocol	Угода корист.
+string	setting_about_version	Версія
+string	setting_about_version_value	v %s
+string	setting_change_face_button	Змінити
+string	setting_change_face_tip	Поточні дані обличчя буде видалено, а нове обличчя — додано.
+string	setting_delete_face_tip	Видалити дані обличчя?
+string	setting_dialog_history_btn_open	Увімкнути
+string	setting_dialog_history_cancel	Пізніше
+string	setting_dialog_history_tip	Після ввімкнення ви зможете швидко перейти у свій акаунт зі списку останніх акаунтів у рядку стану
+string	setting_dialog_history_title	Швидке перемик.
+string	setting_digital_key_sub_tip	Після ввімкнення головний пристрій автоматично входить у ваш акаунт, коли ви відмикаєте авто цифровим ключем.
+string	setting_digital_key_tip	Автовхід за цифровим ключем
+string	setting_face_add_bottom_tip	Починається реєстрація обличчя. Сядьте рівно, дивіться в камеру й переконайтеся, що камеру видно повністю.
+string	setting_face_add_btn	Додати
+string	setting_face_add_success	Додано
+string	setting_face_add_title_tip	Реєстр. обличчя
+string	setting_face_agree	Прийн.
+string	setting_face_all_rule	Усі умови
+string	setting_face_button_start	Почати
+string	setting_face_change_btn	Змінити
+string	setting_face_change_delete_failed	Не вдалося видалити старе обличчя. Повторіть.
+string	setting_face_change_success	Змінено
+string	setting_face_delete_btn	Видал.
+string	setting_face_delete_failed	Не видалено
+string	setting_face_delete_success	Видалено
+string	setting_face_door_closed	Двері водія закриті, режим P
+string	setting_face_enroll_failed	Обличчя не зареєстровано
+string	setting_face_enroll_failed_tts	Не вдалося зареєструвати обличчя. Змініть положення й повторіть спробу.
+string	setting_face_enroll_success_tts	Обличчя зареєстровано
+string	setting_face_family_tips	Попросіть власника спершу ввімкнути Face ID
+string	setting_face_info_title	Обличчя
+string	setting_face_login_have_entry	Додано
+string	setting_face_login_no_entry	Немає
+string	setting_face_login_see_manual	Довідка Face ID
+string	setting_face_login_sub_tip	Після ввімкнення розпізнавання обличчя визначає водія під час запуску автомобіля, а потім виконує вхід в акаунт і завантажує профіль водія. Увімкнути або вимкнути функцію може лише акаунт власника.
+string	setting_face_login_tip	Face ID
+string	setting_face_open_tips	Увімкніть Face ID перед додаванням обличчя
+string	setting_face_policy	"Політику конфіденційності Face ID"
+string	setting_face_read_rule	Прочитайте й прийміть умови
+string	setting_face_start_tips_one	Під час реєстрації уникайте слабкого освітлення, прямого яскравого світла чи контрового світла. Риси обличчя мають бути
+string	setting_face_start_tips_two	чітко видимі, без головних уборів і масок. Тримайте двері закритими, режим P.
+string	setting_face_title	Обличчя
+string	setting_family_hint	Власник не ввімкнув Face ID. Попросіть власника ввімкнути його.
+string	setting_history_account_sub_tip	Після ввімкнення під час наступного входу ви зможете перейти у свій акаунт на головному пристрої без пароля та підтвердження QR-кодом. Однак це не може запобігти випадковому входу інших осіб у ваш акаунт за певних умов, через що вони можуть переглянути ваші персональні дані або надати дозволи на їх збирання. Вмикайте цю функцію обережно.
+string	setting_history_account_tip	Швидке перемикання акаунтів
+string	setting_iv_key_text_face_privacy	Політика конфіденційності Face ID
+string	setting_iv_key_text_new_privacy	Політика конфіденц.
+string	setting_iv_key_text_protocol	Угода корист.
+string	setting_owner_hint	Ця функція працює лише з увімкненим Face ID. Увімкнути його?
+string	setting_title	Вхід
+string	string_associated_confirm_bind_dialog_agree	Згоден
+string	string_associated_confirm_bind_dialog_bind_gaode_title	Умови прив’язки Amap
+string	string_associated_confirm_bind_dialog_content	Під час прив’язки акаунта %1s ваш ID акаунта ZEEKR і стан входу буде передано третій стороні. Ви прочитали та приймаєте %2s і %3s
+string	string_associated_confirm_bind_dialog_content_gaode	Під час прив’язки акаунта Amap ваш ID акаунта ZEEKR, стан входу й номер телефону (%1s) буде передано третій стороні. Ви прочитали та приймаєте %2s, %3s і %4s
+string	string_associated_confirm_bind_dialog_gaode_bind	"Умови прив’язки Amap"
+string	string_associated_confirm_bind_dialog_gaode_proxy	"Політику конфіденційності Amap"
+string	string_associated_confirm_bind_dialog_gaode_server	"Умови Amap"
+string	string_associated_confirm_bind_dialog_privacy	"Політику конфіденційності ZEEKR"
+string	string_associated_confirm_bind_dialog_privacy_title	Політика конфіденційності ZEEKR
+string	string_associated_confirm_bind_dialog_proxy	"Угоду користувача ZEEKR"
+string	string_associated_confirm_bind_dialog_proxy_title	Угода користувача ZEEKR
+string	string_associated_confirm_bind_dialog_reject	Відхил.
+string	string_associated_confirm_default	https://xxxx/
+string	string_associated_confirm_privacy	"Політику конфіденційності"
+string	string_associated_confirm_proxy	"Угоду користувача"
+string	string_associated_confirm_unbind_dialog_content	Після відв’язки вхід в акаунт %1s не виконуватиметься разом із ZEEKR
+string	string_associated_platform_name	Акаунт %1s
+string	third_account_repeat_bind	Уже прив’язано до ZEEKR ID
+string	third_bind_desc	Після прив’язки сторонній акаунт входитиме разом з акаунтом ZEEKR. Ви можете вибрати, чи виходитиме він разом з ним.
+string	third_bind_fail	Не прив’язано
+string	third_bind_fail_retry_plz	Не вдалося прив’язати. Скануйте QR-код ще раз.
+string	third_bind_quick_register_map	Для вашого номера телефону (%1s) немає акаунта Amap. Радимо швидко зареєструвати й прив’язати його. Ви прочитали та приймаєте %2s, %3s і %4s.
+string	third_bind_success	Прив’язано
+string	third_close_logout_with_zeekr	Вимкнути спільний вихід
+string	third_logout_with_zeekr	Вихід разом із ZEEKR
+string	third_name_cloud_music	NetEase Music
+string	third_name_gaode	Amap
+string	third_name_iqiyi	iQIYI
+string	third_name_leishiktv	Leishi KTV
+string	third_name_qqmusic	QQ Music
+string	third_name_tai	Tencent Aiqu
+string	third_name_wx	WeChat
+string	third_plz_use_qqmusic_scan	"Скануйте через WeChat / QQ / QQ Music\nПісля цього буде виконано вхід і прив’язку"
+string	third_q_music_already_bind_another	Акаунт QQ Music уже прив’язано. Відв’яжіть його або використайте інший акаунт.
+string	third_quick_register_tips	Швидка реєстрація
+string	third_unbind_fail	Не відв’язано
+string	third_unbind_success	Відв’язано
+string	user_account_owner	Власн.
+string	user_accountinfo_fragment_title	Акаунт
+string	user_cancel	Закрити
+string	user_cannot_while_driving_plz_stop	Недоступно під час руху. Перемкніть на P.
+string	user_change_third_qr_bind	Прив’язати %1s
+string	user_has_login	Вхід уже виконано
+string	user_login_login_qr_code_description	Скануйте в ZEEKR App
+string	user_login_title_tip_failure	Помилка входу. Повторіть.
+string	user_logining	Вхід...
+string	user_logout_success	Вихід виконано
+string	user_logout_token_401	Сеанс завершився. Увійдіть знову.
+string	user_provision_login_success	Вхід виконано
+string	user_provision_privilege_face	Точне розпізнавання обличчя
+string	user_provision_privilege_member	Преміум онлайн-сервіси
+string	user_provision_privilege_music	Якісна музика безкоштовно
+string	user_provision_privilege_upgrade	Довічні безкоштовні оновлення
+string	user_third_auth_deauth_dialog_negative_text	Скас.
+string	user_third_auth_fragment_title	Прив’язані акаунти
+string	user_third_bind_auth	Згода на прив’язку
+string	user_third_bind_bind_immediately	Прив’язати
+string	user_third_bind_sync_logout	Якщо вимкнено, акаунт %1s не виходитиме разом із ZEEKR
+string	user_third_bind_unbind_immediately	Відв’язати
+string	user_use_third_account_bind	Скануйте в %1s
+string	user_zeekr_app	ZEEKR App
+string	usercenter_scan_qr_login	Вхід за QR
+string	usercenter_use	Використ.
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж...
+string	zeekr_show_psw	Показ. пароль

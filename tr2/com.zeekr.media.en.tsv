@@ -1,0 +1,157 @@
+string	album_buy_vip	VIP album · Subscribe
+string	album_collect_album	Save album
+string	album_label_brand	Label
+string	album_label_format	Format
+string	album_label_time	Released
+string	album_unlock_album	Paid album · Buy to listen
+string	app_name	ZEEKR Music
+string	authorization_false	Deny
+string	authorization_title	Sign in with ZEEKR account
+string	authorization_true	Allow
+string	authorization_warning	Agree
+string	cancel	Cancel
+string	cancel_collect	Unsave
+string	cancel_dialog	Close
+string	cancel_select_all	Deselect all
+string	category_empty	No more categories
+string	category_tab_jazz	Jazz
+string	category_tab_opera	Opera
+string	category_tab_popular	Pop
+string	category_tab_relaxed	Chill
+string	category_tab_rock	Rock
+string	category_title	Categories
+string	code_name	Version
+string	collection_add_fail	Favorites full
+string	collection_add_success	Saved
+string	collection_delete_fail	Could not unsave
+string	collection_delete_success	Removed
+string	collection_empty	No favorites yet
+string	collection_hi_res_album	Hi-Res albums
+string	collection_single	Songs
+string	collection_station_album	Radio albums
+string	continues	Continue
+string	cp_name	Third-party data sharing list
+string	data_empty	No data
+string	delete	Delete
+string	delete_title	Delete selected items?
+string	dialog_delete_warning	This cannot be undone
+string	dialog_no_tip_again	Don’t show again
+string	dialog_replace_music_content	This list will replace the play queue. Continue?
+string	dialog_replace_music_title	Replace play queue
+string	edit_list	Edit list
+string	exit_app_warning	Exit ZEEKR Music?
+string	finish	Done
+string	go_login	Sign in
+string	goods_buy_now	Buy now
+string	hirtory_sing	Songs
+string	hirtory_sound	Audio
+string	history_empty	No play history
+string	homepage_brand	Brand radio
+string	homepage_hot	Top charts
+string	homepage_latest	New releases
+string	homepage_load_more	Refresh
+string	homepage_menu_audition	Previews
+string	homepage_menu_category	Categories
+string	homepage_menu_collection	Favorites
+string	homepage_menu_like	For you
+string	homepage_menu_limit_free	Free for limited time
+string	homepage_menu_vip_limit	VIP free
+string	homepage_more_category	More categories
+string	homepage_no_more	No more
+string	homepage_recommend_album	Recommended albums
+string	homepage_recommend_music	Recommended playlists
+string	homepage_refresh_fail	Load failed, try later
+string	homepage_refresh_success	Updated
+string	homepage_vip	VIP picks
+string	load_fail_retry	Load failed, try again later
+string	loading	Loading…
+string	login_close	Close
+string	login_control	Tap remote
+string	login_privacy_protocol	Privacy Policy
+string	login_qr_or	and
+string	login_qr_title	QR code valid for 90s
+string	login_qr_warning	By scanning you agree to
+string	login_title	Scan with the ZEEKR app to sign in
+string	login_user_protocol	User Agreement
+string	loginremind_title	Sign in by scanning with the ZEEKR app
+string	media_bt_app_name	Bluetooth music
+string	media_usb_app_name	USB music
+string	mine_cancel_exit	Stay
+string	mine_clear_cache	Clear cache
+string	mine_clear_cache_fail	Could not clear cache
+string	mine_clear_cache_no	Not now
+string	mine_clear_cache_yes	Clear now
+string	mine_collection	Favorites
+string	mine_confirm_exit	Sign out
+string	mine_history	Recently played
+string	mine_login_label	Sign in for more
+string	mine_login_now	Sign in now
+string	mine_logout_tip	Sign out of this account?
+string	mine_my	Me
+string	mine_not_login	Not signed in
+string	mine_privacy_protocol	Privacy Policy
+string	mine_set_up	Settings
+string	mine_station	ZEEKR Radio
+string	mine_sure_clear_cache	Clear %s of cache?
+string	mine_user_protocol	User Agreement
+string	mine_vip	Membership
+string	mine_vip_disable	Not subscribed
+string	mine_vip_fail	Error, try again
+string	mine_vip_get_again	Retry
+string	mine_vip_get_now	Subscribe
+string	mine_vip_loading	Loading…
+string	mine_vip_not_login	Not signed in
+string	network_disconnect	No network
+string	network_error	Network problem, check your connection
+string	nothing	None
+string	order_create_fail	Order failed
+string	pay	Paid
+string	pay_cancel	Payment cancelled
+string	pay_select_title	Choose payment method
+string	pay_title_vip_word	Membership
+string	pay_toggle_way	Change payment method
+string	pay_type_sony	Buy Sony
+string	pay_type_xmly	Buy Ximalaya
+string	pay_vip_agreement	Membership Agreement
+string	pay_way_alipay	Alipay
+string	pay_way_alipay_wechat	Pay with Alipay / WeChat
+string	pay_way_wechat	WeChat Pay
+string	personal_name	Personal data collection list
+string	play_all	Play all
+string	player_Album_label	Album:
+string	player_artist_label	Artist:
+string	player_play_last	Left key: previous
+string	player_play_next	Right key: next
+string	privacy_name	Privacy Policy
+string	privacy_outline_name	Privacy summary
+string	protocol_agree	Agree and continue
+string	protocol_cancel	Cancel and exit
+string	protocol_load_fail	Load failed, try again
+string	protocol_ok	Got it
+string	protocol_title	Welcome to ZEEKR Music
+string	recent_album_program	Album episodes
+string	recent_program	Episodes
+string	refresh	Refresh
+string	reload	Reload
+string	reloadMore	Load more
+string	search_delete	Clear search history?
+string	search_history_title	Search history
+string	search_key_empty	No results for this keyword, try another
+string	search_keyword	Search
+string	search_name	Search
+string	search_no_result	No results for this keyword, try another
+string	search_recommend_title	Suggestions
+string	search_result_title	Results
+string	search_top10_title	Top 10 searches
+string	searching	Searching
+string	select_all	Select all
+string	setup_name	Settings
+string	sony_vip_name	Sony Select
+string	sure	OK
+string	update_protocol_privacy	Privacy Policy updated
+string	update_protocol_privacys	Privacy Policy updated. Please read and tap Agree and continue
+string	update_protocol_user	User Agreement updated
+string	update_protocol_users	User Agreement updated. Please read and tap “Agree and continue”
+string	user_name	User Agreement
+string	version_name	Version info
+string	xmly_vip_name	Ximalaya VIP

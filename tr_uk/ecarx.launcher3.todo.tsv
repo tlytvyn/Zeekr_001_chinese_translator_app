@@ -1,0 +1,280 @@
+array	aqi_levels	4	Excellent ‖ Good ‖ Moderate ‖ Poor ‖ Unhealthy ‖ Very unhealthy ‖ Hazardous	优 ‖ 良 ‖ 轻度 ‖ 中度 ‖ 重度 ‖ 严重 ‖ 爆表
+array	black_list_dc1e	29	com.android.settings ‖ com.yfvet.engineeringmode ‖ com.geely.pma.settings ‖ com.geely.pma.settings.seat ‖ com.geely.pma.climate ‖ com.zeekr.speech.adapter ‖ com.ecarx.xiaokagui ‖ ecarx.xsf.widget ‖ ecarx.xsf.inputservice ‖ com.ecarx.xiaoka.carcontrol ‖ com.ecarx.xcgoncall ‖ com.ecarx.ai.val ‖ ecarx.launcher3 ‖ com.zeekr.carlauncher3d ‖ com.zeekr.automap	
+array	black_list_other	29	com.android.settings ‖ com.yfvet.engineeringmode ‖ com.geely.pma.settings ‖ com.geely.pma.settings.seat ‖ com.geely.pma.climate ‖ com.zeekr.speech.adapter ‖ com.ecarx.xiaokagui ‖ ecarx.xsf.widget ‖ ecarx.xsf.inputservice ‖ com.ecarx.xiaoka.carcontrol ‖ com.ecarx.xcgoncall ‖ com.ecarx.ai.val ‖ ecarx.launcher3 ‖ com.zeekr.carlauncher3d ‖ com.zeekr.automap ‖ ecarx.membercenter	
+array	default_apps_cm2e	123	com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.thunder.carplay/com.thunder.carplay.home.ui.activity.HomeFragmentActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity	
+array	default_apps_cs1e	73	com.zeekrc.lightshow/com.zeekrc.unity.ui.MainActivity ‖ com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity	
+array	default_apps_cx1e	73	com.zeekrc.lightshow/com.zeekrc.unity.ui.MainActivity ‖ com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity	
+array	default_apps_dc1e	70	com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ com.arcvideo.car.video/com.arcvideo.car.video.SplashActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ ecarx.gallery/zeekr.gallery.ui.HomeActivity	
+array	default_apps_dc1e_a2	103	com.geely.pma.dc1e.trackmode/com.geely.pma.dc1e.trackmode.ui.SplashActivity ‖ com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity	
+array	default_apps_ef1e	123	com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.arcvideo.car.video/com.arcvideo.car.video.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity	
+array	nzp_string_array	25	ZEEKR Pilot discontinued ‖ NZP coming soon... ‖ NZP activated ‖ NZP active ‖ LCC active ‖ Accelerating ‖ Changing lanes ‖ Lane change cancelled ‖ Lane change completed ‖ Right lane change failed ‖ Left lane change failed ‖ Leaving NZP section ‖ Take action now ‖ Safe stop ‖ Please take over ‖ Take over control immediately ‖ Keep hands on wheel ‖ Watch the road ahead ‖ Use the steering wheel to change lanes	ZEEKR Pilot 已退出 ‖ NZP 即将开启... ‖ NZP已激活 ‖ NZP 运行中 ‖ LCC 运行中 ‖ 加速中 ‖ 变道进行中 ‖ 本次变道已取消 ‖ 变道已完成 ‖ 右侧变道失败 ‖ 左侧变道失败 ‖ 即将驶出 NZP 路段 ‖ 请立即接管 ‖ 安全停车中 ‖ 请接管车辆 ‖ 请立即接管车辆 ‖ 请手握方向盘 ‖ 请注视前方道路 ‖ 请操作转向拨杆以变道
+array	uvi_levels	6	Low ‖ Mod. ‖ High ‖ V. high ‖ Extreme	最弱 ‖ 弱 ‖ 中等 ‖ 强 ‖ 很强
+string	access_desc	33	launcher access service	
+string	accessibility_describe	33	launcher access service	
+string	action_settings	12	Settings	
+string	adapter_api_debug_open_tip	80	Middleware debug mode	Режим отладки промежуточного программного обеспечения
+string	adjust_rear_mirror	14	Mirrors	后视镜调节
+string	aiqilisten	21	Wecarflow	Люблю слушать
+string	all_apps	22	All apps	Все приложения
+string	apa	16	Auto parking	自动泊车辅助
+string	app_is_installing	26	App installing, please wait	正在安装应用，请稍后
+string	app_name	7	app_list	dock
+string	app_title	18	Car Launcher	
+string	apps_all_title	11	Apps	更多应用
+string	apps_card_title	11	Quick access	常用应用
+string	apps_edit_at_most	47	Up to 4 apps can be shown. Remove one first and try again.	最多只能添加4个应用，请先删减后再添加
+string	apps_edit_cancel	6	Cancel	取消
+string	apps_edit_finish	6	Done	完成
+string	apps_edit_group_recent_label	11	Recent	最近使用
+string	apps_edit_tips	89	Drag apps to the card on the left. You can replace and reorder apps while dragging.	长按可拖动应用图标到常用应用卡片内，拖动时可替换和排序现有应用图标的位置
+string	aqt_app_name_1	23	Tencent Wecarflow	Tencent икутинг
+string	aqt_app_name_2	21	Wecarflow	Люблю слушать
+string	args_full_url	12	full_url	
+string	atmosphere_light	9	Ambient light	氛围灯
+string	auto_hold	11	Auto Hold	自动驻车
+string	back_row_cinema	16	Rear cinema	后排影院模式
+string	back_row_meeting	16	Rear meeting	后排会议模式
+string	back_row_rest	16	Rear rest	后排休憩模式
+string	banner_adapter_null_error	68	Adapter is empty! Check parameters	Адаптер пуст! Пожалуйста, проверьте параметры
+string	bilibili_app_name	13	Bilibili	Билибили
+string	bluetooth_no_artist	13	Not yet	Пока нет
+string	bluetooth_no_connect	47	Bluetooth Music - Not connected	Музыка Bluetooth – не подключено
+string	bluetooth_no_play	22	No songs yet	Пока нет песен
+string	bluetoothmusic	24	Bluetooth Music	Bluetooth музыка
+string	brvah_load_complete	47	Click to load more	Нажмите, чтобы загрузить больше
+string	brvah_load_end	26	No more data	больше нет данных
+string	brvah_load_failed	97	load more failed	Не удалось загрузиться. Нажмите на меня, чтобы повторить попытку.
+string	brvah_loading	17	Loading...	Загрузка...
+string	bt_app_name	24	Bluetooth Music	Bluetooth музыка
+string	business_voice_disabled	16	Business voice off	商务语音禁用
+string	cancel	6	Cancel	取消
+string	card_energy_chart_desc	69	Energy consumption change in the last trip	Тенденция энергопотребления за последнее время
+string	card_energy_title	30	Energy use	Потребление энергии
+string	card_full_title	15	Vehicle condition	Состояние
+string	card_kwh_unit	16	kWh/100km	кВч/100 км
+string	card_trip_1	15	Trip 1	Поездки 1
+string	card_trip_2	15	Trip 2	Поездки 2
+string	card_trip_title	12	Trip	Поездки
+string	card_tyre_title	25	Tire pressure	Давление в шинах
+string	central_lock	9	Central lock	中控锁
+string	charge_charge_error_big_tips	28	Charging fault, please fix it soon!	充电故障，请及时排查！
+string	charge_charging_done_tips	28	Charging stopped. Remember to unplug the cable.	充电已停止，请记得拔枪
+string	charge_charging_full	11	Full charge first	优先充满
+string	charge_charging_limit	11	Charge to limit	充至限值
+string	charge_daily	6	Daily	每天
+string	charge_dis_stop	11	Stop	停止供电
+string	charge_estimate	383	<span color=#99B4B9BE font-size=22px>Time left</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>h</span > <span color=#B4B9BE font-size=48px style=Bold>%2$s</span > <span color=#B4B9BE font-size=24px>min</span >	<span color=#99B4B9BE font-size=22px>Оставшееся время</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>h</span > <span color=#B4B9BE font-size=48px style=Bold>%2$s</span > <span color=#B4B9BE font-size=24px>min</span >
+string	charge_fully	11	Charge fully	即将充满
+string	charge_next_day	6	Next day	次日
+string	charge_no_plug	9	Not plugged in	未插枪
+string	charge_plug_connect_ac	19	Charger plugged in (AC)	已插枪（交流）
+string	charge_plug_connect_dc	19	Charger plugged in (DC)	已插枪（直流）
+string	charge_plug_connect_fault	11	Connection fault	连接故障
+string	charge_plug_connect_fault_tips	28	Connection fault, please check soon!	连接故障，请及时排查！
+string	charge_plug_connect_tips	25	Charger connected, please wait	已插枪，请耐心等待…
+string	charge_plug_no_double	33	Do not connect AC and DC at the same time	请勿同时插入交流枪和直流枪
+string	charge_plug_no_double_tips	28	Charger connection abnormal, please check soon!	插枪异常，请及时排查！
+string	charge_power_supply_capacity	242	<span color=#99B4B9BE font-size=22px>Power supplied</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >	<span color=#99B4B9BE font-size=22px>Источник питания</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >
+string	charge_power_supply_capacity_all	256	<span color=#99B4B9BE font-size=22px>Total supplied</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >	<span color=#99B4B9BE font-size=22px>Статистика электропитания</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >
+string	charge_pre_time	273	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=16px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span >	" <span color=#99B4B9BE font-size=22px>Резервирование для зарядки</span > <br></br> <span color=#B4B9BE font-size=16px>Каждый день</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span >"
+string	charge_pre_time_full	386	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=18px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>full charge first</span >	" <span color=#99B4B9BE font-size=22px>Запланированная зарядка</span > <br></br> <span color=#B4B9BE font-size=18px>Ежедневно</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>с приоритетом на полную зарядку</span >"
+string	charge_pre_time_limit	371	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=18px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>to set limit</span >	" <span color=#99B4B9BE font-size=22px>Запланированная зарядка</span > <br></br> <span color=#B4B9BE font-size=18px>Каждый день</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>до заданного лимита</span >"
+string	charge_pre_time_next	415	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=16px>??</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=16px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%2$s</span >	" <span color=#99B4B9BE font-size=22px>Резервирование для зарядки</span > <br></br> <span color=#B4B9BE font-size=16px>??</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=16px>Каждый день</span > <span color=#B4B9BE font-size=32px style=Bold>%2$s</span >"
+string	charge_pre_time_title	11	Charging schedule	预约充电
+string	charge_start	11	Start charging	开始充电
+string	charge_status_battery_fault	16	Battery fault	动力电池故障
+string	charge_status_booking	10	Scheduled…	预约中…
+string	charge_status_charging	10	Charging…	充电中…
+string	charge_status_charging_done	11	Charging stopped	充电停止
+string	charge_status_charging_fault	11	Charging fault	充电故障
+string	charge_status_discharging	15	Supplying power…	对外供电中…
+string	charge_status_discharging_done	11	Power supply ended	供电结束
+string	charge_status_discharging_fault	11	Power supply fault	供电故障
+string	charge_status_preheating	20	Conditioning battery...	电池温度调节中…
+string	charge_status_super_fast_charging	10	Fast charging…	极充中…
+string	charge_stop	11	Stop	停止充电
+string	charge_temperature_tips	30	Conditioning temperature, please wait...	温度调节中，请耐心等待…
+string	charging_cap	11	Rear charge port	充电口盖
+string	child_lock_left	11	Left child lock	左儿童锁
+string	child_lock_right	11	Right child lock	右儿童锁
+string	climate_light	11	Side lights	全气候灯
+string	close_card	11	Close card	关闭卡片
+string	close_window	11	Close windows	一键关窗
+string	config_recentsComponentName	81	com.android.launcher3/com.android.quickstep.RecentsActivity	
+string	confirm_remove	16	Remove %s?	确认移除%s吗
+string	confirm_uninstall	16	Uninstall %s?	确认卸载%s吗
+string	connect_bluetooth_first	75	Please connect the Bluetooth device first	Пожалуйста, сначала подключите устройство Bluetooth
+string	connect_usb	53	Please insert the USB device	Пожалуйста, вставьте USB-устройство
+string	connect_usb_first	67	Please connect the USB device first	Пожалуйста, сначала подключите USB-устройство
+string	copilot_massage	11	Passenger massage	副驾按摩
+string	copilot_rest	16	Passenger rest	副驾一键休憩
+string	customize_scenario_add_tips	107	Up to 4 scenes. Remove one first, then add.	Можно добавить максимум 4 сцены. Сначала удалите их, а затем добавляйте.
+string	customize_scenario_to_add	31	Add	Перейти к добавлению
+string	customize_scenario_to_create	12	Create	создать
+string	customize_scenario_to_login	110	Please sign in to your account first	Пожалуйста, <font color=#F88650>сначала войдите в свою учетную запись</font>
+string	day_friday	9	Friday	星期五
+string	day_monday	9	Monday	星期一
+string	day_saturday	9	Saturday	星期六
+string	day_sunday	9	Sunday	星期日
+string	day_thursday	9	Thursday	星期四
+string	day_tuesday	9	Tuesday	星期二
+string	day_wednesday	9	Wednesday	星期三
+string	dln_empty_text	48	Mobile phone screen mirroring...	Скриншот на мобильный телефон...
+string	done	6	Done	完成
+string	download_paused	9	Paused	已暂停
+string	download_pending	13	Preparing download…	准备下载…
+string	download_progress	13	Downloading…	正在下载…
+string	drag_tip	67	Drag functions to the card on the left. You can replace and reorder them while dragging.	长按可拖动功能到左侧控制栏，拖动时可替换和排序现有功能
+string	driver_massage	11	Driver massage	主驾按摩
+string	driver_rest	16	Driver rest	主驾一键休憩
+string	edit_at_most	47	Up to 4 functions. Remove one first, then add.	最多只能添加5个功能，请先删减后再添加
+string	error_a11y_label	20	Error: invalid	
+string	favoriteslist	27	Favorites list	Список избранного
+string	first_fragment_label	20	First Fragment	
+string	fm_app_name	9	Radio	Радио
+string	fold_rear_mirror	14	Fold mirrors	折叠后视镜
+string	front_charging_cap	14	Front charge port	前充电口盖
+string	gallery_empty_text	104	"For more gallery resources\nplease go to the app to check"	Больше ресурсов галереи Пожалуйста, зайдите в приложение для просмотра
+string	glove_box	9	Glove box	手套箱
+string	hello_blank_fragment	29	Hello blank fragment	
+string	hello_first_fragment	29	Hello first fragment	
+string	hello_second_fragment	45	Hello second fragment. Arg: %1$s	
+string	hicar_app_name	18	HUAWEI HiCar	HUAWEI HiCar
+string	hud	10	HUD settings	HUD调节
+string	indicator_color_error	108	Indicator color must be “@color/colorID or #000000”	Цвет индикатора может быть установлен только на “@color/colorID or #000000”
+string	install_progress	13	Installing…	正在安装…
+string	launch_control	11	Launch control	弹射起步
+string	left_opposite_door	14	Left door	左侧对开门
+string	left_switch_disabled	16	Left switch disabled	左侧开关禁用
+string	left_window_lock	11	Left window lock	左车窗锁
+string	low_speed_alert	19	Pedestrian sound	低速行驶警示音
+string	mask_card_energy_title	31	·Energy consumption	·Потребление энергии
+string	mask_card_trip_title	13	·Trip	·Поездки
+string	mask_card_tyre_title	26	·Tyre pressure	·Давление в шинах
+string	media_app_name	19	J-share	Наслаждаться
+string	media_bilibili_title	35	"Let's watch the drama together"	Давайте вместе смотреть
+string	media_data_exception	24	Load failed	Ошибка загрузки
+string	media_data_retry	21	Reload	Перезагрузить
+string	media_dln_open	24	Go to screen mirroring	Перейти к касту
+string	media_dln_play_stoped	40	Mobile phone screen mirror	Проекция мобильного экрана
+string	media_dln_playing	52	Mobile phone screen mirroring…	Скринкастинг на мобильном телефоне
+string	media_gallery_subtitle	26	Go to the gallery	Перейти в галерею
+string	media_gallery_title	25	Gallery browsing	Просмотр галереи
+string	media_leishi_title	43	"Let's sing together"	Давайте споем караоке вместе
+string	media_list_data_empty	24	No list yet	Списка пока нет
+string	media_list_empty_recommend	32	No recommendation	Пока нет рекомендаций
+string	media_loading	17	Loading...	загрузка...
+string	media_no_lrc_label	25	No lyrics yet	Нет текста песни
+string	media_open_app	31	Enter the application	Войдите в приложение
+string	media_recommend_playlist	13	Hot song list	Плейлист
+string	media_recommend_radio	43	Recommend radio station	Рекомендованные радиостанции
+string	media_resume_ktv	31	Resume karaoke	Восстановить караоке
+string	media_resume_play	41	Resume playback	Возобновить воспроизведение
+string	media_switch_when_hfpcall	98	Try again after the Bluetooth call	Пожалуйста, попробуйте снова позже, во время звонка через Bluetooth
+string	media_title_init	22	"Let's play some music"	Слушаем музыку
+string	media_to_iqiyi_video	24	Go to iQiyi	Перейти на iQiyi
+string	media_to_leishi_ktv	32	Go to Leishi KTV	Перейти на Лей Ши КТВ
+string	media_to_migu_video	32	Go to Migu Video	Перейти на Мигу Видео
+string	media_video_none_title	12	Watch	Смотрим
+string	media_video_playing	41	Video media playing	Воспроизведение медиа-видео
+string	music_no_lyric_keyword1	16	No lyrics	Без текста
+string	music_no_lyric_keyword2	36	Pure music	Инструментальная музыка
+string	music_no_lyric_keyword3	59	Lyrics not supported yet	Временно не поддерживаются тексты песен
+string	netease_app_name	34	NetEase Cloud Music	Облачная музыка NetEase
+string	netease_version_low_empty_list	123	"No list yet\nPlease go to App store to upgrade"	Пока нет списка Пожалуйста, перейдите в Центр приложений, чтобы обновить приложение
+string	netease_version_low_empty_lyric	123	"No lyrics yet\nPlease go to the App store to upgrade"	Стихов пока нет Пожалуйста, перейдите в Центр приложений, чтобы обновить приложение
+string	netease_version_low_empty_recommend	132	"No recommendation yet\nPlease go to the App store to upgrade"	Рекомендаций пока нет Пожалуйста, перейдите в Центр приложений, чтобы обновить приложение
+string	neteasecloud	34	NetEase Cloud Music	Облачная музыка NetEase
+string	next	9	Next	Далее
+string	no_connect_bluetooth	85	Bluetooth device not connected	Ни одно устройство Bluetooth в данный момент не подключено
+string	no_connecting	25	Not connected yet	Еще не подключен
+string	no_data_to_add	56	No scenes to add yet	Сцена для добавления пока отсутствует
+string	no_recent_apps	16	No recent apps	暂无最近使用
+string	one_click_breath	11	Vent windows	一键透气
+string	one_click_close_door	11	Close doors	一键关门
+string	one_click_drift	11	Drift mode	一键漂移
+string	onlineradio_app_name	10	Yunting	Юнтинг
+string	open_car3d	11	Show car model	打开车模
+string	open_card	11	Open card	打开卡片
+string	open_window	11	Open windows	一键开窗
+string	parking_comfort	11	Park comfort	驻车舒享
+string	phone_charge	11	Wireless charging	无线充电
+string	pip_phone_dismiss_hint	29	Drag down to dismiss	
+string	pip_phone_minimize	12	Minimize	
+string	position_light	9	Position lights	位置灯
+string	previous	12	Previous	
+string	prompt_drift_disable_tips	38	Drift is unavailable while Launch control is on	弹射起步开启，漂移功能暂不可用
+string	prompt_drift_error_tips	202	Make sure these conditions are met and try again \n 1. SOC >20% \n 2. In D \n 3. Driver and all passengers buckled \n 4. Powertrain, ESC, steering, tire pressure and thermal systems normal \n 5. Sport mode active \n	"请确认以下条件满足，再重试\n 1、电量 > 20%\n 2、车辆在D档\n 3、司乘人员都已上安全带\n 4、驱动系统、ESC系统、转向系统、胎压系统、热管理系统正常\n 5、运动模式切换成功\n"
+string	prompt_drift_error_title	21	Cannot turn on drift mode	一键漂移无法开启
+string	prompt_drift_i_know	11	Got it	我知道了
+string	prompt_drift_tips	1061	Notes:\n1. Use only on a race track or certified closed course, never on public roads.\n2. Use original drift accessories. Damage from misuse is not covered by warranty.\n3. Requires professional skills and at least 3 years of driving experience. The driver is responsible for any damage.\n\nConditions:\n1. Sport mode, speed <7 km/h, driver and passenger buckled. Unbuckling while driving turns drift mode off.\n2. Battery above 20% SOC, otherwise it turns off.\n3. All vehicle systems must work normally, otherwise it turns off.\nWhen drift mode is on:\n1. E-pedal and Autohold are off;\n2. Sport mode is selected;\n3. ESC is off;\n4. Regeneration is low;\n5. Launch control (if on) turns off.\n\nI have read, understood and agree to the above	"使用要求：\n 1、此功能必须在符合国家安全标准的赛车场或专业场地内应用，不得在公共道路和不符合安全标准场所使用。\n 2、使用一键漂移时，为确保安全建议使用原厂配套的漂移套装配件。一键漂移的不当操作和过度操作造成的部件损坏均不在质保范围内。\n 3、一键漂移需要比较专业的驾驶技能，所以要求有至少3年驾龄以上的驾驶员操作。错误操作和私自改装车辆，在行驶中造成的损失有驾驶人自己承担。\n \n 使用说明：\n 1、此功能须进入“运动”驾驶模式，且车速<7km/h，确认司乘人员安全带系上才能激活。安全带全程不得拔出，在中途停车拔出任一安全带，会自动退出漂移模式。\n 2、此功能必须在电量>20%SOC才能激活，当SOC<20%的时候会自动退出；\n 3、此功能必须在整车系统全部正常下才能激活，如有异常自动退出；\n \n 一键漂移功能开启后：\n 1、E-pedal，Autohold功能默认关闭；\n 2、自动切换到“运动”模式；\n 3、关闭ESC功能；\n 4、能量回收等级低；\n 5、自动关闭“弹射起步”功能（若该功能已开启）。\n \n 以上信息是否完全理解并同意？"
+string	prompt_drift_title	21	One-touch drift instructions	一键漂移用户须知
+string	prompt_launch_control_accept	14	Agree	同意并进入
+string	prompt_launch_control_content	932	Warning: the driver is responsible for controlling the vehicle at all times. Use only in confirmed safe conditions. Repeated use may reduce braking performance. Use with care.\n \nRequirements: \n1. Vehicle stopped, doors closed, driver and passenger buckled.\n2. Powertrain temperature normal and battery sufficient.\n3. Driver assist off, steering straight, parking brake released, in D.\n \nHow to use: \n1. Turn on Launch control.\n2. Press the brake fully, then the accelerator fully. When the display shows launch ready, release the brake within 4 seconds to accelerate. (If launch fails, check the main screen and vehicle status)\n \nDo you understand and agree to the above? 	"警告：弹射起步过程中，驾驶员有责任全程保持对车辆的控制，并确保车辆行驶和使用环境，请务必在确认安全的条件下操作。长时间连续弹射可能会造成整车驱动和制动系统性能下降，希望您能谨慎使用该功能。 \n \n使用要求： \n1、弹射起步功能需要在停车状态，确认车门关闭、司乘人员安全带正常系上 \n2、保证车辆动力系统温度正常，电量充足 \n3、关闭智能驾驶相关功能，摆正方向盘，释放电子手刹，车辆调整为D档 \n \n使用说明： \n1、 打开“弹射起步”按键 \n2、 先满踩下刹车，后满踩油门，待仪表提醒“弹射起步已激活”，4秒内将制动踏板完全释放，整车会以极大的加速度弹射起步。（若提示“弹射起步激活失败”，请查看大屏提示和检查车辆状态）\n3、为保证最佳体验，功能开启后，驾驶模式将自动切换为“运动模式”。功能关闭后，会保留在运动模式。\n4、自动关闭“一键漂移”功能（若该功能已开启）。 \n \n以上信息是否完全理解并同意？"
+string	prompt_launch_control_disable_tips	38	Launch control is unavailable while drift mode is on	漂移功能开启，弹射起步暂不可用
+string	prompt_launch_control_race_content	995	Warning: the driver is responsible for controlling the vehicle and for safe conditions. Use only in safe conditions. Repeated long use may reduce drive and brake performance; use with care.\n\nRequirements:\n1. Vehicle stopped, doors closed, driver and passenger buckled.\n2. Powertrain temperature normal and battery sufficient.\n3. Driver assist off, steering straight, parking brake released, in D.\n\nHow to use:\n1. Turn on Launch control.\n2. Press the brake fully, then the accelerator. When the display shows “Launch ready”, release the brake within 4 seconds for maximum acceleration. (If “Launch failed” appears, check the main screen and vehicle status.)\n3. Drive mode switches to Sport and stays Sport after the feature turns off.\n4. One-touch drift turns off (if on).\n5. In Track mode, item 3 does not change the drive mode.\n\nDo you understand and agree to the above?	"警告：弹射起步过程中，驾驶员有责任全程保持对车辆的控制，并确保车辆行驶和使用环境，请务必在确认安全的条件下操作。长时间连续弹射可能会造成整车驱动和制动系统性能下降，希望您能谨慎使用该功能。 \n \n使用要求： \n1、弹射起步功能需要在停车状态，确认车门关闭、司乘人员安全带正常系上 \n2、保证车辆动力系统温度正常，电量充足 \n3、关闭智能驾驶相关功能，摆正方向盘，释放电子手刹，车辆调整为D档 \n \n使用说明： \n1、 打开“弹射起步”按键 \n2、 先满踩下刹车，后满踩油门，待仪表提醒“弹射起步已激活”，4秒内将制动踏板完全释放，整车会以极大的加速度弹射起步。（若提示“弹射起步激活失败”，请查看大屏提示和检查车辆状态）\n3、为保证最佳体验，功能开启后，驾驶模式将自动切换为“运动模式”。功能关闭后，会保留在运动模式。\n4、自动关闭“一键漂移”功能（若该功能已开启）。\n5、如当前在赛道模式，则上述3将不自动切换驾驶模式。 \n \n以上信息是否完全理解并同意？"
+string	prompt_launch_control_title	21	Launch control notice	弹射起步用户须知
+string	prompt_saving_mode_tips	55	Unavailable in Super Eco mode. Turn it off and try again	超级省电模式开启中该功能不可用，请关闭后尝试
+string	qq_app_name	14	QQ music	QQ Музыка
+string	racing_mode	11	Sport mode	竞速模式
+string	radio	9	Radio	Радио
+string	rear_charging_cap	14	Rear charge port	后充电口盖
+string	rear_fog_lamps	9	Rear fog lights	后雾灯
+string	recent_apps	11	Recent	最近使用
+string	remove	6	Remove	移除
+string	remove_mini_app	14	Remove mini app	移除小程序
+string	reset_internet	11	Reset network	网络重启
+string	right_opposite_door	14	Right door	右侧对开门
+string	right_switch_disabled	16	Right switch disabled	右侧开关禁用
+string	right_window_lock	11	Right window lock	右车窗锁
+string	scarp_cruised	11	Hill descent	陡坡缓降
+string	scenario_customize_auto_title	31	Auto scene	Автоматическая сцена
+string	scenario_customize_card_title	31	Scene workshop	Мастерская сценариев
+string	scenario_customize_edit_cancel	10	Cancel	Отмена
+string	scenario_customize_edit_finish	15	Done	Завершить
+string	scenario_customize_edit_group_custom_label	15	Custom	Настройка
+string	scenario_customize_edit_tips	211	Press and hold to drag to the card on the left. You can replace and reorder while dragging	Нажмите и удерживайте, чтобы переместить приложение в картоку слева. При перемещении вы можете заменить и отсортировать существующие приложения
+string	scenario_customize_manual_title	24	Manual scene	Ручной сценарий
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	second_fragment_label	22	Second Fragment	
+string	stream_media	9	Rear camera view	流媒体
+string	switch_car3d	16	Switch to 3D car	切换到3D车模
+string	through_lamp	9	Light bar	贯穿灯
+string	tire_pressure_pressure_unit_bar	6	bar	
+string	tire_pressure_pressure_unit_kpa	6	kPa	
+string	tire_pressure_pressure_unit_psi	6	psi	
+string	to_aiqilisten	27	Go to Wecarflow	Перейти на iQuTing
+string	to_bilibili	29	Go to Bililbili	Перейти в Билилбили
+string	to_connect_bluetooth	32	Go to Connect	Перейти к подключению
+string	to_media_name	12	Go to	Перейти
+string	to_netease	36	Go to NetEase Cloud Music	Перейти в облако NetEase
+string	to_qq_music	29	Go to QQ Music	Перейти в QQ Музыку
+string	trips_avg_energy	38	Average energy consumption	среднее энергопотребление
+string	trips_distance	33	Distance	Пройденное расстояние
+string	trips_elapsed_time	19	Travel time	Время в пути
+string	trunk	9	Trunk	后备箱
+string	udisk_connected	30	USB Music - My USB	USB Музыка — Мой USB
+string	udisk_no_connect	39	USB Music - Not connected	USB-музыка — не подключено
+string	uninstall	6	Uninstall	卸载
+string	uninstall_application	11	Uninstall app	卸载应用
+string	uninstall_failure	11	Uninstall failed	卸载失败
+string	usb_app_name_1	16	USB Music	USB-музыка
+string	usb_app_name_2	6	USB	
+string	usbmusic	16	USB Music	USB-музыка
+string	video_empty_text	125	"For more video resources\nplease go to the app to check"	Больше ресурсов по кино и телевидению Пожалуйста, зайдите в приложение для просмотра
+string	weather_altitude	9	Altitude:	海拔：
+string	weather_aqs	14	Air:	空气质量：
+string	weather_failed	28	No weather data yet.	加载失败，暂无天气数据
+string	weather_loading	10	Loading…	加载中…
+string	weather_net_unavailable	26	No network, try again later.	网络不佳，请稍后重试
+string	weather_refresh	6	Refresh	刷新
+string	widget_drive_score_kwh	6	kWh	кВч
+string	widget_drive_score_min	6	min	мин
+string	xpopup_image_not_exist	22	Image not found	Image not exist
+string	xpopup_save	7	Save	save
+string	xpopup_saved_fail	24	Could not save image.	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to gallery	Saved to album
+string	zeekr_back	6	Back	返回
+string	zeekr_cancel	6	Cancel	取消
+string	zeekr_loading	11	Loading..	加载中..
+string	zeekr_show_psw	11	Show password	显示密码

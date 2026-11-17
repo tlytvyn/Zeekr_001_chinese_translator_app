@@ -1,0 +1,31 @@
+array	ar_capture	6	missing	茄子	
+array	ar_finish	6	missing	停止	
+array	ar_other_again	10	missing	再来一张	
+array	ar_start	6	missing	开始	
+array	ar_to_gallery	10	missing	转至图库	
+string	dialog_text_body_format	15	en_too_long	确认格式化吗?	Do you want to format?
+string	duration_set_success	18	en_too_long	录像时长设置成功	Recording time set successfully
+string	emergency_set_success	22	en_too_long	紧急录像时长设置成功	Emergency recording time set successfully
+string	resolution_set_success	16	en_too_long	分辨率设置成功	Resolution set successfully
+string	setting_text_dvr_format_sdcard	14	en_too_long	储存卡格式化	Memory card formatting
+string	setting_text_video_resolution	8	en_too_long	分辨率	Recording resolution
+string	textID_camera_streaming_adjust_info	24	en_too_long	拖动调节流媒体显示尺寸	Drag to adjust streaming media size
+string	textID_camera_streaming_press_3s	9	en_too_long	长按3秒	Press and hold for 3s
+string	textID_camera_streaming_reminder	23	en_too_long	长按3秒调节流媒体尺寸	Press and hold for 3s to adjust streaming media size.
+string	textID_toast_gif_complete	30	en_too_long	GIF合成已完成，请到图库查看	GIF generated. Please view in the GIF gallery.
+string	text_call_offhook	22	en_too_long	通话中，请稍后再操作	The line is busy, please try again later
+string	text_camera_id_not_exist_dvr	27	en_too_long	切换摄像头失败,DVR不存在	Failed to switch camera. DVR does not exist.
+string	text_camera_id_not_exist_inner	34	en_too_long	切换摄像头失败,聊天摄像头不存在	Failed to switch camera. Chat camera does not exist.
+string	text_camera_id_not_exist_more	16	en_too_long	切换摄像头失败	Failed to switch camera, no more camera found
+string	text_emergency_video_recorder_failed	18	en_too_long	紧急视频录制失败	Emergency video recording failed
+string	text_emergency_video_recorder_finish	18	en_too_long	紧急视频录制完成	Emergency video recording completed
+string	text_emergency_video_recorder_start	18	en_too_long	开始录制紧急视频	Start recording emergency video
+string	text_gif_composite_error_exception_with_number	60	en_too_long	合成GIF出错了, 未知错误, 还有 %d 个GIF待合成	Error generating GIF. Unknown exception. There are still %d GIFs waiting to be generated.
+string	text_gif_composite_error_file_to_small_with_number	68	en_too_long	合成GIF出错了, 录制的文件太小, 还有 %d 个GIF待合成	Error generating GIF. The recorded file is too small. There are still %d GIFs waiting to be generated.
+string	text_gif_composite_error_time_to_short_with_number	68	en_too_long	合成GIF出错了, 录制的时间太短, 还有 %d 个GIF待合成	Error generating GIF. The recorded time is too short. There are still %d GIFs waiting to be generated.
+string	text_gif_composite_error_with_number	39	en_too_long	合成GIF出错了, 还有 %d 个GIF待合成	Error generating GIF. There are still %d GIFs waiting to be generated.
+string	text_memory_not_enough	26	en_too_long	存储空间不足，请清理内存	Insufficient storage space, please clean up memory
+string	text_permission_denied	10	en_too_long	权限不足	Permissions not enough
+string	user_agreement_content	564	en_too_long	"        根据现行法律法规，军事管理区、国防科工单位以及县级以上党政机关等区域可能构成国家秘密，同时车外人脸信息及车牌信息属于他人个人信息并受到法律保护。鉴于本功能可以进行车外视频图像的录制，请您在启用本功能以及向外部分享视频图像数据时，严格遵守法律法规要求，避免不当使用侵犯国家秘密及他人的合法权益。本功能所录制的视频图像数据均存储在车载设备内，极氪不会对该数据进行任何访问和使用。 \n        您是否已明确、清晰地知悉以上内容且同意开启本功能？"	"        According to current laws and regulations, military management zones, national defense science and engineering units, and county-level or above party and government agencies may constitute state secrets, while facial information and license plate information outside the vehicle belong to personal information of others and are protected by law. Considering that this feature can record external video images, please strictly comply with legal and regulatory requirements when enabling this feature and sharing video image data externally, to avoid improper use that infringes on national secrets and the legitimate rights and interests of others. The video image data recorded by this function is stored in the onboard device, and the extremely Krypton will not access or use this data in any way. \n        Have you clearly and clearly understood the above content and agreed to enable this feature?"
+string	user_agreement_title	14	en_too_long	功能使用说明	Function Instructions
+string	video_stop_hint	18	en_too_long	录像已停止并保存	Recording has been stopped and saved

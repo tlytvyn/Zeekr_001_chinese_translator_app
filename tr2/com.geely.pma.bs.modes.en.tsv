@@ -1,0 +1,238 @@
+string	activation	Activate
+string	all	All
+string	bs_rest_mode	Rest mode
+string	camp	Camping
+string	camp_exit_content	Exiting Camping mode restores all related functions
+string	camp_mode	Camping
+string	camp_mode_txt	Camping mode
+string	camp_open_content	When Camping mode is active, Park Comfort and central locking turn on, all windows and exterior lights close/turn off, and A/C fan speed is adjusted.\nNote: If battery is below 20%, Camping mode exits automatically.
+string	choose_other_position	Choose another seat
+string	cinema_mode_info	Requirements: in P, and vehicle charging or battery ≥20%
+string	cinema_mode_tips	Cinema mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects
+string	close_cinema_mode_content	%1$s is active. Exit Cinema mode or choose another seat to watch
+string	close_cinema_mode_tips	Exiting Cinema mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects
+string	close_window	Close windows
+string	common_btn_send_code	Send code
+string	common_camp_mode_ended_content	Camping mode exited
+string	common_camp_mode_started_content	Camping mode on. Keep an eye on the battery level
+string	common_cancel	Cancel
+string	common_close	Close
+string	common_confirm	OK
+string	common_get_vin_failed	Failed to get VIN
+string	common_network_send_request	Sending...
+string	common_rest_mode_cancelled	Rest mode exited
+string	common_rest_mode_started_content	%1$s Rest mode on
+string	common_send_new_code	Send code (%1$ss)
+string	common_server_connect_fail	Server connection failed
+string	common_unlock_by_verify_code	Turn off with code
+string	common_window_guest_box_disable	Turn off Guest mode
+string	common_window_guest_four_digits	4 digits
+string	common_window_guest_lock	Guest mode password
+string	common_window_guest_lock_info	Set a password to use when exiting, to protect your privacy and vehicle
+string	common_window_guest_pin_open	Enter password
+string	common_window_list_option_h_retry	Too many attempts
+string	common_window_list_option_i_guest_wrong_pswd	Wrong password, %1$s tries left
+string	common_window_list_option_i_guest_wrong_sms	Wrong code, %1$s tries left
+string	common_window_list_option_i_retry	Too many password attempts. Retry in %1$s min, or turn off with a phone verification code
+string	common_window_list_option_sms_h_retry	Too many code attempts, request a new one
+string	common_window_verify_code_has_send	Code sent
+string	common_window_verify_code_incorrect	Wrong code, please re-enter
+string	common_window_verify_title	Enter the 4-digit code sent to the owner's phone
+string	common_wrong_pin	Wrong code, please re-enter
+string	common_wrong_pin_max	Too many password attempts. Retry in 3 min\nor turn off with a phone verification code
+string	confined_space_close_ac_alert	Turning off A/C in a closed space is dangerous. Keep a window open or the A/C on
+string	copilot	Passenger
+string	copilot_seat	Passenger seat
+string	dialog_cinema_model_label	Cinema mode
+string	dialog_low_battery_content	Battery below %1$s%%, exiting Rest mode is advised
+string	dialog_low_battery_text	Battery below %1$s%%, %2$s mode will exit
+string	dialog_low_battery_title	Battery too low
+string	dialog_park_content	Park Comfort is on. Even when the car is locked from outside, the screen stays on and comfort functions stay active.\nNote: If battery is below 20%, Park Comfort exits automatically
+string	dialog_park_exit_pet_content	This will exit Pet mode. Continue?
+string	dialog_pet_model_label	Pet mode
+string	driver_rest	Driver rest
+string	driver_theater	Driver cinema
+string	enter_camp	Enter Camping mode
+string	enter_mode	%1$s mode on
+string	enter_mode_by_available	Can't activate, not supported
+string	enter_mode_by_battery	Can't activate, need battery >20%
+string	enter_mode_by_brake	Can't activate, release the brake and retry
+string	enter_mode_by_car_mode_ignition	Can't activate, contact service
+string	enter_mode_by_charge	Can't activate, stop charging and retry
+string	enter_mode_by_discharge	Can't activate, stop discharging and retry
+string	enter_mode_by_front_charge	Can't activate, close the front charge port lid and retry
+string	enter_mode_by_gear	Can't activate, shift to P and retry
+string	enter_mode_by_mode	Can't activate, exit %1$s mode and retry
+string	enter_mode_by_row_one_seat	Can't activate, rotate front seats back to 0° and retry
+string	enter_mode_by_row_two_seat	Can't activate, make sure the right rear seat is clear and retry
+string	enter_mode_by_speed	Can't activate, stop the vehicle and retry
+string	enter_mode_later	Can't activate, try again later
+string	enter_screen_mode_by_car_mode	Screen off unavailable, contact service
+string	enter_screen_mode_by_gear	Not in P, Screen off mode unavailable
+string	enter_screen_mode_by_ignition	Power mode not suitable, can't turn on now
+string	enter_wash_mode_by_battery	Can't activate, need battery >10%
+string	exit_directly	Exit now
+string	exit_i_know	Got it
+string	exit_mode	%1$s mode exited
+string	exit_mode_by_battery	Battery below 20%%, %1$s mode exited
+string	exit_mode_by_brake	Brake pressed, %1$s mode will exit
+string	exit_mode_by_carmode	Status error, %1$s mode will exit
+string	exit_mode_by_gear	Not in P, %1$s mode will exit
+string	exit_mode_by_ignition	Status error, %1$s mode will exit
+string	exit_mode_by_park	Park Comfort exited, %1$s mode exited
+string	exit_mode_by_seat	Seat recline too small, %1$s mode will exit
+string	exit_nap_mode_tips	Exiting Rest mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects
+string	exit_nap_mode_tips_8295	Exiting %1$s Rest mode will adjust the %1$s seat
+string	exit_now	Exit now
+string	game	Gaming
+string	guest	Guest
+string	guest_deactivate_guest_password_protection	Disable Guest mode password
+string	guest_intput_password_to_disable_guest_box_password_protection	Enter password to disable Guest mode password
+string	guest_please_intput_password_again_to_confirm	Re-enter password to confirm
+string	guest_second_time_password_error_please_re_intput	Passwords don't match, please re-enter
+string	guest_unlock_guest_box	Unlock Guest mode
+string	hold_on	Continue
+string	keep_activate	Keep on
+string	main_dialog_close_window_btn	Close windows
+string	main_dialog_close_window_cancel_btn	Got it
+string	main_dialog_close_window_tip	Some windows are open. Close all windows now to improve A/C efficiency?
+string	main_dialog_close_window_title	A/C
+string	main_driver	Driver
+string	main_driver_seat	Driver seat
+string	meeting	Meeting
+string	n_gear	Shift to N
+string	nap_mode_tips	Rest mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects
+string	no	No
+string	not_exit	Not now
+string	open_mode	%1$s %2$s mode activated
+string	park	Park Comfort
+string	park_comfort_exit	Park Comfort exited
+string	park_comfort_time	Park Comfort time
+string	park_comfort_time_subtitle	When on, the car stays powered after you exit or lock it
+string	park_comfort_time_subtitle2	Turns off when battery is below 20%
+string	pass_rest_speed_check_content	Using Rest mode while driving is risky. Continue anyway?
+string	pass_rest_speed_check_title	Notice
+string	passenger_rest	Passenger rest
+string	passenger_theater	Passenger cinema
+string	pet	Pet
+string	pet_enter_air	Ventilation
+string	pet_enter_air_sub	Fresh-air mode turns on so your pet can breathe easily
+string	pet_enter_exp	Fault protection
+string	pet_enter_exp_sub	On low battery or Pet mode exit, the owner is notified and windows open for ventilation
+string	pet_enter_subtitle	For animals only. Never leave children alone in the car
+string	pet_enter_temp	Keep temperature
+string	pet_enter_temp_sub	A/C keeps a steady temperature for your pet
+string	pet_enter_touch	Touch lock
+string	pet_enter_touch_sub	Doors, windows, screen and voice control disabled
+string	pet_exit_confirm_content	Exit Pet mode?
+string	pet_exit_confirm_title	Exit
+string	pet_exit_gear_tips	Vehicle not in P, Pet mode exited
+string	pet_exit_low_power_tips	Battery below 20%, Pet mode exited
+string	pet_i_know	Got it (%1$ds)
+string	pet_i_know_8	Got it (8s)
+string	pet_low_battery_tips	Battery too low for Pet mode. Charge above 25% first
+string	pet_low_power_warn_tips	Battery is low. Pet mode will exit below 20%
+string	pet_mode_ac	A/C turned on
+string	pet_mode_close_confirm	Turn off
+string	pet_mode_close_first	Close fullscreen
+string	pet_mode_min_unit	min
+string	pet_mode_pet	Pet protected
+string	pet_mode_plus_min_unit	+min
+string	pet_mode_tip	My family will be right back
+string	pet_mode_tip_content	A/C is on\nCurrent temp
+string	pet_mode_tip_label	Owner will be right back, don't worry
+string	pet_window_tips	Some windows are open. Close all windows for your pet's safety?
+string	pos_row_two	Rear
+string	pos_row_two_left	Rear left
+string	pos_row_two_right	Rear right
+string	privacy	Privacy
+string	rest	Rest
+string	rest_driver	Driver rest
+string	rest_driver_tips	Driver Rest mode will adjust the driver seat. Use with care
+string	rest_exit_by_gear_alert	Shifted out of P, Rest mode exited
+string	rest_guide_action_time	Exit now (%1$ds)
+string	rest_mode_saved	%1$s rest position updated and saved
+string	rest_passenger	Passenger rest
+string	rest_row2_left_pos	Rear left rest
+string	rest_row2_right_pos	Rear right rest
+string	rest_select_tips	Rest mode will adjust the %1$s. Use with care
+string	rest_tips	%1$s Rest mode will also adjust rear seats, cabin lighting and more. Continue?
+string	row_front	Front
+string	row_front_seat	Front seats
+string	row_two_left	Rear L
+string	row_two_right	Rear R
+string	screen_off	Screen off
+string	seat	Seat
+string	start	Start
+string	temp_not_close_window	Not now
+string	theater	Cinema
+string	theater_mode_saved	%1$s cinema position updated and saved
+string	theater_mode_switch_exit	Exit
+string	theater_mode_switch_tips	Cinema mode %1$s
+string	unknown	Unknown
+string	wash_8295_cs_guide_content	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close. These functions are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock. \n\nNote: Car Wash mode exits automatically above 15 km/h. \n\nAutomatic car wash: Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P.
+string	wash_8295_guide_content	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close. These functions are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock. \n\nNote: Car Wash mode exits automatically above 15 km/h. \n\nAutomatic car wash: Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P.
+string	wash_bottom_8155_tips	• Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves\n• For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P
+string	wash_bottom_tips	• Below 20% battery, Park Comfort exits. Stay in the car; leaving it exits Car Wash mode\n• For conveyor car washes, fold the mirrors, 　　　　, and stay in the car; leaving the car shifts to P
+string	wash_car	Car wash
+string	wash_car_open_door_tips	Remember to take your key!
+string	wash_car_open_park_comfort_tips	Park Comfort is on. The car stays powered so you can wash it easily
+string	wash_charge	Charge port
+string	wash_condition_ac	A/C mode
+string	wash_condition_approach	Walk-up unlock/lock
+string	wash_condition_charge	Charge port lid: %1$s
+string	wash_condition_door_switch	Exterior door switch: %1$s
+string	wash_condition_lock	Keyless entry
+string	wash_condition_ring	Obstacle alarm
+string	wash_condition_tail	Trunk switch: %1$s
+string	wash_condition_wiper	Auto wipers
+string	wash_door	Doors
+string	wash_door_not_closed	Doors not all closed
+string	wash_exit_8155_guide_content	Hold the key's unlock button 2s to exit Car Wash mode
+string	wash_exit_action	Exit now
+string	wash_exit_button	Exit Car Wash
+string	wash_exit_content	Exiting Car Wash mode turns off Park Comfort and restores all disabled functions
+string	wash_exit_guide_title	Exit from outside
+string	wash_exit_high_guide_content	Unlock with the key or phone key (Bluetooth connected) to exit Car Wash mode
+string	wash_exit_i_know	Got it
+string	wash_exit_low_guide_content	1. Unlock with the key or phone key (Bluetooth connected) to exit Car Wash mode\n2. When unlocked, hold the door handle lock switch for 6s to exit Car Wash mode
+string	wash_exit_title	Exit
+string	wash_fold_mirror	Fold mirrors
+string	wash_guide_action	Enter Car Wash
+string	wash_guide_action_time	Enter Car Wash (%1$ds)
+string	wash_high_config_guide_content	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close\nThese functions are disabled: charge port lid switch, trunk switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock\n\nNote: Car Wash mode exits automatically above 15 km/h.
+string	wash_hmi3_8155_guide_content	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, all windows, the trunk and charge port lid close and exterior lights turn off. These functions are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock.\n\nNote: Car Wash mode exits automatically above 15 km/h.\n\nAutomatic car wash: Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P.
+string	wash_hold_lock	Door handle lock switch
+string	wash_hood	Frunk
+string	wash_low_config_guide_content	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close\nThese functions are disabled: keyless entry, charge port lid switch, trunk switch, auto wipers, obstacle alarm, door handle lock switch, walk-up unlock/walk-away lock\n\nNote: Car Wash mode exits automatically above 15 km/h.
+string	wash_mirror_fold	Fold mirrors
+string	wash_mirror_open	Unfold mirrors
+string	wash_mode	Car Wash mode
+string	wash_mode_alert	Car Wash mode on
+string	wash_mode_already_exit	Car Wash mode exited
+string	wash_n_gear_content	In D, unbuckle the driver's seat belt, press the brake and push the gear lever up gently for 2s to shift to N
+string	wash_n_gear_title	Shift to N
+string	wash_part_door_not_closed	%1$s door open
+string	wash_part_window_not_closed	%1$s window open
+string	wash_safe_confirm_action	Switch now
+string	wash_safe_confirm_content	Switch to [%1$s] mode?
+string	wash_safe_confirm_title	Notice
+string	wash_screen_clean_mode	Screen cleaning
+string	wash_speed_alert	Car Wash mode unavailable, slow below 15 km/h
+string	wash_status_circulation	Recirc.
+string	wash_status_circulation_auto	Auto recirc.
+string	wash_status_circulation_out	Fresh air
+string	wash_status_closed	Closed
+string	wash_status_forbidden	Disabled
+string	wash_status_ing	Wait…
+string	wash_status_no_forbidden	Disable failed
+string	wash_status_not_N	Enabled
+string	wash_status_not_closed	%1$s open
+string	wash_status_open	Open
+string	wash_status_warn	Car wash risk detected, contact service
+string	wash_tail	Trunk
+string	wash_um_alert	Car Wash mode unavailable, contact service
+string	wash_win	Windows
+string	wash_window_not_closed	Windows not all closed
+string	without	None
+string	yes	Yes

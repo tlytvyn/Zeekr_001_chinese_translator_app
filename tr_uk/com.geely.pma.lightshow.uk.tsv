@@ -1,0 +1,8 @@
+string	app_name	Музичне світлошоу
+string	first_fragment_label	Перший фрагмент
+string	hello_first_fragment	Привіт, перший фрагмент
+string	hello_second_fragment	Привіт, другий фрагмент. Арг.: %1$s
+string	next	Далі
+string	previous	Назад
+string	second_fragment_label	Другий фрагмент
+string	title_activity_main	MainActivity

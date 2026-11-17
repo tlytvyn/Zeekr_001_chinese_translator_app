@@ -1,0 +1,149 @@
+string	answer	6	Answer	接听
+string	app_name	14	component	
+string	bt_not_connect	14	Bluetooth not connected	蓝牙未连接
+string	btn_bt_connect	11	Connect Bluetooth	连接蓝牙
+string	btn_bt_phone	11	Bluetooth phone	蓝牙电话
+string	btn_online	6	Online	在线
+string	btn_online_phone	11	Online phone	在线电话
+string	call_state_call_active	9	In call	通话中
+string	call_state_call_ended	11	Call ended	通话结束
+string	call_state_call_ending	11	Ending call	正在断开
+string	call_state_call_ringing	11	Ringing	来电响铃
+string	call_state_connecting	11	Connecting	正在连接
+string	call_state_dialing	11	Dialing	正在拨号
+string	call_state_hold	11	On hold	通话保持
+string	calling_now	15	Calling...	正在呼叫...
+string	calllog_all	11	All calls	全部通话
+string	calllog_missed	11	Missed calls	未接来电
+string	can_not_call_again_when_calling	28	Call in progress	正在呼叫，不可拨打电话
+string	can_not_call_your_number	23	Cannot call your own number	不能拨打自己的号码
+string	can_not_make_call	16	Cannot make call	不能拨打电话
+string	can_not_make_call_no_hfp	31	Bluetooth not connected	蓝牙未连接，不能拨打成功
+string	can_not_make_more_call	26	Cannot make more calls	不能再拨打更多电话了
+string	cancel	6	Cancel	取消
+string	cancel_favorites	11	Remove from favorites	取消收藏
+string	clear_fav	11	Clear favorites	清空收藏
+string	company	6	Work	公司
+string	conference_call	11	Conference call	电话会议
+string	connect	6	Connect	连接
+string	connect_bluetooth_before_call	33	Connect Bluetooth first	请先连接蓝牙，然后拨打电话
+string	contact_address_label	6	Address	地址
+string	contact_email_label	6	Email	邮箱
+string	contact_phone_label	6	Phone	电话
+string	contacts	9	Contacts	联系人
+string	contacts_are_not_synchronized	16	Contacts not synced	联系人未同步
+string	contacts_more	30	Too many contacts to download all	联系人过多,无法下载完全
+string	contacts_sync_complete	11	Sync complete	同步成功
+string	contacts_sync_fail	53	Sync failed. Check that contact sharing is allowed on your phone	同步失败，请检查手机是否开启联系人同步权限
+string	contacts_sync_no_support	31	Contact sync is off on your phone	手机未开启同步联系人功能
+string	contacts_unable_sync	11	Cannot sync	无法同步
+string	customization	9	Custom	自定义
+string	delete	6	Delete	删除
+string	delete_all_favorite	14	Favorites cleared	已清空收藏
+string	delete_all_favorites_fail	26	Failed to clear favorites	删除所有收藏没有成功
+string	delete_favorite	14	Removed from favorites	已删除收藏
+string	delete_personal_favorite	11	Remove favorite	删除收藏
+string	dial_fail	11	Call failed	呼叫失败
+string	dial_pad	6	Keypad	键盘
+string	dialing_call	11	Calling	正在呼叫
+string	eight_letters	6	TUV	
+string	enter_again	36	Invalid number, please enter again	您输入的号码有误，请重新输入
+string	error_a11y_label	20	Error: invalid	
+string	favorites_show_more_than	30	Up to 100 favorite contacts	最多可以收藏100条联系人
+string	fax_home	11	Home fax	住宅传真
+string	fax_work	11	Work fax	单位传真
+string	five_letters	6	JKL	
+string	four_letters	6	GHI	
+string	go_to_connect	9	Connect	去连接
+string	hang_up	6	Hang up	挂断
+string	hang_up_answer	14	End and answer	挂断并接听
+string	hide	6	Hide	隐藏
+string	hold_answer	14	Hold and answer	保留并接听
+string	holding	9	On hold	等待中
+string	home	4	Home	家
+string	incoming_call	9	Incoming call	来电中
+string	just_now	6	Just now	刚刚
+string	main_contacts	9	Contacts	联系人
+string	main_dial	11	Keypad	拨号键盘
+string	main_favorites	11	Favorites	个人收藏
+string	main_recent	11	Recents	最近通话
+string	minutes_ago	9	min ago	分钟前
+string	mobile_phone	6	Mobile	手机
+string	mute	6	Mute	静音
+string	nine_letters	7	WXYZ	
+string	no_collection	46	No favorites yet. Add them in “Contacts”	暂无收藏联系人，可在 “联系人” 中添加
+string	no_contact	14	No contacts	暂无联系人
+string	no_matched_contact	16	No contact found	未找到联系人
+string	no_missed_recent	16	No missed calls	暂无未接通话
+string	no_recent	16	No recent calls	暂无最近通话
+string	no_sim_card	10	No SIM card	无SIM卡
+string	not_dialing_call	16	No recent outgoing calls	暂无最近呼叫
+string	not_incoming_call	16	No recent incoming calls	暂无最近来电
+string	others	6	Other	其他
+string	pager	9	Pager	寻呼机
+string	phone_app_name1	6	Phone	电话
+string	phone_app_name2	11	Bluetooth phone	蓝牙电话
+string	phone_is_use_please_try_again	28	Phone is busy, try again later	电话使用中，请稍后再试
+string	phone_label_with_info	24	" %1$s  ·  %2$s "	
+string	please_make_call_later	14	Please call later	请稍后拨打
+string	private_call	11	Use phone	手机接听
+string	private_calling	14	Using phone	手机接听中
+string	remove_all_favor_tips	31	Clear all favorite contacts?	是否清空所有收藏联系人？
+string	remove_contact_favor_contact_tips	39	Remove %1$s (%2$s) from favorites?	确认要取消收藏  %1$s（%2$s）？
+string	remove_favor_contact_tips	54	Remove %1$s (%2$s) from your favorites list?	确认要从个人收藏列表中删除  %1$s（%2$s）？
+string	ring_is_off	14	Ringer is off	响铃已关闭
+string	search	6	Search	搜索
+string	search_contact	14	Search contacts	搜索联系人
+string	search_count	24	%1$d contacts found	搜索到%1$d个联系人
+string	search_empty	19	No contacts found	未搜索到联系人
+string	search_zero_count	20	0 contacts found	搜索到0个联系人
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	seven_letters	7	PQRS	
+string	six_letters	6	MNO	
+string	special_dialing_on_phone	23	Special dialing on phone	手机端正在特殊拨号
+string	strNetworkTipsCancelBtn	6	Cancel	取消
+string	strNetworkTipsConfirmBtn	11	Continue	继续下载
+string	strNetworkTipsMessage	48	Switched to mobile data. Continue download?	你已切换到移动网络，是否继续当前下载？
+string	strNetworkTipsTitle	11	Network tips	网络提示
+string	strNotificationClickToContinue	11	Continue	继续下载
+string	strNotificationClickToInstall	11	Click to install	点击安装
+string	strNotificationClickToRetry	11	Click to retry	点击重试
+string	strNotificationClickToView	11	Click to check	点击查看
+string	strNotificationDownloadError	11	Download fail	下载失败
+string	strNotificationDownloadSucc	11	Downloaded	下载完成
+string	strNotificationDownloading	11	Downloading...	正在下载
+string	strNotificationHaveNewVersion	11	Have new version	有新版本
+string	strToastCheckUpgradeError	33	Check upgrade fail, retry after	检查新版本失败，请稍后重试
+string	strToastCheckingUpgrade	25	Checking upgrade...	正在检查，请稍候...
+string	strToastYourAreTheLatestVersion	21	You have no new version	你已经是最新版了
+string	strUpgradeDialogCancelBtn	11	Next time	下次再说
+string	strUpgradeDialogContinueBtn	6	Continue	继续
+string	strUpgradeDialogFeatureLabel	11	Upgrade feature	更新说明
+string	strUpgradeDialogFileSizeLabel	9	Package Size	包大小
+string	strUpgradeDialogInstallBtn	6	Install	安装
+string	strUpgradeDialogRetryBtn	6	Retry	重试
+string	strUpgradeDialogUpdateTimeLabel	11	Upgrade time	更新时间
+string	strUpgradeDialogUpgradeBtn	11	Upgrade	立即更新
+string	strUpgradeDialogVersionLabel	6	Version	版本
+string	switch_calls	11	Switch calls	切换通话
+string	sync	6	Sync	同步
+string	syncing	9	Syncing	同步中
+string	three_letters	6	DEF	
+string	tipkc2_btn_text	16	%1$s(%2$ds)	
+string	title_select_call_type	19	Choose how to call	请选择拨打方式
+string	today	6	Today	今天
+string	two_letters	6	ABC	
+string	unknown	6	Unknown	未知
+string	unknown_call	11	Unknown caller	未知来电
+string	unknown_number	11	Unknown number	未知号码
+string	use_online_phone	63	Bluetooth not connected\nBluetooth phone unavailable\nTry online phone	"蓝牙设备未连接\n无法使用蓝牙电话\n推荐使用在线电话"
+string	voicemail	14	Voicemail	
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	yesterday	6	Yesterday	昨天
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

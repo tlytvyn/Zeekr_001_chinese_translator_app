@@ -1,0 +1,392 @@
+adas_auto_lane_change_assist_describe	When on, activating the turn signal while LCC is running lets the system assist the lane change. When off, activating the turn signal while LCC is running downgrades LCC to ACC
+adas_auto_lane_change_assist_name	Lever lane change
+adas_auto_lane_change_assist_tips	When off, NZP Navigate Pilot and NZP Autonomous Pilot cannot be used. Turn off?
+adas_auto_lane_change_assist_title	Lane Centering Assist
+adas_automatic_activation_dc	Auto activation
+adas_automatic_activation_describe	Shifting gear starts park-in/park-out when possible
+adas_automatic_activation_describe_dc	Activates APA when shifting into D or R
+adas_automatic_parking_assist	Automatic Parking Assist
+adas_brake	Preventive braking
+adas_cancel	Cancel
+adas_close	Close
+adas_comfort	Seatbelt comfort
+adas_confirm_ten_seconds	Confirm (10s)
+adas_copilot_assist	Speed Limit Assist
+adas_copilot_belt	Seatbelt comfort
+adas_copilot_brake	Preventive braking
+adas_copilot_brake_early	Rear Collision Warning
+adas_copilot_dead	Blind Spot Detection
+adas_copilot_deviation	Speed limit offset
+adas_copilot_early	Lane Departure Warning
+adas_copilot_fatigue_alert	Driver fatigue alert
+adas_copilot_filst	Forward Collision Mitigation
+adas_copilot_filst_break	Forward Collision Warning
+adas_copilot_lane	Lane assist system
+adas_copilot_lanekeep	Lane Keeping Assist
+adas_copilot_light	Traffic light reminder
+adas_copilot_opendor	Door Open Warning
+adas_copilot_opendor_shot	Door opening collision warning
+adas_copilot_openthedoor	Door opening collision warning
+adas_copilot_red	Red light braking assist
+adas_copilot_remind	Overspeed alert
+adas_copilot_shot	Other traffic info
+adas_copilot_shot_break	Door opening collision warning
+adas_copilot_sign	Traffic signs
+adas_copilot_slow	Collision mitigation
+adas_datashare	Data sharing
+adas_dead	Blind spot warning
+adas_display_text_custom_theme_time_select_hint	End time cannot equal start time
+adas_fatigue	Driver fatigue alert
+adas_front_warn_option	Forward Collision Warning
+adas_lane_assist_system	Lane assist system
+adas_limit	Speed Limit Assist
+adas_nzp_aiAssistFusionNavi_title	NZP Autonomous Pilot terms of use
+adas_nzp_aiDriverAssist_title	NZP Navigate Pilot terms of use
+adas_nzp_automatic_lane_change_reminder	Auto lane change reminder
+adas_nzp_autonomous_navigation	NZP Autonomous Pilot
+adas_nzp_big_data_speed	Big data speed
+adas_nzp_big_data_speed_tip	Speed limit value is based on fused big data for the current road
+adas_nzp_disable_info_when_click	Turn on NZP Navigate Pilot first
+adas_nzp_fusion_speed	Fusion speed
+adas_nzp_lane_change_confirmation	Confirm lane change
+adas_nzp_mall_function_has_expired	Feature has expired
+adas_nzp_offset_value	Offset value
+adas_nzp_road_speed_limit_plate	Offset from speed sign
+adas_open_door_describe	Door opening collision warning
+adas_opendoor_early	Door Open Warning
+adas_other	Other traffic info
+adas_park_assistance	Parking assist
+adas_park_assistance_system	Parking assist system
+adas_park_radar_alarm_volume	Radar alarm volume
+adas_park_volume	Alarm volume
+adas_park_volume_alarm	Steering not centered alarm
+adas_park_volume_alarm_mode	Auto parking recommended mode
+adas_park_volume_alarm_mode_long	Suggests steps to simplify parking
+adas_park_volume_alarm_stating	Alert if steering not straight at start
+adas_parking_barrier	Warns when an obstacle approaches from the side-rear
+adas_parking_lowgear	Auto-brakes at low speed if collision is likely
+adas_parking_rear_baker	Rear Cross Traffic Alert
+adas_parking_voice_broadcast_dc	Voice prompts
+adas_parking_voice_broadcast_describe	Voice prompts during parking
+adas_pebMode_describe	Auto-brakes at low speed if collision is likely
+adas_rearCrossTrafficAlert_describe	Warns when an obstacle approaches from the side-rear
+adas_speed	Overspeed alert
+adas_statement	Statement
+adas_stay_tuned	(Coming soon)
+adas_title_opendoor	Door opening collision warning
+adas_traffic	Traffic Sign Recognition
+adas_traffic_light_attention	Traffic light reminder
+adas_word_comfort	Seatbelt tightens to comfort position
+adas_zeekr_ad_nzp_text2	I have read, understood and fully agree to the terms above
+adas_zeekrad_low	Low-speed reverse emergency braking
+adas_zeekrad_nzp_intelligent_navigation	NZP Navigate Pilot
+adas_zeekrad_nzp_intelligent_tip	On supported roads: auto lane change, overtaking, distance keeping
+adas_zeekrad_nzp_tolearn	Learn
+adas_zeekrad_park_assistance_long	Shows obstacle warnings while parking to avoid collisions
+adas_zeer_red	Red light braking assist
+bx_safe_security_car_location_info_upload	Driving location upload
+bx_safe_security_car_location_info_upload_dialog_content_describe	Turning off driving location upload also turns off location-based features. Turn off?
+close	Close
+common_accor_pop_matching_bluetooth_text	Pairing code sent, waiting for “%1$s” to confirm
+common_bluetooth_ask	Bluetooth pairing code
+common_bluetooth_cancel_action	Cancel
+common_bluetooth_connected	Connected
+common_bluetooth_connected_no_a2dp	Connected (no media)
+common_bluetooth_connected_no_headset	Connected (no phone)
+common_bluetooth_connected_no_headset_no_a2dp	Connected (no phone or media)
+common_bluetooth_connecting	Connecting...
+common_bluetooth_disconnected	Disconnected
+common_bluetooth_disconnecting	Disconnecting...
+common_bluetooth_match_action	Pair
+common_bluetooth_pairing	Pairing
+common_bluetooth_pairing_device_down_error_message	Cannot communicate with “%1$s”.
+common_bluetooth_pairing_error_message	Cannot pair with “%1$s”.
+common_bluetooth_pairing_pin_error_message	Incorrect PIN or passkey, cannot pair with %1$s.
+common_bluetooth_pairing_rejected_error_message	%1$s rejected pairing.
+common_cant_connect_enter	Cannot join network, try again later
+common_charge_battery_temp_little_low_tips	Battery slightly cold, charging a bit slower
+common_charge_battery_temp_low_tips	Battery temperature low, charging speed reduced
+common_charge_battery_temp_very_low_tips	Battery temperature too low, charging speed greatly reduced
+common_charge_daily	Daily
+common_charge_friday	Fri
+common_charge_monday	Mon
+common_charge_per_week	Weekly
+common_charge_please_set	Please set
+common_charge_saturday	Sat
+common_charge_status_booking	Scheduled
+common_charge_status_preheating	Conditioning battery
+common_charge_sunday	Sun
+common_charge_three_voltage	Voltage (3-phase)
+common_charge_thursday	Thu
+common_charge_today	Today
+common_charge_tomorrow	Tomorrow
+common_charge_tuesday	Tue
+common_charge_wednesday	Wed
+common_charge_week	Week
+common_checkbox_tip	Don’t show again for 30 days
+common_coll_warn	Collision mitigation assist
+common_conn_ap_cellular	Cellular network
+common_conn_ap_cellular_recon	Reconnect cellular
+common_conn_ap_cellular_recon_tip	If cellular signal is weak, you can restart the network
+common_conn_ap_not_open	Hotspot is off
+common_conn_bluetooth_hicar	HiCar connected, unavailable now.
+common_conn_bonded_device	Paired devices
+common_conn_bt_not_open	Bluetooth is off
+common_conn_point_name_edit	Hotspot name: %1$s
+common_conn_point_pwd_edit	Hotspot password: %1$s
+common_conn_wifi_not_open	WLAN is off
+common_connect_no_wifi	No networks available
+common_drivin_loading_into_driving_position	Moving to your saved driving position
+common_drivin_loading_into_driving_position_8155	Moving to driving position
+common_driving_drivemode_not_select_tip	Acceleration cannot be changed in this mode
+common_hud_navigation	Navigation info
+common_hud_sr_mode	Smart window
+common_in_car_communication	In-car intercom
+common_in_car_communication_tip	Tap to start talking with the rear row, tap again to end
+common_list_item_h_hxt_bx	Sound restoration
+common_list_item_i_hxt_bx	Restores low-quality audio to high quality
+common_megaphone	Megaphone
+common_mute_control	Mute control
+common_nav_suppressor_media	Navigation lowers media
+common_nav_suppressor_media_tip	When on, navigation prompts lower media volume
+common_nav_sync_voice	Sync navigation and voice volume
+common_nav_sync_voice_tip	Navigation and voice volume adjust together
+common_network_assurance	Network assurance
+common_network_assurance_tip	Switch to cellular automatically when WLAN signal is weak
+common_night_auto_upgrade	Night auto update
+common_night_auto_upgrade_tip	When a new version is available, update automatically at 02:00
+common_open_door_suppressor	Lower media when door opens
+common_open_door_suppressor_tip	When on, media volume lowers when any door opens and restores when all doors are closed
+common_parking_comfort_content	Parking comfort is still on. Turn off?
+common_pedestrian_advance_warning_tone	Pedestrian warning sound
+common_pop_matching_bluetooth_text	Pair with “%1$s”?
+common_recreate_loading_language	Setting language
+common_reset_tcam_fail	Reconnect failed, try again later
+common_reset_tcam_over_time	Reconnect timed out, try again later
+common_reset_tcam_success	Cellular reconnected
+common_reverse_suppressor	Lower media when reversing
+common_reverse_suppressor_tip	Lowers media volume in R
+common_sound_source	Audio source
+common_source_switching	Switch audio source
+common_start_the_sound_outside_the_vehicle	Open External Sound app
+common_take_photos_with_tachograph	Dashcam photo
+common_vehicle_power_off_dialog_content_describe	High-voltage battery will turn off and vehicle power systems will stop. Press the brake to power on again
+common_wifi_ap_close_fail	Failed to turn off, try again later
+common_wifi_ap_open_fail	Failed to turn on, try again later
+common_wifi_name_long	Network name too long
+common_wifi_name_long_tip	Network name must be 32 characters or fewer
+dc_ceyi_str	Side bolster
+dc_door_close_all_window	Close all windows
+dc_door_open_all_window	Open all windows
+dc_seat_habits_tip	Choose a driving profile to save ergonomic positions (seats, mirrors, etc.)
+dc_yaotuo_str	Lumbar
+dc_zuodian_str	Cushion length
+display_language	Language
+display_text_brightness_screen	Screen brightness
+display_text_dim_display	Driver display
+display_text_dim_display_lyrics_display	Lyrics on driver display
+display_text_dim_display_lyrics_display_know	Got it
+display_text_dim_display_lyrics_display_know_countdown	Got it (%ds)
+display_text_home_weather_effect	Home weather background
+display_text_home_weather_effect_sub_hint	With “Dynamic”, the effect follows the weather card data and may be delayed; for reference only
+display_text_home_weather_effect_sub_title	Home weather background
+display_text_lyrics_display	Lyrics display
+display_text_lyrics_display_hint	When on, the driver display can show lyrics for some media
+display_text_theme_night	Dark theme
+drive_mode_bz_one	Standard
+drive_mode_jj_one	Eco
+drive_mode_jji_one	Eco
+drive_mode_qy_one	Traction
+drive_mode_ss_one	Comfort
+drive_mode_yd_one	Sport
+drive_mode_yy_one	Off-road
+drivin_suspension_for_easy_access	Suspension easy entry
+driving_auto_hold	Auto Hold
+driving_auto_hold_info	Keeps the vehicle stopped automatically
+driving_e_pedal_info	Accelerator pedal controls speed
+driving_fold_rear_mirror_close	Fold mirrors
+driving_fold_rear_mirror_open	Unfold mirrors
+driving_module_driving_seatbelt	Seatbelt
+driving_module_driving_seatbelt_comfort	Seatbelt comfort
+driving_module_driving_seatbelt_comfort_tip	Seatbelt tightens to comfort position
+driving_module_driving_title	Driving preferences
+driving_one_pedal_title	One-pedal icon on driver display:
+driving_p_back_launcher	Gear linkage
+driving_p_back_launcher_tip	Shift to P to return to Home, shift to D to open Navigation
+driving_p_back_launcher_tip_text	Turning this on disables “Door quick control” in door settings
+driving_parking_EPB	Parking brake
+driving_parking_EPB_appl	Apply parking brake
+driving_parking_EPB_releas	Release parking brake
+driving_parking_EPB_tip_dc	Press brake to release parking brake
+driving_quick_hdc	Hill Descent Control
+driving_quick_leak	Leak
+driving_regen_level	Regeneration level
+driving_sensor_low	Sensor battery low
+driving_special_road_conditions	Special road conditions
+driving_speed_mode_title	Driving assist
+driving_speed_warning_mode_info	Set alert speed
+driving_speed_warning_mode_option	Speed limit alert
+driving_steer_position	Steering position
+driving_switch_parking_know	Got it
+driving_switch_parking_text	Fasten driver seatbelt, close the door and press the brake firmly to activate. Auto Hold cannot be turned off while One-Pedal is active
+driving_switch_parking_title	Auto Hold
+driving_system_fail	System fault
+driving_textID_descent_info	Vehicle descends hills at a safe speed without braking
+driving_text_kindly_reminder	Reminder
+driving_tip	Recommended cold tire pressure: 260-290 kPa
+driving_turn_back_to_positive_alarm	Steering not centered alarm
+driving_turn_back_to_positive_alarm_info	Alert if steering not straight at start
+driving_tyre_pressure_title	Tire pressure
+driving_widget_all_error_tip	Visit a service center or call assistance
+driving_widget_tire_pressure_result_fast_pressure_loss_front_left	Front left tire losing pressure
+driving_widget_tire_pressure_result_fast_pressure_loss_front_right	Front right tire losing pressure
+driving_widget_tire_pressure_result_fast_pressure_loss_multiple	Multiple tires losing pressure
+driving_widget_tire_pressure_result_fast_pressure_loss_rear_left	Rear left tire losing pressure
+driving_widget_tire_pressure_result_fast_pressure_loss_rear_right	Rear right tire losing pressure
+driving_widget_tire_pressure_result_high_pressure_front_left	Front left tire pressure high
+driving_widget_tire_pressure_result_high_pressure_front_right	Front right tire pressure high
+driving_widget_tire_pressure_result_high_pressure_multiple	Multiple tires pressure high
+driving_widget_tire_pressure_result_high_pressure_rear_left	Rear left tire pressure high
+driving_widget_tire_pressure_result_high_pressure_rear_right	Rear right tire pressure high
+driving_widget_tire_pressure_result_high_temperature_front_left	Front left tire temperature high
+driving_widget_tire_pressure_result_high_temperature_front_right	Front right tire temperature high
+driving_widget_tire_pressure_result_high_temperature_multiple	Multiple tires temperature high
+driving_widget_tire_pressure_result_high_temperature_rear_left	Rear left tire temperature high
+driving_widget_tire_pressure_result_high_temperature_rear_right	Rear right tire temperature high
+driving_widget_tire_pressure_result_low_pressure_front_left	Front left tire pressure low
+driving_widget_tire_pressure_result_low_pressure_front_right	Front right tire pressure low
+driving_widget_tire_pressure_result_low_pressure_multiple	Multiple tires pressure low
+driving_widget_tire_pressure_result_low_pressure_rear_left	Rear left tire pressure low
+driving_widget_tire_pressure_result_low_pressure_rear_right	Rear right tire pressure low
+driving_widget_tire_pressure_result_monitor_system_fault_front_left	Front left tire pressure monitoring fault
+driving_widget_tire_pressure_result_monitor_system_fault_front_right	Front right tire pressure monitoring fault
+driving_widget_tire_pressure_result_monitor_system_fault_multiple	Multiple tires pressure monitoring fault
+driving_widget_tire_pressure_result_monitor_system_fault_rear_left	Rear left tire pressure monitoring fault
+driving_widget_tire_pressure_result_monitor_system_fault_rear_right	Rear right tire pressure monitoring fault
+driving_widget_tire_pressure_result_ok	Tire pressure normal
+driving_widget_tire_pressure_result_sensor_battery_low_front_left	Front left tire sensor battery low
+driving_widget_tire_pressure_result_sensor_battery_low_front_right	Front right tire sensor battery low
+driving_widget_tire_pressure_result_sensor_battery_low_multiple	Multiple tire sensors battery low
+driving_widget_tire_pressure_result_sensor_battery_low_rear_left	Rear left tire sensor battery low
+driving_widget_tire_pressure_result_sensor_battery_low_rear_right	Rear right tire sensor battery low
+energy_battery_heat	Plug-in warming
+energy_battery_heat_intro	Uses grid power to keep the battery warm for 24 hours after charging, for a better driving experience
+energy_battery_preheat_intro	Uses grid power before trips to condition the battery for better range; may cost extra. Recommended below 0°C or above 40°C
+energy_charge_battery_heat	Battery warming
+energy_charge_charging_limit	Charge to limit
+energy_charge_more_settings	More settings
+energy_charge_pre_heating_button_name	Battery conditioning
+energy_charge_pre_heating_switch_name	Smart battery conditioning
+energy_charge_today	Today
+energy_charge_tomorrow	Tomorrow
+energy_charge_wpc_name	Wireless phone charging
+energy_charge_wpc_tips	Do not place metal objects between the phone and the charging pad
+energy_dialog_close	Close
+energy_dialog_two_button_close	Close
+energy_first_charge_full	Prioritize full charge
+energy_first_charge_full_intro	If not full by end time, charging continues
+energy_no_function_tips	Coming soon
+energy_set_max_a	Set max AC charging current
+hmi_seat_adjust_name_driver	Driver
+hmi_seat_adjust_name_passenger	Passenger
+hmi_seat_adjust_name_rear	Rear
+hmi_seat_adjust_restore	Restore
+hmi_seat_adjust_save	Save
+hmi_seat_drvr_restore_success_toast	Driver position will restore to [%1$s]
+hmi_seat_drvr_save_habit_success_toast	Driver position saved and switched to [%1$s]
+hmi_seat_drvr_save_success_toast	Driver position saved to [%1$s]
+hmi_seat_easydriver	Driver easy entry
+hmi_seat_pass_habit_tips	Passenger preferred position
+hmi_seat_pass_restore_success_toast	Restoring passenger preferred position
+hmi_seat_pass_save_success_toast	Passenger preferred position saved
+hmi_seat_rdg_backrest	Backrest
+hmi_seat_rdg_backrest_rear_left	Rear left
+hmi_seat_rdg_backrest_rear_right	Rear right
+hmi_seat_rdg_cushion	Cushion
+hmi_seat_rdg_driver	Seat
+hmi_seat_rdg_lumbar	Lumbar
+hmi_seat_tabname_0	Seat massage
+hmi_seat_tabname_1	Seat adjustment
+light_auto	Auto reading lights
+light_auto_text	On when unlocking or opening a door
+light_charge	Charging light show
+light_charge_text	Plays a light show when charging starts, stops after 2 minutes
+light_settings_text	Settings
+light_taillight	Daytime running tail lights
+light_taillight_text	Rear position lights on with DRL
+lighting_approach_switch_title	When you approach with the key, low beams and position lights turn on automatically
+lighting_read_front_left_content_description	Left reading light|Front left reading light
+lighting_read_front_right_content_description	Right reading light|Front right reading light
+lighting_read_rear_left_content_description	Left reading light|Rear left reading light
+lighting_read_rear_right_content_description	Right reading light|Rear right reading light
+lighting_title_text	Headlights
+main_safe_preson_info_protect_policy	ZEEKR Personal Information Protection Policy
+main_safe_security_user_service_agreement	ZEEKR User Service Agreement
+main_safe_security_zeekr_personal_information_protection_policy	ZEEKR Connected Car Privacy Policy
+main_safe_user_security	User Service Agreement
+offroad_text_please_epedal_toast	In Off-road mode, stop mode supports Creep only
+ota_agree	Agree
+ota_check_upgrade_log	See your vehicle update log
+ota_confirm	Confirm
+ota_had_new_version_to_upgrade	A new version is available
+ota_i_know	Got it
+ota_loading	Loading...
+ota_night_auto_cancel	Cancel
+ota_night_auto_open	Turn on
+ota_night_auto_upgrade	Night auto update
+ota_night_auto_upgrade_tip	When a new version is available, update starts automatically at 02:00
+ota_night_auto_upgrade_tip3	New versions install automatically at 02:00. During the update you cannot drive, use the touchscreen or charge the vehicle.
+ota_night_auto_upgrade_tip4	An update is scheduled in %1$s h %2$s min. Turning this on moves it to 02:00 tonight, and future versions will install automatically at 02:00.
+ota_night_upgrade_close_dialog_content	Turning off Night auto update does not cancel scheduled updates. Cancel or change them in [Update management]
+ota_night_upgrade_close_dialog_title	Turn off Night auto update?
+ota_night_upgrade_open_dialog_content	Turn on Night auto update?
+ota_os_version	Vehicle system version
+ota_system_is_latest_version	Software is up to date
+ota_system_upgrade	Update management
+ota_terms_service	Terms of Service
+ota_upgrade_log	Update log
+ota_upgrade_log_title	What’s new in the latest update
+ota_upgrade_manager	Update management
+ota_you_can_read	You can read
+quick_setting_drive_mode_edit_content_description	Edit|Custom edit|Custom settings
+quick_setting_park_dicription_text	After parking, climate, audio and video stay available until the set time ends or battery drops below 20%
+quick_setting_tv_edit	Edit
+rd_driving_esc_close	Off
+rd_driving_esc_drift	Drift
+rd_driving_esc_stand	Standard
+safe_driving_text	Dashcam
+safe_head_carSearchReminder_text	Find my car method
+safe_head_sdCardFormat_text	Formatting erases all recordings on the memory card
+safe_head_sdCardFormat_tip_text	Formatting erases all data. Back up important data first. Continue?
+safety_car_washing_mode	Car wash mode
+safety_copilot_fatigue_alert	Driver monitoring
+safety_deactivate_glove_box_password_protection	Disable glove box PIN
+safety_fatigue_monitor_describe	Alerts you when driver fatigue or distraction is detected, for safer driving
+safety_guard_mode	Sentry mode
+safety_interior_visual_assistance	Interior visual assist
+safety_intput_password_to_disable_glove_box_password_protection	Enter PIN to disable glove box PIN
+safety_please_intput_password_again_to_confirm	Enter PIN again to confirm
+safety_please_open_sentinel_mode_when_the_vehicle_is_in_p_gear	Turn on Sentry mode with the vehicle in P
+safety_safe_security_sentinel_mode_user_agreement	Sentry mode
+safety_safe_sentinel_mode_tip	With Sentry mode on, the vehicle monitors theft or vandalism, records video, sounds an alarm and notifies your phone
+safety_safe_view_sentinel_video	View Sentry mode videos
+safety_second_time_password_error_please_re_intput	PINs do not match, enter again
+safety_security_safety_recording_resolution_content_description	Resolution
+safety_security_user_service_agreement	ZEEKR User Service Agreement
+safety_security_zeekr_personal_information_protection_policy	ZEEKR Connected Car Privacy Policy
+safety_sentinel_mode_description_1	How it works
+safety_sentinel_mode_description_10	A loud alarm plays when triggered, so do not leave people or animals in the vehicle. Sentry mode records video; do not use it in public areas
+safety_sentinel_mode_description_3	App notifications
+safety_sentinel_mode_description_4	Turn on ZEEKR app notifications to receive vehicle status right away
+safety_sentinel_mode_description_5	Add USB drive
+safety_sentinel_mode_description_7	Power consumption
+safety_sentinel_mode_description_8	This feature uses extra power and exits automatically below 20% battery. To save power, it stays on for the current session only
+safety_sentinel_mode_description_9	Note
+safety_sentinel_mode_keep_mirror_open	Keep mirrors unfolded
+safety_unlock_glove_box	Unlock glove box
+safety_video_segment_duration	Video segment length
+snow_text_please_epedal_toast	In Snow mode, stop mode supports Creep only
+text_please_close_offroad_mode	Turn off Off-road mode first
+text_please_close_snow_mode	Turn off Snow mode first
+text_please_epedal_toast	This option requires stop mode set to Creep
+upload_log_network_error_tip	Weak network, upload paused. It will resume when network recovers

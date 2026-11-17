@@ -1,0 +1,295 @@
+string	app_name	11	XCUpgradeService	系统升级
+string	app_title	11	System upgrade	系统升级
+string	audio_all_volume_system	11	System prompt	系统提示
+string	bottom_tip_text	114	"System upgrade will start automatically after the vechile is locked, estimated time is %1$s. Don't operate during the system upgrade, and don't leave children and pets in the car."	升级会在锁车后自动进行，预计需要%1$s，请不要对车辆进行任何操作，并且不要把小孩和宠物留在车内
+string	broadcast_category_name	18	System/OTA/upgrade	系统/ota/升级
+string	broadcast_download_success_text	19	Download complete	新版本下载完成
+string	broadcast_find_ver_text	14	New version	发现新版本
+string	broadcast_title	6	System	系统
+string	broadcast_vechile_upgrade_success_text	61	Vehicle upgrade completed. You can view details in Settings - System	车辆升级已完成，您可点击“设置-系统”中查看版本信息
+string	btn_agree	6	Agree	同意
+string	cancel	6	Cancel	取消
+string	cancel_button	6	Cancel	取消
+string	cancel_sure_button	6	Confirm	确认
+string	cancel_time	11	Cancel	取消预约
+string	cancel_update	11	Cancel	取消升级
+string	cancel_update_content	26	Cancel this update?	是否确定取消本次升级
+string	cancel_update_message	48	"You can manually upgrade the system \nin \"Settings\" - \"System\""	"您可以在“设置”—“系统”—\n手动进行升级"
+string	cancel_update_text	11	Canceled	升级取消
+string	cancel_update_title	14	Upgrade canceled	已取消升级
+string	car_system_update	19	Car system update	车辆系统升级中
+string	check_upgrade_after_networking	19	Check when online	联网后检查升级
+string	chip_text	14	Chip text	
+string	close	6	Close	关闭
+string	completed	9	Done	已完成
+string	confirm_btn	6	Confirm	确认
+string	congratulation	31	Updated to the latest version	恭喜你已经升级到最新版本
+string	current_version	11	Current version	系统版本
+string	current_version_getting	19	Loading version...	系统版本获取中
+string	currrent_update_failure	71	This update has expired\nPlease wait for the next update or contact customer service\nHotline: %1$s	"当前升级已失效\n请静待下次升级或联系客服\n服务热线：%1$s"
+string	day	4	day	天
+string	default_new_version	11	System version	系统版本
+string	dialog_OTA_regret_window	50	To ensure successful upgrade, please do not unlock the door during the upgrade process.	为保证升级成功，升级过程中请不要解锁车门
+string	dialog_OTA_window	74	"For safety we suggest to close the windows,\nleave and lock the car for update."	"为车辆安全，我们建议关闭车窗，\n锁车离开后自动进行系统升级"
+string	dialog_remind_private_avn_version	17	Version: %1$s	版本号: %1$s
+string	dialog_remind_sys_pre_download	38	New system version on the server, please download now?	检测到有系统升级,是否立即下载?
+string	dialog_sure_upgrade_tip	142	"System upgrade will start automatically after you lock your vehicle. To avoid failure, don't operate during the system upgrade, and don't leave children and pets in the car."	升级会在您锁车离开后自动进行，建议在升级开始后不要对车辆进行任何操作以免导致升级失败，而且请不要把小孩和宠物留在车内
+string	download	6	Download	下载
+string	download_detail	16	Version detail	查看版本详情
+string	download_expect_time	44	In total 500M 200kb/s Estimated time for download: 20 minutes	共500M 200kb/s 预计20分钟下载完成
+string	download_fail	11	Download failed	下载失败
+string	download_limit_off	11	Speed first	速度优先
+string	download_limit_on	11	Experience first	体验优先
+string	download_resume	11	resume download	恢复下载
+string	download_success	11	Downloaded	下载完成
+string	download_tips	75	please press power button to make sure that the vehicle is in acc on state,then it will download automatically	请点击车辆power按钮,确保车机处于acc on状态后,会自动继续下载
+string	downloading	9	Downloading	下载中
+string	estimate	4	around	计
+string	expect	6	Estimated	预计
+string	fail_check_condition	51	Gear shall be in P, vehicle speed shall be 0km/h, network connection shall be normal.	需要挡位为P，速度为0km/h，网络连接正常。
+string	fail_check_scene_condition	43	The scenario mode cannot be upgrade, Please close it and upgrade again.	情景模式下不能升级，请关闭后再试！
+string	func_introduction_title_txt	24	What's new in %1$s	%1$s版本中的新功能
+string	general_cancel_update	11	Cancel update	取消升级
+string	gkui_upgrade_txt	12	GKUI upgrade	GKUI升级
+string	gkui_version	11	GKUI 20	GKUI 20
+string	go_to_upgrade	6	upgrade now	查看
+string	hour	6	hour	小时
+string	i_know	11	Got it	我知道了
+string	immediately_update	11	Upgrade now	立即升级
+string	immediately_upgrade	11	Upgrade now	立刻升级
+string	info_before_install	101	New system version detected for your vehicle. Please park your vehicle safely, and start the system upgrade for free.	您的爱车已有新的系统可进行升级，建议行驶到安全地带进行升级（此次下载为免流量下载）
+string	install	6	Install	安装
+string	install_cancel_notice_content	26	Your ZEEKR 001 can be driven and used normally and safely, but there are still some contents that need to be updated. We suggest you contact your ZEEKR partner (4000036036) for your exclusive technical support as soon as possible.	已取消本次升级任务！
+string	install_fail	11	Install failed	安装失败
+string	install_fail_check_content	105	If the installation condition is not met, Please wait for the next task reminder or contact your ZEEKR partner (4000036036) for your exclusive technical support	为了保证您的爱车能正常使用，请联系极氪官方客服（4000-036-036）获得您专属的服务支持。
+string	install_fail_critical_content	109	In order to ensure the normal and safe operation of your ZEEKR 001, please contact your ZEEKR partner (4000036036) for your exclusive technical support as soon as possible	"为了保证您的爱车能正常使用，\n请联系极氪官方客服（4000-036-036）获得您专属的服务支持。"
+string	install_fail_message	28	Will re-download later	稍后将自动为您重新下载
+string	install_fail_notice_content	146	Your ZEEKR 001 can be driven and used normally and safely, but there are still some contents that need to be updated. We suggest you contact your ZEEKR partner (4000036036) for your exclusive technical support as soon as possible.	您的极氪001已结束本次升级，请静待下次升级，如果您有任何疑问，可以随时联系极氪伙伴（4000-036-036）获得您专属的技术支持
+string	install_message	79	The installation will take long. To avoid battery runs out, please keep the vehicle started	由于安装时间较长，为防止馈电，建议保持车辆在启动的状态下进行安装
+string	install_message_txt	20	Install %1$s now?	立即安装 %1$s？
+string	install_now	11	Install now	立即安装
+string	install_success	11	Installed	安装完成
+string	install_tem_message	24	Wait 30s to restart	30秒后再启动发动机
+string	install_tem_power_off_tips	28	Turn off engine first	请将发动机熄火后再安装
+string	install_tem_tips	48	"The ihu of car can't work normally in installing,Confirm whether the installation is now?"	安装过程中无法使用车机，是否现在安装？
+string	install_time	24	Takes about 20 min	安装预计需要20分钟
+string	install_tips	87	"Please make sure that keep engine of the car working and drive to safety zone when installing,besides,the ihu of car can't work normally,Confirm whether the installation is now?"	建议安装时汽车不要熄火并行驶到安全地带，且无法使用车机，是否现在安装？
+string	install_title	10	Installing…	安装中…
+string	label	8	Label	
+string	loading	21	Loading, please wait…	正在升级,请稍后…
+string	millisecond	6	millisecond	毫秒
+string	minute	6	minute	分钟
+string	minutes	4	minutes	分
+string	modify_updata_time	11	Reschedule	修改预约
+string	mpu_upgrade_confirm_msg	67	Note: The system will restart during the update. Please drive to a safe place before updating.	注意：升级会导致系统重启，建议您行驶到安全地带进行升级
+string	mpu_upgrade_failed	33	GKUI upgrade failed, system will reboot	GKUI升级失败,系统即将重启
+string	mpu_upgrade_failed_and_retry	33	GKUI upgrade failed,confirm whether to upgrade again	GKUI升级失败,是否重新安装
+string	mpu_upgrade_shutdown_msg	62	Installation should be carried out in the case of engine start. Please restart engine and retry.	安装需在发动机启动的情况下进行，请启动发动机后重试
+string	mpu_upgrade_success	33	MPU upgrade completed, system will reboot	GKUI升级完成,系统即将重启
+string	network_error	124	The update was interrupted due to poor network signal. Once the connection is stable,\ngo to [Settings] -> [System] -> [GKUI ...] to try again.	"当前网络信号差升级中断，您可以待网络链接通畅后\n到【设置】->【系统】->【GKUI ...】中再次尝试升级。"
+string	network_not_connected	14	No network	网络不可用
+string	new_func_introduction_detail	31	No release notes yet	新版本内容服务器尚未给出
+string	new_system_upgrade_succeed	26	System updated successfully!	新系统已经升级成功！
+string	new_system_version	11	System version	系统版本
+string	new_version	9	New version	新版本
+string	night_auto_upgrade	16	Night auto-update	夜间自动升级
+string	night_auto_upgrade_goto_upgrade	9	Update	去升级
+string	night_auto_upgrade_look_log	16	View update log	查看升级日志
+string	night_auto_upgrade_manager	11	Updates	升级管理
+string	night_auto_upgrade_night_auto_upgrade	174	An automatic update is scheduled for 02:00 tonight. It will take about %1$s min. During the update, you cannot drive the vehicle, use the touchscreen, or charge the vehicle. Please lock the vehicle and leave before the update starts.	已为您预约凌晨02:00自动升级。本次升级预计需要%1$s分钟。升级过程中，您无法驾驶车辆、使用触摸屏、给车辆充电或使用远控。升级前，请确保锁车离开。
+string	night_auto_upgrade_time_set	162	A system update is available for your car! It will take about %1$s min. During the update, you cannot drive the vehicle, use the touchscreen, or charge the vehicle. Please lock the vehicle and leave before the update starts.	您的爱车有系统升级！本次升级预计需要%1$s分钟。升级过程中，您无法驾驶车辆、使用触摸屏、给车辆充电或使用远控。升级前，请确保锁车离开。
+string	night_auto_upgrade_tip1	130	You have scheduled an update for %1$s today. Turning this on will move it to 02:00 tonight, and future versions will be installed automatically at 02:00.	您已预约今天%1$s升级，开关开启后将把升级时间调整为今晚02:00，且后续有新版本时将在凌晨02:00为您自动升级。
+string	night_auto_upgrade_tip2	130	You have scheduled an update for %1$s tomorrow. Turning this on will move it to 02:00 tonight, and future versions will be installed automatically at 02:00.	您已预约明天%1$s升级，开关开启后将把升级时间调整为今晚02:00，且后续有新版本时将在凌晨02:00为您自动升级。
+string	night_auto_upgrade_tip3	110	New versions will be installed automatically at 02:00. During the update, you cannot drive the vehicle, use the touchscreen, or charge the vehicle.	有新版本时，将在凌晨02:00为您自动升级。升级过程中将无法驾驶车辆、使用触摸屏或给车辆充电。
+string	night_auto_upgrade_tip4	140	You have scheduled an update in %1$s h %2$s min. Turning this on will move it to 02:00 tonight, and future versions will be installed automatically at 02:00.	您已预约%1$s小时%2$s分钟升级，开关开启后将把升级时间调整为今晚02:00，且后续有新版本时将在凌晨02:00为您自动升级。
+string	night_auto_upgrade_title	26	Enable night auto-update?	是否开启夜间自动升级
+string	no_reminder	11	No reminder	不再提醒
+string	no_suitable_upgrade_zip	21	No valid package	没有合适的升级包
+string	notice	70	No one is allowed in the car during the update. Remote control and anti-theft functions will be unavailable.	升级期间，任何人不能留在车内，远程遥控、防盗功能不可用！
+string	notification_downloading	16	downloading now	正在为您下载
+string	notification_into	6	enter	查看
+string	official_version	9	Release	正式版
+string	okay	6	Close	好的
+string	open	6	Enable	开启
+string	ota_no_network_fail	15	Check network!	请检查网络!
+string	ota_upgrade_auto_update_fail	23	Bind auto install failed!	绑定自动安装失败！
+string	ota_upgrade_cancel	19	Update canceled	系统升级被终止
+string	ota_upgrade_cancel_install	19	Reject version update!	拒绝版本升级！
+string	ota_upgrade_check_result_error	19	Update list error!	升级列表有误！
+string	ota_upgrade_checkversion_fail	19	Version check failed!	版本检查失败！
+string	ota_upgrade_copy_package_fail	23	File copy failed!	拷贝安装文件失败！
+string	ota_upgrade_download_fail	21	Download failed!	下载升级包失败！
+string	ota_upgrade_download_fail_net_fail	29	Sorry, you can only use 4G to download.	抱歉！只能使用4G下载。
+string	ota_upgrade_download_success	21	Downloaded!	下载升级包成功！
+string	ota_upgrade_downloading	23	Downloading...	升级包正在下载中！
+string	ota_upgrade_downloading_progress	34	Downloading (%1$d%%)	升级包正在下载中！(%1$d%%)
+string	ota_upgrade_file_verify_fail	27	OTA upgrade file verify failed!	ota升级文件校验失败！
+string	ota_upgrade_finish_tips	9	Got it	知道了
+string	ota_upgrade_get_package_fail	21	Package not found!	获取安装包失败！
+string	ota_upgrade_ihu_id_error	31	GKUI version is empty!	当前GKUI版本号不可为空！
+string	ota_upgrade_initdata_fail	21	Init error!	初始化参数异常！
+string	ota_upgrade_install_fail	23	OTA update failed!	ota系统升级失败！
+string	ota_upgrade_install_is_runing	22	Updating...	有新版本正在升级…
+string	ota_upgrade_mpu_address_empty	26	Package URL missing!	升级包地址不可为空！
+string	ota_upgrade_mpu_address_not_find	26	Package URL missing!	升级包地址不可为空！
+string	ota_upgrade_network_fail	41	Please check your network connection. You can only use 4G to download!	请检查网络，只能使用4G进行下载！
+string	ota_upgrade_new_version	21	Already up to date!	已经是最新版本！
+string	ota_upgrade_not_found	21	No update task found!	未发现升级任务！
+string	ota_upgrade_not_free	21	In the OTA upgrade…	正在进行OTA升级…
+string	ota_upgrade_not_shut_down	23	Updating, don't operate!	升级中，请勿操作！
+string	ota_upgrade_other_task_install	31	Other update tasks are found!	发现已经有其他升级任务！
+string	ota_upgrade_prepare_package_file	22	Preparing package...	正在初始化升级包…
+string	ota_upgrade_refuse_new_version	27	Update declined!	拒绝升级最新版本版本!
+string	ota_upgrade_refuse_upgrade	17	Reject this update!	拒绝本次升级!
+string	ota_upgrade_report_download_fail	36	Report to fail to download the update package download status!	上报下载升级包下载状态失败！
+string	ota_upgrade_report_install_fail	23	Failed to report status!	上报升级状态失败！
+string	ota_upgrade_reupgrade_message	31	New version. Update?	有升级的版本，是否升级？
+string	ota_upgrade_rw_db_fail	21	Failed to read database!	读写数据库失败！
+string	ota_upgrade_sdcard_space_low	19	SD card full!	SD卡空间不足！
+string	ota_upgrade_sn_id_error	32	IHU serial no. empty!	升级的IHU序列号不可为空！
+string	ota_upgrade_success	19	Update success	系统升级成功！
+string	peps_off_message	60	For your safety concern, the reserved upgrade is canceled. You can upgrade again	为了您的行车安全已取消本次预约，您可在此启动升级
+string	prompt	6	Notice	提示
+string	refuse	6	Refuse	拒绝
+string	reminder_delay_message	79	For your safety concern, the reserved upgrade is closed automatically. You can upgrade again when your vehicle is parked safely	为了您的行车安全，自动结束了本次预约升级，可在汽车停稳后再次升级
+string	reupgrade_btn_txt	11	Try again	重新升级
+string	second	4	second	秒
+string	service_number_title	11	Customer service	客服电话
+string	set_succeed	11	Set success	设定成功
+string	set_time	11	Set time	预约升级
+string	software_version_info	19	Software version:	软件版本信息：
+string	subscribe_success	49	"Reserved successfully\nUpgrade will start in %1$d hours %2$d minute"	"预约成功\n\n将在%1$d小时%2$d分钟后升级"
+string	subscribe_success1	39	"Reserved successfully\nUpgrade will start in %1$d hours"	"预约成功\n\n将在%1$d小时后升级"
+string	subscribe_success2	39	"Reserved successfully\nUpgrade will start in %1$d minute"	"预约成功\n\n将在%1$d分钟后升级"
+string	subscribed	9	Reserved	已预约
+string	sunroof_is_close	24	Sunroof is closed	Sunroof is closed
+string	sunscribe_upgrade	11	Reserve upgrade	预约升级
+string	sure	6	Sure	确认
+string	sure_new	6	Confirm	确认
+string	sure_upgrade	6	Confirm	确认
+string	system_reboot	28	Installed, restarting...	安装成功，系统即将重启
+string	system_update_title	29	System update Lynk %1$s .	系统升级 Lynk&Co %1$s
+string	system_upgrade	11	System update	系统升级
+string	system_version	11	System version	系统版本
+string	tbox_installing	17	System upgrading…	系统正在升级…
+string	tbox_upgrade_fail	16	Update failed	系统升级失败
+string	tbox_upgrade_failed	32	Update failed, restarting	系统升级失败,系统即将重启
+string	tbox_upgrade_success	37	System security upgrade succeeded, system will reboot	系统安全升级成功,系统即将重启
+string	tbox_version	13	T-Box Version	T-Box版本
+string	telephone_warming	50	For any issues, call the Geely 24-hour hotline!	如遇相关问题，可致电吉利24小时服务热线！
+string	tem_install_fail	16	Turn off & retry	请熄火后重试
+string	terms_of_service	11	Terms of service	服务条款
+string	terms_of_service_content	571	Zeekr AutoMobile(Ningbo Hangzhou Bar New Zone) Co., Ltd. (hereinafter referred to as the we) provide you with Vehicle Over-The-Air technology services (hereinafter referred to as the OTA service), in order to enhance and improve or perfect vehicle functions, further enhance the user experience, in some cases, may also be used to eliminate the defect automobile products. OTA service may change the way some functions are used. In before each OTA services, therefore, please be sure to read carefully the corresponding upgrade instructions as well as the terms of service, to ensure that the vehicle is in a state of suitable upgrade, ensure that the knowledge of the function, the matters needing attention of upgrading or adding according to our suggest, if there is any uncertainty or not familiar with the situation, please contact us in time, contact phone number, 4000036036.	极氪汽车(宁波杭州湾新区)有限公司（以下简称“我们”）向您提供汽车远程升级（OTA）服务（以下简称为“升级服务”），以提升、改善或完善车辆功能，进一步提升用户体验，在部分情况下，还可能用于消除汽车产品缺陷问题。升级服务可能会造成部分功能使用方式改变。因此，在每次进行升级服务前，请您务必仔细阅读相应升级说明以及本服务条款，确保车辆处于适宜升级的状态，确保在了解升级或添加的功能、注意事项后根据我们的提示进行操作，如有不确定或者不熟悉的情况，请及时联系我们，联系电话4000036036。
+string	terms_of_service_ok	6	complete	完成
+string	time_notice	26	You can set a time within the next 24 h	设定时间24小时内有效
+string	time_set	11	Time set!	预约成功
+string	time_set_content	124	"\nFor safety we suggest to close the windows leave and lock the car for update."	"\n升级过程中请不要解锁车门，您暂时无法驾驶车辆或使用触摸屏 建议关闭车窗，锁车离开后自动进行系统升级"
+string	time_set_content2	141	The automatic update scheduled for 02:00 failed. Please check your network connection. You can go to [Settings - System Update] to schedule the update again.	本次预约到凌晨02:00的自动预约升级未能成功，请检查网络连接是否正常。您可以进入【设置-系统升级】，再次进行升级预约。
+string	time_set_failed	11	Failed	预约失败
+string	time_set_notice	41	The update will start after %1$shour %2$s min	本次升级将于%1$s小时%2$s分后开始
+string	time_set_today_notice	91	The update will start today at %1$s and take around %2$s minutes.You can change the set time in system settings.	本次升级将在今天%1$s开始，本次升级预计%2$s分钟,你可以在系统设置中更改时间
+string	time_set_tomorrow_notice	98	The update will start tomorrow at %1$shour %2$smin and take around %3$s minutes.You can change the set time in system settings.	本次升级将在%1$s时%2$s分开始，本次升级预计%3$s分钟，你可以在系统设置中更改时间
+string	time_today_tip	9	Today at	于今日
+string	time_tomorrow_tip	9	Tomorrow at	于明日
+string	time_unit	4	min	分
+string	total	4	"Total "	共
+string	update_break	11	Interrupted	升级中断
+string	update_check_countdown_notice	31	The update will start after the following time.	升级将在以下时间之后开始
+string	update_delay	11	Postponed	升级推迟
+string	update_dialog_content	28	Estimated time: %1$s	本次升级预计需要 %1$s
+string	update_fail	23	Update condition is not fulfilled	系统升级条件不满足
+string	update_faile	76	Sorry, the update failed\nPlease contact customer service for support\n\nHotline: %1$s	"很遗憾,升级失败\n建议你联系客服获得技术支持\n\n服务热线：%1$s"
+string	update_failure	11	Expired	升级失效
+string	update_loading_title	36	A system update is available	你的爱车有新的系统可进行升级
+string	update_now	11	Update now	立即升级
+string	update_pre	14	Preparing...	升级准备中
+string	update_starting	14	System Updating	升级进行中
+string	update_subscribe	11	Reschedule	更改预约
+string	update_time	26	The update will take approximately %1$s min.	升级大约需要%1$s分钟
+string	update_when_getting_off	19	Remind on exit	下车时提醒升级
+string	upgrade	6	Upgrade	升级
+string	upgrade_after_10minutes	16	Update in 10 min	10分钟后升级
+string	upgrade_after_accoff	42	Auto upgrade to new version after five minutes	新版本将在熄火5分钟后自动进行升级
+string	upgrade_after_minutes	14	Upgrade in	分钟后升级
+string	upgrade_already_new_txt	16	Up to date	已是最新版本
+string	upgrade_back_btn_txt	11	System update	系统升级
+string	upgrade_check_btn_txt	11	Check update	检查升级
+string	upgrade_check_failed_txt	16	Update check failed	检查升级失败
+string	upgrade_default_time	33	Est. time: 1 h 30 min	升级耗时预计: 1小时30分钟
+string	upgrade_delay	11	Not now	暂不升级
+string	upgrade_delay_title	11	Update later	推迟升级
+string	upgrade_download_btn_txt	11	Download update	下载升级
+string	upgrade_download_failed_txt	16	Download failed	升级下载失败
+string	upgrade_downloading_txt	13	Downloading	正在下载…
+string	upgrade_expect_time	21	Est. time: 	"升级耗时预计: "
+string	upgrade_failed_txt	19	Upgrade failed	系统升级失败！
+string	upgrade_failse	48	Setting failed. Check network and retry.	设定失败，请确保网络信号良好，重新设定
+string	upgrade_find_new_version	14	New version	发现新版本
+string	upgrade_free_wifi	14	Data free download	下载免流量
+string	upgrade_in_settings_tip	37	You can manually start the upgrade in settings!	您可以在“设置”中手动启动升级!
+string	upgrade_later	26	Auto-update 5 min after off	熄火五分钟后自动升级
+string	upgrade_later_btn_txt	21	5 min after off	熄火五分钟后升级
+string	upgrade_loading_txt	15	Checking update…	检查升级中…
+string	upgrade_log	11	Upgrade log	升级日志
+string	upgrade_log_title	23	What's new	最新升级的新增内容
+string	upgrade_notification_battery_low_delay_pip	35	The battery level is too low!	12V蓄电池电量低！请稍后再试
+string	upgrade_notification_cancel	16	System update cancelled by ZEEKR	升级任务取消
+string	upgrade_notification_cancel_pip	26	Please wait for the next update or contact customer service for technical support on phone nr 4000036036.	已取消本次升级任务！
+string	upgrade_notification_config_error_delay_pip	26	"The car couldn't find the update!"	车辆升级任务未找到！
+string	upgrade_notification_connect_delay_pip	50	Poor network connection!	车辆网络连接不畅，请确保网络良好后再试！
+string	upgrade_notification_content	26	There is an available update for your car!	您的汽车有系统升级！
+string	upgrade_notification_delay	16	System update delay	系统升级推迟
+string	upgrade_notification_door_unlocked_delay_pip	47	One door was unlocked!	车门或机舱盖未关闭/未上锁，请稍后再试
+string	upgrade_notification_energy_delay_pip	28	Vehicle power battery energy level is low!	车辆动力电池电量过低！
+string	upgrade_notification_fail	11	System update failed	升级失败
+string	upgrade_notification_gear_delay_pip	34	Gear not in P!	挡位不在P档，请驻车后再试！
+string	upgrade_notification_hv_delay_pip	36	Vehicle powertrain system upgrade conditions are not met!	车辆动力系统升级条件不满足！
+string	upgrade_notification_merry_error_delay_pip	36	Vehicle system update memory is not available!	车辆内存被占用，请稍后再试！
+string	upgrade_notification_net_bad_delay_pip	50	The network connection is too bad!	车辆网络连接不畅，请确保网络良好后再试！
+string	upgrade_notification_not_fullfilled	23	Update condition is not fulfilled	系统升级条件不满足
+string	upgrade_notification_pip	26	The update will take about %1$s	升级大约需要%1$s分钟
+string	upgrade_notification_regret_delay_pip	19	Confirm upgrade is timeout!	确认升级超时！
+string	upgrade_notification_scene_delay_pip	43	Scene Mode is running!	情景模式下不能升级，请关闭后再试！
+string	upgrade_notification_service_error_delay_pip	36	The update service is unavailable!	升级条件不满足，请稍后再试！
+string	upgrade_notification_speed_delay_pip	38	Vehicles in use!	行驶中无法升级，请驻车后再试！
+string	upgrade_notification_success	16	The system update was successful!	系统升级成功
+string	upgrade_notification_success_pip	26	Your car is now even better than before!	您的爱车比以前更好了
+string	upgrade_notification_time_out_delay_pip	36	The confirmation process was too slow!	升级条件不满足，请稍后再试！
+string	upgrade_notification_updating_error_delay_pip	36	Something is wrong with the update!	升级条件不满足，请稍后再试！
+string	upgrade_notification_usage_not_allowed_delay_pip	33	Vehicles in use!	车辆使用中，请驻车后再试！
+string	upgrade_notification_window_open_delay_pip	16	One window was open!	车窗未关闭！
+string	upgrade_now_btn_txt	11	Update now	立即升级
+string	upgrade_or_subscribe	31	Upgrade now. Or reserve a time for upgrade	立即升级，或预约时间升级
+string	upgrade_ota_fail_pop	41	If you have any questions, please go to the 4S shop or call customer service	如有问题请前往4S店或拨打客服电话
+string	upgrade_redownload_btn_txt	11	Try again	重新下载
+string	upgrade_remind1	101	The update will run automatically after you lock the car. Make sure the windows and sunroof are closed. Please note:	升级会在您正常锁车后系统自动执行，请确认车窗、天窗处于关闭状态，相关注意事项如下：
+string	upgrade_remind2	65	After the update, lock and then unlock the car with the key fob to activate it!	升级完成后需要使用遥控钥匙先锁车，再解锁来激活车辆！
+string	upgrade_remind3	99	During the update, the key fob and anti-theft alarm are temporarily locked. Do not leave children, pets, or valuables in the car!	升级过程中遥控钥匙、防盗报警将暂时被锁定，请勿将孩子、宠物或贵重物品遗留在车内！
+string	upgrade_remind4	67	Do not operate the vehicle during the update, or the update may fail!	升级过程中请不要对车辆进行任何操作，以免造成升级失败！
+string	upgrade_running	94	"Upgrading… Please don't operate during the installation, and Remote key is temporarily unavailable"	正在升级，为了安装顺畅，请不要在车内进行任何操作且升级过程中遥控钥匙暂不可用
+string	upgrade_running1	11	Remote key	遥控钥匙
+string	upgrade_running_before_root	89	"After updating, IHU will be restarted. Don't use the vehicle until the update is completed"	升级完成后会重启车机，由此会给您的行车带来不便，建议升级完成后再使用车辆
+string	upgrade_subscribe_time1	23	Update in 4h 30m	4小时30分钟后升级
+string	upgrade_subscribe_time2	46	"Reserved successfully\n\nUpgrade will start in 11 hours 20 minutes"	"预约成功\n\n将在11小时20分钟之后升级"
+string	upgrade_success_notice_info	31	Version %1$s downloaded	系统版本%1$s已经下载完成
+string	upgrade_success_txt	36	Updated to latest version!	恭喜你，成功升级到最新版本！
+string	upgrade_sure	6	upgrade	升级
+string	upgrade_tips	124	"In order to ensure the success of the upgrade, please do not unlock the door \nduring the upgrade process."	"升级过程中请不要解锁车门，您暂时无法驾驶车辆或使用触摸屏 \n建议关闭车窗，锁车离开后自动进行系统升级"
+string	upgrade_warning	145	"During the upgrade, you can't drive your vehicle or use the touch screen, and the anti-theft device might be out of work. Please keep your car in parking mode, and keep doors locked"	在升级过程中，您无法驾驶车辆或使用触控屏，汽车的防盗器可能在这段时间不工作。汽车必须处于“驻车”模式并且车门处于关闭状态
+string	upgrading	10	Upgrading…	升级中…
+string	upgrading_text	33	Trying to update, please wait…	正在进行系统升级中,请稍后…
+string	use_car	11	Use vehicle	我要用车
+string	vechile_install_fail_message	232	During the update, make sure the windows and sunroof are closed and the car is locked,\nthe network is stable, and the vehicle is not operated.\nOtherwise the update may fail.\nYou can go to [Settings] -> [System] -> [GKUI ...] to try again.\n\nHotline: %1$s	"升级过程中请您务必保证车窗天窗关闭并锁车,\n网络通畅并且不要对车辆进行任何操作,\n这些都可能导致你的车机升级失败。\n现在您可以【设置】->【系统】->【GKUI ...】中再次尝试升级。\n\n服务热线：%1$s"
+string	vechile_pre_install_delay_tip	79	"You've selected Reserved update. After you lock the vehicle, the system upgrade will start automatically."	您选择了预约升级，您现在可以离开车辆系统将在您离车后自动进行升级
+string	vechile_pre_install_now_tip	83	"You've selected Updata now. After you lock the vehicle, the system upgrade will start automatically."	"您选择了立即升级，您现在可以离开车辆\n系统将在您离车后自动进行升级"
+string	vehicle_version	11	Vehicle version	车辆版本
+string	version_detail	16	Version details	查看版本详情
+string	version_info	11	New version info	升级版本
+string	windows_are_close	26	Windows are closed	Windows are closed
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_show_psw	11	show password	显示密码

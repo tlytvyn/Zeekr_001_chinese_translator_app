@@ -1,0 +1,54 @@
+string	agree_enter	12	missing	同意并进入	
+string	all_window_close	10	missing	一键关窗	
+string	all_window_open	10	missing	一键开窗	
+string	all_window_ventilate	10	missing	一键透气	
+string	apa	14	missing	自动泊车辅助	
+string	brightness_auto	10	missing	自动亮度	
+string	brvah_load_end	14	missing	没有更多数据	
+string	brvah_load_failed	22	missing	加载失败，请点我重试	
+string	brvah_loading	13	missing	正在加载中…	
+string	camp_mode	10	missing	露营模式	
+string	car_hotspot	10	missing	车载热点	
+string	clean_screen	10	missing	屏幕清洁	
+string	clear_al	10	missing	全部清除	
+string	custom	8	missing	自定义	
+string	dhu	6	missing	中控	
+string	dim	6	missing	仪表	
+string	disconnect_txt	8	missing	无连接	
+string	display_clear_csd	14	missing	屏幕清洁模式	
+string	display_clear_csd_long_click	17	missing	长按此处3秒退出	
+string	display_clear_csd_sec_title	107	missing	使用监视器和显示屏专用清洁软布清洁触摸屏。切勿使用清洁剂、湿抹布或带静电的干燥材料。	
+string	door_lock	8	missing	中控锁	
+string	drift_tips	772	missing	"此功能须进入驾驶循环并且在P档下，确认司乘人员安全带系上才能激活，安全带全程不得拔出。在中途停车拔出任 安全带会自动退出漂移模式；\n此功能必须在电量>20%SOC才能激活，当SOC< 20%的时候会自动退出；\n此功能必须在整车系统全部正常下才能激活，如有异常自动退出；\n使用要求：\n1、此功能必须在符合国家安全标准的赛车场或专业场地内应用，不得在公共道路和不符合安全标准场所使用。\n2、使用漂移模式时，为确保安全建议使用原厂配套的漂移套装配件。\n3、漂移模式需要比较专业的驾驶技能，所以要求有至少x年驾龄以上的驾驶员操作。\n激活漂移功骺后：\n1.动力模式为运动；\n2. E-pedal, Autohold功能默认关闭。\n3、关闭ESC功能。\n4、能量回收等级低。"	
+string	drift_title	18	missing	一键漂移用户须知	
+string	edit	6	missing	编辑	
+string	edit_page_divider_hint	72	missing	上方内容将显示在快捷面板中，长按拖动可替换和排序现有功能	
+string	eject_tips	799	missing	"警告：弹射起步过程中，驾驶员有责任全程保持对车辆的控制，并确保车辆行驶和使用环境，请务必在确认安全的条件下操作。长时间连续弹射可能会造成整车驱动和制动系统性能下降，希望您能谨慎使用该功能。 \n \n使用要求： \n1、弹射起步功能需要在停车状态，确认车门关闭、司乘人员安全带正常系上 \n2、保证车辆动力系统温度正常，电量充足 \n3、关闭智能驾驶相关功能，摆正方向盘，释放电子手刹，车辆调整为D档 \n \n使用说明： \n1、 打开“弹射起步”按键 \n2、 先满踩下刹车，后满踩油门，待仪表提醒launch mode active后，4秒内将制动踏板完全释放，整车会以极大的加速度弹射起步。（若提示launch mode failed，请查看大屏提示和检查车辆状态） \n \n以上信息是否完全理解并同意？"	
+string	eject_title	18	missing	弹射起步用户须知	
+string	feedback	10	missing	一键反馈	
+string	hot_count_txt	11	missing	%d个连接	
+string	hud	9	missing	HUD调节	
+string	low_drive_warn	16	missing	低速行驶警示音	
+string	nap_mode	10	missing	休憩模式	
+string	network_reset	10	missing	网络重启	
+string	notify_header_text_friday	8	missing	星期五	
+string	notify_header_text_monday	8	missing	星期一	
+string	notify_header_text_saturday	8	missing	星期六	
+string	notify_header_text_sunday	8	missing	星期日	
+string	notify_header_text_thursday	8	missing	星期四	
+string	notify_header_text_tuesday	8	missing	星期二	
+string	notify_header_text_wednesday	8	missing	星期三	
+string	notify_header_text_yesterday	6	missing	昨天	
+string	notify_new_notification_header	16	missing	您收到一条通知	
+string	notify_normal_bar_text	18	missing	您有一条新消息！	
+string	notify_system_app	10	missing	系统消息	
+string	off_screen	6	missing	熄屏	
+string	quick_control	10	missing	快捷面板	
+string	rear_mirror_set	12	missing	后视镜调节	
+string	seat_adjustment_in_progress_please_waiting	20	missing	座椅调整中，请稍后	
+string	time_hour_ago	12	missing	%s 小时前	
+string	time_minute_ago	12	missing	%s 分钟前	
+string	time_now	6	missing	现在	
+string	vehicle_control_is_full	40	missing	最多只能添加8个功能，请先删减后再添加	
+string	wash_mode	10	missing	洗车模式	
+string	wifi_charging	10	missing	无线充电	

@@ -1,0 +1,15 @@
+string	clear_like	10	missing	立即清理	
+string	clear_like_hand	22	missing	立即手动清理（%1$s）	
+string	clear_succeed	32	missing	释放了%1$s存储空间,可用空间%2$s	
+string	clear_wait	10	missing	稍后清理	
+string	disk_high_tip	82	missing	存储空间即将用尽，车机系统将暂停服务，请立即清理或联系当地服务站	
+string	disk_low_again	77	missing	本次清理释放空间较小，可能会影响车机软件正常使用，请继续清理	
+string	disk_space_content	82	missing	存储空间剩余不足，可能会影响车机软件正常使用，请尽快清理存储空间	
+string	disk_space_high_title	14	missing	存储空间不足	
+string	disk_space_title	14	missing	存储空间不足	
+string	list_clear_auto	14	missing	存储空间不足	
+string	tip_time_high	51	missing	本次清理释放空间较小，请立即清理或联系当地服务站	
+string	warning_of_driver_run_app	33	missing	为了驾驶安全，主驾暂不支持使用	
+string	warning_of_driver_run_game	35	missing	为了驾驶安全，主驾暂不支持玩游戏	
+string	warning_of_run_game_on_driving	42	missing	为了驾驶安全，请停车进入 P 挡再进行游戏	
+string	warning_of_run_on_driving	30	missing	为了驾驶安全，请在P挡下使用	

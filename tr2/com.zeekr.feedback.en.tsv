@@ -1,0 +1,10 @@
+string	app_name	Feedback
+string	cancel	Cancel
+string	close	Close
+string	counting	Countdown
+string	record_tips	Tell Eva your suggestion
+string	request_focus_error	Microphone busy, try feedback later
+string	submit	Submit
+string	submit_record	Submit recording
+string	submit_tips	Your suggestion was recorded. Thank you!
+string	tips	Example 1 – add automatic parking in and out;\nExample 2 – add Sentry mode

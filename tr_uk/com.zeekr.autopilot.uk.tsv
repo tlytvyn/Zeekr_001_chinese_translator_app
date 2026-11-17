@@ -1,0 +1,285 @@
+string	alarm_ahead_500_meters	Скоро кінець ділянки NZP,\nтримайте кермо
+string	alarm_attention	Дивіться на дорогу
+string	alarm_auto_pilot_stop	ZEEKR Pilot вимкнено
+string	alarm_hands_off	Тримайте кермо
+string	alarm_hands_off_pilot_stop	Не перейнято
+string	alarm_incorrect_stop	Тримайте кермо, ще раз натисніть «Скасувати»
+string	alarm_lcc_running	LCC працює
+string	alarm_level_1_change_to_the_left	Скоро ліворуч
+string	alarm_level_1_change_to_the_right	Скоро праворуч
+string	alarm_level_1_nzp_activated	NZP увімк.
+string	alarm_level_1_prepare_for_lane_change	Підготовка
+string	alarm_level_1_the_lane_change_failed	Збій зміни смуги
+string	alarm_level_1_the_lane_change_finish	Смугу змінено
+string	alarm_level_1_turn_on_the_left	Зміна смуги ліворуч\nПідтвердьте поворотником
+string	alarm_level_1_turn_on_the_right	Зміна смуги праворуч\nПідтвердьте поворотником
+string	alarm_level_1_upgraded_tp_nzp	Перехід на NZP\nМожна відпустити кермо
+string	alarm_level_2_ahead_of_200_meters	Кінець ділянки NZP через 200 м\nГотуйтеся перейняти кермо
+string	alarm_level_2_ahead_of_500_meters	Кінець ділянки NZP через 500 м\nГотуйтеся перейняти кермо
+string	alarm_level_2_alca_withdrawn	ALC вимкнено
+string	alarm_level_2_downgraded_to_automatic	Знижено до асистента водіння\nТримайте кермо
+string	alarm_level_2_nzp_withdrawn	NZP вимкнено
+string	alarm_level_3_grip_the_steering_wheel	Міцно тримайте кермо
+string	alarm_level_3_take_over_the_vehicle	Перейміть кермо!
+string	alarm_nzp_active	NZP активний
+string	alarm_nzp_road_rendering	Відображення дороги, NZP працює нормально
+string	alarm_nzp_running	NZP працює
+string	alarm_nzp_to_be_end_odd	Кінець ділянки NZP, тримайте кермо
+string	alarm_pilot_disable	Функція недоступна\nЗупиніться й перезапустіть авто
+string	alarm_pilot_stop	ZEEKR Pilot вимкнено
+string	alarm_pilot_stop_and_hands_off	Міцно тримайте кермо
+string	alarm_safe_stop	Безпечна зупинка, перейміть кермо
+string	alarm_take_over	Перейміть кермо
+string	alarm_take_over_car	Перейміть кермо
+string	alarm_turn_confirm	Увімкніть поворотник
+string	alarm_turn_left_confirm	Увімкніть лівий поворотник
+string	alarm_turn_right_confirm	Увімкніть правий поворотник
+string	app_name	CoPilot
+string	auto_navi_text_heading_distance	Залишилось
+string	auto_navi_text_heading_speed_info	km/h
+string	cancel_turn	Зміну смуги скасовано
+string	change_to_lcc	На LCC
+string	change_to_nzp	На NZP
+string	changed_to_lcc	Перехід на LCC
+string	changed_to_nzp	Перехід на NZP
+string	changing_to_lcc	Перехід на LCC...
+string	changing_to_nzp	Перехід на NZP...
+string	chip_text	Текст чипа
+string	dialog_login_cancel	Скас.
+string	dialog_login_confirm	Увійти
+string	dialog_login_description	Потрібен вхід. Перейти до центру користувача, щоб увійти?
+string	dialog_login_description2	Потрібен вхід. Перейти до центру користувача?
+string	dialog_protocol_cancel	Відхил
+string	dialog_protocol_confirm	Згода
+string	dialog_protocol_confirm_timer	Згода (%1$s)
+string	dialog_protocol_title	Угода
+string	exit_toast	NZP закривається
+string	failed_change_to_nzp	Збій переходу NZP
+string	failed_turn_left	Збій зміни ліворуч, перейміть кермо
+string	failed_turn_right	Збій зміни праворуч, перейміть кермо
+string	finish_turn	Смугу змінено
+string	game_view_content_description	Ігровий вигляд
+string	label	Мітка
+string	level1_about_to_change_lane_to_the_left_alarm	Скоро ліворуч
+string	level1_about_to_change_lane_to_the_right_alarm	Скоро праворуч
+string	level1_ai_assisted_driving_is_on_alarm	AI-асистент увімк.
+string	level1_has_been_downgraded_to_nzp_intelligent_pilot_alarm	Знижено до NZP
+string	level1_has_been_upgraded_to_ai_assisted_driving_alarm	Перехід на AI-асистент
+string	level1_has_been_upgraded_to_nzp_autonomous_navigation_alarm	Перехід на NZP
+string	level1_lane_change_completed_alarm	Смугу змінено
+string	level1_lane_change_conditions_are_not_met_alarm	Зміну смуги скасовано
+string	level1_lane_change_has_been_cancelled_alarm	Зміну смуги скасовано
+string	level1_lane_change_in_progress_alarm	Зміна смуги
+string	level1_lane_change_is_cancelled_alarm	Зміну смуги скасовано
+string	level1_lane_changing_in_progress_please_pay_attention_alarm	Зміна смуги
+string	level1_lcc_function_on_alarm	LCC активний
+string	level1_lcc_is_running_alarm	LCC працює
+string	level1_nzp_autonomous_pilot_is_in_operation_alarm	NZP працює
+string	level1_nzp_autonomous_piloting_has_been_activated_alarm	NZP активний
+string	level1_please_hold_the_steering_wheel_alarm	Тримайте кермо
+string	level1_please_hold_the_steering_wheel_press_the_cancel_button_again_alarm	Тримайте кермо,\nще раз натисніть «Скасувати»
+string	level1_please_look_at_the_road_ahead_alarm	Дивіться на дорогу
+string	level1_please_operate_the_steering_lever_change_the_left_alarm	Увімкніть лівий\nповоротник для зміни смуги
+string	level1_please_operate_the_steering_lever_change_the_right_alarm	Увімкніть правий\nповоротник для зміни смуги
+string	level1_the_function_cannot_be_activated_alarm	Функція недоступна,\nзупиніться й перезапустіть авто
+string	level1_this_lane_change_failed_alarm	Збій зміни смуги
+string	level1_zca_is_running_alarm	ZCA працює
+string	level1_zeekr_pilot_exited_alarm	ZEEKR Pilot вимкнено
+string	level2_about_to_leave_the_workable_area_alarm	Виїзд із зони роботи,\nтримайте кермо
+string	level2_downgraded_to_manual_driving_please_hold_the_steering_wheel_alarm	Перехід на ручне керування,\nтримайте кермо
+string	level2_has_been_downgraded_to_a_manual_driving_condition_please_hold_the_steering_wheel_alarm	Збій зміни смуги ліворуч/праворуч,\nперейміть кермо
+string	level2_has_been_downgraded_to_lcc_alarm	Знижено до LCC
+string	level2_lane_changed_failed_left_alarm	Збій зміни ліворуч,\nперейміть кермо
+string	level2_lane_changed_failed_right_alarm	Збій зміни праворуч,\nперейміть кермо
+string	level2_pilot_function_exit_failure_to_take_over_alarm	ZEEKR Pilot вимкнено,\nкермо не перейнято
+string	level2_please_hold_the_steering_wheel_alarm	Тримайте кермо
+string	level2_please_look_at_the_road_ahead_alarm	Дивіться на дорогу
+string	level2_zeekr_pilot_function_exit_alarm	ZEEKR Pilot вимкнено
+string	level3_has_been_downgraded_to_manual_driving_condition_alarm	Перехід на ручне керування,\nтримайте кермо
+string	level3_please_hold_the_steering_wheel_alarm	Міцно тримайте кермо
+string	level3_please_look_at_the_road_ahead_alarm	Дивіться на дорогу
+string	level3_please_take_over_the_vehicle_immediately_alarm	Перейміть кермо!
+string	level3_please_take_over_the_vehicle_immediately_lcc_alarm	Перейміть кермо!
+string	level3_please_take_over_the_vehicle_in_the_safe_parking_alarm	Безпечна зупинка, перейміть кермо
+string	level3_zeekr_pilot_function_exit_alarm	ZEEKR Pilot вимкнено
+string	level4_unity_warning	Відображення дороги,\nNZP працює нормально
+string	level_unknown_alarm	Увага!
+string	main_settings_ai_assist_default_on_key	aiAssistDefaultOn
+string	main_settings_ai_assist_default_on_summary	AI-асистент водіння вмикається автоматично щоразу після увімкнення живлення автомобіля
+string	main_settings_ai_assist_default_on_title	Автоувімкнення
+string	main_settings_ai_assist_lane_change_confirm_key	aiAssistLaneChangeConfirm
+string	main_settings_ai_assist_lane_change_confirm_summary	Якщо увімкнено, система попереджає перед автоматичною зміною смуги, і ви маєте підтвердити її перемиканням важеля поворотників
+string	main_settings_ai_assist_lane_change_confirm_title	Підтвердж.
+string	main_settings_ai_assist_lane_change_strategy_gentle	Плавно
+string	main_settings_ai_assist_lane_change_strategy_key	aiAssistLaneChangeStrategy
+string	main_settings_ai_assist_lane_change_strategy_radical	Швидко
+string	main_settings_ai_assist_lane_change_strategy_standard	Норма
+string	main_settings_ai_assist_lane_change_strategy_title	Автообгін
+string	main_settings_ai_assist_lane_change_strategy_title_key	aiAssistLaneChangeStrategyTitle
+string	main_settings_ai_assist_lane_change_warning_key	aiAssistLaneChangeWarning
+string	main_settings_ai_assist_lane_change_warning_radio_both	Обидва
+string	main_settings_ai_assist_lane_change_warning_radio_key	aiAssistLaneChangeWarningRadio
+string	main_settings_ai_assist_lane_change_warning_radio_vibrate	Вібро
+string	main_settings_ai_assist_lane_change_warning_radio_voice	Звук
+string	main_settings_ai_assist_lane_change_warning_title	Сповіщення
+string	main_settings_ai_assist_out_overtaking_lane_key	aiAssistOutOverTakingLane
+string	main_settings_ai_assist_out_overtaking_lane_summary	Якщо увімкнено, після обгону на дорозі з обмеженим доступом автомобіль може знову змінити смугу, щоб звільнити смугу обгону, якщо дозволяють умови
+string	main_settings_ai_assist_out_overtaking_lane_title	Звільн. смуги обгону
+string	main_settings_ai_driver_assist_key	aiDriverAssist
+string	main_settings_ai_driver_assist_summary	На визначених дорогах система автоматично обганяє та тримає дистанцію до авто попереду
+string	main_settings_ai_driver_assist_title	AI-асистент
+string	main_settings_auto_lane_change_assist_key	autoLaneChangeAssist
+string	main_settings_auto_lane_change_assist_summary	На визначених дорогах перемкніть важіль поворотників для автоматичної зміни смуги
+string	main_settings_auto_lane_change_assist_title	Зміна смуги важелем
+string	main_settings_big_data_speed_limit_key	bigDataSpeedLimit
+string	main_settings_big_data_speed_limit_summary	Обмеження швидкості за даними big data про швидкість на дорозі
+string	main_settings_big_data_speed_limit_title	Big data швид.
+string	main_settings_convergence_speed_title	Комб. швидк.
+string	main_settings_drive_pilot_key	drivePilot
+string	main_settings_drive_pilot_summary	На визначених дорогах асистент водіння веде авто за вашим навігаційним маршрутом
+string	main_settings_drive_pilot_title	NZP
+string	main_settings_speed_limit_warning_offset_data_key	speedLimitWarningOffsetData
+string	main_settings_speed_limit_warning_offset_data_title	Поправка до знака обмеження
+string	main_settings_speed_limit_warning_offset_data_title_key	speedLimitWarningOffsetDataTitle
+string	main_settings_speed_limit_warning_offset_data_unit_km	km/h
+string	main_settings_speed_limit_warning_offset_data_unit_miles	mph
+string	main_settings_speed_limit_warning_offset_switch_key	speedLimitWarningOffsetSwitch
+string	main_settings_speed_limit_warning_offset_switch_title	Знак обмеж.
+string	main_settings_speed_limit_warning_offset_switch_title_key	speedLimitWarningOffsetSwitchTitle
+string	main_study_guide_description1	Zeekr AD — це вдосконалена система допомоги водієві. На автомагістралях і міських швидкісних дорогах вона забезпечує автоматичний в’їзд на з’їзди\nта виїзд із них, круїз, зміну смуги та переходи на розв’язках за навігаційним маршрутом. Згодом з’являться розпізнавання світлофорів і допомога гальмуванню на червоне світло, що дасть змогу\nїздити з навігаційним пілотом відкритими міськими дорогами.
+string	main_study_guide_description2	Спершу увімкніть xxx у налаштуваннях
+string	main_study_guide_description3	AI-асистент доступний після виконання умов
+string	main_study_guide_description4	Як увімкнути Zeekr AD
+string	main_study_guide_description5	Коли Zeekr AD увімкнено, стежте за
+string	main_study_guide_inspect	Тест
+string	main_study_guide_welcome	Вітаємо в Zeekr AD
+string	main_study_synopsis_reminder	Для вашої безпеки перед увімкненням Zeekr AD необхідно вивчити інструкції\nі пройти короткий тест. Це займе близько 10-15 хвилин.
+string	main_tab_achievement	Нагороди
+string	main_tab_settings	Налашт. AI
+string	main_tab_study	Навчання AI
+string	navi_interval_camera_info_avert_speed	Сер. швидк.
+string	nop_close	Увімк. AI-асистент
+string	nop_open	Вимк. AI-асистент
+string	on_nzp_dt_miss	Завантаження карти...
+string	push_study	Навчання
+string	push_title	ZEEKR підтримує інтелектуальне водіння, але щоб його увімкнути,\nпотрібно пройти навчання.
+string	start_turn	Зміна смуги
+string	study_guide_condition_description	AI-асистент
+string	study_guide_condition_step1	Пункт призначення задано
+string	study_guide_condition_step2	Усі датчики працюють і нічим не закриті
+string	study_guide_condition_step3	В’їдьте в зону дії Zeekr AD,\nі з’явиться значок асистента водіння
+string	study_guide_function_description	Спершу увімкніть xxx у налаштуваннях
+string	study_guide_inspect	Тест
+string	study_guide_next	Далі
+string	study_guide_open_description	Щоб увімкнути асистента під час руху
+string	study_guide_open_step1	Натисніть xx ліворуч на кермі
+string	study_guide_open_step2	Проведіть ліворуч для увімкнення
+string	study_guide_tab_condition	Умови
+string	study_guide_tab_function	Налашт.
+string	study_guide_tab_notes	Примітки
+string	study_guide_tab_open	Інструкція
+string	study_inspected_description	Увімкніть Zeekr AD і рушайте безпечно.
+string	study_inspected_finish	Готово
+string	study_inspected_switch	AI-асистент
+string	study_inspected_title	Тест пройдено!
+string	study_inspecting_next	Далі
+string	study_inspecting_tips	Порада:
+string	study_inspecting_title	Тест (%1$s/%2$s)
+string	study_synopsis_chart_cruise	Круїз
+string	study_synopsis_chart_each	Розв’язки
+string	study_synopsis_chart_lane	Зміна смуги
+string	study_synopsis_chart_ramp	З’їзди/в’їзди
+string	study_synopsis_description	Zeekr AD — це вдосконалена система допомоги водієві. На автомагістралях і міських швидкісних дорогах вона забезпечує автоматичний в’їзд на з’їзди\nта виїзд із них, круїз, зміну смуги та переходи на розв’язках за навігаційним маршрутом. Згодом з’являться розпізнавання світлофорів і допомога гальмуванню на червоне світло, що дасть змогу\nїздити з навігаційним пілотом відкритими міськими дорогами.
+string	study_synopsis_look	Посібник
+string	study_synopsis_reminder	Для вашої безпеки перед увімкненням Zeekr AD необхідно вивчити інструкції та пройти короткий тест.\nЦе займе близько 10-15 хвилин.
+string	study_synopsis_study	Почати
+string	study_welcome	Вітаємо в Zeekr AD
+string	study_welcome1	Вітаємо в NZP
+string	study_welcome2	Вітаємо в NZP — навігаційному асистенті на автомагістралі\n(NZP або NZP Highway Pilot)
+string	toast_ai_pilot_cannot_open	AI-асистент недоступний
+string	toast_ai_pilot_not_finished	Щоб увімкнути NZP, пройдіть навчання
+string	toast_ai_pilot_not_finished2	Не вдається увімкнути NZP
+string	toast_guide	Спершу прочитайте посібник «%1$s»
+string	toast_no_parking	Переконайтеся, що увімкнено P
+string	toast_nzp_study_finished	Навчання й тест NZP пройдено. Відкривайте функції в ZEEKR AD
+string	toast_open_ai_driver_assist	Спершу увімкніть «AI-асистент»
+string	toast_open_auto_lane_change_assist	Спершу увімкніть «Зміна смуги важелем»
+string	toast_open_auto_lane_change_assist_ai_driver_assist	Спершу увімкніть «Зміна смуги важелем» і «AI-асистент»
+string	toast_open_failed	Не увімкнено
+string	toast_study_no_finish	Щоб увімкнути AI-асистент, пройдіть навчання
+string	unit_min	хв
+string	warning_safe_drive	Тримайте кермо, їдьте безпечно
+string	window_go_study_guide_cancel	Скас.
+string	window_go_study_guide_confirm	Навчання
+string	window_go_study_guide_description	Щоб уперше скористатися NZP, потрібно пройти навчання.\nПереведіть автомобіль у положення P.
+string	window_go_study_guide_description2	Щоб уперше скористатися NZP, потрібно пройти навчання. Переведіть автомобіль у положення P.
+string	window_go_study_guide_description3	Щоб уперше скористатися NZP — навігаційним асистентом на автомагістралі (NZP або NZP Highway Pilot), потрібно пройти навчання. Переведіть автомобіль у положення P.
+string	window_go_study_guide_title	Почати навчання
+string	window_nzp_function_details_close	Закр.
+string	window_nzp_function_details_content1	Якщо попереду є цільовий автомобіль, NZP їде за ним, автоматично прискорюючись і сповільнюючись. Якщо автомобіль попереду сповільнюється до зупинки, NZP зупиняється позаду нього, зберігаючи дистанцію, і може відновити рух за ним протягом певного часу.\nЯкщо цільового автомобіля попереду немає, NZP регулює швидкість за даними big data (поточна й історична швидкість потоку) або за обмеженням швидкості на дорозі; вибір — перемикачем «Big data швид.».
+string	window_nzp_function_details_content1_2560	Якщо попереду є цільовий автомобіль, NZP їде за ним, автоматично прискорюючись і сповільнюючись.\nЯкщо автомобіль попереду сповільнюється до зупинки, NZP зупиняється позаду нього, зберігаючи дистанцію,\nі може відновити рух за ним протягом певного часу. Якщо цільового автомобіля попереду немає,\nNZP регулює швидкість за даними big data (поточна й історична швидкість потоку) або за обмеженням\nшвидкості на дорозі; вибір — перемикачем «Big data швид.».
+string	window_nzp_function_details_content1_title	1. Розумний круїз:
+string	window_nzp_function_details_content2	NZP утримує автомобіль у центрі смуги.\nПід час проїзду повз вантажівку чи інший великий автомобіль на сусідній смузі NZP зміщується в межах смуги подалі від нього, а після проїзду повертається до центру смуги.
+string	window_nzp_function_details_content2_2560	NZP утримує автомобіль у центрі смуги. Під час проїзду повз вантажівку чи інший\nвеликий автомобіль на сусідній смузі NZP зміщується в межах смуги подалі від нього,\nа після проїзду повертається до центру смуги.
+string	window_nzp_function_details_content2_title	2. Центрування в смузі:
+string	window_nzp_function_details_content3	Якщо автомобіль попереду їде повільно й умови дозволяють, NZP може допомогти з обгоном. Коли водій перемикає важіль поворотників і умови дозволяють, NZP може допомогти змінити смугу. Якщо навігацію увімкнено, NZP може допомогти перейти на потрібну смугу, коли це необхідно й умови дозволяють.\nПід час зміни смуги водій повинен зберігати зосередженість, стежити за обстановкою й за потреби перейняти керування.
+string	window_nzp_function_details_content3_2560	Якщо автомобіль попереду їде повільно й умови дозволяють, NZP може\nдопомогти з обгоном. Коли водій перемикає важіль поворотників і умови дозволяють,\nNZP може допомогти змінити смугу. Якщо навігацію увімкнено, NZP може допомогти перейти\nна потрібну смугу, коли це необхідно й умови дозволяють. Під час зміни смуги\nводій повинен зберігати зосередженість, стежити за обстановкою й перейняти керування\nза потреби.
+string	window_nzp_function_details_content3_title	3. Зміна смуги:
+string	window_nzp_function_details_content4	Якщо навігацію увімкнено в зоні покриття HD-карт, NZP може вести автомобіль на з’їзди та з них за маршрутом, зокрема в’їзд на з’їзд, розв’язки автомагістралей і виїзд з автомагістралі. Під час зміни смуги водій повинен зберігати зосередженість, стежити за обстановкою й за потреби перейняти керування.
+string	window_nzp_function_details_content4_2560	Якщо навігацію увімкнено в зоні покриття HD-карт, NZP може вести автомобіль на з’їзди\nта з них за маршрутом, зокрема в’їзд на з’їзд, розв’язки автомагістралей і виїзд з автомагістралі.\nПід час зміни смуги водій повинен зберігати зосередженість, стежити за обстановкою\nй за потреби перейняти керування.
+string	window_nzp_function_details_content4_title	4. З’їзди/в’їзди:
+string	window_nzp_function_details_content5_2560	Navigate ZEEKR Pilot (NZP) доступний на міських швидкісних дорогах з обмеженим доступом\nі автомагістралях із покриттям HD-карт (де це дозволено чинним законодавством\nі де ZEEKR активував функцію). Увімкніть його, двічі поспіль перемістивши селектор передач униз.\nВін допомагає водієві рухатися заданим навігаційним маршрутом, автоматично налаштовує\nкруїзну швидкість відповідно до обмеження, переходить на відповідні смуги й допомагає\nз в’їздом на з’їзди та виїздом\nз них.
+string	window_nzp_function_details_content5_title	1. NZP на автомагістралі:
+string	window_nzp_function_details_content6_2560	Коли NZP увімкнено, а на сусідній смузі є великий автомобіль, система зміщує авто в межах\nсвоєї смуги подалі від нього. Якщо попереду на смузі виявлено перешкоди, як-от дорожні конуси,\nсистема відповідно сповільнюється й планує шлях об’їзду — об’їжджаючи перешкоду\nв межах смуги або змінюючи смугу.
+string	window_nzp_function_details_content6_title	2. Об’їзд перешкод:
+string	window_nzp_function_details_content7_2560	Коли NZP увімкнено, система обирає відповідні смуги за навігаційним маршрутом, автоматично\nз’їжджає й в’їжджає на з’їзди та обганяє, якщо автомобіль попереду їде повільно. Водій також може увімкнути\nповоротник, і система допоможе змінити смугу в цьому напрямку; поворотник\nвимикається автоматично після завершення зміни смуги.
+string	window_nzp_function_details_content7_title	3. Автозміна смуги:
+string	window_nzp_function_details_content8_2560	Дотримуючись навігаційного маршруту, NZP у потрібний момент, регулюючи швидкість\nі змінюючи смуги, допомагає автоматично з’їхати з основної дороги на з’їзд і влитися з з’їзду\nв основний потік. У щільному русі, якщо система не може завершити зміну смуги, вона попросить\nвашої допомоги; будьте готові вчасно перейняти керування.
+string	window_nzp_function_details_content8_title	4. З’їзди/в’їзди:
+string	window_nzp_function_details_title1	Круїз
+string	window_nzp_function_details_title2	Центрування
+string	window_nzp_function_details_title2_2560	Центрування
+string	window_nzp_function_details_title3	Зміна смуги
+string	window_nzp_function_details_title4	З’їзди
+string	window_nzp_function_details_title5	NZP Highway
+string	window_nzp_function_details_title6	Об’їзд
+string	window_nzp_function_details_title7	Автозміна
+string	window_nzp_function_introduction_cancel	Скас.
+string	window_nzp_function_introduction_confirm	Почати
+string	window_nzp_function_introduction_content1	NZP — це вдосконалена система допомоги водієві. На автомагістралях і міських швидкісних дорогах вона забезпечує круїз, центрування в смузі, зміну смуги, в’їзд на з’їзди та виїзд із них за навігаційним маршрутом. Згодом з’являться розпізнавання світлофорів і допомога гальмуванню на червоне світло, що дасть змогу їздити з навігаційним пілотом відкритими міськими дорогами.
+string	window_nzp_function_introduction_content1_cs	NZP — навігаційний асистент на автомагістралі (NZP або NZP Highway Pilot) — це інтелектуальна функція допомоги водієві, яка значно зменшує втому водія й підвищує безпеку руху. На основі навігаційного маршруту, на міських швидкісних дорогах з обмеженим доступом і автомагістралях із покриттям HD-карт (де це дозволено чинним законодавством і де ZEEKR активував функцію) та під наглядом водія NZP забезпечує функції навігаційної допомоги, як-от автоматичний в’їзд на з’їзди та виїзд із них і автоматичну зміну смуги для обгону.
+string	window_nzp_function_introduction_content2	Для вашої безпеки перед увімкненням NZP необхідно вивчити порядок використання та застереження й пройти короткий тест. Це займе близько 10-15 хвилин.
+string	window_nzp_function_introduction_content2_cs	Для вашої безпеки перед увімкненням навігаційного асистента NZP на автомагістралі необхідно вивчити порядок використання та застереження й пройти короткий тест. Це займе близько 10-15 хвилин.
+string	window_nzp_function_introduction_item_content1	Круїз
+string	window_nzp_function_introduction_item_content2	Центрування
+string	window_nzp_function_introduction_item_content3	Зміна смуги
+string	window_nzp_function_introduction_item_content4	З’їзди
+string	window_nzp_function_introduction_item_content5	NZP Highway
+string	window_nzp_function_introduction_item_content6	Об’їзд
+string	window_nzp_function_introduction_item_content7	Автозміна
+string	window_nzp_function_introduction_learning_guidance	Навчання
+string	window_qrcode_study_close_button	Закр.
+string	window_qrcode_study_content	Щоб увімкнути функції NZP, відскануйте QR-код вище застосунком ZEEKR або WeChat на телефоні, перегляньте відео та пройдіть тест безпеки.
+string	window_qrcode_study_content2	Щоб увімкнути функції навігаційного асистента NZP на автомагістралі, відскануйте QR-код вище застосунком ZEEKR або WeChat на телефоні, перегляньте відео та пройдіть тест безпеки.
+string	window_qrcode_study_finish_button	Готово
+string	window_qrcode_study_title	Почати
+string	window_use_instructions_cancel	Скас.
+string	window_use_instructions_confirm	ОК
+string	window_use_instructions_confirm_timer	ОК (%d)
+string	window_use_instructions_description	Шановний клієнте!\nПеред використанням AI-асистента водіння та/або NZP й інших пов’язаних функцій (разом — «Пов’язані функції») уважно прочитайте наведене нижче:\nПов’язані функції є функціями допомоги водієві, призначеними для підвищення зручності й комфорту водіння; вони не роблять автомобіль безпілотним. Під час використання Пов’язаних функцій водій повинен постійно зберігати уважність, забезпечувати безпеку автомобіля й навколишнього середовища та тримати руки на кермі, щоб будь-якої миті перейняти керування або вжити коригувальних дій. Не покладайтеся повністю на Пов’язані функції під час водіння. Пов’язані функції призначені переважно для певних сценаріїв, як-от автомагістралі та естакади, і потребують доріг із розділювальною смугою та чіткою розміткою смуг, а також інших необхідних умов роботи. За наявності пішоходів, ділянок дорожніх робіт, поганої погоди або інших умов.
+string	window_use_instructions_description2	Шановний клієнте!\nПеред використанням AI-асистента водіння та/або NZP й інших пов’язаних функцій (разом — «Пов’язані функції») уважно прочитайте наведене нижче: Пов’язані функції є функціями допомоги водієві, призначеними для підвищення зручності й комфорту водіння; вони не роблять автомобіль безпілотним. Під час використання Пов’язаних функцій водій повинен постійно зберігати уважність, забезпечувати безпеку автомобіля й навколишнього середовища та тримати руки на кермі, щоб будь-якої миті перейняти керування або вжити коригувальних дій. Не покладайтеся повністю на Пов’язані функції під час водіння. Пов’язані функції призначені переважно для певних сценаріїв, як-от автомагістралі та естакади, і потребують доріг із розділювальною смугою та чіткою розміткою смуг, а також інших необхідних умов роботи. За наявності пішоходів, ділянок дорожніх робіт, поганої погоди або інших умов.
+string	window_use_instructions_description3	Шановний клієнте!\n\u0009\u0009\u0009\u0009Перед використанням навігаційного асистента NZP на автомагістралі та інших функцій допомоги водієві (разом — «Пов’язані функції») уважно прочитайте наведене нижче:\n\u0009\u0009\u0009\u0009Пов’язані функції є функціями допомоги водієві, призначеними для підвищення зручності й комфорту водіння; вони не роблять автомобіль безпілотним. Пов’язані функції не можуть впоратися з усіма дорожніми, погодними й транспортними умовами і не можуть замінити вас як водія. Ви завжди несете відповідальність за безпечне й обачне водіння, постійно стежите за дорожньою обстановкою та самостійно вирішуєте, чи використовувати Пов’язані функції, коли це безпечно.\n\u0009\u0009\u0009\u0009Під час використання Пов’язаних функцій водій повинен постійно зберігати уважність, забезпечувати безпеку автомобіля й навколишнього середовища та тримати руки на кермі, щоб будь-якої миті перейняти керування або вжити коригувальних дій. Не покладайтеся повністю на Пов’язані функції під час водіння. Пов’язані функції призначені переважно для певних сценаріїв, як-от міські швидкісні дороги з обмеженим доступом і автомагістралі з покриттям HD-карт (де це дозволено чинним законодавством і де ZEEKR активував функцію), і потребують доріг із розділювальною смугою та чіткою розміткою смуг, а також інших необхідних умов роботи (див. відповідний розділ посібника користувача). За наявності пішоходів, ділянок дорожніх робіт, поганої погоди або якщо інші умови роботи не виконуються, Пов’язані функції будуть обмежені, і водій повинен негайно перейняти керування автомобілем.\n\u0009\u0009\u0009\u0009Для роботи Пов’язаних функцій потрібні компоненти допомоги водієві, як-от камери, датчики й система позиціонування автомобіля. Перед увімкненням Пов’язаних функцій переконайтеся, що ці компоненти в належному стані й працюють справно.\n\u0009\u0009\u0009\u0009Ці умови використання діють протягом усього періоду після того, як ви підтвердите увімкнення Пов’язаних функцій, і доки керування автомобілем не буде перейнято або Пов’язані функції не буде вимкнено.\n\n\u0009\u0009\u0009\u0009Вимоги:\n\u0009\u0009\u0009\u0009Перед використанням Пов’язаних функцій водій повинен підтвердити, що ознайомлений із докладною інформацією про навігаційний асистент NZP на автомагістралі (див. посібник користувача), знає, як його увімкнути й скасувати, і погоджується з правилами збору відповідної інформації та даних.\n\n\u0009\u0009\u0009\u0009Чи погоджуєтеся ви з усіма наведеними вище умовами використання та бажаєте увімкнути навігаційний асистент NZP на автомагістралі?\n\u0009\u0009\u0009\u0009Я прочитав(-ла), зрозумів(-ла) і повністю погоджуюся з наведеними вище умовами використання.
+string	window_use_instructions_title	Умови використання NZP
+string	window_use_instructions_title2	Почати навчання
+string	window_user_instructions_agree	Я прочитав(-ла) і повністю погоджуюся
+string	window_user_instructions_cancel	Скас.
+string	window_user_instructions_confirm	Почати
+string	window_user_instructions_content	Коли ви скануєте код на центральному дисплеї автомобіля, щоб відкрити карту навчання на телефоні, необхідна інформація, яку ви надаєте або дозволяєте нам збирати, включає: номер мобільного телефону, дані облікового запису застосунку ZEEKR, статус входу в застосунок ZEEKR і прогрес навчання — для синхронізації вашого статусу навчання в цьому обліковому записі та запису статусу й завершення навчання для цієї функції.\n\nЗверніть увагу, що ця інформація зберігатиметься ZEEKR безстроково, і ми захищатимемо вашу персональну інформацію відповідно до загальних стандартів інформаційної безпеки компанії.
+string	window_user_instructions_nzp_function_introduction	Огляд NZP
+string	window_user_instructions_title	Примітка
+string	xpopup_image_not_exist	Зображення не існує
+string	xpopup_save	Зберег
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_cancel	Скас.
+string	zeekr_show_psw	Показати

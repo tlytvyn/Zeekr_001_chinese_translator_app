@@ -1,0 +1,149 @@
+string	answer	Відпов.
+string	app_name	component
+string	bt_not_connect	Bluetooth не під’єдн.
+string	btn_bt_connect	Під’єдн. Bluetooth
+string	btn_bt_phone	Bluetooth-тел.
+string	btn_online	Онлайн
+string	btn_online_phone	Онлайн-тел.
+string	call_state_call_active	Розмова
+string	call_state_call_ended	Завершено
+string	call_state_call_ending	Завершення
+string	call_state_call_ringing	Дзвінок
+string	call_state_connecting	З’єднання
+string	call_state_dialing	Набір
+string	call_state_hold	Утримання
+string	calling_now	Виклик...
+string	calllog_all	Усі дзвінки
+string	calllog_missed	Пропущені
+string	can_not_call_again_when_calling	Триває дзвінок
+string	can_not_call_your_number	Не можна дзвонити собі
+string	can_not_make_call	Неможливо подзвонити
+string	can_not_make_call_no_hfp	Bluetooth не під’єднано
+string	can_not_make_more_call	Більше дзвінків неможливо
+string	cancel	Скас.
+string	cancel_favorites	Прибрати з обр.
+string	clear_fav	Очистити обр.
+string	company	Робочий
+string	conference_call	Конференція
+string	connect	Під’єдн.
+string	connect_bluetooth_before_call	Спершу під’єднайте Bluetooth
+string	contact_address_label	Адреса
+string	contact_email_label	Email
+string	contact_phone_label	Тел.
+string	contacts	Контакти
+string	contacts_are_not_synchronized	Контакти не синхр.
+string	contacts_more	Забагато контактів для завантаження
+string	contacts_sync_complete	Синхр. завершено
+string	contacts_sync_fail	Помилка синхронізації. Перевірте, чи дозволено доступ до контактів на телефоні
+string	contacts_sync_no_support	Синхр. контактів вимкнена на телефоні
+string	contacts_unable_sync	Не синхр.
+string	customization	Власний
+string	delete	Видал.
+string	delete_all_favorite	Обране очищено
+string	delete_all_favorites_fail	Не вдалося очистити обране
+string	delete_favorite	Видалено з обр.
+string	delete_personal_favorite	Прибрати з обр.
+string	dial_fail	Помилка виклику
+string	dial_pad	Клавіші
+string	dialing_call	Вихідні
+string	eight_letters	TUV
+string	enter_again	Неправильний номер, введіть знову
+string	error_a11y_label	Помилка: недійсне
+string	favorites_show_more_than	До 100 обраних контактів
+string	fax_home	Факс дім.
+string	fax_work	Факс роб.
+string	five_letters	JKL
+string	four_letters	GHI
+string	go_to_connect	Під’єдн.
+string	hang_up	Відбій
+string	hang_up_answer	Відбій і відповідь
+string	hide	Сховати
+string	hold_answer	Утрим. і відповідь
+string	holding	Утримання
+string	home	Дім
+string	incoming_call	Вхідний
+string	just_now	Щойно
+string	main_contacts	Контакти
+string	main_dial	Клавіші
+string	main_favorites	Обране
+string	main_recent	Нещодавні
+string	minutes_ago	хв тому
+string	mobile_phone	Мобільний
+string	mute	Без зв.
+string	nine_letters	WXYZ
+string	no_collection	Обраного ще немає. Додайте в «Контактах»
+string	no_contact	Немає контактів
+string	no_matched_contact	Контакт не знайдено
+string	no_missed_recent	Немає пропущених
+string	no_recent	Немає дзвінків
+string	no_sim_card	Немає SIM
+string	not_dialing_call	Немає вихідних
+string	not_incoming_call	Немає вхідних
+string	others	Інше
+string	pager	Пейджер
+string	phone_app_name1	Телефон
+string	phone_app_name2	Bluetooth-телефон
+string	phone_is_use_please_try_again	Телефон зайнятий, спробуйте пізніше
+string	phone_label_with_info	" %1$s  ·  %2$s "
+string	please_make_call_later	Подзвоніть пізніше
+string	private_call	На телефоні
+string	private_calling	На телефоні
+string	remove_all_favor_tips	Очистити всі обрані контакти?
+string	remove_contact_favor_contact_tips	Прибрати %1$s (%2$s) з обраного?
+string	remove_favor_contact_tips	Прибрати %1$s (%2$s) зі списку обраного?
+string	ring_is_off	Дзвінок вимкн.
+string	search	Пошук
+string	search_contact	Пошук контактів
+string	search_count	Знайдено контактів: %1$d
+string	search_empty	Контактів не знайдено
+string	search_zero_count	Знайдено контактів: 0
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	seven_letters	PQRS
+string	six_letters	MNO
+string	special_dialing_on_phone	Спец. набір на телефоні
+string	strNetworkTipsCancelBtn	Скас.
+string	strNetworkTipsConfirmBtn	Продовжити
+string	strNetworkTipsMessage	Перемкнено на мобільні дані. Продовжити завантаження?
+string	strNetworkTipsTitle	Мережа
+string	strNotificationClickToContinue	Продовжити
+string	strNotificationClickToInstall	Встановити
+string	strNotificationClickToRetry	Повторити
+string	strNotificationClickToView	Переглянути
+string	strNotificationDownloadError	Помилка
+string	strNotificationDownloadSucc	Завантажено
+string	strNotificationDownloading	Завантаж....
+string	strNotificationHaveNewVersion	Нова версія
+string	strToastCheckUpgradeError	Помилка перевірки, повторіть пізніше
+string	strToastCheckingUpgrade	Перевірка оновлень...
+string	strToastYourAreTheLatestVersion	Нових версій немає
+string	strUpgradeDialogCancelBtn	Наступного разу
+string	strUpgradeDialogContinueBtn	Далі
+string	strUpgradeDialogFeatureLabel	Що нового
+string	strUpgradeDialogFileSizeLabel	Розмір
+string	strUpgradeDialogInstallBtn	Встан.
+string	strUpgradeDialogRetryBtn	Повтор
+string	strUpgradeDialogUpdateTimeLabel	Час оновлення
+string	strUpgradeDialogUpgradeBtn	Оновити
+string	strUpgradeDialogVersionLabel	Версія
+string	switch_calls	Перемкнути
+string	sync	Синхр.
+string	syncing	Синхр…
+string	three_letters	DEF
+string	tipkc2_btn_text	%1$s(%2$ds)
+string	title_select_call_type	Спосіб дзвінка
+string	today	Сьогодні
+string	two_letters	ABC
+string	unknown	Невідомо
+string	unknown_call	Невідомий
+string	unknown_number	Невідомий номер
+string	use_online_phone	Bluetooth не під’єднано\nBluetooth-телефон недоступний\nСпробуйте онлайн-телефон
+string	voicemail	Голосова пошта
+string	xpopup_image_not_exist	Немає зображення
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в галерею
+string	yesterday	Вчора
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показати пароль

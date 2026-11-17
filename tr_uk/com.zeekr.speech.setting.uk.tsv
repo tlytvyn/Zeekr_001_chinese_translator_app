@@ -1,0 +1,179 @@
+array	register_name	Користувач ZEEKR 1 ‖ Користувач ZEEKR 2 ‖ Користувач ZEEKR 3 ‖ Користувач ZEEKR 4
+array	register_title	Скажіть ‖ Скажіть ‖ Ще раз ‖ Наостанок
+string	add_wake_word	Дод. слово
+string	after_eva_wakeup	Після виклику Eva
+string	after_eva_wakeup_geek	Без виклику Eva
+string	after_eva_wakeup_wakefree	Без виклику Eva
+string	afternoon	Добрий день
+string	ai_mate	AI Mate
+string	anti_interference	Зональне шумозаг.
+string	anti_interference_tip	У режимі лівої/правої зони Eva визначає, звідки ви говорите, і виконує команди для цієї зони. Пасажирам на інших місцях потрібно викликати Eva знову
+string	app_name	Голос
+string	cancel	Скас.
+string	car_driver	Штурман
+string	chip_text	Текст чипа
+string	classic	Класика
+string	close	Вимк.
+string	close_now	Вимкнути
+string	continue_talk	Безперервна
+string	continue_talk_tip	Слухає 16 с після кожного виклику. Ви можете перервати Eva будь-коли
+string	default_wake_word	Стандартне слово
+string	default_wake_word_content	Hi, Eva
+string	delete	Видалити
+string	delete_vprint	Видалити голос
+string	delete_vprint_ensure	Функції голосового відбитка стануть недоступні
+string	ensure_confirm	Все одно
+string	eva	Hi, Eva
+string	eva_tts_mode	Стиль голосу Eva
+string	eva_tts_mode_tip_default	Eva відповідає детальніше
+string	eva_tts_mode_tip_simple	Eva відповідає коротше
+string	eve_process_restart_success	Голосовий сервіс перезапущено. Спробуйте викликати Eva знову
+string	evening	Добрий вечір
+string	experience_close_content	Eva більше не збиратиме ваші голосові дані для покращення продуктів і сервісів
+string	experience_close_tip	Збережені голосові дані також буде видалено
+string	experience_close_title	Вимкнути програму покращення голосу Eva
+string	experience_policy_dialog_title	Програма покращення голосу
+string	experience_policy_title	«Програма покращення голосу»
+string	experience_policy_url	http://www.baidu.com
+string	experience_sub_title	Eva збиратиме ваші голосові дані для покращення продуктів і сервісів
+string	experience_title	Програма покращення голосу Eva
+string	geek_code	geek_0001
+string	geek_guide	Гік-навички
+string	geek_mode_open_tip	Ця функція в бета-версії й працює лише зі звичайними командами автомобіля. Коли її ввімкнено, Eva може помилково активуватися під час розмови водія
+string	geek_skill_lib	Гік-навички
+string	get_again	Повторити
+string	jike_skill_lib	Гік-навички
+string	know	Зрозуміло
+string	lab	Лабор.
+string	label	Мітка
+string	loss_content	Завантаження...
+string	main_geek_mode	Гік-режим водія
+string	main_geek_mode_tip	Водій може промовляти звичайні команди автомобіля без виклику Eva
+string	me_too_title	Спробуйте
+string	midday	Добрий день
+string	morning	Доброго ранку
+string	morning2	Доброго ранку
+string	multi_intent_code	skill-09
+string	multi_intent_guide	Поради: кілька дій
+string	multi_intent_title	Кілька дій
+string	multi_intent_word1	Навіг. + медіа
+string	multi_intent_word2	Авто + медіа
+string	multi_intent_word3	Навіг. + авто
+string	multi_intent_word4	Авто + телефон
+string	multi_intent_word5	Ланцюжок команд авто
+string	net_error_content	Завантаження...
+string	not_define_wake_word	Не задано
+string	not_open_now	Скас.
+string	num_percent	%1$d/%2$d
+string	one_shot	Одним реч.
+string	one_shot_guide	Поради: одним реч.
+string	one_shot_tip	Скажіть "Hi, Eva" і одразу команду або використовуйте сталі фрази для розмови з Eva
+string	personal_dress	Вигляд
+string	personal_dress_tip	Новий вигляд для Eva?
+string	record_mode_left_behind	Зад. лів.
+string	record_mode_left_front	Водій
+string	record_mode_right_behind	Зад. прав.
+string	record_mode_right_front	Пасаж.
+string	record_mode_sub_title	Лише вибрані зони можуть викликати Eva
+string	record_mode_title	Зони виклику
+string	say_such_order	і скажіть такі комбіновані команди
+string	see_and_say	Кажи, що бачиш
+string	see_and_say_tip	Після виклику Eva назвіть будь-яку функцію на екрані, щоб вибрати її голосом
+string	skill_code_one_shot	skill-02
+string	skill_code_wake_free	skill-01
+string	skill_lib	Навички
+string	skill_lib_tip	Скільки голосових навичок ви відкрили?
+string	skill_multi_intent_sub_title	Кілька дій одним реченням
+string	skill_multi_intent_title	Поради: кілька дій
+string	skill_multi_record_location_sub_title	Повтор команд інших
+string	skill_multi_record_location_title	Міжзонове керування
+string	skill_mutli_record_first_title	Після того як хтось голосом налаштує вікна, сидіння, кондиціонер тощо
+string	skill_mutli_record_five_title	може швидко
+string	skill_mutli_record_four_title	Корист.
+string	skill_mutli_record_six_title	те саме
+string	skill_mutli_record_third_title	на будь-якому місці
+string	skill_one_shot_sub_title	Говоріть з Eva швидше
+string	skill_one_shot_title	Поради: одним реч.
+string	skill_use	Навички
+string	skill_use_and_num	Навичок: %1$d/%2$d
+string	skill_wake_free_sub_title	18 команд без виклику
+string	skill_wake_free_title	Без виклику
+string	stare_smart_app_tip	Водій дивиться на центральний екран і називає функцію, щоб вибрати її голосом
+string	stare_smart_app_title	Погляд + кажи, що бачиш
+string	stay_tuned	Незабаром
+string	think_abount	Не зараз
+string	tips	Увага
+string	tts_mode_default	Станд.
+string	tts_mode_simple	Стисло
+string	unlock_category	Відкрито
+string	update_log	Що нового в Eva
+string	voice_confirm_dialog_cancel	Скас.
+string	voice_confirm_dialog_hint	Корист. ZEEKR
+string	voice_confirm_dialog_tips	Ім’я з 2–5 китайських ієрогліфів, без спеціальних символів
+string	voice_confirm_dialog_title	Ваше ім’я
+string	voice_confirm_welcome_name	Привіт, %s!
+string	voice_print_name	Голос %s
+string	voice_prints_manager	Голоси
+string	voice_prints_register	Записати голос
+string	voice_prints_tip	Після виклику Eva впізнає ваш голос і відповідає персональним привітанням
+string	voice_prints_title	Пам’ять Eva
+string	vp_register_not_has_focus	Запис голосового відбитка зараз недоступний. Спробуйте пізніше
+string	vp_register_not_p	Увімкніть P для запису голосу
+string	vprint_err_msg_70942	Eva не зрозуміла
+string	vprint_err_msg_70943	Eva не зрозуміла
+string	vprint_err_msg_70945	Eva не зрозуміла. Ще раз
+string	vprint_err_msg_70946	Eva не зрозуміла
+string	vprint_err_msg_70947	Говоріть швидше й повторіть
+string	vprint_err_msg_70948	Занадто швидко. Говоріть повільніше
+string	vprint_err_msg_70949	Eva вас не чує. Спробуйте в тихішому місці
+string	vprint_err_msg_70950	Eva вас не чує. Повторіть
+string	vprint_err_name_msg	Ім’я не підтримується
+string	vprint_err_name_msg1	Лише китайською
+string	vprint_err_name_msg2	Лише 2–5 ієрогліфів
+string	vprint_err_name_msg3	Помилка мережі. Спробуйте пізніше
+string	vprint_has_register	Голос може збігатися з %s
+string	vr_service	Голосовий сервіс Eva
+string	vr_service_close_content	Після вимкнення голосовий сервіс буде повністю недоступний
+string	vr_service_close_title	Дозвіл голосу Eva
+string	vr_service_content	Відповідно до державних правил безпеки даних голосовий сервіс потребує вашої згоди. Після ввімкнення викликайте голос фразою "Hi, Eva", торканням Eva або кнопкою голосу на кермі
+string	vr_service_not_open	Не зараз
+string	vr_service_not_ready	Голос запускається. Спробуйте пізніше
+string	vr_service_open	Згоден
+string	vr_service_policy_dialog_title	Політика конфіденційності голосового сервісу ZEEKR Eva
+string	vr_service_policy_title	Політика конфіденційності голосового сервісу ZEEKR Eva
+string	vr_service_policy_url	file:///android_asset/vr_service_policy.html
+string	vr_service_sub_title	Діє
+string	vr_service_time_half_year	6 місяців
+string	vr_service_time_one_year	1 рік
+string	vr_service_time_sub_title	Діє
+string	vr_service_time_sub_title_delay	Продовжити згоду
+string	vr_service_time_third_month	3 місяці
+string	vr_service_tip_close	Коли ввімкнено, можна викликати Eva й користуватися голосовим сервісом
+string	vr_service_tip_open	Коли вимкнено, не можна викликати Eva чи користуватися голосовим сервісом
+string	vr_service_title	Дозвіл голосу Eva
+string	wake_free	Без виклику
+string	wake_free_guide	Без виклику
+string	wake_free_tip	У навігації, музиці тощо промовляйте звичайні команди без виклику Eva
+string	wake_tip	Виклич мене
+string	wake_word	Слово виклику
+string	wake_word_error_score	Оцінка %s: можливі хибні спрацювання
+string	wake_word_set_tip	Тепер мене можна викликати словом "%s" або Hi Eva
+string	wake_word_suggest_title	Поради щодо слова
+string	wake_word_tip	Викликайте мене фразою "Hi Eva" або власним словом виклику
+string	wake_word_tip_default	Не задано
+string	wisdom_close_content	Вимкнення вплине на багатокрокові розмови й вимкне команди без виклику. Радимо залишити ввімкненим. Усе одно вимкнути?
+string	wisdom_close_title	Вимкнути Smart Chat
+string	wisdom_talk	Smart Chat
+string	wisdom_talk_tip	Eva веде безперервну, природну й розумну розмову
+string	xpopup_image_not_exist	Немає зображення
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в галерею
+string	you_can	Ви можете
+string	you_can_say	Скажіть, напр.:
+string	you_can_say_geek	Просто скажіть:
+string	you_can_say_wakefree	Просто скажіть:
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показати пароль

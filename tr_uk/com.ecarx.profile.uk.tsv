@@ -1,0 +1,25 @@
+string	app_name	Профіль
+string	strNetworkTipsCancelBtn	Скас.
+string	strNetworkTipsConfirmBtn	Продовжити
+string	strNetworkTipsMessage	Перемкнено на мобільні дані. Продовжити завантаження?
+string	strNetworkTipsTitle	Мережа
+string	strNotificationClickToContinue	Продовжити
+string	strNotificationClickToInstall	Встановити
+string	strNotificationClickToRetry	Повторити
+string	strNotificationClickToView	Переглянути
+string	strNotificationDownloadError	Помилка
+string	strNotificationDownloadSucc	Завантажено
+string	strNotificationDownloading	Завантаж...
+string	strNotificationHaveNewVersion	Нова версія
+string	strToastCheckUpgradeError	Не вдалося перевірити, спробуйте пізніше
+string	strToastCheckingUpgrade	Перевірка оновлень...
+string	strToastYourAreTheLatestVersion	У вас остання версія
+string	strUpgradeDialogCancelBtn	Пізніше
+string	strUpgradeDialogContinueBtn	Далі
+string	strUpgradeDialogFeatureLabel	Що нового
+string	strUpgradeDialogFileSizeLabel	Розмір
+string	strUpgradeDialogInstallBtn	Встан.
+string	strUpgradeDialogRetryBtn	Повтор
+string	strUpgradeDialogUpdateTimeLabel	Дата оновл.
+string	strUpgradeDialogUpgradeBtn	Оновити
+string	strUpgradeDialogVersionLabel	Версія

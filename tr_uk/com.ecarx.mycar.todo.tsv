@@ -1,0 +1,321 @@
+string	After_the_last_charge	66	Trip 2 (since the last time you charged the car)	
+string	After_the_last_parking	66	Trip 2 (since the last time you stopped the car)	
+string	Check_the_tires	72	"Multiple tires are faulty.\nPlease check the tires."	
+string	Checking_vehicle_condition	37	Checking vehicle condition	
+string	Current_location	23	Current location	
+string	Front_left_tire_pressure_is_low	43	Front left tire pressure is low	
+string	Front_right_tire_pressure_is_low	45	Front right tire pressure is low	
+string	Left_front_tire_temperature_is_high	49	Left front tire temperature is high	
+string	Left_rear_tire_temperature_is_high	47	Left rear tire temperature is high	
+string	Open_App_Store	20	Open App Store	
+string	Open_app	18	Open the app	
+string	Previous_km	20	Previous %s km	
+string	Rear_left_tire_pressure_is_low	42	Rear left tire pressure is low	
+string	Rear_right_tire_pressure_is_low	43	Rear right tire pressure is low	
+string	Right_front_tire_temperature_is_high	50	Right front tire temperature is high	
+string	Right_front_wheel_Low_tire_pressure_high_fetal_temperature	78	Right front tire pressure is low/tire temperature is high	
+string	Right_rear_tire_temperature_is_high	49	Right rear tire temperature is high	
+string	Right_rear_wheel_Low_tire_pressure_high_fetal_temperature	77	Right rear tire pressure is low/tire temperature is high	
+string	System_exception	23	System exception	
+string	Tire_Pressure_Check	27	Tire Pressure Check	
+string	Tire_system_failure	77	"Multiple tire system failure.\nPlease repair the tires."	
+string	Vehicle_condition_is_normal	38	Vehicle condition is normal	
+string	app_name	11	My car	我的汽车
+string	app_widget_desc_tire	16	Tire pressure card	胎压检测卡片
+string	bx_tire_pressure_advice_ok	61	Optimal tyre pressure can reduce energy consumption and tyre wear, and improve maneuverability	"最佳轮胎压力可以降低能耗和轮胎磨损\n提高操控性能"
+string	car_service_tab_bar_maintenance	11	Vehicle Maintenance	车辆保养
+string	car_service_tab_bar_violation	11	Vehicle Violation	车辆违章
+string	current_trip_energy_usage	16	Current trip energy usage	当前行程能耗
+string	dialog_bluetooth_cancel_btn	6	Cancel	取消
+string	dialog_bluetooth_confirm_btn	6	Connect	连接
+string	dialog_bluetooth_content	19	Bluetooth device is not connected	蓝牙设备未连接
+string	dialog_call_cancel_btn	6	Cancel	取消
+string	dialog_call_confirm_btn	6	Call	拨打
+string	driving	11	Trip options	行程选项
+string	driving_bx_tab_bar_trips	11	Trip data	行程数据
+string	driving_current_position	11	Current position	当前位置
+string	driving_data_detail_desc	21	Data of this trip	本次行程各项数据
+string	driving_other_position	12	%skm past	过去%skm
+string	driving_review	11	Driving Review	驾驶回顾
+string	driving_score_behavior_unit	4	time(s)	次
+string	driving_score_history_title	11	Driving Score	驾驶评分
+string	driving_score_kwh	6	kWh	kWh
+string	driving_score_min	6	min	min
+string	driving_score_over_speed	6	Speeding	超速
+string	driving_score_points_	8	Score:	评分:
+string	driving_score_rapid_acceleration	9	Rapid acceleration	急加速
+string	driving_score_rapid_deceleration	9	Rapid deceleration	急减速
+string	driving_score_rules_dialog_content	217	"When you start the car for the first time every day, the initial driving score is 80 points. The driving score changes inversely in real-time \nin response to the following behaviors. \n \n1. Hard accelerating, hard braking, and aggressive turning. \n2. Driving over the speed limit. \n \nEach day, the score before you turn off the car for the last time will be recorded as the final score for that day."	"每日首次启动车辆时，初始驾驶评分为80分，驾驶评分和以下⾏为成反 \n⽐实时变动。 \n \n1、急加速、急减速、急转弯 \n2、在限速路段的超速⾏为 \n \n每⽇最后下电前的最终分数将记为当⽇最终评分。"
+string	driving_score_rules_dialog_title	11	Scoring rules	评分规则
+string	driving_score_sep	12	Sep. 1st	Sep. 1st
+string	driving_score_sudden_turning	9	Sudden turn	急转弯
+string	driving_score_time	6	Time elapsed	时长
+string	driving_score_title	11	Real-time scoring	实时评分
+string	driving_score_trip	6	Trip Distance	里程
+string	driving_tab_bar_driving_score	11	Drive Coach	驾驶指导
+string	driving_tab_bar_power_flow	11	Navigation energy range	能量续航
+string	driving_tab_bar_trips	11	Trip & Statistics	行程数据
+string	engine_coolant_level_low	26	Engine coolant level is low	发动机冷却液液位过低
+string	engine_coolant_temp_high	26	Engine coolant is too hot	发动机冷却液温度过高
+string	engine_coolant_temp_high_level_1	36	Engine coolant is too hot. Level 1 warning	发动机冷却液温度过高一级警报
+string	engine_coolant_temp_high_level_2	36	Engine coolant is too hot. Level 2 warning	发动机冷却液温度过高二级警报
+string	error_a11y_label	20	Error: invalid	
+string	exposed_dropdown_menu_content_description	16	Show dropdown menu	显示下拉菜单
+string	home_loading_dialog_txt	10	Loading	加载中…
+string	hvac_close	11	AC off	空调关闭
+string	loading_dialog_txt	13	Loading...	正在加载…
+string	main_bar_trip_consumption_driving_cycle	25	Trip 2 (since last stop)	行程2(自上次停车后)
+string	main_tab_bar_car_service	11	Car service	车务服务
+string	main_tab_bar_driving	11	Trip options	行程选项
+string	main_tab_bar_my_car	11	My car	我的汽车
+string	main_tab_bar_vehicle_condition	11	Tyre pressure	胎压检测
+string	maintenance_cancel	6	Cancel	取消
+string	maintenance_commonly_4s_shop	16	Set your regular service center	设置常用4S店
+string	maintenance_confirm_reset	11	Confirm reset	确认重置
+string	maintenance_default_load	11	Default loading	默认加载
+string	maintenance_dialog_cancel	6	Cancel	取消
+string	maintenance_done	6	Done	完成
+string	maintenance_items_	17	Service Items: %s	保养项目: %s
+string	maintenance_mile	7	mile	mile
+string	maintenance_mileage	11	Service Mileage	保养里程
+string	maintenance_mileage_exceeded	16	Exceeded recommended mileage	超出保养建议
+string	maintenance_mileage_remained	16	Recommended service mileage remaining	保养建议剩余
+string	maintenance_next	14	Next maintenance in	距下次保养
+string	maintenance_no_data	52	Data acquisition failed.Please try again later or check with service center.	"数据获取失败，请稍后重试\n或前往4s店检查"
+string	maintenance_notify_cancel	6	Cancel	取消
+string	maintenance_notify_desc	48	Your car is due for service. Please schedule maintenance soon.	您的爱车已到保养里程，请注意及时保养。
+string	maintenance_notify_reset	6	Reset	重置
+string	maintenance_recommend_mileage	11	Maintenance tips	保养建议
+string	maintenance_search_hint	30	Search for service centers	Search for 4S Dealers
+string	maintenance_search_result_empty	63	"Sorry, no results were found for %s \nPlease search the name of a Zeekr Experience Center"	"未搜到“%s”相关内容 \n搜索内容请以极氪体验店名为准"
+string	maintenance_set_4s_shop_success	23	Regular service center set successfully	常用修理厂设置成功
+string	maintenance_tab_dealer	11	Car Dealership	购车店铺
+string	maintenance_tab_favorite	11	Regular service center	常用4S店
+string	maintenance_unmaintained	26	Not serviced, exceeded service interval	未保养，超出保养里程
+string	mini_bar_trip_consumption_charing	25	Trip 2 (since last charge)	行程2(自上次充电后)
+string	my_car_battery_capacity	11	Battery capacity	电池容量
+string	my_car_car_purchase_date	11	Date of Purchase	购车日期
+string	my_car_dealer_address	14	Dealer Address	经销商地址
+string	my_car_dealer_name	14	Dealer Name	经销商名称
+string	my_car_dealer_phone	14	Dealer Phone No.	经销商电话
+string	my_car_engine_number	11	Engine number	电机号码
+string	my_car_licence_plate	6	License Plate	车牌
+string	my_car_licence_plate_default	23	Please go to the ZEEKR app and fill this in	请前往极氪APP填写
+string	my_car_production_date	11	Date of Manufacture	出产日期
+string	my_car_production_place	11	Country of Manufacture	生产国家
+string	my_car_sales_information	11	Sales Information	销售信息
+string	my_car_title	8	Title	Title
+string	my_car_title_value	21	DC1E Sport 1.8TD	DC1E运动版1.8TD
+string	my_car_total_distance	9	Total Distance	总行程
+string	my_car_vehicle_type	11	Vehicle Type	车辆类型
+string	my_car_vehicle_type_2	6	Car Model	车型
+string	my_car_vin	11	VIN	识别代码
+string	my_car_vin_vin	6	VIN	VIN
+string	network_load_fail	31	Loading failed. Please check the network settings	加载失败，请检查网络设置
+string	network_loading	11	Loading...	正在加载
+string	network_refresh	6	Refresh	刷新
+string	notification_remind_beyond_maintenance_distance	26	You have exceeded the recommended service mileage by %s km. Please get your car serviced right away	超出保养里程 %s 公里
+string	notification_remind_beyond_maintenance_time	24	You have exceed the recommended service time by %s days. Please get your car serviced right away	超出保养建议 %s 天
+string	notification_remind_maintenance	11	Service reminder	保养提醒
+string	notification_remind_maintenance_distance	31	There are still %s km remaining till the next recommended service. Please service your car in time	距离下次保养还剩 %s 公里
+string	notification_remind_maintenance_time	29	There are still %s days remaining till the next recommended service. Please service your car in time	距离下次保养还剩 %s 天
+string	power_flow_ac_off	11	Turn on A/C	空调开启
+string	power_flow_endurance_mileage	11	Navigation range	续航里程
+string	power_flow_mile	7	mile	mile
+string	power_flow_total_distance	9	Total distance	总里程
+string	qr_code_load_fail	31	Failed to load the QR code. Click to refresh.	二维码加载失败，点击刷新
+string	qr_code_load_success	82	"Scan the QR code to download the ZEEKR app.\nSign in and bind your license plate number to check your violation information."	"扫描二维码，下载手机 ZEEKR APP\n登录并绑定车牌号即可查看违章信息"
+string	recommended_tire_pressure	34	Recommended cold pressure: xxx-xxxkpa:260-290kPa	建议的冷胎压力：260-290kPa
+string	revolver_front_Low_tire_pressure_high_fetal_temperature	77	Left front tire pressure is low/tire temperature is high	
+string	revolver_rear_Low_tire_pressure_high_fetal_temperature	76	Left rear tire pressure is low/tire temperature is high	
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	service	11	Car service	车主服务
+string	tire_pressure_advice_checked_in_4s	24	Please go to the nearest 4S dealership for inspection	请到就近的4S店检查
+string	tire_pressure_advice_checked_in_4s_and_call_for_help	36	Please go to the nearest 4s store for inspection or call for assistance	请到就近的4S店检查或呼叫救援
+string	tire_pressure_advice_ok	76	Optimal tyre pressure decreases energy consumption and tyre wear.It also improves car manipulation	"最佳轮胎压力可以降低能耗和轮胎磨损，提高操控\n性能及刹车距离"
+string	tire_pressure_advice_pressure_is_above_safe_value	23	Tyre pressure exceeds safety value	轮胎胎压超过安全值
+string	tire_pressure_advice_temperature_is_above_safe_value	23	Tyre temperature exceeds safety value	轮胎温度超过安全值
+string	tire_pressure_btn_4s_shop	11	Nearest service center	就近4S店
+string	tire_pressure_btn_road_service	11	Road Assistance	道路救援
+string	tire_pressure_pressure_unit_bar	6	bar	bar
+string	tire_pressure_pressure_unit_kpa	6	kPa	kPa
+string	tire_pressure_pressure_unit_psi	6	psi	psi
+string	tire_pressure_result_fast_pressure_loss_front_left	37	"Tyre is leaking\nPlease check the front left tyre"	"轮胎正在漏气\n请检查左前轮胎"
+string	tire_pressure_result_fast_pressure_loss_front_right	37	"Tyre is leaking\nPlease check the front right tyre"	"轮胎正在漏气\n请检查右前轮胎"
+string	tire_pressure_result_fast_pressure_loss_multiple	37	"Tyre is leaking\nPlease check the tires"	"多个轮胎正在漏气\n请检查轮胎"
+string	tire_pressure_result_fast_pressure_loss_rear_left	37	"Tyre is leaking\nPlease check the rear left tyre"	"轮胎正在漏气\n请检查左后轮胎"
+string	tire_pressure_result_fast_pressure_loss_rear_right	37	"Tyre is leaking\nPlease check the rear right tyre"	"轮胎正在漏气\n请检查右后轮胎"
+string	tire_pressure_result_high_pressure_front_left	37	"Tyre pressure high\nPlease check the front left tyre"	"轮胎胎压过高\n请检查左前轮胎"
+string	tire_pressure_result_high_pressure_front_right	37	"Tyre pressure high\nPlease check the front right tyre"	"轮胎胎压过高\n请检查右前轮胎"
+string	tire_pressure_result_high_pressure_multiple	37	"Pressure is too high in multiple tires\nPlease check the tires"	"多个轮胎胎压过高\n请检查轮胎"
+string	tire_pressure_result_high_pressure_rear_left	37	"Tyre pressure high\nPlease check the rear left tyre"	"轮胎胎压过高\n请检查左后轮胎"
+string	tire_pressure_result_high_pressure_rear_right	37	"Tyre pressure high\nPlease check the rear right tyre"	"轮胎胎压过高\n请检查右后轮胎"
+string	tire_pressure_result_high_temperature_front_left	37	"Tyre temperature high\nPlease check the front left tyre"	"轮胎温度过高\n请检查左前轮胎"
+string	tire_pressure_result_high_temperature_front_right	37	"Tyre temperature high\nPlease check the front right tyre"	"轮胎温度过高\n请检查右前轮胎"
+string	tire_pressure_result_high_temperature_multiple	37	"High temperature in multiple tyres\nPlease check the tires"	"多个轮胎温度过高\n请检查轮胎"
+string	tire_pressure_result_high_temperature_rear_left	37	"Tyre temperature high\nPlease check the rear left tyre"	"轮胎温度过高\n请检查左后轮胎"
+string	tire_pressure_result_high_temperature_rear_right	37	"Tyre temperature high\nPlease check the rear right tyre"	"轮胎温度过高\n请检查右后轮胎"
+string	tire_pressure_result_low_pressure_front_left	37	"Tyre pressure low\nPlease check the front left tyre"	"轮胎胎压过低\n请检查左前轮胎"
+string	tire_pressure_result_low_pressure_front_right	37	"Tyre pressure low\nPlease check the front right tyre"	"轮胎胎压过低\n请检查右前轮胎"
+string	tire_pressure_result_low_pressure_multiple	37	"Pressure is too low in multiple tires\nPlease check the tires"	"多个轮胎胎压过低\n请检查轮胎"
+string	tire_pressure_result_low_pressure_rear_left	37	"Tyre pressure low\nPlease check the rear left tyre"	"轮胎胎压过低\n请检查左后轮胎"
+string	tire_pressure_result_low_pressure_rear_right	37	"Tyre pressure low\nPlease check the rear right tyre"	"轮胎胎压过低\n请检查右后轮胎"
+string	tire_pressure_result_monitor_system_fault_front_left	43	"The TPMS is faulty\nPlease check the front left tyre"	"胎压监测系统故障 \n请检查左前轮胎"
+string	tire_pressure_result_monitor_system_fault_front_right	39	The TPMS is faultyPlease check the front right tyre	胎压监测系统故障 请检查右前轮胎
+string	tire_pressure_result_monitor_system_fault_multiple	48	"TPMS of multiple tires is faulty \nPlease check the tires."	"多个轮胎胎压监测系统故障 \n请检查轮胎"
+string	tire_pressure_result_monitor_system_fault_rear_left	43	"The TPMS is faulty\nPlease check the rear left tyre"	"胎压监测系统故障 \n请检查左后轮胎"
+string	tire_pressure_result_monitor_system_fault_rear_right	43	"The TPMS is faulty\nPlease check the rear right tyre"	"胎压监测系统故障 \n请检查右后轮胎"
+string	tire_pressure_result_ok	11	Tyre pressure is ok	胎压正常
+string	tire_pressure_result_sensor_battery_low_front_left	42	"Tyre pressure monitor system battery low\nPlease check the front left tyre"	"轮胎传感器电量低\n请检查左前轮胎"
+string	tire_pressure_result_sensor_battery_low_front_right	42	"Tyre pressure monitor system battery low\nPlease check the front right tyre"	"轮胎传感器电量低\n请检查右前轮胎"
+string	tire_pressure_result_sensor_battery_low_multiple	49	"TPMS sensor of multiple tires has a low battery level\nPlease check tyre sensor"	"多个轮胎传感器电量低\n请检查轮胎传感器"
+string	tire_pressure_result_sensor_battery_low_rear_left	42	"Tyre pressure monitor system battery low\nPlease check the rear left tyre"	"轮胎传感器电量低\n请检查左后轮胎"
+string	tire_pressure_result_sensor_battery_low_rear_right	42	"Tyre pressure monitor system battery low\nPlease check the rear right tyre"	"轮胎传感器电量低\n请检查右后轮胎"
+string	tire_result_fault_front_left	37	"The tire system is faulty\nPlease check the front left tyre"	"轮胎系统故障\n请检查左前轮胎"
+string	tire_result_fault_front_right	37	"The tire system is faulty\nPlease check the front right tyre"	"轮胎系统故障\n请检查右前轮胎"
+string	tire_result_fault_multiple	32	Multiple tire system faults\nService required	"多个轮胎系统故障\n请维修"
+string	tire_result_fault_rear_left	37	"The tire system is faulty\nPlease check the rear left tyre"	"轮胎系统故障\n请检查左后轮胎"
+string	tire_result_fault_rear_right	37	"The tire system is faulty\nPlease check the rear right tyre"	"轮胎系统故障\n请检查右后轮胎"
+string	tire_result_multiple_warning_front_left	32	"Tire is abnormal\nPlease check the front left tyre"	"轮胎异常\n请检查左前轮胎"
+string	tire_result_multiple_warning_front_right	32	"Tire is abnormal\nPlease check the front right tyre"	"轮胎异常\n请检查右前轮胎"
+string	tire_result_multiple_warning_multiple_tire	37	"Multiple tires are faulty.\nPlease check the tires."	"多个轮胎出现异常\n请检查轮胎"
+string	tire_result_multiple_warning_rear_left	32	"Tire is abnormal\nPlease check the rear left tyre"	"轮胎异常\n请检查左后轮胎"
+string	tire_result_multiple_warning_rear_right	32	"Tire is abnormal\nPlease check the rear right tyre"	"轮胎异常\n请检查右后轮胎"
+string	tire_result_ok	6	Normal	正常
+string	tire_warn_call_sensor	86	Sensor fault. Contact the after-sales service center at 4000-036-036 or visit the nearest service point for repair.	传感器异常，您可以联系售后服务中心4000-036-036或到最近维修点进行维修
+string	tire_warn_call_sys	88	If the tyre system is abnormal, you can contact the after-sales service center by dialing 4000-036-036 or go to the nearest service station for maintenance.	轮胎系统异常，您可以联系售后服务中心4000-036-036或到最近维修点进行维修
+string	tire_warning_battery_low	16	Low sensor battery	传感器电量低
+string	tire_warning_quick_leaking	6	Air leakage	漏气
+string	tire_warning_sys_error	11	System fault	系统故障
+string	trips_100_mile	11	60 miles	60 mile
+string	trips_10_mile	10	6 miles	6 mile
+string	trips_automatic_prefix	8	Trip 2	行程2
+string	trips_automatic_title	16	Started at %1$s	开始于 %1$s
+string	trips_average_consumption	11	Average Consumption	平均能耗
+string	trips_average_consumption_mini_bar	11	Average energy consumption	平均能耗
+string	trips_average_speed	11	Average Speed	平均车速
+string	trips_battery_climate	11	Battery Temperature Control	电池温控
+string	trips_cabin_climate	11	A/C System	空调系统
+string	trips_consumption_history	11	Consumption History	历史能耗
+string	trips_current_consumption	11	Current Consumption	当前能耗
+string	trips_distance	11	Trip Distance	行驶距离
+string	trips_dynamic_consumption	11	Consumption in motion	动态能耗
+string	trips_elapsed_time	11	Elapsed Driving Time	行驶时长
+string	trips_energy_distribution	11	Energy Distribution	能耗分配
+string	trips_energy_distribution_desc	31	Proportion of energy consumption of each system after the start of trip	行程开始后各系统能耗占比
+string	trips_entertainment	11	Entertainment	娱乐系统
+string	trips_km_h	7	km/h	km/h
+string	trips_kwh_100km	14	kWh/100 km	kWh/100km
+string	trips_kwh_100mile	16	kWh/100 mile	kWh/100mile
+string	trips_kwh_10km	12	kWh/10km	kWh/10km
+string	trips_light	11	Lights	灯光系统
+string	trips_low_pressure	11	Low voltage system	低压系统
+string	trips_manual_prefix	8	Trip 1	行程1
+string	trips_manual_title	16	Started at %1$s	开始于 %1$s
+string	trips_mile_h	6	mph	mph
+string	trips_other	11	Other Systems	其他系统
+string	trips_propulsion	11	Driver System	驱动系统
+string	trips_reset	6	Reset	重置
+string	trips_reset_after_charging	11	Reset After Charging	充电重置
+string	trips_reset_after_driving_cycle	11	Reset After Driving Cycle	停车重置
+string	trips_static_consumption	11	Static consumption	静态能耗
+string	trips_total_consumption	11	Total consumption	总计能耗
+string	trips_total_consumption_mini_bar	9	Total Energy Usage	总能耗
+string	trips_total_regeneration	14	Total Regeneration	总回收能量
+string	tyre_pressure	11	Tyre pressure	胎压监测
+string	vehicle	11	My car	我的汽车
+string	violation_Reason	11	Violation	违法行为
+string	violation_btn_update	6	Update	更新
+string	violation_cny	6	CNY	CNY
+string	violation_detail_fine	11	Fine amount	罚款金额
+string	violation_detail_points	11	Points	违法记分
+string	violation_dialog_title	11	Violation details	违章详情
+string	violation_fine	6	Fine	罚款
+string	violation_fine_	8	Fine:	罚款:
+string	violation_no_record	16	No traffic violation records	暂无违章记录
+string	violation_points	6	Points	扣分
+string	violation_points_	8	Points:	扣分:
+string	violation_refresh_success	23	Refreshed new traffic violations	已成功刷新新的违章
+string	violation_time	11	Time	违法时间
+string	violation_unhandled_violations	14	Traffic violation(s) due	未处理违章
+string	violation_update_time	17	Update Time: %s	更新时间: %s
+string	widget_app_title	11	My car	我的汽车
+string	widget_charge_status_battery_fault	16	HV BATTERY FAILURE	动力电池故障
+string	widget_charge_status_charging	9	Charging	充电中
+string	widget_charge_status_charging_done	11	Charging stopped	充电停止
+string	widget_charge_status_charging_fault	11	CHARGING FAILURE	充电故障
+string	widget_charge_status_discharging	14	DISCHARGING	对外放电中
+string	widget_charge_status_discharging_done	11	DISCHARGING COMPLETE	放电结束
+string	widget_charge_status_fast_charging	9	FAST CHARGING	快充中
+string	widget_charge_status_schedule_charging	29	Scheduled charging in progress (scheduled charging)	预约充电中(定时充电中)
+string	widget_charge_status_text	9	Charging	充电中
+string	widget_charge_status_ultra_charging	9	FAST CHARGING	快充中
+string	widget_charge_time_normal	11	Remaining time	剩余时间
+string	widget_charge_time_will_full	11	Close to fully charged	即将充满
+string	widget_charging_estimate_24	19	Remaining time: >24h	剩余时间：>24h
+string	widget_charging_minute_unit	6	min	min
+string	widget_connect_status_connect_ac	19	Connected (Slow charge)	已插枪（慢充）
+string	widget_connect_status_connect_dc	19	Connected (Quick charge)	已插枪（快充）
+string	widget_connect_status_connect_failure_ac	21	Connection failure (AC)	连接故障（慢充）
+string	widget_connect_status_no_double	33	Please do not connect AC and DC charging cables simultaneously	请勿同时插入快充枪和慢充枪
+string	widget_connect_status_text	19	Connected (Slow charge)	已插枪（慢充）
+string	widget_drive_score_behavior_unit	7	time	time
+string	widget_drive_score_kwh	6	kWh	kWh
+string	widget_drive_score_login_status_login	18	ZEEKR ID has been logged in	极氪ID 已登录
+string	widget_drive_score_login_status_no_login	18	Did not log in ZEEKR ID	极氪ID 未登录
+string	widget_drive_score_min	6	min	min
+string	widget_drive_score_over_speed	6	Speeding	超速
+string	widget_drive_score_power	11	Total Consumption	合计能耗
+string	widget_drive_score_rapid_acceleration	9	Rapid acceleration	急加速
+string	widget_drive_score_rapid_deceleration	9	Rapid deceleration	急减速
+string	widget_drive_score_real_time	11	Real-time scoring	实时评分
+string	widget_drive_score_sudden_turning	9	Sudden turn	急转弯
+string	widget_drive_score_time	6	Time elapsed	时长
+string	widget_drive_score_trip	6	Trip Distance	里程
+string	widget_last_refresh	13	Recent updates:	最近更新:
+string	widget_open_lid_close_text	4	Off	关
+string	widget_power_external_device_text	16	Power External Devices	对外设备供电
+string	widget_power_other_vehicle_text	16	Power Other Vehicles	对外车辆供电
+string	widget_start_charge_text	11	Start charging	开始充电
+string	widget_stop_charge_text	11	Stop charging	停止充电
+string	widget_stop_discharge_text	11	Stop Discharging	停止放电
+string	widget_tire_pressure_quick_leaking	11	Leaking tyre	正在漏气
+string	widget_tire_pressure_result_fast_pressure_loss_front_left	21	Front left tire is leaking air	左前轮胎正在漏气
+string	widget_tire_pressure_result_fast_pressure_loss_front_right	21	Front right tire is leaking air	右前轮胎正在漏气
+string	widget_tire_pressure_result_fast_pressure_loss_multiple	21	Multiple tires are leaking air	多个轮胎正在漏气
+string	widget_tire_pressure_result_fast_pressure_loss_rear_left	21	Rear left tire is leaking air	左后轮胎正在漏气
+string	widget_tire_pressure_result_fast_pressure_loss_rear_right	21	Rear right tire is leaking air	右后轮胎正在漏气
+string	widget_tire_pressure_result_high_pressure_front_left	21	Front left tire has too high pressure	左前轮胎胎压过高
+string	widget_tire_pressure_result_high_pressure_front_right	21	Front right tire has too high pressure	右前轮胎胎压过高
+string	widget_tire_pressure_result_high_pressure_multiple	21	Pressure is too high in multiple tires.	多个轮胎胎压过高
+string	widget_tire_pressure_result_high_pressure_rear_left	21	Rear left tire has too high pressure	左后轮胎胎压过高
+string	widget_tire_pressure_result_high_pressure_rear_right	21	Rear right tire has too high pressure	右后轮胎胎压过高
+string	widget_tire_pressure_result_high_temperature_front_left	21	Front left tire has too high temperature	左前轮胎温度过高
+string	widget_tire_pressure_result_high_temperature_front_right	21	Front right tire has too high temperature	右前轮胎温度过高
+string	widget_tire_pressure_result_high_temperature_multiple	21	High temperature in multiple tyres	多个轮胎温度过高
+string	widget_tire_pressure_result_high_temperature_rear_left	21	Rear left tire has too high temperature	左后轮胎温度过高
+string	widget_tire_pressure_result_high_temperature_rear_right	21	Rear right tire has too high temperature	右后轮胎温度过高
+string	widget_tire_pressure_result_low_pressure_front_left	21	Front left tire has too low pressure	左前轮胎胎压过低
+string	widget_tire_pressure_result_low_pressure_front_right	21	Front right tire has too low pressure	右前轮胎胎压过低
+string	widget_tire_pressure_result_low_pressure_multiple	21	Pressure is too low in multiple tires.	多个轮胎胎压过低
+string	widget_tire_pressure_result_low_pressure_rear_left	21	Rear left tire has too low pressure	左后轮胎胎压过低
+string	widget_tire_pressure_result_low_pressure_rear_right	21	Rear right tire has too low pressure	右后轮胎胎压过低
+string	widget_tire_pressure_result_monitor_system_fault_front_left	31	TPMS of the front left tire is faulty	左前轮胎胎压监测系统故障
+string	widget_tire_pressure_result_monitor_system_fault_front_right	31	TPMS of the front right tire is faulty	右前轮胎胎压监测系统故障
+string	widget_tire_pressure_result_monitor_system_fault_multiple	31	TPMS of multiple tires is faulty	多个轮胎胎压监测系统故障
+string	widget_tire_pressure_result_monitor_system_fault_rear_left	31	TPMS of the rear left tire is faulty	左后轮胎胎压监测系统故障
+string	widget_tire_pressure_result_monitor_system_fault_rear_right	31	TPMS of the rear right tire is faulty	右后轮胎胎压监测系统故障
+string	widget_tire_pressure_result_ok	11	Tyre pressure is ok	胎压正常
+string	widget_tire_pressure_result_sensor_battery_low_front_left	26	TPMS sensor of the front left tire has a low battery level	左前轮胎传感器电量低
+string	widget_tire_pressure_result_sensor_battery_low_front_right	26	TPMS sensor of the front right tire has a low battery level	右前轮胎传感器电量低
+string	widget_tire_pressure_result_sensor_battery_low_multiple	26	TPMS sensor of multiple tires has a low battery level	多个轮胎传感器电量低
+string	widget_tire_pressure_result_sensor_battery_low_rear_left	26	TPMS sensor of the rear left tire has a low battery level	左后轮胎传感器电量低
+string	widget_tire_pressure_result_sensor_battery_low_rear_right	26	TPMS sensor of the rear right tire has a low battery level	右后轮胎传感器电量低
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

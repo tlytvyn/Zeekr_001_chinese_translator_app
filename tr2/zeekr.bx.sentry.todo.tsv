@@ -1,0 +1,10 @@
+string	guide_page2_desc2	161	missing	为避免额外电量消耗，<font color="#F88650">功能开关仅当次有效</font>，检测到车辆行驶后功能将退出，下次使用哨兵时须重新开启。	
+string	guide_page4_desc	363	missing	"• 环境照明不佳、摄像头被污物遮挡时，哨兵识别能力会降低。 \n• ⾏⼈缓慢经过⻋辆识别范围时可能会触发误识别。 \n• 震动监测不适用于车门油漆磕碰、被划等轻微震动情况。 \n• 开启宠物、休憩等场景模式时哨兵不可⽤，OTA升级时哨兵会退出。 \n• 车内温度过高或过低时，U盘可能无法工作，视频优先存储到车机中。"	
+string	guide_page4_desc_2	176	missing	<font color="#F88650">注意：</font>触发报警后会播放⾼⾳警报，请避免⻋内留置⼈员或动物。哨兵模式具有视频拍摄功能，请在当地法规允许区域开启。	
+string	no_usb_found	217	missing	"哨兵模式已开启，未检测到U盘，可接收报警通知，但无法存储视频。请检查后重试。\n· U盘是否插入正确位置 \n· U盘容量是否在512M和256G之间 \n· U盘格式是否为FAT32 \n· U盘是否损坏"	
+string	safe_security_sentinel_mode_user_agreement_content	189	missing	"当您开启该功能后，车身周身摄像头将被打开并收集处理信息，请注意所在当地法规，只有在法规允许的情况下才能开启本功能，否则后果由用户自身承担。        "	
+string	sdk_open_debug_mode	28	missing	开启调试模式（不导入数据）	
+string	sdk_open_debug_mode_import_data	26	missing	开启调试模式（导入数据）	
+string	sentinel_mode_description_2	233	missing	功能开启且锁⻋后，⻋辆将持续监测⻛险，循环录制视频并通知⻋主。发现行人异常接近⻋辆时记录为低⻛险事件，发现⻋辆异常震动时记 录为高⻛险事件。由于功能限制，开启其他场景模式期间，哨兵模式暂不可用	
+string	sentinel_mode_description_6	219	missing	如图所示添加U盘可保存视频，U盘空间不足后，将按照由远及近的时间顺序删除已录制的视频，高⻛险事件视频除外。劣质U盘可能导致数据丢失，建议极物商城购买。详细U盘参数要求参照⻋主手册	
+string	ufs_not_available	326	missing	"哨兵模式已开启，内置存储空间不⾜且未检测到外置U盘，当前可接收报警通知，但可能⽆法存储视频。请及时清理⻋机存储空间或者插⼊外置U盘。插⼊U盘后若仍然提示内存不⾜请检查后重试。\n• U盘是否插⼊正确位置\n• U盘容量是否在512M和256G之间\n• U盘格式是否为FAT32\n• U盘是否损坏"	

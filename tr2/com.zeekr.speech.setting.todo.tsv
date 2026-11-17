@@ -1,0 +1,169 @@
+array	register_name	12	missing	极氪用户一 ‖ 极氪用户二 ‖ 极氪用户三 ‖ 极氪用户四	
+array	register_title	10	missing	请对我说 ‖ 请说 ‖ 再说一遍 ‖ 最后请说	
+array	register_tts	16	missing	请对我说害 Eva ‖ 请说害 Eva ‖ 再说一遍害 Eva ‖ 最后请说害 Eva	
+array	register_tts_out_time	16	missing	请对我说害 Eva ‖ 请说害 Eva ‖ 对我说害 Eva吧	
+string	add_wake_word	12	missing	新增唤醒词	
+string	after_eva_wakeup	13	missing	唤醒 Eva 后	
+string	after_eva_wakeup_geek	17	missing	未唤醒eva情况下	
+string	after_eva_wakeup_wakefree	14	missing	无需唤醒 Eva	
+string	afternoon	8	missing	下午好	
+string	anti_interference	14	missing	多音区抗干扰	
+string	anti_interference_tip	122	missing	左右两音区模式下，Eva 可准确辨别你的说话方位并执行该区域的指令，其他位置乘客需重新唤醒 Eva 对话	
+string	app_name	10	missing	语音设置	
+string	cancel	6	missing	取消	
+string	car_driver	8	missing	领航员	
+string	classic	6	missing	经典	
+string	close	6	missing	关闭	
+string	close_now	10	missing	仍要关闭	
+string	continue_talk	10	missing	连续对话	
+string	continue_talk_tip	68	missing	一次唤醒 16s 内持续聆听，你可以随时打断 Eva 进行对话	
+string	default_wake_word	12	missing	默认唤醒词	
+string	delete	10	missing	仍要删除	
+string	delete_vprint	10	missing	删除声纹	
+string	delete_vprint_ensure	26	missing	删除后将无法体验声纹服务	
+string	ensure	6	missing	确认	
+string	ensure_confirm	10	missing	仍要使用	
+string	eva	9	missing	Hi，Eva	
+string	eva_tts_mode	14	missing	Eva 播报模式	
+string	eva_tts_mode_tip_default	27	missing	Eva 播报、回复更详细具体	
+string	eva_tts_mode_tip_simple	23	missing	Eva 播报、回复更简洁	
+string	eve_process_restart_success	38	missing	语音服务重启成功，重新唤醒Eva试试吧	
+string	evening	8	missing	晚上好	
+string	experience_close_content	65	missing	关闭后，Eva 将不再收集你的语音信息来提升产品和服务	
+string	experience_close_tip	33	missing	同步删除历史存储的语音相关信息	
+string	experience_close_title	28	missing	关闭 Eva 语音体验改进计划	
+string	experience_now	6	missing	确认	
+string	experience_policy_dialog_title	18	missing	语音体验改进计划	
+string	experience_policy_title	22	missing	《语音体验改进计划》	
+string	experience_sub_title	41	missing	Eva 将收集你的语音信息来提升产品和服务	
+string	experience_title	23	missing	Eva 语音体验改进计划	
+string	geek_guide	12	missing	极客技能库	
+string	geek_mode_open_tip	108	missing	目前该功能为体验版，仅对常用的车控指令有效。开启后，主驾在车内聊天时可能会误唤醒 Eva	
+string	geek_skill_lib	12	missing	极客技能库	
+string	get_again	10	missing	重新获取	
+string	jike_skill_lib	12	missing	极客技能库	
+string	know	8	missing	知道了	
+string	lab	8	missing	实验室	
+string	loss_content	15	missing	内容加载中...	
+string	main_geek_mode	14	missing	主驾极客模式	
+string	main_geek_mode_tip	75	missing	主驾无需唤醒 Eva，直接说出常用的车控指令，即可完成语音操作	
+string	me_too_title	8	missing	我也要	
+string	midday	8	missing	中午好	
+string	morning	8	missing	早上好	
+string	morning2	8	missing	上午好	
+string	multi_intent_guide	12	missing	多意图教学	
+string	multi_intent_title	8	missing	多意图	
+string	multi_intent_word1	13	missing	导航+多媒体	
+string	multi_intent_word2	13	missing	车控+多媒体	
+string	multi_intent_word3	11	missing	导航+车控	
+string	multi_intent_word4	11	missing	车控+电话	
+string	multi_intent_word5	18	missing	多个车控指令连说	
+string	net_error_content	15	missing	内容加载中...	
+string	not_define_wake_word	10	missing	未自定义	
+string	not_open_now	6	missing	取消	
+string	one_shot	10	missing	一语直达	
+string	one_shot_guide	14	missing	一语直达教学	
+string	one_shot_tip	69	missing	使用「Hi, Eva」与指令连说，或通过固定句式实现语音对话	
+string	personal_dress	10	missing	个性装扮	
+string	personal_dress_tip	24	missing	给 Eva 换个装扮试试？	
+string	record_mode_left_behind	8	missing	左后排	
+string	record_mode_left_front	6	missing	主驾	
+string	record_mode_right_behind	8	missing	右后排	
+string	record_mode_right_front	6	missing	副驾	
+string	record_mode_sub_title	40	missing	仅选中的区域可以唤醒 Eva 进行语音对话	
+string	record_mode_title	16	missing	自定义唤醒区域	
+string	say_such_order	22	missing	并对我说以下组合指令	
+string	see_and_say	12	missing	可见即可说	
+string	see_and_say_tip	94	missing	看见什么说什么，唤醒 Eva 后直接说出界面上的功能名称，即可完成语音点选操作	
+string	skill_lib	8	missing	技能库	
+string	skill_lib_tip	41	missing	来看看你的语音魔法书技能解锁了多少了？	
+string	skill_multi_intent_sub_title	18	missing	一句话操作多功能	
+string	skill_multi_intent_title	16	missing	多意图指令教学	
+string	skill_multi_record_location_sub_title	16	missing	一句话继承指令	
+string	skill_multi_record_location_title	12	missing	跨音区操作	
+string	skill_mutli_record_first_title	39	missing	他人语音调节车窗、座椅、空调等指令后	
+string	skill_mutli_record_five_title	14	missing	即可快速实现	
+string	skill_mutli_record_four_title	6	missing	用户	
+string	skill_mutli_record_sec_title	49	missing	"-“打开空调打开座椅按摩”\n-“打开车窗”"	
+string	skill_mutli_record_six_title	10	missing	同样操作	
+string	skill_mutli_record_third_title	10	missing	任意位置	
+string	skill_one_shot_sub_title	18	missing	快速实现语音对话	
+string	skill_one_shot_title	14	missing	一语直达教学	
+string	skill_use	10	missing	技能使用	
+string	skill_use_and_num	19	missing	技能使用 %d/%d	
+string	skill_wake_free_sub_title	14	missing	18个免唤醒词	
+string	skill_wake_free_title	10	missing	免唤醒词	
+string	stare_smart_app_tip	80	missing	主驾注视中控屏，直接说出界面上的功能名称，即可完成语音点选操作	
+string	stare_smart_app_title	20	missing	主驾凝视可见即可说	
+string	stay_tuned	10	missing	敬请期待	
+string	think_abount	10	missing	考虑一下	
+string	tips	10	missing	温馨提示	
+string	tts_mode_default	6	missing	默认	
+string	tts_mode_simple	6	missing	简洁	
+string	unlock_category	10	missing	解锁类别	
+string	update_log	14	missing	Eva 更新日志	
+string	voice_confirm_dialog_cancel	6	missing	取消	
+string	voice_confirm_dialog_commit	6	missing	确认	
+string	voice_confirm_dialog_hint	10	missing	极氪用户	
+string	voice_confirm_dialog_tips	48	missing	请使用2-5个中文作为唤醒称呼，避免使用特殊字符	
+string	voice_confirm_dialog_title	10	missing	应答称呼	
+string	voice_confirm_welcome_descript	40	missing	只要说出“Hi，Eva”，Eva就能认出你了哦	
+string	voice_confirm_welcome_name	12	missing	%s，你好!	
+string	voice_print_name	9	missing	声纹%s	
+string	voice_prints_manager	10	missing	声纹管理	
+string	voice_prints_register	10	missing	声纹注册	
+string	voice_prints_tip	73	missing	语音唤醒后，Eva 能认出你的声音，并回复你的专属唤醒应答语	
+string	voice_prints_title	12	missing	Eva 记忆库	
+string	vp_register_not_has_focus	39	missing	当前状态暂不支持声纹录制，稍后再试试	
+string	vp_register_not_p	22	missing	请在 P 档下注册声纹	
+string	vprint_err_msg_70942	13	missing	Eva没听懂哦	
+string	vprint_err_msg_70943	13	missing	Eva没听懂哦	
+string	vprint_err_msg_70945	22	missing	Eva没懂哦，请再试试	
+string	vprint_err_msg_70946	13	missing	Eva没听懂哦	
+string	vprint_err_msg_70947	20	missing	请加快语速再说一遍	
+string	vprint_err_msg_70948	24	missing	太快啦，请慢点再说一次	
+string	vprint_err_msg_70949	32	missing	Eva没听清，请在安静状态下试试	
+string	vprint_err_msg_70950	22	missing	Eva没听清，请再试试	
+string	vprint_err_name_msg	16	missing	暂不支持此称呼	
+string	vprint_err_name_msg1	12	missing	仅支持中文	
+string	vprint_err_name_msg2	17	missing	仅支持2-5个中文	
+string	vprint_err_name_msg3	26	missing	网络有问题，请稍后在试试	
+string	vprint_has_register	22	missing	此声纹可能与%s相似	
+string	vprint_register_tts	16	missing	请对我说害 Eva	
+string	vr_service	14	missing	Eva 语音服务	
+string	vr_service_close_content	41	missing	关闭后，将无法通过任何形式使用语音服务	
+string	vr_service_close_title	19	missing	Eva 语音服务授权	
+string	vr_service_content	143	missing	根据国家数据安全相关法规，使用语音服务需要本人授权同意，开启后可通过「Hi, Eva」「单击 Eva」「语音方控」唤醒语音	
+string	vr_service_not_open	10	missing	暂不开启	
+string	vr_service_not_ready	30	missing	语音功能正在启动，请稍后重试	
+string	vr_service_open	6	missing	同意	
+string	vr_service_policy_dialog_title	45	missing	《极氪汽车 Eva 语音服务个人信息保护政策》	
+string	vr_service_policy_title	45	missing	《极氪汽车 Eva 语音服务个人信息保护政策》	
+string	vr_service_sub_title	10	missing	授权期限	
+string	vr_service_time_half_year	8	missing	六个月	
+string	vr_service_time_one_year	6	missing	一年	
+string	vr_service_time_sub_title	10	missing	授权期限	
+string	vr_service_time_sub_title_delay	14	missing	延长授权期限	
+string	vr_service_time_third_month	8	missing	三个月	
+string	vr_service_tip_close	42	missing	开启后，可唤醒 Eva 并使用 Eva 语音服务	
+string	vr_service_tip_open	56	missing	关闭后，将无法唤醒 Eva 并使用 Eva 语音服务	
+string	vr_service_title	19	missing	Eva 语音服务授权	
+string	wake_free	8	missing	免唤醒	
+string	wake_free_guide	10	missing	免唤醒词	
+string	wake_free_tip	70	missing	在导航、音乐等场景下无需唤醒 Eva，直接说出常用指令即可	
+string	wake_tip	8	missing	唤醒我	
+string	wake_word	8	missing	唤醒词	
+string	wake_word_error_score	36	missing	此说法评分为%s，高概率引发误唤醒	
+string	wake_word_set_tip	36	missing	你可以通过“%s”或 Hi Eva唤醒我啦	
+string	wake_word_suggest_content	105	missing	"建议 3-5 个中文，避免日常用语或叠字\n你也可以唤醒我，并对我说“给你取个名字叫XXX”"	
+string	wake_word_suggest_title	12	missing	唤醒词建议	
+string	wake_word_tip	44	missing	可通过「Hi Eva」或「自定义唤醒词」唤醒我	
+string	wake_word_tip_default	8	missing	未设置	
+string	wisdom_close_content	105	missing	关闭后，语音多轮对话体验将受到影响，且无法使用免唤醒词，建议保持开启，确认关闭吗？	
+string	wisdom_close_title	14	missing	关闭极智对话	
+string	wisdom_talk	10	missing	极智对话	
+string	wisdom_talk_tip	63	missing	Eva 语音服务将为你提供连续、自然、智能的对话体验	
+string	you_can	8	missing	你可以	
+string	you_can_say	16	missing	你可以这样说：	
+string	you_can_say_geek	16	missing	你可以直接说：	
+string	you_can_say_wakefree	16	missing	你可以直接说：	

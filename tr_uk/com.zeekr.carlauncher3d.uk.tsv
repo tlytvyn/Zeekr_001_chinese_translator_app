@@ -1,0 +1,54 @@
+string	app_name	CarLauncher3D
+string	cancel	Скас.
+string	car_skin_data	Цифр. обклейка
+string	car_suspension_adjust	Підвіска
+string	car_suspension_disable	Увімкнено режим домкрата, регулювання підвіски недоступне
+string	close	Закрити
+string	copilot_seat	«Сид. пасажира»
+string	enter_wash_mode	Режим мийки
+string	error_a11y_label	Помилка: недійсне
+string	game_view_content_description	game_view_content_description
+string	i_known	Зрозуміло
+string	main_driver_seat	«Сидіння водія»
+string	mode_switch_exit	Вийти
+string	mode_switch_open	Увімк.
+string	neutral_gear_tip_title	Нейтраль (N)
+string	pet_mode	Режим тварин
+string	pet_mode_remind	Режим тварин
+string	pet_remind_know	Зрозуміло
+string	pet_remind_not_airy_content	Свіже повітря, щоб тварині легко дихалось
+string	pet_remind_not_airy_title	Вентиляція
+string	pet_remind_not_careful_content	Двері, вікна, екран і голос заблоковано
+string	pet_remind_not_careful_title	Блок. дотику
+string	pet_remind_not_exception_content	Сповіщає власника й відчиняє вікна,\nколи заряд низький або режим вимкнено
+string	pet_remind_not_exception_title	Захист
+string	pet_remind_sub_title	Лише для тварин. Ніколи не залишайте дітей самих в автомобілі
+string	pet_remind_temperature_content	Клімат підтримує комфорт тварини
+string	pet_remind_temperature_title	Температура
+string	rest_driver	Відпочинок водія
+string	rest_driver_tips	Режим відпочинку водія змінює положення «Сидіння водія». Будьте обережні
+string	rest_mode	Відпочинок
+string	rest_mode_text	Режим відпочинку водія змінює положення «Сидіння водія». Будьте обережні
+string	rest_passenger	Відпоч. пасажира
+string	rest_select_tips	Режим відпочинку змінює %1$s. Будьте обережні
+string	row_front_seat	«Передні сидіння»
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	seat	Сидіння
+string	seat_adjustment_in_progress_please_waiting	Регулювання сидіння, зачекайте
+string	start	Увімк.
+string	wash_car_outside_exit_simple_txt	Відімкніть фізичним ключем або ключем у телефоні (Bluetooth підключено), щоб вийти з режиму мийки
+string	wash_car_outside_exit_title	Вихід ззовні
+string	wash_car_outside_exit_txt	1. Відімкніть фізичним ключем або ключем у телефоні (Bluetooth підключено), щоб вийти з режиму мийки\n2. Коли авто відімкнено, утримуйте кнопку замка на ручці дверей 6 с, щоб вийти з режиму мийки
+string	wash_exit_title	Вихід
+string	wash_exit_txt	Вихід із режиму мийки вимикає комфорт стоянки й відновлює всі функції
+string	wash_mode	Режим мийки
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберегти
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж...
+string	zeekr_show_psw	Показати пароль
+string	neutral_gear_tip_content	1. На конвеєрній мийці складіть дзеркала й увімкніть N. Не виходьте з авто: при виході вмикається P.\n2. Якщо Auto Hold вимкнено, можна вмикати N.\n3. Якщо Auto Hold увімкнено, спершу вимкніть його, потім увімкніть N.\nПримітка: у P відстебніть ремінь водія або сильно натисніть гальмо, щоб вимкнути Auto Hold
+string	wash_mode_text	У режимі мийки вмикається комфорт на стоянці, клімат перемикається на рециркуляцію, закриваються всі вікна, багажник і лючок зарядки. Вимикаються: безключовий доступ, кнопка лючка зарядки, автодвірники, сигнали перешкод, розблокування при наближенні / блокування при віддаленні.\n\nПримітка: режим мийки вимикається автоматично на швидкості понад 15 км/год.\n\nАвтомийка: заряд має бути понад 20%, не рухайте авто, інакше режим вимкнеться, коли водій вийде. На конвеєрній мийці складіть дзеркала й увімкніть N. Не виходьте з авто: при виході вмикається P.

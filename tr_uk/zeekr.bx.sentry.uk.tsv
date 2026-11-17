@@ -1,0 +1,62 @@
+string	app_name	Реж. охорони
+string	cancel	Скас.
+string	check	Огляд
+string	common_confirm	ОК
+string	common_know	Зрозуміло
+string	confirm	ОК
+string	error_a11y_label	Помилка: недійсне
+string	gif_record_text	Запис
+string	guard_mode	Реж. охорони
+string	guide	Режим охорони витрачає додатковий заряд батареї й автоматично вимикається, коли заряд нижче 20%. Під час спрацювання лунає гучна сирена, тому не залишайте людей чи тварин в автомобілі.
+string	guide_page1_desc	Моніторинг починається через 30 секунд після блокування автомобіля. Коли людина потрапляє в зону виявлення або автомобіль фіксує незвичну вібрацію, записується відео за хвилину до й після події.
+string	guide_page1_desc2	У разі незвичної вібрації блимає аварійна сигналізація, лунає звуковий сигнал, а застосунок на телефоні отримує сповіщення.
+string	guide_page1_title	Як працює
+string	guide_page2_desc	Автоматично вимикається, коли заряд нижче 20%.
+string	guide_page2_desc2	Для економії заряду перемикач діє лише для поточного сеансу. Він вимикається з початком руху; наступного разу ввімкніть його знову.
+string	guide_page2_title	Автовимкнення
+string	guide_page3_desc	Без USB-накопичувача вбудована пам’ять надає до 8 ГБ. Коли її заповнено, найстаріші відео видаляються першими.
+string	guide_page3_desc2	Щоб зберегти ресурс вбудованої пам’яті, підключіть USB-накопичувач, як показано. Використовуйте USB-накопичувач FAT32 обсягом до 256 ГБ.
+string	guide_page3_title	Додайте USB
+string	guide_page4_desc	• Виявлення слабшає за поганого освітлення або брудних камер. \n• Люди, що повільно проходять повз, можуть спричиняти хибні тривоги. \n• Контроль вібрації не охоплює легкі подряпини чи удари. \n• Режим охорони недоступний, коли ввімкнено режим для тварин, відпочинку тощо.
+string	guide_page4_desc_2	Примітка: під час спрацювання лунає гучна сирена, тому не залишайте людей чи тварин усередині. Режим охорони записує відео; використовуйте лише там, де це дозволяє місцеве законодавство.
+string	guide_page4_title	Обмеження
+string	hv_failure	Виявлено несправність системи, увімкнення неможливе. Зверніться до сервісу
+string	i_konw	Зрозуміло
+string	konw	Зрозуміло
+string	never_no_hint	Не показувати
+string	no_usb_found	Режим охорони ввімкнено, але USB-накопичувач не знайдено. Сповіщення працюють, відео не зберігаються. Перевірте:\n· USB-накопичувач вставлено правильно \n· Обсяг від 512 МБ до 256 ГБ \n· Формат FAT32 \n· Накопичувач не пошкоджено
+string	percent	Прогрес: %s %%
+string	report_hint	*Об’єкти поблизу місця стоянки можуть розпізнаватися хибно. Виявлення в цій ранній версії вдосконалюється
+string	safe_security_sentinel_mode_user_agreement	Угода
+string	safe_security_sentinel_mode_user_agreement_content	Коли функцію ввімкнено, зовнішні камери записують і обробляють дані. Дотримуйтеся місцевого законодавства й використовуйте цю функцію лише там, де це дозволено; інакше ви несете відповідальність за наслідки.
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	sentinel_mode_description_1	Як працює
+string	sentinel_mode_description_10	Під час спрацювання лунає гучна сирена, тому не залишайте людей чи тварин в автомобілі. Режим охорони записує відео; не вмикайте його в громадських місцях
+string	sentinel_mode_description_3	Сповіщення app
+string	sentinel_mode_description_4	Увімкніть сповіщення в застосунку ZEEKR, щоб одразу отримувати стан авто
+string	sentinel_mode_description_5	Додайте USB
+string	sentinel_mode_description_7	Енергоспож.
+string	sentinel_mode_description_8	Функція витрачає додатковий заряд і автоматично вимикається, коли заряд нижче 20%. Для економії заряду діє лише для поточного сеансу
+string	sentinel_mode_description_9	Увага
+string	sentry_is_aactive	Режим охорони активний
+string	sentry_mode	Реж. охорони
+string	sentry_mode_activation	Режим охорони активний
+string	sentry_mode_report	Звіт режиму охорони
+string	sentry_mode_text	Режим охорони
+string	sentry_report_alarm	Подій високого ризику: %1$s.
+string	sentry_report_alert	Подій низького ризику: %1$s,
+string	sentry_report_norisk	Ризикових подій не виявлено. Їдьте спокійно.
+string	sentry_report_time	Режим охорони охороняв авто %1$s год %2$s хв,
+string	sentry_report_usbr	USB-накопичувач повільний і може пропустити відео подій. Замініть його.
+string	soc_insufficient	Замалий заряд, увімкнення неможливе. Вмикайте при заряді понад 25%
+string	usb_insufficient	Мало місця на USB, записи можуть не зберегтися. Звільніть місце
+string	usb_not_space	Режим охорони ввімкнено. На USB-накопичувачі менше 2 ГБ вільного місця (менш ніж 10 хвилин запису). Звільніть місце
+string	usb_storage_slow	Режим охорони ввімкнено. USB-накопичувач повільний, записи можуть бути неповними. Вимоги до USB-накопичувача див. у посібнику власника
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберегти
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж...
+string	zeekr_show_psw	Показати пароль

@@ -1,0 +1,75 @@
+array	in_colors_light	14	#4b03a9f4 ‖ #3303a9f4 ‖ #1903a9f4	
+string	app_name	11	Local Music	本地音乐
+string	bt_a2dp_disconnect	65	"Bluetooth Music connection failed. Make sure that your phone's Bluetooth \"Media Audio\" is turned on."	蓝牙音乐连接失败，请确认手机的蓝牙『媒体音频』已开启
+string	bt_disconnect	19	Device disconnected	蓝牙设备已断开
+string	bt_music	11	Bluetooth Music	蓝牙音乐
+string	bt_name	6	Bluetooth	蓝牙
+string	bt_not_connect	19	Devices is not connect	蓝牙设备未连接
+string	bt_not_connected	21	You have not connected a Bluetooth device	你未连接蓝牙设备
+string	chip_text	14	Chip text	
+string	collect	11	Favorites list	收藏列表
+string	collect_empty	11	No favorites	暂无收藏
+string	collect_more_than_thirty	26	Up to 30 radios can be collected	最多只能收藏30个电台
+string	connect_a2dp	11	Retry connect	重新连接
+string	connect_bt	11	Connect Bluetooth	连接蓝牙
+string	customactivityoncrash_error_activity_close_app	11	Close app	关闭程序
+string	customactivityoncrash_error_activity_error_details	11	Error log	错误日志
+string	customactivityoncrash_error_activity_error_details_clipboard_label	11	Error info	错误信息
+string	customactivityoncrash_error_activity_error_details_close	6	Close	关闭
+string	customactivityoncrash_error_activity_error_details_copied	11	Log copied	复制日志
+string	customactivityoncrash_error_activity_error_details_copy	11	Copy log	复制日志
+string	customactivityoncrash_error_activity_error_details_title	11	Error details	错误详情
+string	customactivityoncrash_error_activity_error_occurred_explanation	47	An unexpected error occurred.\nSorry for the inconvenience.	"发生意外错误。\n抱歉，给您带来不便。"
+string	customactivityoncrash_error_activity_restart_app	11	Restart	重新启动
+string	empty_radio	16	The radio list is empty	电台列表为空
+string	incompatible_usb_device	16	Unable to identify the device	设备无法识别
+string	label	8	Label	
+string	loading	13	Loading...	加载中...
+string	local_music_fail	11	Playing failed	播放失败
+string	local_music_fail_next	31	Playing exception. The next song is played automatically	播放异常，自动播放下一首
+string	lyrics	6	lyrics	歌词
+string	no_init	6	Unknown	暂无
+string	no_init_music	11	No song name	暂无歌曲
+string	no_lrc_tip	11	No lyrics	暂无歌词
+string	no_lyrics	11	no lyric	暂无歌词
+string	no_music	11	Not Provided	暂无歌曲
+string	no_music_flag	18	Not Provided	
+string	no_singer	11	Unknown singer	未知歌手
+string	no_title	11	Unknown music name	暂无曲名
+string	no_usb_device	18	Please insert a USB device	请插入USB设备
+string	no_usb_music	16	No music on USB	无可播放内容
+string	opening	18	Starting...	正在启动中...
+string	play_all	11	play all	全部播放
+string	playlist	6	play list	歌单
+string	radio_collect_cancel	14	Collection cancelled	收藏已取消
+string	radio_collect_max_tip	26	Up to 30 radios can be collected	最多只能收藏30个电台
+string	radio_collect_success	11	Saved	收藏成功
+string	radio_list	11	Radio List	电台列表
+string	radio_name	9	Radio	收音机
+string	start_radio	18	Starting...	正在启动中...
+string	storage_permission_remind	38	To read data from the USB device, you need to enable the storage reading permission.	读取USB,需要开启存储读取权限！
+string	unknown	6	Unknown	未知
+string	update_ing	15	Updating	正在更新...
+string	update_list	11	Update List	更新列表
+string	usb1_unmount	14	USB1 is disconnected	USB1已断开
+string	usb2_unmount	14	USB2 is disconnected	USB2已断开
+string	usb_click_play	14	click for playing	请点击播放
+string	usb_empty_song	11	unknown	未知歌曲
+string	usb_name	10	USB	USB音乐
+string	usb_scan_finish	11	Scanning completed	扫描完成
+string	usb_unmount_tips	18	The USB device is removed	USB设备已拔出
+string	wd_bt	11	Bluetooth Music	蓝牙音乐
+string	wd_local	6	Music	音乐
+string	wd_music	6	Music	音乐
+string	wd_news	6	News	新闻
+string	wd_radio	9	Radio	收音机
+string	wd_station	6	Station	听书
+string	wd_usb	10	USB Music	USB音乐
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

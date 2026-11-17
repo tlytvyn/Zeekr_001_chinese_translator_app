@@ -1,0 +1,24 @@
+string	app_name	23	ZeekrMediaCenter	
+string	app_not_find	16	App not found	未找到该应用
+string	bt_no_connect	16	Bluetooth not connected	没连接蓝牙哦
+string	can_not_open_because_of_updating	28	App updating, try again later	应用更新中，请稍后重试
+string	change_tuner	21	OK, switching to	好的，为您切换到
+string	current_function_unavailable	38	This function is unavailable now	当前状态下，这个功能无法使用哦
+string	current_no_can_play_source	28	No playable source	当前没可支持播放的音源
+string	current_no_music	19	No music playing	当前未播放音乐
+string	current_radio	21	No music playing	当前无音乐在播放
+string	fav_enough	33	Could not save, 30 favorites max	收藏没有成功哦，已经30个了
+string	no_content_playing	21	Nothing is playing.	没有内容在播放。
+string	no_media_info	61	Eva cannot play this now, please try manually.	当前状态下，Eva无法帮你播放资源，试着手动操作吧。
+string	no_playinfo	21	Nothing playing	当前暂无播放内容
+string	no_res_close	31	Nothing to close.	目前没有资源可以关闭哦。
+string	not_bt_connect	23	Turn on Bluetooth first	请先打开蓝牙开关吧
+string	not_bt_surpport	36	No Bluetooth device connected, connect one first	你还未连接蓝牙设备，请先连接
+string	not_support_collect	21	This song cannot be saved	该歌曲不支持收藏
+string	not_surpport	19	Not supported yet	暂不支持该功能
+string	not_usb_surpport	35	No USB device connected, connect one first	你还未连接USB设备，请先连接
+string	now_isplaying	19	Already playing	当前已在播放中
+string	now_isstopping	14	Paused	当前已暂停
+string	open_bluetooth	28	OK, opening Bluetooth music	好的，为您打开蓝牙音乐
+string	open_tuner	26	OK, opening radio	好的，为您打开收音机
+string	open_usb	27	OK, opening USB music	好的，为您打开USB音乐

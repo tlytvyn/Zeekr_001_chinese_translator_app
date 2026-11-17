@@ -1,0 +1,98 @@
+string	cancel_button	Cancel
+string	cancel_sure_button	Confirm
+string	cancel_update_content	Cancel this update?
+string	cancel_update_text	Canceled
+string	currrent_update_failure	This update has expired\nPlease wait for the next update or contact customer service\nHotline: %1$s
+string	i_know	Got it
+string	modify_updata_time	Reschedule
+string	mpu_upgrade_confirm_msg	Note: The system will restart during the update. Please drive to a safe place before updating.
+string	network_error	The update was interrupted due to poor network signal. Once the connection is stable,\ngo to [Settings] -> [System] -> [GKUI ...] to try again.
+string	new_system_upgrade_succeed	System updated successfully!
+string	night_auto_upgrade	Night auto-update
+string	night_auto_upgrade_goto_upgrade	Update
+string	night_auto_upgrade_look_log	View update log
+string	night_auto_upgrade_manager	Updates
+string	night_auto_upgrade_night_auto_upgrade	An automatic update is scheduled for 02:00 tonight. It will take about %1$s min. During the update, you cannot drive the vehicle, use the touchscreen, or charge the vehicle. Please lock the vehicle and leave before the update starts.
+string	night_auto_upgrade_time_set	A system update is available for your car! It will take about %1$s min. During the update, you cannot drive the vehicle, use the touchscreen, or charge the vehicle. Please lock the vehicle and leave before the update starts.
+string	night_auto_upgrade_tip1	You have scheduled an update for %1$s today. Turning this on will move it to 02:00 tonight, and future versions will be installed automatically at 02:00.
+string	night_auto_upgrade_tip2	You have scheduled an update for %1$s tomorrow. Turning this on will move it to 02:00 tonight, and future versions will be installed automatically at 02:00.
+string	night_auto_upgrade_tip3	New versions will be installed automatically at 02:00. During the update, you cannot drive the vehicle, use the touchscreen, or charge the vehicle.
+string	night_auto_upgrade_tip4	You have scheduled an update in %1$s h %2$s min. Turning this on will move it to 02:00 tonight, and future versions will be installed automatically at 02:00.
+string	night_auto_upgrade_title	Enable night auto-update?
+string	open	Enable
+string	ota_upgrade_report_install_fail	Failed to report status!
+string	prompt	Notice
+string	telephone_warming	For any issues, call the Geely 24-hour hotline!
+string	time_set_content2	The automatic update scheduled for 02:00 failed. Please check your network connection. You can go to [Settings - System Update] to schedule the update again.
+string	time_set_failed	Failed
+string	update_break	Interrupted
+string	update_delay	Postponed
+string	update_dialog_content	Estimated time: %1$s
+string	update_faile	Sorry, the update failed\nPlease contact customer service for support\n\nHotline: %1$s
+string	update_failure	Expired
+string	update_loading_title	A system update is available
+string	update_pre	Preparing...
+string	update_when_getting_off	Remind on exit
+string	upgrade_failse	Setting failed. Check network and retry.
+string	upgrade_log_title	What's new
+string	upgrade_remind1	The update will run automatically after you lock the car. Make sure the windows and sunroof are closed. Please note:
+string	upgrade_remind2	After the update, lock and then unlock the car with the key fob to activate it!
+string	upgrade_remind3	During the update, the key fob and anti-theft alarm are temporarily locked. Do not leave children, pets, or valuables in the car!
+string	upgrade_remind4	Do not operate the vehicle during the update, or the update may fail!
+string	vechile_install_fail_message	During the update, make sure the windows and sunroof are closed and the car is locked,\nthe network is stable, and the vehicle is not operated.\nOtherwise the update may fail.\nYou can go to [Settings] -> [System] -> [GKUI ...] to try again.\n\nHotline: %1$s
+fix	broadcast_download_success_text	Download complete
+fix	broadcast_find_ver_text	New version
+fix	check_upgrade_after_networking	Check when online
+fix	current_version_getting	Loading version...
+fix	dialog_remind_private_avn_version	Version: %1$s
+fix	download_success	Downloaded
+fix	func_introduction_title_txt	What's new in %1$s
+fix	install_fail	Install failed
+fix	install_success	Installed
+fix	install_tem_message	Wait 30s to restart
+fix	install_time	Takes about 20 min
+fix	network_not_connected	No network
+fix	no_suitable_upgrade_zip	No valid package
+fix	official_version	Release
+fix	ota_no_network_fail	Check network!
+fix	ota_upgrade_cancel	Update canceled
+fix	ota_upgrade_copy_package_fail	File copy failed!
+fix	ota_upgrade_download_fail	Download failed!
+fix	ota_upgrade_download_success	Downloaded!
+fix	ota_upgrade_downloading	Downloading...
+fix	ota_upgrade_get_package_fail	Package not found!
+fix	ota_upgrade_initdata_fail	Init error!
+fix	ota_upgrade_install_fail	OTA update failed!
+fix	ota_upgrade_install_is_runing	Updating...
+fix	ota_upgrade_mpu_address_empty	Package URL missing!
+fix	ota_upgrade_mpu_address_not_find	Package URL missing!
+fix	ota_upgrade_new_version	Already up to date!
+fix	ota_upgrade_not_shut_down	Updating, don't operate!
+fix	ota_upgrade_prepare_package_file	Preparing package...
+fix	ota_upgrade_sdcard_space_low	SD card full!
+fix	software_version_info	Software version:
+fix	tbox_upgrade_fail	Update failed
+fix	tem_install_fail	Turn off & retry
+fix	update_subscribe	Reschedule
+fix	upgrade_after_10minutes	Update in 10 min
+fix	upgrade_already_new_txt	Up to date
+fix	upgrade_delay	Not now
+fix	upgrade_expect_time	Est. time: 
+fix	upgrade_find_new_version	New version
+fix	upgrade_subscribe_time1	Update in 4h 30m
+fix	upgrade_later_btn_txt	5 min after off
+fix	upgrade_later	Auto-update 5 min after off
+fix	ota_upgrade_downloading_progress	Downloading (%1$d%%)
+fix	install_fail_message	Will re-download later
+fix	install_tem_power_off_tips	Turn off engine first
+fix	ota_upgrade_ihu_id_error	GKUI version is empty!
+fix	ota_upgrade_sn_id_error	IHU serial no. empty!
+fix	congratulation	Updated to the latest version
+fix	new_func_introduction_detail	No release notes yet
+fix	upgrade_success_notice_info	Version %1$s downloaded
+fix	upgrade_success_txt	Updated to latest version!
+fix	upgrade_default_time	Est. time: 1 h 30 min
+fix	ota_upgrade_refuse_new_version	Update declined!
+fix	ota_upgrade_reupgrade_message	New version. Update?
+fix	system_reboot	Installed, restarting...
+fix	tbox_upgrade_failed	Update failed, restarting

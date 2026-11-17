@@ -1,0 +1,46 @@
+app_name	Sentry mode
+cancel	Cancel
+check	View
+common_confirm	Confirm
+common_know	Got it
+confirm	Confirm
+gif_record_text	Recording
+guard_mode	Sentry mode
+guide	Sentry mode uses extra battery power and exits automatically below 20%. When triggered, it plays a loud alarm, so do not leave people or animals in the vehicle.
+guide_page1_desc	Monitoring starts 30 seconds after the vehicle is locked. When a person enters the detection range or the vehicle detects unusual vibration, one minute of video before and after is recorded.
+guide_page1_desc2	On unusual vibration, the hazard lights flash and the horn sounds, and the phone app receives an alert.
+guide_page1_title	How it works
+guide_page2_desc	Exits automatically when battery is below 20%.
+guide_page2_title	Auto exit
+guide_page3_desc	Without a USB drive, the built-in storage provides up to 8 GB. When full, the oldest videos are deleted first.
+guide_page3_desc2	To protect the built-in storage, add a USB drive as shown. Use a FAT32 USB drive up to 256 GB.
+guide_page3_title	Add USB drive
+guide_page4_title	Limitations
+hv_failure	System fault detected, cannot turn on. Please contact service
+i_konw	Got it
+konw	Got it
+never_no_hint	Don’t show again
+percent	Progress: %s %%
+report_hint	*Objects near the parking spot may be misdetected. Detection in this early-access version is being improved
+safe_security_sentinel_mode_user_agreement	User agreement
+sentinel_mode_description_1	How it works
+sentinel_mode_description_10	A loud alarm plays when triggered, so do not leave people or animals in the vehicle. Sentry mode records video; do not use it in public areas
+sentinel_mode_description_3	App notifications
+sentinel_mode_description_4	Turn on ZEEKR app notifications to receive vehicle status right away
+sentinel_mode_description_5	Add USB drive
+sentinel_mode_description_7	Power consumption
+sentinel_mode_description_8	This feature uses extra power and exits automatically below 20% battery. To save power, it stays on for the current session only
+sentinel_mode_description_9	Note
+sentry_is_aactive	Sentry mode active
+sentry_mode	Sentry mode
+sentry_mode_activation	Sentry mode active
+sentry_mode_report	Sentry mode report
+sentry_report_alarm	%1$s high-risk events.
+sentry_report_alert	%1$s low-risk events recorded, 
+sentry_report_norisk	No risk events detected. Drive with peace of mind.
+sentry_report_time	Sentry mode guarded your vehicle for %1$s h %2$s min, 
+sentry_report_usbr	The USB drive is slow and may miss risk videos. Please replace it.
+soc_insufficient	Battery too low, cannot turn on. Turn on with battery above 25%
+usb_insufficient	USB storage low, recordings may not be saved. Please free up space
+usb_not_space	Sentry mode is on. USB drive has less than 2 GB free (under 10 minutes of recording). Please free up space
+usb_storage_slow	Sentry mode is on. USB drive is slow and recordings may be incomplete. See the owner manual for USB drive requirements

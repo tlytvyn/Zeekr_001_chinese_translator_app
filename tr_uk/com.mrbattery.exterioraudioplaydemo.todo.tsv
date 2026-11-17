@@ -1,0 +1,33 @@
+string	app_name	11	Exterior Sound	车外声音
+string	chip_text	14	Chip text	
+string	label	8	Label	
+string	str_agree	6	Agree	同意
+string	str_bottom_tab_1	15	Thank\nyou	"礼让\n感谢"
+string	str_bottom_tab_10	9	Tractor	拖拉机
+string	str_bottom_tab_11	6	Whistle	口哨
+string	str_bottom_tab_2	15	After\nyou	"行人\n先行"
+string	str_bottom_tab_3	15	Excuse\nme	"借过\n提醒"
+string	str_bottom_tab_4	4	Cat	猫
+string	str_bottom_tab_5	4	Dog	狗
+string	str_bottom_tab_6	4	Pig	猪
+string	str_bottom_tab_7	4	Horse	马
+string	str_bottom_tab_8	6	Sports car	跑车
+string	str_bottom_tab_9	9	Bicycle	自行车
+string	str_cancel	6	Cancel	取消
+string	str_caution	6	Caution	注意
+string	str_caution_text	1285	When using the exterior sound interaction feature ("this feature"), please pay special attention to and follow these notes \n(Note: you can find them at any time in the User Manual) \n \n1. Use this feature only when the vehicle is completely stopped and in Park (P). While driving, concentrate on driving and do not turn this feature on. \n2. With this feature on, people outside may hear sound from inside the car. Make sure the other occupants agree before turning it on, and take care not to disclose private information. \n3. Know and follow the applicable laws and local rules. Do not use this feature near schools, residential areas, office buildings, no-horn zones or other places unsuitable for loud sound. Keep the volume reasonable for the surroundings to avoid noise pollution or disturbing others. \n4. When playing your own audio or using the megaphone outside, make sure the content complies with laws, regulations and public order, and does not infringe anyone's rights. \n5. This feature must not be used for any commercial purpose. \n \nWhen you lend the vehicle to someone, inform them and make sure they understand and follow these notes before using this feature. \n \nYou are responsible for any complaints, penalties, compensation or other liability caused by you or other users not following these notes. Make sure you and all other users fully follow them before turning this feature on.	"请在开启使用车辆外部声音交互功能（“本功能”）时特别关注并遵守如下提示事项 \n（注：您可在《用户手册》中随时查阅相关提示内容） \n \n1. 本功能仅应在车辆完全停稳并将档位切换至驻车档（P档）时使用。车辆行驶过程中，请您专心驾驶，勿开启本功能。 \n2. 本功能开启后，车外人员可能会听到车内声音，请在开启本功能前确保您已获得其他车内人员的同意，并注意避免泄露个人隐私。 \n3. 请您了解并遵守相关法律法规及当地各项政策规范，勿在学校、居民区、写字楼、禁止鸣笛区域或其他不适宜进行声音外放的区域附近开启本功能。同时，在使用本功能时，请根据周围环境及实际情况在合理范围内控制本功能的外放音量，避免造成噪音污染或对他人造成不良影响。 \n4. 使用本功能进行自有音源外放或进行外部扩音时，您应确保所播放或沟通的内容符合法律法规、国家政策、公序良俗，且不应侵犯任何第三方的合法权益。 \n5. 本功能不应用于任何商业目的。 \n \n当您把车辆提供给他人使用时，请告知并确保车辆实际使用人了解并遵守上述提示事项后再开启本功能。 \n \n请您注意，因您或其他车辆实际使用人未能遵守上述事项而导致的投诉、处罚、赔偿或其他任何相关责任，均应由您自行承担。请确保您及其他车辆实际使用人完全遵守上述事项方可开启本功能。"
+string	str_mic_occupied	45	Microphone is in use, megaphone unavailable	当前麦克风被占用，无法使用扩音器功能
+string	str_multi_media_1	11	Media inside	媒体内放
+string	str_multi_media_2	11	Media outside	媒体外放
+string	str_multi_media_3	11	Both	同时播放
+string	str_notice_ex	57	Media will play through the exterior speaker. Use with care	多媒体音乐将从车外扬声器播放，请谨慎使用此功能
+string	str_notice_reminding	76	For your safety, exterior sound features are unavailable while driving!	为了您的行车安全，在行驶过程中无法使用车外声音交互娱乐功能哦!
+string	str_reminding	6	Notice	提示
+string	str_right_tab_1	79	Beer, drinks, water, sunflower seeds, peanuts, snacks… mind your feet, please!	啤酒饮料矿泉水，瓜子花生八宝粥，香烟扑克有辣条，前面腿收一下了哈
+string	str_right_tab_2	69	We buy old phones, TVs, air conditioners, washing machines… and long hair!	高价回收旧手机、电视、空调、洗衣机，收头发，收 长头发……
+string	str_right_tab_3	60	Many roads to choose, safety comes first; drive carelessly and loved ones will cry.	道路千万条，安全第一条，行车不规范，亲人泪两行。
+string	str_right_tab_4	40	Through mountains and rivers, we're all friends here — may I go first, please?	万水千山总是情，让俺先过行不行。
+string	str_right_tab_5	50	Stopping briefly, leaving right away. Please go around, thank you!	临时停靠，马上就走，烦请绕道，多谢多谢。
+string	str_voice_select_1	6	Original	原声
+string	str_voice_select_2	6	Deep	低沉
+string	str_voice_select_3	6	Bright	清亮

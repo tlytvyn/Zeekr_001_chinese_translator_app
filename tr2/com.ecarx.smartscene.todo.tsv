@@ -1,0 +1,14 @@
+string	eui_app_demo_tip	18	missing	该应用为测试版本	
+string	eui_fingerprint_gleey	7	missing	G品牌	
+string	eui_fingerprint_lynkco	6	missing	领克	
+string	eui_tip_no_network_action_enter_app	10	en_too_long	进入应用	Enter the application
+string	eui_tip_no_network_message	28	en_too_long	网络未连接，请检查网络设置	Network failure. Please check your network settings.
+string	keyword_eav	8	missing	充电桩	
+string	keyword_oil	8	missing	加油站	
+string	str_error_msg	22	missing	系统繁忙，请稍后再试	
+string	str_image_service_area_hint	31	missing	前方%s，距离当前位置%s公里	
+string	str_image_service_no_area	39	missing	抱歉，前方暂无服务区，请稍后重新查看	
+string	str_image_weather_info_hint	22	missing	%s今天%s，气温%s	
+string	str_weather_error_msg	30	missing	该功能只能在导航开启时使用哦	
+string	vr_remind_tips	29	missing	您可以说“提醒我”来设置日程	
+string	vr_stopby_tips	16	missing	您需要途经哪里	

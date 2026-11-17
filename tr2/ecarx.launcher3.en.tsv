@@ -1,0 +1,172 @@
+array	aqi_levels	Excellent ‖ Good ‖ Moderate ‖ Poor ‖ Unhealthy ‖ Very unhealthy ‖ Hazardous
+array	nzp_string_array	ZEEKR Pilot discontinued ‖ NZP coming soon... ‖ NZP activated ‖ NZP active ‖ LCC active ‖ Accelerating ‖ Changing lanes ‖ Lane change cancelled ‖ Lane change completed ‖ Right lane change failed ‖ Left lane change failed ‖ Leaving NZP section ‖ Take action now ‖ Safe stop ‖ Please take over ‖ Take over control immediately ‖ Keep hands on wheel ‖ Watch the road ahead ‖ Use the steering wheel to change lanes
+array	uvi_levels	Low ‖ Mod. ‖ High ‖ V. high ‖ Extreme
+string	adapter_api_debug_open_tip	Middleware debug mode
+string	adjust_rear_mirror	Mirrors
+string	all_apps	All apps
+string	apa	Auto parking
+string	app_is_installing	App installing, please wait
+string	apps_all_title	Apps
+string	apps_card_title	Quick access
+string	apps_edit_at_most	Up to 4 apps can be shown. Remove one first and try again.
+string	apps_edit_cancel	Cancel
+string	apps_edit_finish	Done
+string	apps_edit_group_recent_label	Recent
+string	apps_edit_tips	Drag apps to the card on the left. You can replace and reorder apps while dragging.
+string	atmosphere_light	Ambient light
+string	auto_hold	Auto Hold
+string	back_row_cinema	Rear cinema
+string	back_row_meeting	Rear meeting
+string	back_row_rest	Rear rest
+string	banner_adapter_null_error	Adapter is empty! Check parameters
+string	business_voice_disabled	Business voice off
+string	cancel	Cancel
+string	card_energy_title	Energy use
+string	card_trip_title	Trip
+string	card_tyre_title	Tire pressure
+string	central_lock	Central lock
+string	charge_charge_error_big_tips	Charging fault, please fix it soon!
+string	charge_charging_done_tips	Charging stopped. Remember to unplug the cable.
+string	charge_charging_full	Full charge first
+string	charge_charging_limit	Charge to limit
+string	charge_daily	Daily
+string	charge_dis_stop	Stop
+string	charge_estimate	<span color=#99B4B9BE font-size=22px>Time left</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>h</span > <span color=#B4B9BE font-size=48px style=Bold>%2$s</span > <span color=#B4B9BE font-size=24px>min</span >
+string	charge_power_supply_capacity	<span color=#99B4B9BE font-size=22px>Power supplied</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >
+string	charge_power_supply_capacity_all	<span color=#99B4B9BE font-size=22px>Total supplied</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >
+string	charge_pre_time	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=16px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span >
+string	charge_pre_time_full	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=18px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>full charge first</span >
+string	charge_pre_time_limit	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=18px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>to set limit</span >
+string	charge_pre_time_next	 <span color=#99B4B9BE font-size=22px>Scheduled charging</span > <br></br> <span color=#B4B9BE font-size=16px>??</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=16px>Daily</span > <span color=#B4B9BE font-size=32px style=Bold>%2$s</span >
+string	charge_fully	Charge fully
+string	charge_next_day	Next day
+string	charge_no_plug	Not plugged in
+string	charge_plug_connect_ac	Charger plugged in (AC)
+string	charge_plug_connect_dc	Charger plugged in (DC)
+string	charge_plug_connect_fault	Connection fault
+string	charge_plug_connect_fault_tips	Connection fault, please check soon!
+string	charge_plug_connect_tips	Charger connected, please wait
+string	charge_plug_no_double	Do not connect AC and DC at the same time
+string	charge_plug_no_double_tips	Charger connection abnormal, please check soon!
+string	charge_pre_time_title	Charging schedule
+string	charge_start	Start charging
+string	charge_status_battery_fault	Battery fault
+string	charge_status_booking	Scheduled…
+string	charge_status_charging	Charging…
+string	charge_status_charging_done	Charging stopped
+string	charge_status_charging_fault	Charging fault
+string	charge_status_discharging	Supplying power…
+string	charge_status_discharging_done	Power supply ended
+string	charge_status_discharging_fault	Power supply fault
+string	charge_status_preheating	Conditioning battery...
+string	charge_status_super_fast_charging	Fast charging…
+string	charge_stop	Stop
+string	charge_temperature_tips	Conditioning temperature, please wait...
+string	charging_cap	Rear charge port
+string	child_lock_left	Left child lock
+string	child_lock_right	Right child lock
+string	climate_light	Side lights
+string	close_card	Close card
+string	close_window	Close windows
+string	confirm	OK
+string	confirm_remove	Remove %s?
+string	confirm_uninstall	Uninstall %s?
+string	copilot_massage	Passenger massage
+string	copilot_rest	Passenger rest
+string	customize_scenario_add_tips	Up to 4 scenes. Remove one first, then add.
+string	customize_scenario_to_add	Add
+string	customize_scenario_to_create	Create
+string	customize_scenario_to_login	Please sign in to your account first
+string	day_friday	Friday
+string	day_monday	Monday
+string	day_saturday	Saturday
+string	day_sunday	Sunday
+string	day_thursday	Thursday
+string	day_tuesday	Tuesday
+string	day_wednesday	Wednesday
+string	done	Done
+string	download_paused	Paused
+string	download_pending	Preparing download…
+string	download_progress	Downloading…
+string	drag_tip	Drag functions to the card on the left. You can replace and reorder them while dragging.
+string	driver_massage	Driver massage
+string	driver_rest	Driver rest
+string	edit_at_most	Up to 4 functions. Remove one first, then add.
+string	fold_rear_mirror	Fold mirrors
+string	front_charging_cap	Front charge port
+string	glove_box	Glove box
+string	hud	HUD settings
+string	indicator_color_error	Indicator color must be “@color/colorID or #000000”
+string	install_progress	Installing…
+string	launch_control	Launch control
+string	left_opposite_door	Left door
+string	left_switch_disabled	Left switch disabled
+string	left_window_lock	Left window lock
+string	low_speed_alert	Pedestrian sound
+string	media_switch_when_hfpcall	Try again after the Bluetooth call
+string	media_video_none_title	Watch
+string	music_no_lyric_keyword3	Lyrics not supported yet
+string	next	Next
+string	no_data_to_add	No scenes to add yet
+string	no_recent_apps	No recent apps
+string	one_click_breath	Vent windows
+string	one_click_close_door	Close doors
+string	one_click_drift	Drift mode
+string	open_car3d	Show car model
+string	open_card	Open card
+string	open_window	Open windows
+string	parking_comfort	Park comfort
+string	phone_charge	Wireless charging
+string	position_light	Position lights
+string	prompt_drift_disable_tips	Drift is unavailable while Launch control is on
+string	prompt_drift_error_tips	Make sure these conditions are met and try again \n 1. SOC >20% \n 2. In D \n 3. Driver and all passengers buckled \n 4. Powertrain, ESC, steering, tire pressure and thermal systems normal \n 5. Sport mode active \n
+string	prompt_drift_error_title	Cannot turn on drift mode
+string	prompt_drift_i_know	Got it
+string	prompt_drift_tips	Notes:\n1. Use only on a race track or certified closed course, never on public roads.\n2. Use original drift accessories. Damage from misuse is not covered by warranty.\n3. Requires professional skills and at least 3 years of driving experience. The driver is responsible for any damage.\n\nConditions:\n1. Sport mode, speed <7 km/h, driver and passenger buckled. Unbuckling while driving turns drift mode off.\n2. Battery above 20% SOC, otherwise it turns off.\n3. All vehicle systems must work normally, otherwise it turns off.\nWhen drift mode is on:\n1. E-pedal and Autohold are off;\n2. Sport mode is selected;\n3. ESC is off;\n4. Regeneration is low;\n5. Launch control (if on) turns off.\n\nI have read, understood and agree to the above
+string	prompt_drift_title	One-touch drift instructions
+string	prompt_launch_control_accept	Agree
+string	prompt_launch_control_content	Warning: the driver is responsible for controlling the vehicle at all times. Use only in confirmed safe conditions. Repeated use may reduce braking performance. Use with care.\n \nRequirements: \n1. Vehicle stopped, doors closed, driver and passenger buckled.\n2. Powertrain temperature normal and battery sufficient.\n3. Driver assist off, steering straight, parking brake released, in D.\n \nHow to use: \n1. Turn on Launch control.\n2. Press the brake fully, then the accelerator fully. When the display shows launch ready, release the brake within 4 seconds to accelerate. (If launch fails, check the main screen and vehicle status)\n \nDo you understand and agree to the above? 
+string	prompt_launch_control_disable_tips	Launch control is unavailable while drift mode is on
+string	prompt_launch_control_race_content	Warning: the driver is responsible for controlling the vehicle and for safe conditions. Use only in safe conditions. Repeated long use may reduce drive and brake performance; use with care.\n\nRequirements:\n1. Vehicle stopped, doors closed, driver and passenger buckled.\n2. Powertrain temperature normal and battery sufficient.\n3. Driver assist off, steering straight, parking brake released, in D.\n\nHow to use:\n1. Turn on Launch control.\n2. Press the brake fully, then the accelerator. When the display shows “Launch ready”, release the brake within 4 seconds for maximum acceleration. (If “Launch failed” appears, check the main screen and vehicle status.)\n3. Drive mode switches to Sport and stays Sport after the feature turns off.\n4. One-touch drift turns off (if on).\n5. In Track mode, item 3 does not change the drive mode.\n\nDo you understand and agree to the above?
+string	prompt_launch_control_title	Launch control notice
+string	prompt_saving_mode_tips	Unavailable in Super Eco mode. Turn it off and try again
+string	racing_mode	Sport mode
+string	rear_charging_cap	Rear charge port
+string	rear_fog_lamps	Rear fog lights
+string	recent_apps	Recent
+string	remove	Remove
+string	remove_mini_app	Remove mini app
+string	reset_internet	Reset network
+string	right_opposite_door	Right door
+string	right_switch_disabled	Right switch disabled
+string	right_window_lock	Right window lock
+string	scarp_cruised	Hill descent
+string	scenario_customize_auto_title	Auto scene
+string	scenario_customize_card_title	Scene workshop
+string	scenario_customize_edit_cancel	Cancel
+string	scenario_customize_edit_finish	Done
+string	scenario_customize_edit_group_custom_label	Custom
+string	scenario_customize_edit_tips	Press and hold to drag to the card on the left. You can replace and reorder while dragging
+string	scenario_customize_manual_title	Manual scene
+string	stream_media	Rear camera view
+string	switch_car3d	Switch to 3D car
+string	through_lamp	Light bar
+string	trunk	Trunk
+string	uninstall	Uninstall
+string	uninstall_application	Uninstall app
+string	uninstall_failure	Uninstall failed
+string	weather_altitude	Altitude:
+string	weather_aqs	Air:
+string	weather_failed	No weather data yet.
+string	weather_loading	Loading…
+string	weather_net_unavailable	No network, try again later.
+string	weather_refresh	Refresh
+string	weather_uvi	UV:
+string	xpopup_image_not_exist	Image not found
+string	xpopup_save	Save
+string	xpopup_saved_fail	Could not save image.
+string	xpopup_saved_to_gallery	Saved to gallery
+string	zeekr_back	Back
+string	zeekr_cancel	Cancel
+string	zeekr_loading	Loading..
+string	zeekr_show_psw	Show password

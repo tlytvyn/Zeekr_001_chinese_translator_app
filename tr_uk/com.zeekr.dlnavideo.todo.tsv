@@ -1,0 +1,105 @@
+string	app_name	6	Cast	投屏
+string	brightness	6	Brightness	亮度
+string	btn_hotspot_reseting	9	Restarting	重启中
+string	btn_reset_hotspot	11	Restart hotspot	重启热点
+string	btn_start_hotspot	11	Start hotspot	开启热点
+string	camera	10	Camera	
+string	channel_description	16	Tap for details	点击查看详情
+string	channel_notify	16	New cast notice	新的投屏通知
+string	color_picker_cancel	10	Cancel	
+string	color_picker_default_title	20	Select a Color	
+string	color_picker_select	10	Select	
+string	color_swatch_description	15	Color %1$d	
+string	color_swatch_description_selected	27	Color %1$d selected	
+string	description	16	Foreground service	前台服务通知
+string	dialog_dont_show_again	27	"Don't show again."	
+string	error_a11y_label	20	Error: invalid	
+string	hint_pwd_invalid	51	8-12 letters, digits or symbols (no spaces or line breaks)	8-12位英文、数字或符号（不含空格和换行）
+string	label_hotspot_name	14	Hotspot name:	热点名称：
+string	label_password	9	Password:	密码：
+string	loading_ap_info	13	Loading...	获取中...
+string	no_device	34	No USB camera found	未搜索到可用USB Camera设备
+string	no_resource	42	No valid video URL found, please check...	没有找到有效的视频地址，请检查...
+string	page_guide_subtitle	70	Phone screen too small for movies? Cast to the ZEEKR display for an instant cinema experience!	手机看电影不过瘾，那就投屏到极氪大屏，瞬间享受影院体验！
+string	page_guide_title	11	Video casting	影视投屏
+string	password_setting	11	Set password	设置密码
+string	password_setting_tip	28	Changing the password will disconnect current devices	更改密码将断开现有连接
+string	permission_audio	88	"No audio recording permission. \nAll audio function is disabled"	
+string	permission_audio_recording_reason	95	Audio recording permission is necessary for movie capture with audio.	
+string	permission_audio_recording_request	95	Audio recording permission is necessary for movie capture with audio.	
+string	permission_audio_streaming_reason	89	Audio recording permission is necessary for streaming with audio.	
+string	permission_audio_streaming_request	89	Audio recording permission is necessary for streaming with audio.	
+string	permission_camera	38	No camera access permission	
+string	permission_camera_finish	72	"No camera access permission. \nApp will finish soon"	
+string	permission_camera_reason	96	Camera access permission is necessary for fallback to built in camera.	
+string	permission_camera_request	96	Camera access permission is necessary for fallback to built in camera.	
+string	permission_ext_storage	119	"No permission of writing external storage. \nMovie/still image capturing are disabled."	
+string	permission_ext_storage_finish	87	"No writing external storage permission. \nApp will finish soon"	
+string	permission_ext_storage_reason	115	Permission of writing external storage is necessary for movie/still image capturing.	
+string	permission_ext_storage_request	115	Permission of writing external storage is necessary for movie/still image capturing.	
+string	permission_hardware_id_request	92	Permission to access phone state/hardware id necessary for calling.	
+string	permission_location	41	No location access permission	
+string	permission_location_finish	74	"No location access permission. \nApp will finish soon"	
+string	permission_location_reason	64	Location access permission is necessary for %s	
+string	permission_location_request	64	Location access permission is necessary for %s	
+string	permission_network	41	No network access permission.	
+string	permission_network_finish	73	"No network access permission. \nApp will finish soon"	
+string	permission_network_reason	73	Network access permission is necessary for streaming.	
+string	permission_network_request	73	Network access permission is necessary for streaming.	
+string	permission_title	29	Regarding permission	
+string	refresh	6	Refresh	刷新
+string	scale_type_inch	15	inch scale	
+string	scale_type_mm	12	mm scale	
+string	scale_type_none	7	none	
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	select	20	Select USB camera	请选择USB摄像头
+string	service_name	26	Background Service	
+string	service_start	11	Started	
+string	service_stop	11	Stopped	
+string	switch_tips_confirm	9	Got it	知道了
+string	switch_tips_content	424	1. FAQ\n(1) Game console and capture card are connected, but it still shows no video signal or a black screen?\nCheck that the console is powered on and that both ends of the cable are firmly connected.\n(2) Connected, but it still says no capture card is connected?\nCheck whether the capture card connection is loose and whether its power indicator is lit.\n2. How to use\n(1) Connect the capture card to the game console and the car's USB port;\n(2) Keep the console powered on and start playing.	"一、常见问题\n（1）游戏主机和视频采集卡连接好之后还是显示无视频信号输入或黑屏？\n检查游戏主机是否已经开机；检查两端连线是否连接好。\n（2）明明已经连接了，但还是显示未连接视频采集卡？\n检查视频采集卡连接是否松动；确认视频采集卡的电源指示灯是否点亮。\n二、使用说明\n（1）将视频采集卡与游戏主机和车载USB口相连；\n（2）保持游戏主机开机，即刻开始享受游戏。"
+string	switch_tips_title	11	Help	使用帮助
+string	switching_equipment	11	Switch device	切换设备
+string	switching_equipment_message	49	HiCar is connected. Disconnect the current HiCar device?	HiCar连接中,是否断开当前HiCar设备连接?
+string	tips_ap_perm_error	26	Not authorized, can't set up hotspot	授权失败无法设置热点
+string	tips_audio_loss	32	Audio focus taken by another app!	音频焦点被其他应用抢占中!
+string	tips_dev_guide_step1	28	Connect capture card to the car	将视频采集卡连接到车机
+string	tips_dev_guide_step2	31	Connect console to capture card	连接游戏主机和视频采集卡
+string	tips_guide_step1	73	Turn on Wi-Fi on your phone,\nconnect to the casting hotspot (name and password above)	"手机上打开无线局域网，\n连接专属投屏热点（名称、密码见上)"
+string	tips_guide_step2	46	Open a video app on your phone\nand pick a video	"手机上打开影视APP\n选择您喜欢的视频"
+string	tips_hotspot_has_been_reset	14	Hotspot restarted	热点已重启
+string	tips_hotspot_has_been_started	14	Hotspot on	热点已开启
+string	tips_not_park_gear	54	Phone casting is only available in P. Shift to P and try again	非驻车状态不可使用手机投屏，请切换至P档再试
+string	tips_start_hotspot_failed	16	Hotspot failed to start	热点开启失败
+string	tips_step3	46	Tap the “ ” icon at the top right of the video,\nthen choose Cast	"点击视频右上角的“ ”图标，\n选择投屏"
+string	tips_user_hotspot	146	1. If no cast device is found, tap “Restart hotspot” and try casting again. 2. Some videos may not support casting or playback; try another video.	1.如无法搜索到投屏设备，可通过点击“重启投屏热点”尝试再次投屏。2.部分未适配视频可能无法投屏或播放，可尝试切换视频重试。
+string	tips_user_switch	235	1. Only Switch is supported for now; more devices are coming. 2. The screen stays black for a few seconds while the game device connects, please wait.\n3. A ZEEKR-certified capture card is recommended for the best results (available in the ZEEKR app under “Zeekr Store” or the ZEEKR Store WeChat mini program).	"1.当前仅支持Switch，更多设备持续适配中。2.连接游戏设备的过程将持续数秒黑屏，请耐心等待。\n3.推荐使用极氪官方认证的采集卡，保证投屏效果。（可在极氪App中“极物”或“极氪极物商城”微信小程序购买）"
+string	tips_video_guide_step2_brightness	26	Swipe left side for brightness	上下滑动左侧调节亮度
+string	tips_video_guide_step2_speed	26	Swipe sideways to seek	左右滑动调节播放进度
+string	tips_video_guide_step2_voice	26	Swipe right side for volume	上下滑动右侧调节音量
+string	title_cast_guide	21	Cast in 3 steps	三步完成手机投屏
+string	txt_confirm	11	Got it	我知道了
+string	txt_step1_content	26	Turn on phone Wi-Fi	打开手机“无线局域网”
+string	txt_step1_sub_content	11	(Wi-Fi)	
+string	txt_step2_content	18	Join ZEEKR hotspot	连接ZEEKR热点
+string	txt_step2_sub_content	28	(Password needed first time)	（首次连接需输入密码）
+string	txt_step3_content	22	In the video app, tap “	点击手机视频应用“
+string	txt_step3_sub_content_1	8	Tap “	单击“
+string	txt_step3_sub_content_2	13	” to cast	”完成投屏
+string	video_guid_exit	6	Exit	退出
+string	video_guid_i_know	11	Got it	我知道了
+string	video_guid_tap_des	38	Tap screen to show status and control bars	单机屏幕唤醒状态栏及底部功能栏
+string	video_speed	6	Speed	倍速
+string	video_traffic_res_tips	70	For your safety and that of others, do not watch videos while driving!	为了您和他人的安全，请不要在驾驶过程中观看视频娱乐内容！
+string	video_txt_confirm	20	Confirm exit (%ss)	确认退出（%ss）
+string	voice_end	41	com.zeekr.dlnavideo.voice.END	
+string	voice_start	43	com.zeekr.dlnavideo.voice.START	
+string	volume	6	Volume	音量
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

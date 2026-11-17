@@ -1,0 +1,641 @@
+string	account_center_phone_number	10	en_foreign	手机号码	手机号码
+string	agreement_change_content	216	en_foreign	"亲爱的用户，感谢您一直以来的支持。\n为了给您提供更好的服务，更好的保护您的权益，让您清楚了解我们如何处理和保护您的相关隐私信息，同时遵守相关监管要求，我们更新了%1s和%2s"	"亲爱的用户，感谢您一直以来的支持。\n为了给您提供更好的服务，更好的保护您的权益，让您清楚了解我们如何处理和保护您的相关隐私信息，同时遵守相关监管要求，我们更新了%1s和%2s"
+string	agreement_change_content_user_privacy	209	en_foreign	"亲爱的用户，感谢您一直以来的支持。\n为了给您提供更好的服务，更好的保护您的权益，让您清楚了解我们如何处理和保护您的相关隐私信息，同时遵守相关监管要求，我们更新了%1s"	亲爱的用户，感谢您一直以来的支持。为了给您提供更好的服务，更好的保护您的权益，让您清楚了解我们如何处理和保护您的相关隐私信息，同时遵守相关监管要求，我们更新了%1s
+string	agreement_change_privacy	22	en_foreign	《个人信息保护政策》	《Personal Privacy Policy》
+string	agreement_change_protocol	18	en_foreign	《用户服务协议》	《User Service Agreement》
+string	agreement_face_change_title	35	en_foreign	人脸识别个人信息保护政策变更通知	人脸识别功能隐私政策更新提示
+string	agreement_face_refuse_btn_cancel	10	en_foreign	稍后再说	稍后再说
+string	agreement_face_refuse_btn_confirm	10	en_foreign	确认拒绝	确认拒绝
+string	agreement_face_refuse_tip	35	en_foreign	若您拒绝，系统将删除您的人脸数据	若您拒绝，系统将删除您的人脸数据
+string	agreement_privacy_change_title	26	en_foreign	个人信息保护政策变更通知	隐私政策变更通知
+string	agreement_user_change_title	22	en_foreign	用户服务协议变更通知	用户协议变更通知
+string	app_guest_mode_not_allow	24	en_foreign	访客模式下该功能不可用	访客模式下该功能不可用
+string	car_is_driving_tip	36	en_foreign	车辆行驶中不可操作，请挂P档后再试	车辆行驶中不可操作，请挂P档后再试
+string	common_agree	6	en_foreign	同意	同意
+string	common_back	6	en_foreign	返回	返回
+string	common_cancel	6	en_foreign	取消	取消
+string	common_close	6	en_foreign	关闭	关闭
+string	common_confirm	6	en_foreign	确定	确定
+string	common_know	8	en_foreign	知道了	知道了
+string	common_ok	6	en_foreign	确认	确认
+string	common_refuse	6	en_foreign	拒绝	拒绝
+string	common_retry	6	en_foreign	重试	重试
+string	dialog_title_prompt	6	en_foreign	提示	提示
+string	error_message_1000	10	missing	操作成功	
+string	error_message_10001	16	missing	订单已经被支付	
+string	error_message_10011	12	missing	订单已取消	
+string	error_message_1400	16	missing	请求参数不合法	
+string	error_message_1401	14	missing	请求认证失败	
+string	error_message_1402	14	missing	访问令牌无效	
+string	error_message_1403	14	missing	刷新令牌无效	
+string	error_message_1404	37	missing	访问令牌与刷新令牌不一致，无法刷新	
+string	error_message_1405	16	missing	访问资源不存在	
+string	error_message_1406	16	missing	appId输入错误	
+string	error_message_1407	17	missing	csp访问令牌无效	
+string	error_message_1408	30	missing	账号已于别处登录，请重新登录	
+string	error_message_1409	33	missing	绑车流程失效，请重新走绑车流程	
+string	error_message_1410	38	missing	密码输入错误次数过多,请5分钟后再试!	
+string	error_message_1412	14	missing	访问令牌无效	
+string	error_message_1413	33	missing	只有超级管理员可以修改别人密码	
+string	error_message_1420	22	missing	请添加手机验证码校验	
+string	error_message_1421	16	missing	请添加邮箱校验	
+string	error_message_1422	22	missing	请添加图形验证码校验	
+string	error_message_1442	14	missing	验签日期超时	
+string	error_message_1443	18	missing	验签随机数已重复	
+string	error_message_1445	14	missing	验签签名错误	
+string	error_message_1498	10	missing	请求超时	
+string	error_message_1499	10	missing	请求超时	
+string	error_message_1500	14	missing	服务内部错误	
+string	error_message_1501	20	missing	第三方授权登录异常	
+string	error_message_1502	14	missing	服务内部错误	
+string	error_message_1509	14	missing	服务内部错误	
+string	error_message_1510	10	missing	服务限流	
+string	error_message_1511	10	missing	服务降级	
+string	error_message_1854	12	missing	应用已购买	
+string	error_message_200	10	missing	操作成功	
+string	error_message_2001	16	missing	手机格式不正确	
+string	error_message_2002	16	missing	邮箱格式不正确	
+string	error_message_2003	22	missing	更新操作主键不能为空	
+string	error_message_2004	22	missing	新增操作主键必须为空	
+string	error_message_2005	15	missing	vin码不能重复	
+string	error_message_2006	13	missing	vin码不存在	
+string	error_message_2007	14	missing	车系Id不存在	
+string	error_message_2008	17	missing	车系代码不存在!	
+string	error_message_2009	17	missing	车系代码已存在!	
+string	error_message_2010	17	missing	车型代码不存在!	
+string	error_message_2011	17	missing	车型代码已存在!	
+string	error_message_2012	21	missing	车辆配置代码不存在!	
+string	error_message_2013	21	missing	车辆排量代码不存在!	
+string	error_message_2014	21	missing	车辆颜色代码不存在!	
+string	error_message_2015	25	missing	VIN码不存在对应的车辆!	
+string	error_message_2053	33	missing	传入的vin与ihu对应的原vin不符	
+string	error_message_3	10	missing	请求失败	
+string	error_message_3001	20	missing	不支持的校验码用途	
+string	error_message_3002	20	missing	请输入正确的校验码	
+string	error_message_3003	14	missing	短信发送失败	
+string	error_message_3004	30	missing	操作失败，请求不存在或已过期	
+string	error_message_3005	21	missing	读取Excel文件失败!	
+string	error_message_3006	14	missing	别名更新失败	
+string	error_message_3007	17	missing	app状态更改失败	
+string	error_message_3008	32	missing	添加日志信息失败!但文件已上传	
+string	error_message_3009	22	missing	oss合并分片文件失败	
+string	error_message_3010	17	missing	文件上传oss失败	
+string	error_message_3011	14	missing	合并文件失败	
+string	error_message_3016	10	missing	操作失败	
+string	error_message_3017	10	missing	请求错误	
+string	error_message_3018	18	missing	操作无效，请重试	
+string	error_message_3019	10	missing	操作失败	
+string	error_message_3020	10	missing	请求错误	
+string	error_message_4	10	missing	系统异常	
+string	error_message_4000	37	missing	密码、校验码、第三方令牌必须有一个	
+string	error_message_4001	14	missing	账号已经存在	
+string	error_message_4002	22	missing	密码错误，请重新输入	
+string	error_message_4003	12	missing	账号不存在	
+string	error_message_4004	14	missing	手机尚未注册	
+string	error_message_4005	10	missing	密码错误	
+string	error_message_4006	10	missing	请求无效	
+string	error_message_4007	12	missing	车辆已绑定	
+string	error_message_4008	12	missing	无登录权限	
+string	error_message_4009	19	missing	请输入正确的VIN码	
+string	error_message_4010	24	missing	请输入正确的预留手机号	
+string	error_message_4011	10	missing	设备异常	
+string	error_message_4012	37	missing	该手机号尚未注册，请先注册后再登录	
+string	error_message_4013	70	missing	该账号未授权登录本车。如需变更车主请致电400-111-5555.	
+string	error_message_4014	16	missing	未通过实名认证	
+string	error_message_4015	17	missing	clientId不存在	
+string	error_message_4016	21	missing	vin绑定存在多个uid	
+string	error_message_4017	34	missing	该VIN/iccid,查不到流量套餐信息	
+string	error_message_4018	31	missing	该mobile,查不到voip套餐信息	
+string	error_message_4019	28	missing	解绑失败，获取设备信息异常	
+string	error_message_4020	12	missing	账号已登录	
+string	error_message_4021	13	missing	Csp服务异常	
+string	error_message_4022	27	missing	device-platform服务异常	
+string	error_message_4023	33	missing	无法绑定车辆，请检查填入的参数	
+string	error_message_4024	16	missing	手机号已被注册	
+string	error_message_4025	19	missing	手机号已在GID注册	
+string	error_message_4026	14	missing	用户数据为空	
+string	error_message_4027	12	missing	用户已存在	
+string	error_message_4028	14	missing	验证码已失效	
+string	error_message_4029	16	missing	验证码输入错误	
+string	error_message_4030	12	missing	用户不存在	
+string	error_message_4031	12	missing	用户不存在	
+string	error_message_4032	14	missing	传入类型错误	
+string	error_message_4033	30	missing	不存在车辆信息,查询结果为空	
+string	error_message_4034	14	missing	传入对象为空	
+string	error_message_4035	23	missing	该车辆不存在T服务信息	
+string	error_message_4036	28	missing	这些服务Id不存在T服务信息	
+string	error_message_4037	14	missing	传入参数为空	
+string	error_message_4038	20	missing	当前车辆不在使用中	
+string	error_message_4300	14	missing	参数无法解析	
+string	error_message_4301	12	missing	订单不存在	
+string	error_message_4302	20	missing	车辆没有对应的车主	
+string	error_message_4303	43	missing	车辆对应的车主手机号和输入的手机号不一致	
+string	error_message_4304	22	missing	vin不存在对应的车辆	
+string	error_message_5	10	missing	网络异常	
+string	error_message_5002	18	missing	生物识别密钥过期	
+string	error_message_6666	16	missing	第三方交互异常	
+string	error_message_7001	14	missing	无效车辆状态	
+string	error_message_7002	26	missing	手机号码已被其他用户注册	
+string	error_message_7003	18	missing	操作的车辆不存在	
+string	error_message_7004	16	missing	操作的车辆存在	
+string	error_message_7005	22	missing	该车辆是当前连接车辆	
+string	error_message_7006	18	missing	用户信息插入错误	
+string	error_message_7007	10	missing	证书错误	
+string	error_message_7008	10	missing	证书错误	
+string	error_message_7009	10	missing	证书错误	
+string	error_message_7010	22	missing	用户或者车辆连接失败	
+string	error_message_7011	20	missing	用户或车辆同步失败	
+string	error_message_7012	18	missing	用户或车辆已存在	
+string	error_message_7013	10	missing	更新错误	
+string	error_message_7014	10	missing	绑定错误	
+string	error_message_7015	14	missing	绑定数据错误	
+string	error_message_7016	14	missing	解绑数据错误	
+string	error_message_7017	30	missing	车辆已被解绑，请重新添加车辆	
+string	error_message_7018	16	missing	用户服务不可用	
+string	error_message_7019	12	missing	车辆已存在	
+string	error_message_7020	12	missing	车辆不存在	
+string	error_message_7021	14	missing	车辆数据错误	
+string	error_message_7022	18	missing	车辆数据删除错误	
+string	error_message_7023	17	missing	车辆VIN号不匹配	
+string	error_message_7024	12	missing	车机已存在	
+string	error_message_7025	13	missing	T-BOX已存在	
+string	error_message_7026	12	missing	车辆不存在	
+string	error_message_7027	22	missing	查询时，参数不能为空	
+string	error_message_7028	14	missing	车辆参数为空	
+string	error_message_7029	13	missing	车辆VIN为空	
+string	error_message_7030	19	missing	车辆VIN号位数错误	
+string	error_message_7031	14	missing	车辆数据为空	
+string	error_message_7032	16	missing	车辆模块号为空	
+string	error_message_7033	22	missing	车辆数据matCode为空	
+string	error_message_7034	18	missing	车辆数据颜色为空	
+string	error_message_7035	20	missing	车辆数据出厂号为空	
+string	error_message_7036	20	missing	车辆数据引擎号为空	
+string	error_message_7037	20	missing	车辆数据ICCID为空	
+string	error_message_7038	22	missing	车辆请求中VIN号为空	
+string	error_message_7039	34	missing	车辆请求中VIN号位数不是17个字节	
+string	error_message_7040	33	missing	车辆识别码输入有误，请重新输入	
+string	error_message_7041	16	missing	车辆服务不可用	
+string	error_message_7042	12	missing	文件已存在	
+string	error_message_7043	12	missing	文件不存在	
+string	error_message_7044	12	missing	数据已存在	
+string	error_message_7045	12	missing	数据不存在	
+string	error_message_7046	12	missing	状态不正确	
+string	error_message_7047	10	missing	无效数据	
+string	error_message_7048	10	missing	无效格式	
+string	error_message_7049	12	missing	整车已休眠	
+string	error_message_7050	12	missing	条件不正确	
+string	error_message_7051	10	missing	执行失败	
+string	error_message_7052	16	missing	没有Xcall事件	
+string	error_message_7053	14	missing	远程操作禁止	
+string	error_message_7054	14	missing	服务ID未注册	
+string	error_message_7055	22	missing	系统错误，事件不存在	
+string	error_message_7056	30	missing	从M2M数据库查询车辆状态失败	
+string	error_message_7057	30	missing	保存车辆状态至M2M数据库失败	
+string	error_message_7058	30	missing	下行消息发送至dispather失败	
+string	error_message_7059	22	missing	设置时间早于当前时间	
+string	error_message_7060	26	missing	开始时间需要早于结束时间	
+string	error_message_7061	26	missing	结束时间需要晚于开始时间	
+string	error_message_7062	14	missing	日历调用错误	
+string	error_message_7063	16	missing	获取请求ID失败	
+string	error_message_7064	16	missing	被盗跟踪已启动	
+string	error_message_7065	22	missing	系统错误，事件已存在	
+string	error_message_7066	22	missing	系统错误，事件已过期	
+string	error_message_7067	13	missing	TEM响应错误	
+string	error_message_7068	12	missing	操作被丢弃	
+string	error_message_7069	20	missing	开始或结束时间为空	
+string	error_message_7070	15	missing	间隔必须大于0	
+string	error_message_7071	19	missing	持续时间必须大于0	
+string	error_message_7072	30	missing	会话不存在，请先远程启动%s	
+string	error_message_7073	16	missing	查询数据库失败	
+string	error_message_7074	16	missing	更新数据库失败	
+string	error_message_7075	22	missing	远程控制服务尚未激活	
+string	error_message_7076	16	missing	远程操作太频繁	
+string	error_message_7077	11	missing	PIN码错误	
+string	error_message_7078	11	missing	PIN码错误	
+string	error_message_7079	10	missing	未知错误	
+string	error_message_7080	10	missing	ID未找到	
+string	error_message_7082	12	missing	客户不存在	
+string	error_message_7083	24	missing	客户信息插入数据库错误	
+string	error_message_7084	18	missing	客户信息删除错误	
+string	error_message_7085	15	missing	车辆VIN不匹配	
+string	error_message_7086	20	missing	客户证书号码已存在	
+string	error_message_7087	20	missing	客户手机号码已存在	
+string	error_message_7088	17	missing	车辆VIN号已存在	
+string	error_message_7089	15	missing	车辆VRN已存在	
+string	error_message_70891	12	missing	客户已存在	
+string	error_message_7090	20	missing	客户手机号码不存在	
+string	error_message_7091	14	missing	客户参数为空	
+string	error_message_7092	11	missing	VIN号为空	
+string	error_message_7093	12	missing	客户名为空	
+string	error_message_7094	14	missing	证书号码为空	
+string	error_message_7095	14	missing	证书类型为空	
+string	error_message_7096	14	missing	手机号码为空	
+string	error_message_7097	14	missing	牌照号码为空	
+string	error_message_7098	18	missing	车辆交付日期为空	
+string	error_message_7099	10	missing	日期为空	
+string	error_message_7100	12	missing	客户ID为空	
+string	error_message_7101	18	missing	请求标准参数为空	
+string	error_message_7102	18	missing	车主请求参数错误	
+string	error_message_7103	16	missing	客户服务不可用	
+string	error_message_7104	20	missing	连接消息服务器错误	
+string	error_message_7105	24	missing	请求消息服务器接口错误	
+string	error_message_7106	18	missing	消息格式转换错误	
+string	error_message_7107	28	missing	推送消息至服务器，结果为空	
+string	error_message_7108	12	missing	消息不存在	
+string	error_message_7109	20	missing	消息插入数据库错误	
+string	error_message_7110	22	missing	从数据库删除消息错误	
+string	error_message_7111	14	missing	消息更新错误	
+string	error_message_7112	18	missing	消息列表发送错误	
+string	error_message_7113	20	missing	消息发送到车机错误	
+string	error_message_7114	20	missing	消息发送到短信错误	
+string	error_message_7115	19	missing	消息发送到APP错误	
+string	error_message_7116	16	missing	消息请求ID为空	
+string	error_message_7117	33	missing	消息请求内容和模板ID不能都为空	
+string	error_message_7118	41	missing	消息请求内容不为空，标题和角色不能为空	
+string	error_message_7119	14	missing	消息参数为空	
+string	error_message_7120	19	missing	消息中车辆VIN为空	
+string	error_message_7121	14	missing	消息目标为空	
+string	error_message_7122	22	missing	消息从数据库取ID错误	
+string	error_message_7123	32	missing	消息查询目标必须为APP或者车机	
+string	error_message_7124	14	missing	消息参数错误	
+string	error_message_7125	16	missing	车联网消息为空	
+string	error_message_7126	20	missing	车联网消息别名为空	
+string	error_message_7127	20	missing	车联网消息通知为空	
+string	error_message_7128	22	missing	车联网消息中结果为空	
+string	error_message_7129	14	missing	消息查询错误	
+string	error_message_7130	24	missing	消息模板插入数据库错误	
+string	error_message_7131	26	missing	从数据库删除消息模板错误	
+string	error_message_7132	16	missing	消息模板不存在	
+string	error_message_7133	26	missing	从数据库查询消息模板错误	
+string	error_message_7134	18	missing	消息模板更新错误	
+string	error_message_7135	22	missing	消息模板参数ID不匹配	
+string	error_message_7136	30	missing	缺少消息模板内部参数的属性值	
+string	error_message_7138	18	missing	消息模板参数为空	
+string	error_message_7139	18	missing	消息模板内容为空	
+string	error_message_7140	20	missing	消息模板ID不是整型	
+string	error_message_7141	16	missing	消息模板不存在	
+string	error_message_7142	24	missing	消息任务插入数据库错误	
+string	error_message_7143	16	missing	消息任务不存在	
+string	error_message_7144	26	missing	从数据库删除消息任务错误	
+string	error_message_7145	25	missing	消息任务请求ID参数为空	
+string	error_message_7146	18	missing	消息任务参数为空	
+string	error_message_7147	22	missing	消息任务对象目标为空	
+string	error_message_7148	24	missing	消息任务对象日历戳为空	
+string	error_message_7149	49	missing	消息任务需要日期，并且开始日期或者结束日期为空	
+string	error_message_7150	45	missing	消息任务需要日期，并且开始日期晚于结束日期	
+string	error_message_7151	18	missing	消息任务模板为空	
+string	error_message_7152	29	missing	消息任务从数据库获取ID错误	
+string	error_message_7153	20	missing	消息任务不能被删除	
+string	error_message_7154	18	missing	消息服务器不可用	
+string	error_message_7155	16	missing	管理端无效参数	
+string	error_message_7156	29	missing	管理端获取客户端IP地址失败	
+string	error_message_7157	22	missing	管理端APP组名不存在	
+string	error_message_7158	29	missing	管理端APP组ID和APP名不存在	
+string	error_message_7159	26	missing	管理端APPID和参数不存在	
+string	error_message_7160	18	missing	管理端参数未更改	
+string	error_message_7161	13	missing	APP无效参数	
+string	error_message_7162	13	missing	APP连接失败	
+string	error_message_7163	16	missing	交易商无效参数	
+string	error_message_7164	16	missing	交易商更新失败	
+string	error_message_7165	24	missing	交易商从数据库更新错误	
+string	error_message_7166	14	missing	交易商不存在	
+string	error_message_7167	24	missing	从数据库查询交易商错误	
+string	error_message_7168	18	missing	版本无效参数错误	
+string	error_message_7169	20	missing	数据库查询版本错误	
+string	error_message_717	27	missing	消息模板的请求ID参数为空	
+string	error_message_7170	14	missing	接入密钥错误	
+string	error_message_7171	14	missing	创建密钥错误	
+string	error_message_7172	14	missing	解析密钥错误	
+string	error_message_7173	14	missing	验证密钥错误	
+string	error_message_7174	10	missing	错误签名	
+string	error_message_7175	26	missing	访问凭证过期，请重新登录	
+string	error_message_7176	14	missing	用户账号错误	
+string	error_message_7177	20	missing	用户账号或密码错误	
+string	error_message_7178	16	missing	原登录密码有误	
+string	error_message_7179	26	missing	长时间未操作，请重新登陆	
+string	error_message_7180	18	missing	账号已于别处登录	
+string	error_message_7181	15	missing	PIN码保存失败	
+string	error_message_7182	14	missing	用户保存失败	
+string	error_message_7183	56	missing	账号已被锁定，是否拨打客服热线400-111-5555	
+string	error_message_7184	16	missing	服务商店不可用	
+string	error_message_7185	51	missing	用户名或密码输入错误次数过多，请进行找回密码操作	
+string	error_message_7186	14	missing	位置点已收藏	
+string	error_message_7187	10	missing	绑定错误	
+string	error_message_8001	12	missing	设备不唯一	
+string	error_message_8002	20	missing	设备（车辆）不存在	
+string	error_message_8003	22	missing	设备绑定的车辆不存在	
+string	error_message_8004	18	missing	设备没有绑定车辆	
+string	error_message_8005	18	missing	设备当前离线状态	
+string	error_message_8006	20	missing	用户设备关系不存在	
+string	error_message_8007	20	missing	账号车辆关系不存在	
+string	error_message_8008	20	missing	没有车主的注册信息	
+string	error_message_8009	12	missing	环境不存在	
+string	error_message_8010	22	missing	非车主使用者访问受限	
+string	error_message_8011	18	missing	设备不需要更新id	
+string	error_message_8012	19	missing	解绑违章车辆失败!	
+string	error_message_8013	19	missing	绑定违章车辆失败!	
+string	error_message_8014	14	missing	设备类型出错	
+string	error_message_8015	20	missing	服务器发生位置错误	
+string	error_message_8016	25	missing	该车系下仍有关联的车型!	
+string	error_message_8017	25	missing	该车型下仍有关联的车辆!	
+string	error_message_8018	17	missing	平台代码不存在!	
+string	error_message_8019	15	missing	上传文件为空!	
+string	error_message_8020	19	missing	上传文件名称为空!	
+string	error_message_8021	17	missing	Excel记录为空!	
+string	error_message_8022	15	missing	ihuId已存在!	
+string	error_message_8023	39	missing	Vin码对应的车辆已关联可用的ihu设备!	
+string	error_message_8024	21	missing	设备型号代码不存在!	
+string	error_message_8025	16	missing	tboxId已存在!	
+string	error_message_8026	40	missing	Vin码对应的车辆已关联可用的tbox设备!	
+string	error_message_8027	55	missing	传入requestId不正确或操作超时,请重新导入!	
+string	error_message_8028	55	missing	传入对象为空!通过authToken获取用户id失败!	
+string	error_message_8029	24	missing	更新操作业务主键已存在	
+string	error_message_8030	19	missing	新增code不能为空	
+string	error_message_8031	18	missing	缺少设备类型参数	
+string	error_message_8032	14	missing	设备大类错误	
+string	error_message_8033	16	missing	设备未绑定用户	
+string	error_message_8034	24	missing	app不存在，初始化失败	
+string	error_message_8035	25	missing	注册失败，uid 不可为空	
+string	error_message_8036	29	missing	注册失败，appType 不可为空	
+string	error_message_8037	17	missing	文件key不能为空	
+string	error_message_8038	22	missing	分片文件大小不能为空	
+string	error_message_8039	24	missing	上传的文件名格式不正确	
+string	error_message_8040	73	missing	不存在该vin码以及该uid绑定的车辆信息! 请核对数据的有效性	
+string	error_message_8041	73	missing	该vin码以及该uid绑定的车辆已在使用中! 请核对数据的有效性	
+string	error_message_8042	22	missing	VIN码为空,不作处理!	
+string	error_message_8043	27	missing	五码信息均为空,不作处理!	
+string	error_message_8044	30	missing	该VIN码无绑定车辆,不作处理!	
+string	error_message_8045	34	missing	VIN码对应五码信息相同,无需修改!	
+string	error_message_8046	30	missing	该设备id未绑定任何违章车辆!	
+string	error_message_8047	13	missing	车辆不存在!	
+string	error_message_8048	19	missing	存在多条车辆记录!	
+string	error_message_8049	13	missing	车主不存在!	
+string	error_message_8050	19	missing	存在多条车主记录!	
+string	error_message_8051	18	missing	拓展参数字段缺失	
+string	error_message_8052	26	missing	传入的车型与原车型不一致	
+string	error_message_8053	33	missing	传入的ihu与vin对应的原ihu不符	
+string	error_message_8054	34	missing	传入的vin与tbox对应的原vin不符	
+string	error_message_8055	43	missing	传入的tbox信息与vin对应的原tbox信息不符	
+string	error_message_8056	35	missing	传入的手机号不是车主预留的手机号	
+string	error_message_8057	10	missing	操作超时	
+string	error_message_8058	26	missing	该用户不存在正在使用的车	
+string	error_message_8059	28	missing	该用户存在多辆正在使用的车	
+string	error_message_8060	26	missing	该vin码对应的车辆不存在	
+string	error_message_8061	29	missing	该vin码对应的ihu信息不存在	
+string	error_message_8062	30	missing	该vin码对应的Tbox信息不存在	
+string	error_message_8063	47	missing	不存在该vin码的车辆信息! 请核对数据的有效性	
+string	error_message_8064	27	missing	无法从token中获取uid信息	
+string	error_message_8065	14	missing	修改状态失败	
+string	error_message_8066	29	missing	vin码不存在订阅的T服务信息	
+string	error_message_8067	15	missing	获取MD5值失败	
+string	error_message_8068	20	missing	车辆不存在状态信息	
+string	error_message_8069	18	missing	状态信息转换异常	
+string	error_message_8070	36	missing	上次请求还未执行，请稍后发送命令!	
+string	error_message_8071	19	missing	操作记录存入失败!	
+string	error_message_8100	16	missing	文件名不能为空	
+string	error_message_8101	10	missing	更新失败	
+string	error_message_8102	22	missing	新增数据主键必需为空	
+string	error_message_8103	16	missing	请求头缺少参数	
+string	error_message_8104	38	missing	查询升级版本时出错,没有可升级的软件	
+string	error_message_8105	18	missing	请求参数发生错误	
+string	error_message_8106	18	missing	没有可升级的软件	
+string	error_message_8107	27	missing	X_APP_ID不能为空不能为空	
+string	error_message_8108	14	missing	发布请求错误	
+string	error_message_8109	14	missing	不存在该软件	
+string	error_message_8110	14	missing	软件版本有误	
+string	error_message_8111	16	missing	升级任务不存在	
+string	error_message_8112	14	missing	传入参数错误	
+string	error_message_8113	18	missing	升级任务状态错误	
+string	error_message_8114	18	missing	软件升级包不存在	
+string	error_message_8115	28	missing	未上传软件升级包，不可发布	
+string	error_message_8116	28	missing	软件包未上传完成，不可发布	
+string	error_message_8117	24	missing	升级任务不存在或已下线	
+string	error_message_8118	24	missing	此软件包不存在或已下线	
+string	error_message_8119	13	missing	没有tem信息	
+string	error_message_8120	13	missing	没有ecu信息	
+string	error_message_8121	12	missing	服务器异常	
+string	error_message_8122	27	missing	设备不存在或暂时无法升级!	
+string	error_message_8123	43	missing	查询结果为空! 不存在手机号对应的车辆信息	
+string	error_message_8124	42	missing	查询结果为空! 不存在vin码对应的车辆信息	
+string	error_message_8125	20	missing	ihuId查询结果为空	
+string	error_message_8126	29	missing	传入vin，m值或ecuType为空	
+string	error_message_8127	43	missing	传入的ecuType不正确，请确认数据的有效性	
+string	error_message_8128	22	missing	vin对应的车辆不存在	
+string	error_message_8129	63	missing	传入的vin对应的ihu信息不存在，请确认数据的有效性	
+string	error_message_8130	64	missing	传入的vin对应的tbox信息不存在，请确认数据的有效性	
+string	error_message_8131	22	missing	获取pki证书文件失败	
+string	error_message_8132	69	missing	传入的ecu地址不能全包含于某车型Id，请检验数据的有效性	
+string	error_message_8133	18	missing	查询车型结果为空	
+string	error_message_8134	14	missing	不存在此环境	
+string	error_message_8135	14	missing	上传文件为空	
+string	error_message_8136	27	missing	上传的文件转换为file异常	
+string	error_message_8137	14	missing	上传文件异常	
+string	error_message_8138	39	missing	deviceId(本车vin码)的车主信息不存在	
+string	error_message_8139	44	missing	传入手机号不是本机(deviceId)车主的手机号	
+string	error_message_8140	20	missing	删除首选经销商失败	
+string	error_message_8141	10	missing	请填写Id	
+string	error_message_8142	10	missing	非法请求	
+string	error_message_8143	17	missing	获取app_id失败	
+string	error_message_8144	20	missing	软件包大小超出限制	
+string	error_message_8145	18	missing	软件包不允许修改	
+string	error_message_8146	18	missing	可导入的车辆为空	
+string	error_message_8147	18	missing	请求的路径不存在	
+string	error_message_8150	14	missing	禁用记录失败	
+string	error_message_8151	19	missing	设备app信息不存在	
+string	error_message_8152	26	missing	用户不存在正在使用的app	
+string	error_message_8153	16	missing	服务间调用失败	
+string	error_message_8154	14	missing	无可用升级包	
+string	error_message_8155	18	missing	认证信息格式错误	
+string	error_message_8156	14	missing	车辆认证失败	
+string	error_message_8157	10	missing	不可认证	
+string	error_message_8160	20	missing	分享期间你无权操作	
+string	error_message_8200	10	missing	认证失败	
+string	error_message_8201	12	missing	用户不存在	
+string	error_message_8202	16	missing	Token验证失败	
+string	error_message_8203	16	missing	Token刷新失败	
+string	error_message_8300	14	missing	系统业务异常	
+string	error_message_8301	14	missing	查询结果为空	
+string	error_message_8302	26	missing	数据已存在，不可重复添加	
+string	error_message_8303	29	missing	查询结果为空! 不存在此环境	
+string	error_message_8400	18	missing	输入参数不能为空	
+string	error_message_8500	18	missing	服务器端内部异常	
+string	error_message_failure	10	missing	操作失败	
+string	error_message_gateway_sign_app_not_found	15	missing	验签APP不存在	
+string	error_message_gateway_sign_appid_not_found	18	missing	验签APPID不存在	
+string	error_message_gateway_sign_date_format_error	18	missing	验签日期格式错误	
+string	error_message_gateway_sign_date_not_found	16	missing	验签日期不存在	
+string	error_message_gateway_sign_nonce_not_found	18	missing	验签随机数不存在	
+string	error_message_gateway_sign_not_found	16	missing	验签签名不存在	
+string	error_message_gateway_sign_version_not_found	20	missing	验签签名版本不存在	
+string	error_message_illegal_argument	18	missing	输入参数不能为空	
+string	error_message_internal_server_error	18	missing	服务器端内部异常	
+string	error_message_network	18	en_too_long	网络异常，请重试	Network error,please try again
+string	error_message_preferred_dealer_exists	18	missing	首选经销商已存在	
+string	error_message_success	10	missing	操作成功	
+string	error_message_upload_part_success	14	missing	部分上传成功	
+string	family_fragment_name	10	en_foreign	亲情账号	亲情账号
+string	family_fragment_net_error	22	en_foreign	网络不佳，请稍后重试	网络不佳，请稍后重试
+string	family_fragment_no_data	64	en_foreign	暂无亲情账号，请前往“极氪APP-爱车-车辆设置”中设定	暂无亲情账号，请前往“极氪APP-爱车-车辆设置”中设定
+string	family_fragment_owner_tip	47	en_foreign	您可在“极氪APP-爱车-车辆设置”中设定亲情账号	您可在“极氪APP-爱车-车辆设置”中设定亲情账号
+string	load_failure_click_to_reload	22	en_foreign	网络不佳，请点击重试	网络不佳，请点击重试
+string	load_net_failure	22	en_too_long	网络不佳，请稍后重试	Loading failed. Please check the network
+string	load_request_failure	22	en_too_long	网络不佳，请稍后重试	Loading failed. Please try again
+string	loading	11	en_foreign	加载中...	加载中...
+string	login_driving_timer	14	en_foreign	关闭（%ds）	关闭（%ds）
+string	login_policy	49	en_foreign	"扫码登录即代表已阅读并同意\n%1s和%2s"	"扫码登录即代表已阅读并同意\n%1s和%2s"
+string	message_button_cancel	6	en_foreign	取消	取消
+string	message_button_delete	6	en_foreign	删除	删除
+string	message_button_delete_count	13	en_foreign	删除 (%s)	删除 (%s)
+string	message_button_done	6	en_foreign	完成	完成
+string	message_button_edit	6	en_foreign	编辑	编辑
+string	message_button_read_all	10	en_foreign	全部已读	全部已读
+string	message_detail_btn_go	10	en_foreign	立即前往	立即前往
+string	message_detail_failed_toast	10	en_foreign	删除失败	删除失败
+string	message_detail_jump_tips	28	en_foreign	当前未安装此应用，打开失败	请先安装应用
+string	message_detail_success_toast	10	en_foreign	删除成功	删除成功
+string	message_detail_title	6	en_foreign	消息	消息
+string	message_empty_tip	10	en_foreign	暂无消息	暂无消息
+string	message_title	10	en_foreign	消息盒子	消息盒子
+string	mine_accountinfo_logout	10	en_foreign	退出账号	退出账号
+string	mine_car_profile	10	en_foreign	用车习惯	用车习惯
+string	mine_change_account	10	en_foreign	切换账号	切换账号
+string	mine_family	10	en_foreign	亲情账号	亲情账号
+string	mine_login_settings	10	en_foreign	登录设置	登录设置
+string	mine_logout_dialog_message	20	en_foreign	是否退出当前账号？	是否退出当前账号？
+string	mine_secure	12	en_too_long	安全与隐私	Security and Privacy
+string	mine_settings	6	en_foreign	设置	设置
+string	profile_bottom_tip	183	en_foreign	您可以在此保存人体工学位置（座椅、后视镜等），并按需切换。若发生账号切换或者触发方便进出功能时，则座椅等人体工学位置会移动至驾驶位置用车习惯上。	您可以在此保存人体工学位置（座椅、后视镜等），并按需切换。若发生账号切换或者触发方便进出功能时，则座椅等人体工学位置会移动至驾驶位置用车习惯上。
+string	profile_btn_common_use	14	en_foreign	设为驾驶位置	设为驾驶位置
+string	profile_btn_recover	6	en_foreign	恢复	恢复
+string	profile_btn_rename	8	en_foreign	重命名	重命名
+string	profile_btn_save	6	en_foreign	保存	保存
+string	profile_dialog_have_name	22	en_foreign	已有该名称的用车习惯	已有该名称的用车习惯
+string	profile_dialog_max_character	18	en_foreign	最多输入10个字符	最多输入10个字符
+string	profile_dialog_title	14	en_foreign	用车习惯名称	用车习惯名称
+string	profile_driving_position	10	en_foreign	驾驶位置	驾驶位置
+string	profile_loading_change	10	en_foreign	正在切换	正在切换
+string	profile_loading_recover	10	en_foreign	正在恢复	正在恢复
+string	profile_loading_save	10	en_foreign	正在保存	正在保存
+string	profile_title	10	en_foreign	用车习惯	用车习惯
+string	profile_toast_have_change	13	en_foreign	已切换到%s	已切换到%s
+string	profile_toast_have_recover	13	en_foreign	已恢复到%s	已恢复到%s
+string	profile_toast_have_save	13	en_foreign	已保存到%s	已保存到%s
+string	profile_toast_rename_failed	10	en_foreign	修改失败	修改失败
+string	profile_toast_rename_success	10	en_foreign	修改成功	修改成功
+string	qr_code_error_text	22	en_foreign	网络不佳，请稍后重试	网络不佳，请稍后重试
+string	qr_code_expired_text	22	en_foreign	二维码已过期，请重试	二维码已过期，请重试
+string	setting_about_face_policy	26	en_foreign	人脸识别个人信息保护政策	人脸识别个人信息保护政策
+string	setting_about_privacy_policy	18	en_foreign	个人信息保护政策	个人信息保护政策
+string	setting_about_title	6	en_foreign	关于	关于
+string	setting_about_user_protocol	14	en_foreign	用户服务协议	用户服务协议
+string	setting_about_version	8	en_foreign	版本号	版本号
+string	setting_change_face_button	6	en_foreign	更换	更换
+string	setting_change_face_tip	43	en_foreign	更换后将删除原有人脸，并重新添加新人脸。	更换后将删除原有人脸，并重新添加新人脸。
+string	setting_delete_face_tip	16	en_foreign	删除人脸信息？	删除人脸信息？
+string	setting_dialog_history_btn_open	10	en_foreign	确认开启	确认开启
+string	setting_dialog_history_cancel	10	en_foreign	稍后再说	稍后再说
+string	setting_dialog_history_tip	75	en_foreign	开启后，您可在状态栏的历史登录账号列表中快速切换到您的账号	开启后，您可在状态栏的历史登录账号列表中快速切换到您的账号
+string	setting_dialog_history_title	14	en_foreign	开启免密切换	开启免密切换
+string	setting_digital_key_sub_tip	75	en_foreign	开启后，您使用数字钥匙解锁后，车机系统将自动登录您的账号。	开启后，您使用数字钥匙解锁后，车机系统将自动登录您的账号。
+string	setting_digital_key_tip	33	en_foreign	数字钥匙解锁后自动登录车机账号	数字钥匙解锁后自动登录车机账号
+string	setting_face_add_bottom_tip	78	en_foreign	开始⼈脸录入，请调整坐姿，正视摄像头，并确保能够看到完整摄像头	开始⼈脸录入，请调整坐姿，正视摄像头，并确保能够看到完整摄像头
+string	setting_face_add_btn	6	en_foreign	添加	添加
+string	setting_face_add_success	10	en_foreign	录入成功	录入成功
+string	setting_face_add_title_tip	14	en_foreign	人脸信息采集	人脸信息采集
+string	setting_face_agree	6	en_foreign	接受	接受
+string	setting_face_all_rule	10	en_foreign	全部条款	全部条款
+string	setting_face_button_start	6	en_foreign	开始	开始
+string	setting_face_change_btn	6	en_foreign	更换	更换
+string	setting_face_change_delete_failed	33	en_foreign	更换时删除原有人脸失败，请重试	更换时删除原有人脸失败，请重试
+string	setting_face_change_success	10	en_foreign	更换成功	更换成功
+string	setting_face_delete_btn	6	en_foreign	删除	删除
+string	setting_face_delete_failed	10	en_foreign	删除失败	删除失败
+string	setting_face_delete_success	10	en_foreign	删除成功	删除成功
+string	setting_face_door_closed	25	en_foreign	请保持主驾车门关闭、P档	请保持主驾车门关闭、P档
+string	setting_face_enroll_failed	18	en_foreign	人脸信息录入失败	人脸信息录入失败
+string	setting_face_enroll_failed_tts	41	en_foreign	人脸信息录入失败，请调整坐姿后重新录入	人脸信息录入失败，请调整坐姿后重新录入
+string	setting_face_enroll_success_tts	14	en_foreign	人脸录入成功	人脸录入成功
+string	setting_face_family_tips	39	en_foreign	请联系车主打开人脸识别功能开关后再试	请联系车主打开人脸识别功能开关后再试
+string	setting_face_info_title	10	en_foreign	人脸信息	人脸信息
+string	setting_face_login_have_entry	8	en_foreign	已录入	已录入
+string	setting_face_login_no_entry	8	en_foreign	未录入	未录入
+string	setting_face_login_see_manual	14	en_foreign	人脸识别教学	人脸识别教学
+string	setting_face_login_sub_tip	135	en_foreign	开启后，可以在车辆启动时进行人脸识别，以确定驾驶者身份，并登录账号、加载用车习惯。仅车主账号可开启或关闭。	开启后，可以在车辆启动时进行人脸识别，以确定驾驶者身份，并登录账号、加载用车习惯。仅车主账号可开启或关闭。
+string	setting_face_login_tip	14	en_foreign	人脸识别功能	人脸识别功能
+string	setting_face_open_tips	39	en_foreign	请先打开人脸识别功能开关，再添加人脸	请先打开人脸识别功能开关，再添加人脸
+string	setting_face_policy	30	en_foreign	《人脸识别个人信息保护政策》	《人脸识别个人信息保护政策》
+string	setting_face_read_rule	20	en_foreign	请先阅读并勾选协议	请先阅读并勾选协议
+string	setting_face_start_tips_one	77	en_foreign	请避免在暗光、强光直射或逆光环境下录入人脸数据，保持面部五官	请避免在暗光、强光直射或逆光环境下录入人脸数据，保持面部五官
+string	setting_face_start_tips_two	66	en_foreign	清晰可见，避免戴帽子、口罩等物品，保持车门关闭、P档	清晰可见，避免戴帽子、口罩等物品，保持车门关闭、P档
+string	setting_face_title	10	en_foreign	人脸信息	人脸信息
+string	setting_family_hint	49	en_foreign	车主帐号暂未开启人脸识别，请联系车主开启该功能	车主帐号暂未开启人脸识别，请联系车主开启该功能
+string	setting_history_account_sub_tip	269	en_foreign	开启后，您可在下次车机登录时直接操作，免密切换至您的账号无需扫码确认。但本功能不能避免在一些条件下，他人不慎登录您的账号，导致您的个人信息将会被他人查看或者相应收集个人信息权限被他人授权开启。请您谨慎开启该开关。	开启后，您可在下次车机登录时直接操作，免密切换至您的账号无需扫码确认。但本功能不能避免在一些条件下，他人不慎登录您的账号，导致您的个人信息将会被他人查看或者相应收集个人信息权限被他人授权开启。请您谨慎开启该开关。
+string	setting_history_account_tip	18	en_foreign	免密切换历史账号	免密切换历史账号
+string	setting_iv_key_text_face_privacy	26	en_foreign	人脸识别个人信息保护政策	人脸识别个人信息保护政策
+string	setting_iv_key_text_new_privacy	18	en_foreign	个人信息保护政策	个人信息保护政策
+string	setting_iv_key_text_protocol	14	en_foreign	用户服务协议	用户服务协议
+string	setting_owner_hint	53	en_foreign	本功能仅在人脸识别功能开启时使用，确认开启此功能？	本功能仅在人脸识别功能开启时使用，确认开启此功能？
+string	setting_title	10	en_foreign	登录设置	登录设置
+string	string_associated_confirm_bind_dialog_agree	6	en_foreign	同意	同意
+string	string_associated_confirm_bind_dialog_bind_gaode_title	18	en_foreign	高德账号绑定协议	高德账号绑定协议
+string	string_associated_confirm_bind_dialog_content	108	en_foreign	绑定%1s账号时，您的极氪账号ID、登录状态信息将会提供给第三方。您已阅读并同意%2s与%3s	绑定%1s账号时，您的极氪账号ID、设备唯一识别码等信息将会提供给第三方。您已阅读并同意%2s与%3s
+string	string_associated_confirm_bind_dialog_content_gaode	135	en_foreign	绑定高德账号时，您的极氪账号ID、登录状态信息、手机号 (%1s) 将会提供给第三方。您已阅读并同意%2s、%3s与%4s	绑定高德账号时，您的极氪账号ID、登录状态信息、手机号 (%1s) 将会提供给第三方。您已阅读并同意%2s、%3s与%4s
+string	string_associated_confirm_bind_dialog_gaode_bind	22	en_foreign	《高德账号绑定协议》	《高德账号绑定协议》
+string	string_associated_confirm_bind_dialog_gaode_proxy	18	en_foreign	《高德隐私协议》	《高德隐私协议》
+string	string_associated_confirm_bind_dialog_gaode_server	18	en_foreign	《高德服务条款》	《高德服务条款》
+string	string_associated_confirm_bind_dialog_privacy	26	en_foreign	《极氪个人信息保护政策》	《极氪个人信息保护政策》
+string	string_associated_confirm_bind_dialog_privacy_title	22	en_foreign	极氪个人信息保护政策	极氪个人信息保护政策
+string	string_associated_confirm_bind_dialog_proxy	22	en_foreign	《极氪用户服务协议》	《极氪用户服务协议》
+string	string_associated_confirm_bind_dialog_proxy_title	18	en_foreign	极氪用户服务协议	极氪用户服务协议
+string	string_associated_confirm_bind_dialog_reject	6	en_foreign	拒绝	拒绝
+string	string_associated_confirm_privacy	22	en_foreign	《个人信息保护政策》	《个人信息保护政策》
+string	string_associated_confirm_proxy	18	en_foreign	《用户服务协议》	《用户服务协议》
+string	string_associated_confirm_unbind_dialog_content	36	en_foreign	解绑后，您的%1s账号将不能同步登录	解绑后，您的%1s账号将不能同步登录
+string	string_associated_platform_name	9	en_foreign	%1s账号	%1s账号
+string	third_account_repeat_bind	24	en_foreign	该账号已与极氪账号绑定	该账号已与极氪账号绑定
+string	third_bind_desc	100	en_foreign	绑定后，第三方账号将随您的极氪账号同步登录，您可设置其是否随极氪账号同步退出。	绑定后，第三方账号将随您的极氪账号同步登录，您可设置其是否随极氪账号同步退出。
+string	third_bind_fail	10	en_foreign	绑定失败	绑定失败
+string	third_bind_fail_retry_plz	28	en_foreign	绑定失败，请重新扫描二维码	绑定失败，请重新扫描二维码
+string	third_bind_quick_register_map	119	en_foreign	您的手机号（%1s）未注册高德账号，建议您快速注册并绑定高德账号。您已阅读并同意%2s、%3s与%4s。	您的手机号（%1s）未注册高德账号，建议您快速注册并绑定高德账号。您已阅读并同意%2s、%3s与%4s。
+string	third_bind_success	10	en_foreign	绑定成功	绑定成功
+string	third_close_logout_with_zeekr	18	en_foreign	关闭同步账号退出	关闭同步账号退出
+string	third_logout_with_zeekr	16	en_foreign	随极氪账号退出	随极氪账号退出
+string	third_name_cloud_music	12	en_foreign	网易云音乐	网易云音乐
+string	third_name_gaode	6	en_foreign	高德	高德
+string	third_name_iqiyi	8	en_foreign	爱奇艺	爱奇艺
+string	third_name_leishiktv	9	en_foreign	雷石KTV	雷石KTV
+string	third_name_qqmusic	8	en_foreign	QQ音乐	QQ音乐
+string	third_name_tai	12	en_foreign	腾讯爱趣听	腾讯爱趣听
+string	third_name_wx	6	en_foreign	微信	微信
+string	third_plz_use_qqmusic_scan	69	en_foreign	"请使用微信/ QQ/ QQ音乐 扫描\n成功后将登录并绑定账号"	"请使用微信/ QQ/ QQ音乐 扫描\n成功后将登录并绑定账号"
+string	third_q_music_already_bind_another	45	en_foreign	QQ音乐账号重复绑定，请先解绑或更换账号绑定	QQ音乐账号重复绑定，请先解绑或更换账号绑定
+string	third_quick_register_tips	14	en_foreign	快速注册提醒	快速注册提醒
+string	third_unbind_fail	10	en_foreign	解绑失败	解绑失败
+string	third_unbind_success	10	en_foreign	解绑成功	解绑成功
+string	user_account_owner	6	en_foreign	车主	车主
+string	user_accountinfo_fragment_title	10	en_foreign	账号中心	账号中心
+string	user_btn_confirm	6	en_foreign	确认	确认
+string	user_cancel	6	en_foreign	关闭	关闭
+string	user_cannot_while_driving_plz_stop	36	en_foreign	车辆行驶中不可操作，请挂P档后再试	车辆行驶中不可操作，请挂P档后再试
+string	user_change_third_qr_bind	13	en_foreign	绑定%1s账号	绑定%1s账号
+string	user_has_login	16	en_foreign	当前账号已登录	当前账号已登录
+string	user_login_login_qr_code_description	22	en_foreign	使用极氪APP扫码登录	使用极氪APP扫码登录
+string	user_login_title_tip_failure	17	en_foreign	登录失败,请重试	登录失败,请重试
+string	user_logining	10	en_foreign	正在登录	正在登录
+string	user_logout_success	12	en_foreign	账号已退出	账号已退出
+string	user_logout_token_401	26	en_foreign	登陆状态过期，请重新登录	登陆状态过期，请重新登录
+string	user_provision_login_success	10	en_foreign	登录成功	登录成功
+string	user_provision_privilege_face	18	en_foreign	精准面部识别服务	精准面部识别服务
+string	user_provision_privilege_member	18	en_foreign	尊享在线生态服务	尊享在线生态服务
+string	user_provision_privilege_music	18	en_foreign	品质音乐免费畅听	品质音乐免费畅听
+string	user_provision_privilege_upgrade	18	en_foreign	终身免费系统升级	终身免费系统升级
+string	user_third_auth_deauth_dialog_negative_text	6	en_foreign	取消	取消
+string	user_third_auth_fragment_title	16	en_foreign	第三方账号列表	第三方账号列表
+string	user_third_bind_auth	14	en_foreign	绑定信息授权	绑定信息授权
+string	user_third_bind_bind_immediately	10	en_foreign	立即绑定	立即绑定
+string	user_third_bind_sync_logout	40	en_foreign	关闭后，您的%1s账号不会随极氪账号退出	关闭后，您的%1s账号不会随极氪账号退出
+string	user_third_bind_unbind_immediately	10	en_foreign	解除绑定	解除绑定
+string	user_use_third_account_bind	20	en_foreign	使用 %1s 扫码登录	使用 %1s 扫码登录
+string	user_zeekr_app	9	en_foreign	极氪APP	极氪APP
+string	usercenter_scan_qr_login	10	en_foreign	扫描登录	扫描登录
+string	usercenter_use	8	en_foreign	请使用	请使用

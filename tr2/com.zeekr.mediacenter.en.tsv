@@ -1,0 +1,24 @@
+string	app_not_find	App not found
+string	bt_no_connect	Bluetooth not connected
+string	can_not_open_because_of_updating	App updating, try again later
+string	change_tuner	OK, switching to
+string	current_function_unavailable	This function is unavailable now
+string	current_no_can_play_source	No playable source
+string	current_no_music	No music playing
+string	current_radio	No music playing
+string	fav_enough	Could not save, 30 favorites max
+string	good	OK
+string	no_content_playing	Nothing is playing.
+string	no_media_info	Eva cannot play this now, please try manually.
+string	no_playinfo	Nothing playing
+string	no_res_close	Nothing to close.
+string	not_bt_connect	Turn on Bluetooth first
+string	not_bt_surpport	No Bluetooth device connected, connect one first
+string	not_support_collect	This song cannot be saved
+string	not_surpport	Not supported yet
+string	not_usb_surpport	No USB device connected, connect one first
+string	now_isplaying	Already playing
+string	now_isstopping	Paused
+string	open_bluetooth	OK, opening Bluetooth music
+string	open_tuner	OK, opening radio
+string	open_usb	OK, opening USB music

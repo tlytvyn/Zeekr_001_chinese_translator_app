@@ -1,0 +1,34 @@
+array	apk_file	7	.apk ‖ .apks ‖ .APK ‖ .APKS	
+array	audio_file	7	.mp3 ‖ .MP3 ‖ .wav ‖ .WAV ‖ .wma ‖ .WMA ‖ .midi ‖ .MIDI ‖ .ra ‖ .RA ‖ .aac ‖ .AAC	
+array	filter_out_dirs	45	/storage/emulated/0/Android/data ‖ /storage/emulated/0/AutoSdkAssets ‖ /storage/emulated/0/tts ‖ /storage/emulated/0/com.ecarx.multimedia	
+array	game_mode_group	30	com.zeekr.housekeeper	
+array	game_mutex_group	30	com.zeekr.housekeeper	
+array	map_mode_group	30	com.zeekr.housekeeper	
+array	map_mutex_group	30	com.autonavi.amapauto	
+array	media_mode_group	30	com.zeekr.housekeeper	
+array	media_mutex_group	33	com.bilibili.bilithings ‖ com.arcvideo.car.video	
+array	path_list_ad	81	/data/media/0/Android/data/com.netease.cloudmusic/cache/Ad/ ‖ /data/media/0/Android/data/com.ss.android.article.news/splashCache/ ‖ /data/media/0/sina/weibo/.weiboadcache ‖ /data/media/0/netease/cloudmusic/Ad/ ‖ /storage/emulated/0/netease/adcache ‖ /data/media/0/qqmusic/splash/ ‖ /data/data/com.tencent.qqmusic/files/tad_cache/ ‖ /data/data/com.tencent.qqmusic/app_adnet/ ‖ /data/data/com.tencent.qqmusic/files/tad_cache/ ‖ /data/media/0/autonavi/splash ‖ /data/media/0/autonavi/afpSplash	
+array	path_list_log	29	/data/system/dropbox ‖ /data/tombstones ‖ /data/anr ‖ /storage/emulated/0/vrlog/VRLogger	
+array	picture_file	7	.png ‖ .PNG ‖ .jpg ‖ .JPG ‖ .jpeg ‖ .JPEG ‖ .ai ‖ .AI ‖ .psd ‖ .PSD ‖ .bmp ‖ .BMP	
+array	support_game_list	34	com.yongshi.tenojo.zeekr ‖ com.Apinsky.Lite2048.zeekr ‖ com.netease.aceracer ‖ com.netease.party ‖ com.netease.wowsb ‖ com.netease.tom ‖ com.netease.g104.cn ‖ com.netease.vlfcn ‖ cn.jj.tv	
+array	system_app_black_list	45	com.baidu.iov.dueros.videoplayer ‖ com.arcvideo.car.video ‖ com.bilibili.bilithings ‖ com.netease.cloudmusic.iot	
+array	video_file	7	.mp4 ‖ .MP4 ‖ .swf ‖ .SWF ‖ .flv ‖ .FLV ‖ .mpg ‖ .MPG ‖ .wmv ‖ .WMV ‖ .mov ‖ .MOV ‖ .rm ‖ .RM ‖ .ram ‖ .RAM ‖ .avi ‖ .AVI	
+array	white_game_list	37	com.Apinsky.Lite2048.zeekr	
+array	whitelist	30	com.zeekr.housekeeper ‖ com.ecarx.sdk.openapi ‖ com.ecarx.mycar ‖ ecarx.launcher3 ‖ com.zeekr.local ‖ com.android.mtp ‖ com.android.webview ‖ com.android.providers.media ‖ com.android.providers.downloads ‖ android.car.usb.handler	
+string	app_name	16	Housekeeper	
+string	chip_text	14	Chip text	
+string	clear_like	11	Clean now	立即清理
+string	clear_like_hand	26	Clean manually (%1$s)	立即手动清理（%1$s）
+string	clear_succeed	40	Freed %1$s, %2$s available	释放了%1$s存储空间,可用空间%2$s
+string	clear_wait	11	Clean later	稍后清理
+string	disk_high_tip	79	Storage almost full. The system will suspend services. Clean up now or contact your local service center.	存储空间即将用尽，车机系统将暂停服务，请立即清理或联系当地服务站
+string	disk_low_again	74	Little space was freed, which may affect normal use of in-car apps. Please continue cleaning.	本次清理释放空间较小，可能会影响车机软件正常使用，请继续清理
+string	disk_space_content	79	Storage space is low, which may affect normal use of in-car apps. Please free up space soon.	存储空间剩余不足，可能会影响车机软件正常使用，请尽快清理存储空间
+string	disk_space_high_title	16	Storage low	存储空间不足
+string	disk_space_title	16	Storage low	存储空间不足
+string	list_clear_auto	16	Storage low	存储空间不足
+string	tip_time_high	60	Little space was freed. Clean up now or contact your local service center.	本次清理释放空间较小，请立即清理或联系当地服务站
+string	warning_of_driver_run_app	38	Not available to driver for driving safety	为了驾驶安全，主驾暂不支持使用
+string	warning_of_driver_run_game	40	For safety, driver cannot play games	为了驾驶安全，主驾暂不支持玩游戏
+string	warning_of_run_game_on_driving	49	For driving safety, stop and shift to P before playing games	为了驾驶安全，请停车进入 P 挡再进行游戏
+string	warning_of_run_on_driving	34	For driving safety, use only in P	为了驾驶安全，请在P挡下使用

@@ -1,0 +1,102 @@
+array	file_name	Images ‖ Videos ‖ Audio ‖ Large ‖ APKs ‖ Leftovers ‖ Rarely used ‖ Duplicates
+array	pic_type_name	Similar ‖ Blurry ‖ Over 1 year
+array	video_type_name	Large videos ‖ Small videos
+string	app_cache	Cache
+string	app_clean	App cleanup
+string	app_data	App data
+string	app_name	Car Manager
+string	app_size	App size
+string	available_user_ram	Available
+string	available_user_rom	Available
+string	back	Back
+string	cancel	Cancel
+string	clean_advertise_garbage	Ad junk
+string	clean_app_cache	App junk
+string	clean_cache	Clear cache
+string	clean_cache_content	This can't be undone. Clear now?
+string	clean_cache_title	Clear cache
+string	clean_data	Clear data
+string	clean_data_content	All data including files, settings, accounts and databases will be cleared. This can't be undone. Clear now?
+string	clean_data_title	Clear data
+string	clean_no_data	No data yet
+string	clean_stat	Last 14 days
+string	clean_system_cache	System cache
+string	clean_system_garbage	System junk
+string	clening	Cleaning...
+string	confirm	OK
+string	deep_back	Back
+string	deep_clean	Deep clean
+string	deep_clean_all_checked	All
+string	deep_clean_cancel_all_checked	Deselect all
+string	deep_clean_checked_sub_selected_sure	Confirm
+string	deep_clean_checked_sub_selected_total_size	(%1$s selected)
+string	deep_clean_content	Deleted files can't be restored. Clean now?
+string	deep_clean_done	Clean (%1$s)
+string	deep_clean_negative	Cancel
+string	deep_clean_positive	OK
+string	deep_clean_selected	Selected:
+string	deep_clean_tip	System is clean. Try later.
+string	finish	Done
+string	finish_optimize	Optimized
+string	finish_optimize_toast	Already optimized
+string	keep_user_data	Keep app user data
+string	loading	Loading...
+string	manager_allowed_start	Allowed
+string	manager_auto	Auto
+string	manager_auto_all	Auto-manage all
+string	manager_auto_all_cancel	Cancel auto for all
+string	manager_background	Background
+string	manager_background_tip	When auto management is on, the system detects usage scenarios and restricts background activity of related apps so foreground apps and services run more smoothly, but messages may be delayed.
+string	manager_manual	Manual
+string	manager_prohibited_start	Blocked
+string	manager_start	App launch
+string	manager_start_tip	When auto management is on, the system detects usage scenarios and restricts launching of related apps so foreground apps and services run more smoothly, but messages may be delayed.
+string	no_app_un_install	No removable apps
+string	optimize	Quick optimize
+string	optimize_result_tip1	Freed
+string	optimize_result_tip2	memory
+string	optimize_result_tip3	Cleaned
+string	optimize_result_tip4	files
+string	optimize_right	Optimize now
+string	optimizing	Optimizing...
+string	optimizing_checked_node_size	(%1$s, %2$s selected)
+string	optimizing_checked_scan_rubbish	(%1$s files)
+string	optimizing_checked_scan_type	%1$s (%2$s, %3$s selected)
+string	optimizing_checked_scan_type_none_data	%1$s (%2$s)
+string	optimizing_checked_size	%1$s (%2$s selected)
+string	optimizing_clean_finish	Cleaned
+string	optimizing_lookup_all	View all\n(%1$s)
+string	optimizing_scan_again	Rescan
+string	optimizing_scan_finish_rubbish_size	%1$s junk cleaned
+string	optimizing_scan_finish_tip	Done, system refreshed
+string	optimizing_scan_now	Start scan
+string	optimizing_scan_rubbish	Cleanable files (%1$s)
+string	optimizing_scanning	Scanning...
+string	optimizing_scanning_tip	Deep scanning storage to free space
+string	optimizing_smart_checked	Smart select
+string	optimizing_stop_scan	Stop scan
+string	optimizing_tip1	Total
+string	optimizing_toast	Optimizing...
+string	placeholder1	, 
+string	ram	Memory (RAM)
+string	remind_video_delete_content	Includes dashcam and Sentry Mode videos. Clean with care.
+string	rom	Storage
+string	select_all	All
+string	storage_content	Storage access permission required
+string	tab_app_clean	App cleanup
+string	tab_app_manager	App manager
+string	tab_clean_statistics	Statistics
+string	tab_deep_clean	Deep clean
+string	tab_one_touch_optimize	Quick optimize
+string	tab_optimize	Check & boost
+string	total	Total
+string	total_ram	Total RAM
+string	total_rom	Total storage
+string	uninstall	Remove
+string	uninstallAll	Remove all
+string	uninstall_dialog_content	This can't be undone. Uninstall?
+string	unselect_all	Deselect all
+string	used_name	Used
+string	user_ram	Used
+string	user_rom	Used
+string	video	Videos

@@ -1,0 +1,194 @@
+array	branch_string_array	Ю ‖ Сюй ‖ Хай ‖ Цзи ‖ Чоу ‖ Інь ‖ Мао ‖ Чень ‖ Си ‖ У ‖ Вей ‖ Шень
+array	car_facet_category_filters	android.intent.category.APP_MAPS ‖ android.intent.category.APP_MESSAGING ‖  ‖ android.intent.category.APP_MUSIC ‖ 
+array	car_facet_intent_uris	intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x14000000;package=com.android.support.car.lenspicker;end ‖ intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x14000000;package=com.android.support.car.lenspicker;end ‖ intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.HOME;launchFlags=0x14000000;S.system_command=toggle_notifications;end ‖ intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x14000000;package=com.android.support.car.lenspicker;end ‖ intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x14000000;package=com.android.support.car.lenspicker;end
+array	car_facet_longpress_intent_uris	 ‖  ‖  ‖  ‖ intent:#Intent;component=com.google.android.car.bugreport/.BugReportActivity;end
+array	car_facet_package_filters	com.android.car.mapsplaceholder ‖ com.android.car.dialer ‖ com.android.car.overview ‖  ‖ com.android.car.hvac;com.android.settings;com.android.car.settings;com.android.vending;com.google.android.car.bugreport;com.google.android.car.kitchensink;com.android.car.systemupdater;org.chromium.webview_shell;com.android.contacts;org.codeaurora.bluetooth.bttestapp;com.google.android.projection.sink;com.google.android.googlequicksearchbox
+array	chinese_week_string_array	Нд ‖ Пн ‖ Вт ‖ Ср ‖ Чт ‖ Пт ‖ Сб
+array	config_systemUIServiceComponentsPerUser	com.android.systemui.Dependency ‖ com.android.systemui.util.NotificationChannels ‖ com.android.systemui.recents.Recents
+array	debug_hw_overdraw_values	false ‖ show ‖ show_deuteranomaly
+array	enable_opengl_traces_values	0 ‖ 1 ‖ systrace ‖ error
+array	hdcp_checking_values	never ‖ drm-only ‖ always
+array	lockscreen_num_pad_klondike	+ ‖  ‖ ABC ‖ DEF ‖ GHI ‖ JKL ‖ MNO ‖ PQRS ‖ TUV ‖ WXYZ
+array	lunar_first_of_month	Чуньцзє ‖ 2 міс. ‖ 3 міс. ‖ 4 міс. ‖ 5 міс. ‖ 6 міс. ‖ 7 міс. ‖ 8 міс. ‖ 9 міс. ‖ 10 міс. ‖ 11 міс. ‖ 12 міс.
+array	lunar_month	1 міс. ‖ 2 міс. ‖ 3 міс. ‖ 4 міс. ‖ 5 міс. ‖ 6 міс. ‖ 7 міс. ‖ 8 міс. ‖ 9 міс. ‖ 10 міс. ‖ 11 міс. ‖ 12 міс.
+array	month_string_array	Січ ‖ Лют ‖ Бер ‖ Кві ‖ Тра ‖ Чер ‖ Лип ‖ Сер ‖ Вер ‖ Жов ‖ Лис ‖ Гру
+array	nav_bar_button_values	clipboard ‖ key ‖ menu_ime ‖ space
+array	nav_bar_layouts_values	default ‖ left;back,home,recent;right ‖ left,back,home,recent,right;space;space ‖ space;space;left,back,home,recent,right
+array	overlay_display_devices_values	 ‖ 720x480/142 ‖ 720x480/142,secure ‖ 1280x720/213 ‖ 1280x720/213,secure ‖ 1920x1080/320 ‖ 1920x1080/320,secure ‖ 3840x2160/320 ‖ 3840x2160/320,secure ‖ 1920x1080/320|3840x2160/640 ‖ 1920x1080/320|3840x2160/640,secure ‖ 1280x720/213;1920x1080/320
+array	select_logpersist_values	 ‖ all ‖ default,security,kernel ‖ kernel
+array	shengxiao_string_array	Щур ‖ Бик ‖ Тигр ‖ Кролик ‖ Дракон ‖ Змія ‖ Кінь ‖ Коза ‖ Мавпа ‖ Півень ‖ Пес ‖ Свиня
+array	show_non_rect_clip_values	hide ‖ region ‖ highlight
+array	solar_festival	0101Новий рік ‖ 0214День закоханих ‖ 0308Жіночий день ‖ 0312День дерев ‖ 0315День споживача ‖ 0401День сміху ‖ 0422День Землі ‖ 0501День праці ‖ 0504День молоді ‖ 0601День дітей ‖ 0701День КПК ‖ 0801День армії ‖ 0910День вчителя ‖ 1001Нац. свято ‖ 1031Гелловін ‖ 1111День самотніх ‖ 1224Святвечір ‖ 1225Різдво
+array	solar_term	Весн. рівнод. ‖ Цінмін ‖ Хлібний дощ ‖ Поч. літа ‖ Налив зерна ‖ Колосіння ‖ Літнє сонцест. ‖ Мала спека ‖ Велика спека ‖ Поч. осені ‖ Кінець спеки ‖ Білі роси ‖ Осін. рівнод. ‖ Холодні роси ‖ Іній ‖ Поч. зими ‖ Малий сніг ‖ Великий сніг ‖ Зимове сонцест. ‖ Малий холод ‖ Великий холод ‖ Поч. весни ‖ Дощова вода ‖ Пробудж. комах
+array	special_festivals	День матері ‖ День батька ‖ День подяки
+array	track_frame_time_values	false ‖ visual_bars ‖ true
+array	tradition_festival	Новорічна ніч ‖ 0101Свято весни ‖ 0115Свято ліхтарів ‖ 0505Свято драконів ‖ 0707Цісі ‖ 0815Середина осені ‖ 0909Подв. дев’ятка
+array	trunk_string_array	Синь ‖ Жень ‖ Гуй ‖ Цзя ‖ І ‖ Бін ‖ Дін ‖ У ‖ Цзі ‖ Ген
+array	tts_demo_string_langs	eng ‖ fra ‖ deu ‖ ita ‖ spa ‖ kor
+array	tts_demo_strings	This is an example of speech synthesis in English. ‖ Voici un échantillon de synthèse vocale en français. ‖ Dies ist ein Beispiel für Sprachsynthese in Deutsch. ‖ Questo è un esempio di sintesi vocale in italiano. ‖ Este es un ejemplo de síntesis de voz en español. ‖ 이것은 한국어 음성 합성의 예입니다.
+array	tv_pip_settings_class_name	com.android.tv.settings ‖ com.google.android.leanbacklauncher/.settings.HomeScreenSettingsActivity ‖ com.google.android.apps.mediashell/.settings.CastSettingsActivity ‖ com.google.android.katniss.setting/.SpeechSettingsActivity ‖ com.google.android.katniss.setting/.SearchSettingsActivity ‖ com.google.android.tungsten.setupwraith/.settings.usage.UsageDiagnosticsSettingActivity ‖ com.google.android.tvlauncher/.notifications.NotificationsSidePanelActivity
+array	usb_configuration_values	none ‖ mtp ‖ ptp ‖ rndis ‖ audio_source ‖ midi
+array	version_pma	VIP:PMA_V3.4.8.0 ‖ QNX:PMA_V3.4.8.0 ‖ Android:PMA_V3.4.8.0
+array	week_string_array	Н ‖ П ‖ В ‖ С ‖ Ч ‖ П ‖ С
+array	year_view_week_string_array	Н ‖ П ‖ В ‖ С ‖ Ч ‖ П ‖ С
+string	abbrev_wday_month_day_no_year	EEEE, d MMMM
+string	abbrev_wday_month_day_no_year_alarm	EEE, d MMM
+string	accessibility_battery_level_charging	Батарея заряджається, %d відсотків.
+string	accessibility_bluetooth_connected_pma	Bluetooth підключено.
+string	accessibility_casting	@string/quick_settings_casting
+string	accessibility_mobile_signal_connected_pma	Мобільний зв’язок підключено.
+string	accessibility_mobile_signal_disconnect_pma	Мобільний зв’язок відключено.
+string	accessibility_quick_settings_bluetooth_on_pma	Bluetooth увімкнено.
+string	accessibility_status_bar_hotspot_pma	Точка дост.
+string	accessibility_wifi_connected_pma	Wi-Fi підключено.
+string	accessibility_wifi_disconnect_pma	Wi-Fi відключено.
+string	accessibility_work_mode	@string/quick_settings_work_mode_label
+string	car_drawer_close	Закрити панель
+string	car_drawer_open	Відкрити панель
+string	certinstaller_package	com.android.certinstaller
+string	change_theme_reboot	Для зміни теми потрібен перезапуск.
+string	config_navBarLayout	left[.5W],back[1WC];home;recent[1WC],right[.5W]
+string	config_navBarLayoutQuickstep	back[1.7WC];home;contextual[1.7WC]
+string	config_statusBarComponent	com.android.systemui.statusbar.car.CarStatusBar
+string	config_statusBarComponent_PMA	com.android.systemui.statusbar.pma.StatusBarForPMA
+string	config_systemUIFactoryComponent	com.android.systemui.car.CarSystemUIFactory
+string	config_systemUIVendorServiceComponent	com.android.systemui.VendorServices
+string	cv_app_name	Календар
+string	default_theme	Стандартна
+string	finish_video_play_on_carspeed_overstep	Швидкість авто перевищує 15 км/год, відтворення відео буде закрито.
+string	fri	Пт
+string	keyguard_widget_12_hours_format	h:mm
+string	keyguard_widget_24_hours_format	kk:mm
+string	mland	Marshmallow Land
+string	mon	Пн
+string	no_tiles_add	Немає плиток для додавання
+string	ok	@android:string/ok
+string	plugins	Плагіни
+string	pma_allmost_fully_charged	Майже заряд.
+string	pma_aqt_title	Ai Qu Ting
+string	pma_battery_text_hv_failure	ЗБІЙ ВИСОКОВОЛЬТ. БАТАРЕЇ
+string	pma_bt_music_title	Bluetooth-музика
+string	pma_charge_button_power_external_device	Живлення пристрою
+string	pma_charge_button_power_other_vehicle	Живлення іншого авто
+string	pma_charge_button_start_charging	Почати заряд.
+string	pma_charge_button_stop_charging	Зупин. заряд.
+string	pma_charge_button_stop_discharging	Зупин. розряд.
+string	pma_charge_click_open_charge	Заряд.
+string	pma_charge_left	залиш.
+string	pma_charge_more_than_24_hour	Залишилось понад 24 год
+string	pma_charge_text_charging	ЗАРЯДЖАННЯ
+string	pma_charge_text_complete	ЗАРЯД. ЗАВЕРШ.
+string	pma_charge_text_discharging	РОЗРЯДЖАННЯ
+string	pma_charge_text_discharging_complete	РОЗРЯД. ЗАВЕРШ.
+string	pma_charge_text_discharging_fault	ЗБІЙ РОЗРЯДУ
+string	pma_charge_text_failure	ЗБІЙ ЗАРЯДУ
+string	pma_charge_text_fast	ШВИДКИЙ ЗАРЯД
+string	pma_charge_text_heating	ПІДІГРІВ
+string	pma_charge_text_scheduled_charging	ЗАПЛАНОВАНЕ ЗАРЯДЖАННЯ
+string	pma_charge_text_ultra	УЛЬТРАЗАРЯД
+string	pma_charge_title	Батарея і заряджання
+string	pma_connection_state_AC_connected	Підключено (AC)
+string	pma_connection_state_DC_connected	Підключено (DC)
+string	pma_connection_state_failure_ac	Збій підключення (AC)
+string	pma_connection_state_failure_dc	Збій підключення (DC)
+string	pma_connection_state_no_double	Не підключайте кабелі AC і DC одночасно
+string	pma_dock_widget_car_mileage	%n$1.1fKm
+string	pma_dock_widget_car_mileage_title	Одометр
+string	pma_dock_widget_car_setting_title	Налашт.
+string	pma_dock_widget_track_title	Трековий реж.
+string	pma_dvr_open_albums	Галерея
+string	pma_dvr_sound_recording	Запис звуку
+string	pma_dvr_title	Відеореєстр.
+string	pma_pm25_Inside_Text	PM2.5 у салоні
+string	pma_pm25_air_quality	Якість пов.
+string	pma_pm25_open_climate	Клімат
+string	pma_radio_title	Радіо
+string	pma_status_bar_toast_usb_not_supported	Формат USB-накопичувача не підтримується
+string	pma_status_bar_unlogin_status_display	Не ввійшли
+string	pma_temp_sync	синхр.
+string	pma_usb_connect	USB-пристрій (підключ.)
+string	pma_usb_title	USB
+string	pma_volume_mute_btn_text	Вимкн. звук
+string	pma_volume_out_close_btn_text	Закр.
+string	pma_volume_unmute_btn_text	Увімк. звук
+string	proxy_exclusionlist_hint	example.com,mycomp.test.com,localhost
+string	proxy_hostname_hint	proxy.example.com
+string	proxy_url_hint	https://www.example.com/proxy.pac
+string	qs_customize	Дозволити налаштування Швидких налаштувань довгим натисканням
+string	qs_customize_info	Інфо
+string	qs_customize_remove	Видалити
+string	qs_paging	Нові Швидкі налаштування
+string	quick_settings_tiles	default
+string	quick_settings_tiles_default	wifi
+string	quick_settings_tiles_retail_mode	wifi
+string	quick_settings_tiles_stock	wifi
+string	report_rejected_touch	Повідомити про відхилений дотик
+string	rest_mode_minutes	Хв
+string	rest_mode_open_always	Завжди
+string	sat	Сб
+string	settings_package	com.android.settings
+string	start_driving	Почати поїздку
+string	stream_bi_call	BI-виклик
+string	stream_e_call	E-виклик
+string	stream_navigation	Навігація
+string	stream_system_enforced	Примусовий системний
+string	stream_tts	Відтворення через динамік
+string	stream_vehicle_occ	vehicle_occ
+string	sun	Нд
+string	system_ui_aod_date_pattern	eee, d MMM
+string	system_ui_date_pattern	@android:string/permdesc_accessNetworkState
+string	textID_camera_setting_dvr1	Запис
+string	textID_camera_setting_dvr2	Звичайний запис
+string	text_default_user_habit	Положення водія
+string	text_id_dialog_yes	Так
+string	text_id_dvr_dialog_no	Не погоджуюся й вийти
+string	text_id_dvr_dialog_yes	Згоден
+string	text_id_dvr_user_agreement	Угода корист.
+string	text_id_dvr_user_agreement_content	Після ввімкнення відеореєстратора (DVR) ви отримуватимете зображення ззовні автомобіля через автомобільну камеру; відповідні дані зберігаються лише в автомобілі й не передаються ZEEKR чи іншим третім особам. Як правило, необроблені риси обличчя пішоходів та інші дані, як-от номерні знаки інших транспортних засобів, можуть бути визнані персональними даними, а зображення ззовні автомобіля також можуть становити важливі дані або інші чутливі категорії даних, на які можуть поширюватися закони й нормативні акти вашої країни щодо персональних даних або безпеки даних. Якщо вам потрібно обробляти такі дані, дотримуйтеся відповідних законів і нормативних актів, і особливо уникайте ввімкнення цієї функції поблизу військових зон, оборонних науково-промислових підприємств або органів державної влади.
+string	text_id_exit_account	Вийти з акаунта
+string	text_id_exit_account_title	Вийти з акаунта?
+string	text_id_login_account	Увійти
+string	text_id_other_account	Інший акаунт
+string	text_id_type_family	Родина
+string	text_id_type_owner	Власник
+string	text_id_type_tourist	Гість
+string	text_id_user_center	Кабінет
+string	text_id_user_toast_title	Під час руху керування недоступне. Перемкніть на P і повторіть спробу
+string	text_no_signal	Немає сигн.
+string	text_user_change	Перемикання
+string	text_user_habit_one	Звички 1
+string	text_user_habit_three	Звички 3
+string	text_user_habit_two	Звички 2
+string	text_wireless_charge	Телефон заряджається
+string	theme	Тема
+string	thu	Чт
+string	tue	Вт
+string	tuner_doze	Пасивний екран
+string	tuner_doze_always_on	Завжди увімк.
+string	unknown_user_label	Невідомий
+string	velocity_tracker_impl	platform
+string	volume_stream_limited_dnd	%s — лише пріоритетні
+string	volume_stream_muted	%s без звуку
+string	volume_stream_muted_dnd	%s без звуку — повна тиша
+string	volume_stream_suppressed	%1$s без звуку — %2$s
+string	volume_stream_vibrate	%s вібрація
+string	volume_stream_vibrate_dnd	%s вібрація — лише пріоритетні
+string	wed	Ср
+string	wifi_security_dpp	DPP
+string	wifi_security_eap	802.1x EAP
+string	wifi_security_owe	OWE
+string	wifi_security_passpoint	Passpoint
+string	wifi_security_psk_generic	@string/wifi_security_wpa_wpa2
+string	wifi_security_sae	SAE
+string	wifi_security_short_dpp	DPP
+string	wifi_security_short_owe	OWE
+string	wifi_security_short_psk_generic	@string/wifi_security_short_wpa_wpa2
+string	wifi_security_short_sae	SAE
+string	wifi_security_short_wep	WEP
+string	wifi_security_short_wpa	WPA
+string	wifi_security_short_wpa2	WPA2
+string	wifi_security_short_wpa_wpa2	WPA/WPA2
+string	wifi_security_wep	WEP
+string	wifi_security_wpa	WPA PSK
+string	wifi_security_wpa2	WPA2 PSK
+string	wifi_security_wpa_wpa2	WPA/WPA2 PSK

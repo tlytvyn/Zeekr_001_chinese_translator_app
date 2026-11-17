@@ -1,0 +1,79 @@
+array	ar_capture	6	Cheese	茄子
+array	ar_finish	6	Stop	停止
+array	ar_other_again	11	Again	再来一张
+array	ar_start	6	Start	开始
+array	ar_to_gallery	11	Gallery	转至图库
+string	app_name	6	Camera	相机
+string	chip_text	14	Chip text	
+string	close_recording	11	Stop recording	关闭录音
+string	dialog_text_body_format	17	Do you want to format?	确认格式化吗?
+string	dialog_text_button_cancel	6	Cancel	取消
+string	dialog_text_button_confirm	6	Confirm	确定
+string	duration_set_success	21	Recording time set successfully	录像时长设置成功
+string	emergency_set_success	26	Emergency recording time set successfully	紧急录像时长设置成功
+string	label	8	Label	
+string	open_recording	11	Start recording	打开录音
+string	resolution_set_success	19	Resolution set successfully	分辨率设置成功
+string	setting_btn_text_dvr_format_sdcard	9	Formatting	格式化
+string	setting_text_dvr_audio_record	10	DVR Audio	DVR录音
+string	setting_text_dvr_format_sdcard	16	Format card	储存卡格式化
+string	setting_text_dvr_video_record	11	Driving recorder	行车记录
+string	setting_text_real_time_location	16	Real-time location	实时位置开关
+string	setting_text_real_time_speed	16	Real-time speed	实时车速开关
+string	setting_text_shutter_sound	11	Shutter sound	拍照声音
+string	setting_text_time_token	11	Timer camera	定时拍照
+string	setting_text_video_record_time	11	Recording time	录像时长
+string	setting_text_video_record_time_five	8	5 minutes	5分钟
+string	setting_text_video_record_time_one	8	1 min	1分钟
+string	setting_text_video_record_time_three	8	3 min	3分钟
+string	setting_text_video_resolution	9	Resolution	分辨率
+string	textID_btn_done	6	Done	完成
+string	textID_btn_edit	6	Edit	编辑
+string	textID_btn_i_know	11	I understand	我知道了
+string	textID_btn_restore	6	Restore	复原
+string	textID_camera_streaming_adjust_info	28	Drag to adjust streaming media size	拖动调节流媒体显示尺寸
+string	textID_camera_streaming_press_3s	10	Hold 3s	长按3秒
+string	textID_camera_streaming_reminder	27	Press and hold for 3s to adjust streaming media size.	长按3秒调节流媒体尺寸
+string	textID_toast_gif_complete	35	GIF generated. Please view in the GIF gallery.	GIF合成已完成，请到图库查看
+string	textID_toast_gif_loading	51	Generating GIF. 1 GIF in total. Please wait…	开始合成GIF，总共1个GIF待合成，请等待...
+string	textID_toast_gifs_loading	53	Generating GIF. %d GIFs in total. Please wait…	开始合成GIF，总共%d个GIF待合成，请等待...
+string	text_call_offhook	26	The line is busy, please try again later	通话中，请稍后再操作
+string	text_camera_id_not_exist_dvr	31	Failed to switch camera. DVR does not exist.	切换摄像头失败,DVR不存在
+string	text_camera_id_not_exist_front_more	23	Switched to front camera	已切换为车前摄像头
+string	text_camera_id_not_exist_inner	39	Failed to switch camera. Chat camera does not exist.	切换摄像头失败,聊天摄像头不存在
+string	text_camera_id_not_exist_inner_more	23	Switched to interior camera	已切换为车内摄像头
+string	text_camera_id_not_exist_more	19	Failed to switch camera, no more camera found	切换摄像头失败
+string	text_camera_id_not_exist_rear_more	23	Switched to rear camera	已切换为车后摄像头
+string	text_camera_state_disconnected	19	Camera disconnected	摄像头断开连接
+string	text_camera_state_error	30	Camera error, error code %d	摄像头出错, 错误代码 %d
+string	text_emergency_video_recorder_failed	21	Emergency video recording failed	紧急视频录制失败
+string	text_emergency_video_recorder_finish	21	Emergency video recording completed	紧急视频录制完成
+string	text_emergency_video_recorder_start	21	Start recording emergency video	开始录制紧急视频
+string	text_format_hour	12	HH:mm:ss	
+string	text_format_year	15	yyyy/MM/dd	
+string	text_gif	6	GIF	动图
+string	text_gif_composite_error_exception_with_number	57	Error generating GIF. Unknown exception. There are still %d GIFs waiting to be generated.	合成GIF出错了, 未知错误, 还有 %d 个GIF待合成
+string	text_gif_composite_error_file_to_small_with_number	64	Error generating GIF. The recorded file is too small. There are still %d GIFs waiting to be generated.	合成GIF出错了, 录制的文件太小, 还有 %d 个GIF待合成
+string	text_gif_composite_error_time_to_short_with_number	64	Error generating GIF. The recorded time is too short. There are still %d GIFs waiting to be generated.	合成GIF出错了, 录制的时间太短, 还有 %d 个GIF待合成
+string	text_gif_composite_error_with_number	44	Error generating GIF. There are still %d GIFs waiting to be generated.	合成GIF出错了, 还有 %d 个GIF待合成
+string	text_gif_composite_start	29	Generating GIF. Please wait...	开始合成GIF, 请等待...
+string	text_memory_not_enough	31	Insufficient storage space, please clean up memory	存储空间不足，请清理内存
+string	text_overlay_unit_car_speed	10	%dkm/h	
+string	text_permission_denied	11	No permission	权限不足
+string	text_photo	6	Photo	拍照
+string	text_time_lapse	11	Time-lapse	延时摄影
+string	text_time_taken	11	Duration	定时拍照
+string	text_video	6	Video	视频
+string	text_video_record_time	20	%02d:%02d:%02d	
+string	user_agreement_cancel	16	Disagree And Exit	不同意并退出
+string	user_agreement_confirm	6	Agree	同意
+string	user_agreement_content	544	"        According to current laws and regulations, military management zones, national defense science and engineering units, and county-level or above party and government agencies may constitute state secrets, while facial information and license plate information outside the vehicle belong to personal information of others and are protected by law. Considering that this feature can record external video images, please strictly comply with legal and regulatory requirements when enabling this feature and sharing video image data externally, to avoid improper use that infringes on national secrets and the legitimate rights and interests of others. The video image data recorded by this function is stored in the onboard device, and the extremely Krypton will not access or use this data in any way. \n        Have you clearly and clearly understood the above content and agreed to enable this feature?"	"        根据现行法律法规，军事管理区、国防科工单位以及县级以上党政机关等区域可能构成国家秘密，同时车外人脸信息及车牌信息属于他人个人信息并受到法律保护。鉴于本功能可以进行车外视频图像的录制，请您在启用本功能以及向外部分享视频图像数据时，严格遵守法律法规要求，避免不当使用侵犯国家秘密及他人的合法权益。本功能所录制的视频图像数据均存储在车载设备内，极氪不会对该数据进行任何访问和使用。 \n        您是否已明确、清晰地知悉以上内容且同意开启本功能？"
+string	user_agreement_title	16	Instructions	功能使用说明
+string	video_stop_hint	21	Recording has been stopped and saved	录像已停止并保存
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_show_psw	11	show password	显示密码

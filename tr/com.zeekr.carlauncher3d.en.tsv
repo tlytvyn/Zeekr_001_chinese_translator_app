@@ -1,0 +1,36 @@
+cancel	Cancel
+car_skin_data	Digital car wrap
+car_suspension_adjust	Suspension adjustment
+car_suspension_disable	Jack mode is on, suspension adjustment unavailable
+close	Close
+copilot_seat	“Passenger seat”
+enter_wash_mode	Enter car wash mode
+i_known	Got it
+main_driver_seat	“Driver seat”
+mode_switch_exit	Exit now
+mode_switch_open	Turn on
+neutral_gear_tip_title	Neutral (N) notes
+pet_mode	Pet mode
+pet_mode_remind	Pet mode
+pet_remind_know	Got it
+pet_remind_not_airy_content	Fresh air on so your pet breathes easily
+pet_remind_not_airy_title	Ventilation
+pet_remind_not_careful_content	Doors, windows, screen and voice locked
+pet_remind_not_careful_title	Touch lock
+pet_remind_not_exception_title	Fault protection
+pet_remind_sub_title	For animals only. Never leave children alone in the vehicle
+pet_remind_temperature_content	Climate keeps your pet comfortable
+pet_remind_temperature_title	Keep temperature
+rest_driver	Driver rest mode
+rest_driver_tips	Driver rest mode adjusts the “Driver seat”. Use with care
+rest_mode_text	Driver rest mode adjusts the “Driver seat”. Use with care
+rest_passenger	Passenger rest mode
+rest_select_tips	Rest mode adjusts %1$s. Use with care
+row_front_seat	“Front seats”
+seat	Seats
+seat_adjustment_in_progress_please_waiting	Adjusting seat, please wait
+start	Turn on
+wash_car_outside_exit_simple_txt	Unlock with the physical key or phone key (Bluetooth connected) to exit car wash mode
+wash_car_outside_exit_title	Exit from outside
+wash_exit_title	Exit notice
+wash_exit_txt	Exiting wash mode turns off parking comfort and restores all functions

@@ -1,0 +1,183 @@
+array	aqi_levels	10	missing	Отлично ‖ Хорошо ‖ Умеренно ‖ Плохо ‖ Вредно ‖ Очень вредно ‖ Опасно	
+array	nzp_string_array	53	missing	ZEEKR Pilot был снят с производства ‖ NZP скоро откроется... ‖ NZP активирован ‖ NZP работает ‖ LCC работает ‖ ускоряется ‖ Изменение полосы движения ‖ Смена полосы была отменена ‖ Смена полосы завершена ‖ Не удалось перестроиться вправо ‖ Не удалось перестроиться влево ‖ Выход из раздела NZP ‖ Пожалуйста, примите меры немедленно ‖ Безопасное завершение работы ‖ Пожалуйста, примите транспортное средство ‖ Пожалуйста, немедленно примите управление транспортным средством ‖ Пожалуйста, держите руки на руле ‖ Пожалуйста, следите за дорогой впереди ‖ Пожалуйста, используйте рулевое управление для смены полосы	
+array	uvi_levels	8	missing	Низк. ‖ Средн. ‖ Выс. ‖ Очень выс. ‖ Экстрем.	
+string	adapter_api_debug_open_tip	83	missing	Режим отладки промежуточного программного обеспечения	
+string	adjust_rear_mirror	24	missing	Регулировка зеркал	
+string	all_apps	19	missing	Все приложения	
+string	apa	66	missing	Автоматическая система помощи при парковке	
+string	app_is_installing	76	missing	Устанавливается приложение, пожалуйста, подождите	
+string	apps_all_title	14	missing	Приложения	
+string	apps_card_title	19	missing	Быстрый доступ	
+string	apps_edit_at_most	132	missing	Могут отображаться максимум четыре приложения. Сначала удалите их и повторите попытку.	
+string	apps_edit_cancel	9	missing	Отмена	
+string	apps_edit_finish	9	missing	Готово	
+string	apps_edit_group_recent_label	25	missing	Недавно использован	
+string	apps_edit_tips	187	missing	Перетаскивайте приложения на карточку слева. Существующие приложения можно заменять и сортировать во время перетаскивания.	
+string	atmosphere_light	22	missing	Ambient подсветка	
+string	auto_hold	30	missing	Автоматическая парковка	
+string	back_row_cinema	46	missing	Режим задних рядов кинотеатра	
+string	back_row_meeting	24	missing	Режим заднего ряда	
+string	back_row_rest	27	missing	Режим заднего отсека	
+string	banner_adapter_null_error	70	missing	Адаптер пуст! Пожалуйста, проверьте параметры	
+string	business_voice_disabled	28	missing	Бизнес-голос отключен	
+string	cancel	9	missing	Отмена	
+string	card_energy_title	25	en_too_long	Потребление энергии	Vehicle condition Energy consumption
+string	card_trip_title	10	en_too_long	Поездки	Vehicle condition Trip
+string	card_tyre_title	22	en_too_long	Давление в шинах	Vehicle condition Tyre pressure
+string	central_lock	23	missing	Центральный замок	
+string	charge_charge_error_big_tips	90	missing	Сбой зарядки, пожалуйста, устраните неисправность вовремя!	
+string	charge_charging_done_tips	79	missing	Зарядка остановлена, не забудьте вытащить пистолет.	
+string	charge_charging_full	32	missing	Приоритет полной зарядки	
+string	charge_charging_limit	24	missing	Зарядить до лимита	
+string	charge_daily	15	missing	каждый день	
+string	charge_dis_stop	14	missing	Остановить	
+string	charge_estimate	394	missing	<span color=#99B4B9BE font-size=22px>Оставшееся время</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>h</span > <span color=#B4B9BE font-size=48px style=Bold>%2$s</span > <span color=#B4B9BE font-size=24px>min</span >	
+string	charge_estimate_24	247	missing	<span color=#99B4B9BE font-size=22px>Оставшееся время</span > <br></br> <span color=#B4B9BE font-size=40px style=Bold>>24</span > <span color=#B4B9BE font-size=24px>h</span >	
+string	charge_estimate_24_day	247	missing	<span color=#99383A3D font-size=22px>Оставшееся время</span > <br></br> <span color=#383A3D font-size=48px style=Bold>>24</span > <span color=#383A3D font-size=24px>h</span >	
+string	charge_estimate_day	400	missing	" <span color=#99383A3D font-size=22px>Оставшееся время</span > <br></br> <span color=#383A3D font-size=48px style=Bold>%1$s</span > <span color=#383A3D font-size=24px>h</span > <span color=#383A3D font-size=48px style=Bold>%2$s</span > <span color=#383A3D font-size=24px>min</span > "	
+string	charge_estimate_no_hour	253	missing	<span color=#99B4B9BE font-size=22px>Оставшееся время</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#99B4B9BE font-size=24px>мин</span >	
+string	charge_estimate_no_hour_day	259	missing	" <span color=#99383A3D font-size=22px>Оставшееся время</span > <br></br> <span color=#383A3D font-size=48px style=Bold>%1$s</span > <span color=#99383A3D font-size=24px>мин</span > "	
+string	charge_fully	24	missing	Зарядить полностью	
+string	charge_next_day	30	missing	Заряд на следующий день	
+string	charge_no_plug	17	missing	Не подключен	
+string	charge_plug_connect_ac	47	missing	Подключен зарядный штекер (AC)	
+string	charge_plug_connect_dc	47	missing	Подключен зарядный штекер (DC)	
+string	charge_plug_connect_fault	23	missing	Ошибка соединения	
+string	charge_plug_connect_fault_tips	87	missing	Неисправность соединения, пожалуйста, проверьте вовремя!	
+string	charge_plug_connect_tips	82	missing	Зарядное устройство подключено, пожалуйста, подождите	
+string	charge_plug_no_double	99	missing	Не подключайте переменный (AC) и постоянный (DC) ток одновременно	
+string	charge_plug_no_double_tips	119	missing	Ненормальное подключение зарядного устройства, пожалуйста, проверьте вовремя!	
+string	charge_power_supply_capacity	250	missing	<span color=#99B4B9BE font-size=22px>Источник питания</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >	
+string	charge_power_supply_capacity_all	264	missing	<span color=#99B4B9BE font-size=22px>Статистика электропитания</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >	
+string	charge_power_supply_capacity_all_day	264	missing	<span color=#99383A3D font-size=22px>Статистика электропитания</span > <br></br> <span color=#383A3D font-size=48px style=Bold>%1$s</span > <span color=#383A3D font-size=24px>kWh</span >	
+string	charge_power_supply_capacity_day	250	missing	<span color=#99383A3D font-size=22px>Источник питания</span > <br></br> <span color=#383A3D font-size=48px style=Bold>%1$s</span > <span color=#383A3D font-size=24px>kWh</span >	
+string	charge_pre_time	282	missing	" <span color=#99B4B9BE font-size=22px>Резервирование для зарядки</span > <br></br> <span color=#B4B9BE font-size=16px>Каждый день</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span >"	
+string	charge_pre_time_day	268	missing	" <span color=#99383A3D font-size=22px>Резервирование для зарядки</span > <br></br> <span color=#383A3D font-size=16px>??</span > <span color=#383A3D font-size=32px style=Bold>%1$s</span >"	
+string	charge_pre_time_full	399	missing	" <span color=#99B4B9BE font-size=22px>Запланированная зарядка</span > <br></br> <span color=#B4B9BE font-size=18px>Ежедневно</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>с приоритетом на полную зарядку</span >"	
+string	charge_pre_time_full_day	388	missing	" <span color=#99383A3D font-size=22px>Запланирована зарядка</span > <br></br> <span color=#383A3D font-size=18px>Каждый день</span > <span color=#383A3D font-size=32px style=Bold>%1$s</span > <span color=#383A3D font-size=28px style=Bold>с приоритетом до полного</span >"	
+string	charge_pre_time_limit	384	missing	" <span color=#99B4B9BE font-size=22px>Запланированная зарядка</span > <br></br> <span color=#B4B9BE font-size=18px>Каждый день</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>до заданного лимита</span >"	
+string	charge_pre_time_limit_day	390	missing	" <span color=#99383A3D font-size=22px>Запланированная зарядка</span > <br></br> <span color=#383A3D font-size=18px>Каждый день</span > <span color=#383A3D font-size=32px style=Bold>%1$s</span > <span color=#383A3D font-size=28px style=Bold>до предельного значения</span >"	
+string	charge_pre_time_next	428	missing	" <span color=#99B4B9BE font-size=22px>Резервирование для зарядки</span > <br></br> <span color=#B4B9BE font-size=16px>??</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=16px>Каждый день</span > <span color=#B4B9BE font-size=32px style=Bold>%2$s</span >"	
+string	charge_pre_time_next_day	442	missing	" <span color=#99383A3D font-size=22px>Резервирование для зарядки</span > <br></br> <span color=#383A3D font-size=16px>Каждый день</span > <span color=#383A3D font-size=32px style=Bold>%1$s</span > <span color=#383A3D font-size=16px>Каждый день</span > <span color=#383A3D font-size=32px style=Bold>%2$s</span >"	
+string	charge_pre_time_title	24	missing	Расписание зарядки	
+string	charge_start	19	missing	Начать зарядку	
+string	charge_status_battery_fault	58	missing	Выход из строя аккумуляторной батареи	
+string	charge_status_booking	32	missing	Бронирование в процессе…	
+string	charge_status_charging	12	missing	Зарядка…	
+string	charge_status_charging_done	25	missing	Зарядка остановлена	
+string	charge_status_charging_fault	17	missing	Сбой зарядки	
+string	charge_status_discharging	55	missing	Выполняется внешнее электропитание…	
+string	charge_status_discharging_done	41	missing	Блок питания заканчивается	
+string	charge_status_discharging_fault	29	missing	Сбой источника питания	
+string	charge_status_preheating	61	missing	Регулировка температуры аккумулятора...	
+string	charge_status_super_fast_charging	19	missing	Быстрый заряд…	
+string	charge_stop	7	missing	Стоп	
+string	charge_temperature_tips	77	missing	Температура регулируется, пожалуйста, подождите...	
+string	charging_cap	43	missing	Задняя крышка порта зарядки	
+string	child_lock_left	15	missing	Левый замок	
+string	child_lock_right	17	missing	Правый замок	
+string	climate_light	17	missing	Боковые фары	
+string	close_card	18	missing	Закрыть карту	
+string	close_window	33	missing	Закрыть окно одним кликом	
+string	confirm	10	missing	Конечно	
+string	confirm_remove	54	missing	Вы уверены, что хотите удалить %s?	
+string	confirm_uninstall	54	missing	Вы уверены, что хотите удалить %s?	
+string	copilot_massage	22	missing	Массаж пассажира	
+string	copilot_rest	20	missing	Отдых пассажира	
+string	customize_scenario_add_tips	110	missing	Можно добавить максимум 4 сцены. Сначала удалите их, а затем добавляйте.	
+string	customize_scenario_to_add	27	missing	Перейти к добавлению	
+string	customize_scenario_to_create	10	missing	создать	
+string	customize_scenario_to_login	114	missing	Пожалуйста, <font color=#F88650>сначала войдите в свою учетную запись</font>	
+string	day_friday	10	missing	Пятница	
+string	day_monday	15	missing	Понедельник	
+string	day_saturday	10	missing	Суббота	
+string	day_sunday	15	missing	Воскресенье	
+string	day_thursday	10	missing	Четверг	
+string	day_tuesday	10	missing	Вторник	
+string	day_wednesday	8	missing	Среда	
+string	done	9	missing	Готово	
+string	download_paused	8	missing	Пауза	
+string	download_pending	29	missing	Подготовка к загрузке…	
+string	download_progress	13	missing	Загрузка…	
+string	drag_tip	178	missing	Перетаскивайте функции на карточку слева. Существующие функции можно заменять и сортировать во время перетаскивания.	
+string	driver_massage	20	missing	Массаж водителя	
+string	driver_rest	19	missing	Отдых водителя	
+string	edit_at_most	110	missing	Можно добавить не более 4 функций. Сначала удалите их, а затем добавьте.	
+string	fold_rear_mirror	20	missing	Сложить зеркала	
+string	front_charging_cap	46	missing	Передняя крышка порта зарядки	
+string	glove_box	12	missing	Бардачок	
+string	hud	17	missing	Настройка HUD	
+string	indicator_color_error	112	missing	Цвет индикатора может быть установлен только на “@color/colorID or #000000”	
+string	install_progress	20	missing	Идет установка…	
+string	launch_control	30	missing	начало launch ускорения	
+string	left_opposite_door	25	missing	Левая боковая дверь	
+string	left_switch_disabled	44	missing	Левый переключатель отключен	
+string	left_window_lock	29	missing	Блокировка левого окна	
+string	low_speed_alert	17	missing	Внешний звук	
+string	media_switch_when_hfpcall	102	missing	Пожалуйста, попробуйте снова позже, во время звонка через Bluetooth	
+string	media_video_none_title	10	en_too_long	Смотрим	"Let's watch the drama together"
+string	music_no_lyric_keyword3	61	missing	Временно не поддерживаются тексты песен	
+string	next	8	missing	Далее	
+string	no_data_to_add	58	missing	Сцена для добавления пока отсутствует	
+string	no_recent_apps	41	missing	Нет недавно использованных	
+string	one_click_breath	20	missing	Приоткрыть окна	
+string	one_click_close_door	18	missing	Закрыть дверь	
+string	one_click_drift	22	missing	Режим одной руки	
+string	open_car3d	41	missing	Открытая модель автомобиля	
+string	open_card	19	missing	открытая карта	
+string	open_window	17	missing	Открыть окна	
+string	parking_comfort	25	missing	Комфортная парковка	
+string	phone_charge	27	missing	Беспроводная зарядка	
+string	position_light	22	missing	Позиционный свет	
+string	prompt_drift_disable_tips	96	missing	При активации рывка вперёд, функция дрифта временно недоступна	
+string	prompt_drift_error_tips	576	missing	"Пожалуйста, убедитесь, что выполнены следующие условия, и попробуйте снова \n 1. SOC >20% \n 2. Включена передача D \n 3. Водитель и все пассажиры пристегнуты ремнями безопасности \n 4. Система управления движением, система ESC, система рулевого управления, система контроля давления в шинах и система терморегулирования работают нормально \n 5. Спортивный режим успешно активирован \n"	
+string	prompt_drift_error_title	64	missing	Не удается включить одну из клавиш дрифта	
+string	prompt_drift_i_know	8	missing	Понял	
+string	prompt_drift_tips	2864	missing	"Инструкции:\n1. Эта функция должна использоваться только на гоночной трассе или профессиональном объекте, соответствующем национальным стандартам безопасности, и не должна использоваться на общественных дорогах и в местах, не соответствующих стандартам безопасности. n 2. При использовании функции дрифта одним нажатием рекомендуется использовать оригинальные аксессуары для дрифта, чтобы обеспечить безопасность. Ущерб, вызванный неправильным использованием и чрезмерной эксплуатацией функции дрифта одним нажатием, не покрывается гарантией. n 3. Для использования функции дрифта одним нажатием требуются профессиональные навыки вождения, поэтому ее могут использовать только водители с опытом вождения не менее трех лет. Водитель несет ответственность за убытки, вызванные неправильной эксплуатацией и несанкционированной модификацией транспортного средства. n \nИнструкции:\n1. Эта функция может быть активирована только когда транспортное средство находится в спортивном режиме и движется со скоростью <7 км/ч, а ремни безопасности водителя и пассажиров застегнуты. Ремни безопасности должны быть застегнуты во время вождения всегда. Если в процессе езды ремень безопасности будет отстегнут, режим дрифта будет автоматически выключен. n 2. Эта функция может быть активирована только при уровне заряда батареи >20% SOC. В противном случае, она будет автоматически выключена; \n3. Эта функция может быть активирована только когда система транспортного средства работает нормально. В противном случае, она будет автоматически выключена; \nПри активации функции дрифта одним нажатием:\n1. Функции E-pedal и Autohold отключены по умолчанию;\n2. Автоматически переключается в спортивный режим;\n3. Функция ESC отключена;\n4. Уровень восстановления энергии низкий;\n5. Функция контроля старта (если активирована) автоматически отключается. n \nЯ прочитал, понял и согласен с вышеизложенной информацией"	
+string	prompt_drift_title	76	missing	Инструкции пользователя для однокнопочного дрифта	
+string	prompt_launch_control_accept	12	missing	Согласен	
+string	prompt_launch_control_content	2049	missing	"Предупреждение: водитель несет ответственность за контролкм над транспортным средством на протяжении всего процесса и обеспечение условий вождения и использования транспортного средства. Обязательно работайте в подтвержденных безопасных условиях. Непрерывное использование в течение длительного времени может привести к снижению эффективности тормозной системы всего автомобиля. Мы надеемся, что вы сможете использовать эту функцию с осторожностью.\n \nТребования: \n1. Автомобиль находиться в состоянии парковки. Убедитесь, что дверь закрыта, а ремни безопасности водителя и пассажира пристегнуты нормально.\n2. Убедитесь, что температура энергосистемы автомобиля нормальная и мощность достаточна.\n3. Выключите интеллектуальные функции вождения, выпрямите рулевое колесо, отпустите электронный ручной тормоз и переключите автомобиль на передачу D.\n \nИнструкции по использованию: \n1. Включите кнопку «Старт Launch».\n2. Сначала полностью нажмите на тормоз, затем полностью нажмите на педаль акселератора. После того, как прибор отобразит активный режим запуска, полностью отпустите педаль тормоза в течение 4 секунд, и автомобиль начнет движение с большим ускорением. (Если не удалось запустить режим запуска, проверьте подсказки на большом экране и проверьте состояние автомобиля)\n \nПолностью ли вы понимаете и согласны с приведенной выше информацией? "	
+string	prompt_launch_control_disable_tips	93	missing	Функция дрифта включена, старт с разгона временно недоступен	
+string	prompt_launch_control_race_content	2738	missing	"Внимание: В процессе использования функции старта с места водитель несет ответственность за поддержание контроля над автомобилем, а также должен обеспечить безопасность движения и условий использования автомобиля. Пожалуйста, убедитесь, что действуете в безопасных условиях. Повторное длительное использование может привести к снижению производительности системы привода и торможения автомобиля, поэтому мы рекомендуем осторожно использовать эту функцию.\n\nТребования к использованию:\n1. Функция старта с места должна активироваться при полной остановке автомобиля, при закрытых дверях и правильно пристегнутых ремнях безопасности для водителя и пассажиров.\n2. Убедитесь, что температура системы привода находится в норме и заряд аккумулятора достаточен.\n3. Отключите функции автоматического вождения, выровняйте рулевое колесо, отпустите электронный ручной тормоз, переведите автомобиль в режим D.\n\nИнструкции по использованию:\n1. Включите кнопку «Старт с места».\n2. Сначала полностью нажмите на педаль тормоза, затем на педаль газа. Когда на приборной панели появится уведомление «Старт с места активирован», в течение 4 секунд полностью отпустите педаль тормоза. Автомобиль стартует с места с максимальным ускорением. (Если появляется сообщение «Активация старта с места не удалась», проверьте уведомления на большом экране и состояние автомобиля).\n3. Для обеспечения наилучшего опыта, после активации функции режим вождения будет автоматически переключен в «Спортивный режим». После отключения функции режим останется спортивным.\n4. Автоматическое отключение функции «Дрифт одной кнопкой» (если она была активирована).\n5. Если автомобиль находится в режиме трека, вышеупомянутый пункт 3 не будет автоматически переключать режим вождения.\n\nВы полностью поняли и согласны с вышеизложенной информацией?"	
+string	prompt_launch_control_title	61	missing	Уведомление о начале Быстрого усторения	
+string	prompt_saving_mode_tips	149	missing	Функция недоступна в режиме сверхэкономии энергии, пожалуйста, отключите режим и попробуйте снова	
+string	racing_mode	15	missing	Спорт режим	
+string	rear_charging_cap	43	missing	Задняя крышка порта зарядки	
+string	rear_fog_lamps	28	missing	Задние противотуманки	
+string	recent_apps	29	missing	Недавно использованный	
+string	remove	10	missing	Удалить	
+string	remove_mini_app	29	missing	Удалить мини-программу	
+string	reset_internet	23	missing	Перезагрузка сети	
+string	right_opposite_door	27	missing	Правая боковая дверь	
+string	right_switch_disabled	46	missing	Правый переключатель отключен	
+string	right_window_lock	30	missing	Блокировка правого окна	
+string	scarp_cruised	17	missing	Крутой спуск	
+string	scenario_customize_auto_title	27	missing	Автоматическая сцена	
+string	scenario_customize_card_title	27	missing	Мастерская сценариев	
+string	scenario_customize_edit_cancel	9	missing	Отмена	
+string	scenario_customize_edit_finish	13	missing	Завершить	
+string	scenario_customize_edit_group_custom_label	13	missing	Настройка	
+string	scenario_customize_edit_tips	219	missing	Нажмите и удерживайте, чтобы переместить приложение в картоку слева. При перемещении вы можете заменить и отсортировать существующие приложения	
+string	scenario_customize_manual_title	20	missing	Ручной сценарий	
+string	stream_media	28	missing	Видео с задней камеры	
+string	switch_car3d	58	missing	Переключиться на 3D-модель автомобиля	
+string	through_lamp	25	missing	Через задний фонарь	
+string	trunk	12	missing	Багажник	
+string	uninstall	10	missing	Удалить	
+string	uninstall_application	24	missing	Удалить приложение	
+string	uninstall_failure	25	missing	Удаление не удалось	
+string	weather_altitude	20	missing	Высота над у/м:	
+string	weather_aqs	10	missing	Воздух:	
+string	weather_failed	33	missing	Данных о погоде пока нет.	
+string	weather_loading	13	missing	загрузка…	
+string	weather_net_unavailable	61	missing	Сеть не видит, повторите попытку позже.	
+string	weather_refresh	12	missing	Обновить	
+string	weather_uvi	5	missing	УФ:	
+string	xpopup_image_not_exist	33	missing	Изображение не существует	
+string	xpopup_save	13	missing	Сохранить	
+string	xpopup_saved_fail	52	missing	Не удалось сохранить изображение.	
+string	xpopup_saved_to_gallery	24	missing	Сохранено в альбом	
+string	zeekr_back	8	missing	Назад	
+string	zeekr_cancel	9	missing	отмена	
+string	zeekr_loading	14	missing	Загрузка..	
+string	zeekr_show_psw	20	missing	Показать пароль	

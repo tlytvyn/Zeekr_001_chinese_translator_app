@@ -1,0 +1,807 @@
+string	common_notification_hide_info	Дозволити авто xxxxxxxx xxx xxx xxxx
+string	common_notification_speech	Озвучування
+string	common_notification_speech_info	Дозволити авто xxxxxxxx xxx xxx xxxx
+string	common_nzp_drive	NZP навігація
+string	common_nzp_drive_info	На визначених ділянках доріг вмикає інтелектуальний асистент водіння за маршрутом навігації, заданим користувачем
+string	common_off	Розбл.
+string	common_on	Блок.
+string	common_open	Увімк.
+string	common_open_door_suppressor	Тихше при відкр. дверях
+string	common_open_door_suppressor_tip	Якщо увімкнено, гучність медіа знижується при відкритті будь-яких дверей і відновлюється, коли всі двері зачинено
+string	common_open_mirror	Розкласти дзерк.
+string	common_open_on_phone	Відкрити на тел.
+string	common_other_road_info	Інша дорожня інформація, напр. про шкільну зону, ремонт дороги тощо.
+string	common_other_road_option	Інші дорожні знаки
+string	common_out_option_door	Електрокерування дверима ззовні
+string	common_overtake	Автообгін
+string	common_p_gear_unlock	Розбл. в P
+string	common_park_save_bt	Зберег. й увімк.
+string	common_parking	Паркування
+string	common_parking_3D_info	Показувати оточення як анімацію запуску під час відкриття камер огляду 360°
+string	common_parking_3D_option	3D-ефект оточення
+string	common_parking_EPB	Стоянк. гальмо
+string	common_parking_EPB_apply	Увімк. EPB
+string	common_parking_EPB_release	Вимк. EPB
+string	common_parking_EPB_tip	Щоб вимкнути стоянкове гальмо, натисніть педаль гальма
+string	common_parking_Low_speed_brake_option	Екстр. гальмування при паркуванні
+string	common_parking_PDC_info	Показувати попередження на екрані, щоб уникнути зіткнень під час паркування.
+string	common_parking_PDC_option	Парктронік
+string	common_parking_PEB_info	Автоматичне гальмування для запобігання зіткненням на низькій швидкості.
+string	common_parking_RCTA_info	Попередження, коли перешкода наближається збоку позаду авто.
+string	common_parking_RCTA_option	Попер. про рух ззаду збоку (RCTA)
+string	common_parking_auto	Автопаркування
+string	common_parking_box	Паркомісце
+string	common_parking_brake_auto	Автоувімкнення стоянкового гальма
+string	common_parking_brake_auto_info	Вмикати стоянкове гальмо, якщо двері відчинено під час зупинки.
+string	common_parking_camera	Камера паркування
+string	common_parking_comfort	Комфорт стоянки
+string	common_parking_comfort_content	Комфорт стоянки ще увімкнено. Вимкнути?
+string	common_parking_comfort_info	Клімат і мультимедіа залишаються увімкненими задану кількість годин.
+string	common_parking_comfort_mode_info	Режим комфорту стоянки витрачає енергію ВВ-батареї. Функція вимкнеться автоматично, коли заряд ВВ-батареї опуститься нижче 20%.
+string	common_parking_comfort_mode_title	Комфорт стоянки
+string	common_parking_obstacle_info	Виявлення перешкод і пішоходів у полі зору камери
+string	common_parking_obstacle_option	Виявлення перешкод
+string	common_parking_power	Підсилювач керма
+string	common_parking_rotated_wheels_info	Попередження про повернуті колеса перед виїздом з місця стоянки.
+string	common_parking_rotated_wheels_option	Повернуті колеса
+string	common_parking_steer_info	Вигляд камери автоматично змінюється відповідно до повороту керма
+string	common_parking_steer_option	Прив’язка до керма
+string	common_parking_top_info	Камера наближає зображення, коли виявлено перешкоду
+string	common_parking_top_option	Наближення зверху
+string	common_parking_tour_info	Під час запуску застосунку паркування показується 3D-облет навколо авто для кращого огляду
+string	common_parking_tour_option	Облет навколо авто
+string	common_parking_track_info	Показувати траєкторію руху за поточним кутом керма
+string	common_parking_track_option	Лінії траєкторії
+string	common_parking_trans_info	Зробити модель авто прозорою у вигляді камер 360°
+string	common_parking_trans_option	Прозоре авто
+string	common_parking_wheel_position	Положення коліс
+string	common_passenger_massage	Масаж пас.
+string	common_passenger_middle	Центр
+string	common_passenger_position	Положення пас.
+string	common_passenger_rest	Відпочинок пас.
+string	common_passenger_seat	Пас.
+string	common_pay_toast	Ця функція скоро з’явиться. Слідкуйте за оновленнями.
+string	common_pedal_content	"Неможливо увімкнути у вибраному режимі водіння."
+string	common_pedal_function	Увімкнути функцію E-Pedal
+string	common_pedestrian_advance_warning_tone	Звук попер. пішоходів
+string	common_pop_matching_bluetooth_text	Створити пару з «%1$s»?
+string	common_position_adjustments	Динаміка авто
+string	common_position_customized	Власний
+string	common_position_drive	Режим водіння
+string	common_position_fold	Скласти дзерк.
+string	common_position_main_info	Підняти склоочисники у вертикальне положення
+string	common_position_mirror	Дзеркала
+string	common_position_mirror_fold	Складати дзеркала при блокуванні
+string	common_position_mirror_tilt	Нахиляти дзеркала при русі заднім ходом
+string	common_position_save	Зберегти
+string	common_position_sleep	Режим сну
+string	common_position_unfold	Розкласти дзерк.
+string	common_pressure	Шини
+string	common_propulsion	Привід
+string	common_qucik_open_park_toast	Увімкніть комфорт стоянки
+string	common_quick_apa	Автопаркування
+string	common_quick_auto	AUTO
+string	common_quick_avp	AVP
+string	common_quick_bluetooth	Bluetooth
+string	common_quick_car_controls	Керування
+string	common_quick_drive_mode	Режим руху
+string	common_quick_edit	Змінити
+string	common_quick_esc	ESC OFF
+string	common_quick_fog	Задн. туман.
+string	common_quick_hdc	HDC
+string	common_quick_hud	HUD
+string	common_quick_mirror_left	Дзеркала
+string	common_quick_pac	Камери
+string	common_quick_park_duration	Тривалість
+string	common_quick_park_duration_bx	Тривалість
+string	common_quick_parking_apps	Огляд
+string	common_quick_parking_auto	Автопаркування
+string	common_quick_ride_height	Кліренс
+string	common_quick_screen_brightness	Яскравість
+string	common_quick_select_park_duration	Тривалість роботи клімату й мультимедіа після стоянки
+string	common_quick_select_park_duration_bx	Тривалість роботи клімату й мультимедіа
+string	common_quick_setting_driving_mode_location_drive	Місце водія
+string	common_quick_setting_driving_mode_location_drive_bx	Місце водія
+string	common_quick_shortcut	Ярлики
+string	common_quick_stream	Стрімінг
+string	common_quick_weather	Всепогод.
+string	common_quick_wifi	Wi-Fi
+string	common_ready_brake	Гальмо
+string	common_rear_charge_lid	Задній порт
+string	common_rear_seat	Задні
+string	common_rear_warn_option	Попер. удару ззаду
+string	common_recording_resolution	Роздільність запису
+string	common_recreate_loading	Завантаження...
+string	common_recreate_loading_dark	Вмикається темна тема
+string	common_recreate_loading_language	Змінюється мова
+string	common_recreate_loading_light	Вмикається світла тема
+string	common_regen_level	Рівень рекуперації
+string	common_release_parking_brake	Вимк. EPB
+string	common_remote_park	Дист. паркув.
+string	common_remote_parking	Дист. паркув.
+string	common_remove_bonded	Видалити
+string	common_request_pair_bluetooth	Підкл. Bluetooth
+string	common_reset	Скинути
+string	common_reset_tcam_fail	Не вдалося, спробуйте пізніше
+string	common_reset_tcam_over_time	Час вичерпано, спробуйте пізніше
+string	common_reset_tcam_success	Мобільну мережу відновлено
+string	common_rest_location_toast	Положення відпочинку оновлено
+string	common_rest_mode	Відпочинок
+string	common_rest_mode_cancelled	Режим відпочинку скасовано
+string	common_rest_mode_cancelled_toast	Відпочинок скасовано
+string	common_rest_mode_info	Автоналаштування сидіння, клімату тощо
+string	common_rest_mode_popup	Використання режиму відпочинку під час руху небезпечне. Продовжити?
+string	common_rest_mode_saved	Налаштування режиму відпочинку оновлено й збережено
+string	common_rest_mode_started	Відпочинок
+string	common_rest_mode_started_conent	"Усі вікна буде зачинено. Не спіть в авто тривалий час"
+string	common_rest_mode_toast	"Усі вікна буде зачинено, не спіть в авто"
+string	common_rest_mode_warning	Попередження: відпочинок
+string	common_rest_mode_warning_content	Використання режиму відпочинку під час руху небезпечне. Продовжити?
+string	common_reverse_mirror	Нахил дзеркал при задн. ході
+string	common_reverse_suppressor	Тихше при задн. ході
+string	common_reverse_suppressor_tip	Знижує гучність медіа в R
+string	common_right_child_lock	Прав. дит. замок
+string	common_right_child_lock2	Правий дит. замок
+string	common_right_child_lock3	Правий дит. замок
+string	common_right_mirror	Праве дзерк.
+string	common_road_signs	Дорожні знаки
+string	common_roof_glass_transparency	Прозорість даху
+string	common_safety_car_location	Розташ. авто
+string	common_safety_location	Геолокація
+string	common_save	Зберег.
+string	common_save_active	Зберегти й увімкнути
+string	common_save_activete	Зберег. й увімк.
+string	common_search_result	Результати
+string	common_search_settings	Пошук налашт...
+string	common_seat_driver	Положення сидіння водія
+string	common_seat_info	"Налаштуйте сидіння кнопками на\nсидінні або стрілками на екрані"
+string	common_seat_passenger	Положення сидіння пасажира
+string	common_seat_rear_left	Положення лівого заднього сидіння
+string	common_seat_rear_left_info	"Налаштуйте спинку стрілками\nна екрані"
+string	common_seat_rear_right	Положення правого заднього сидіння
+string	common_send_new_code	Надіслати код знову
+string	common_server_connect_fail	Помилка з’єднання з сервером.
+string	common_service	Умови
+string	common_service_book_distance	"Час записатися на ТО. Рекомендується проїхати не більше %1$s км до технічного обслуговування."
+string	common_service_book_now	Термін технічного обслуговування минув! Запишіться на ТО якнайшвидше.
+string	common_service_book_time	"Настав час ТО. Рекомендується проїхати не більше %1$s км до технічного обслуговування."
+string	common_service_remainder	Нагадування ТО
+string	common_services	Сервіс
+string	common_services_tow_info	Щоб увімкнути режим буксирування, утримуйте кнопку аварійної сигналізації (>7 с) і перемкніть передачу в N.
+string	common_services_tow_title	Буксирування
+string	common_services_tow_warning	Увага, електронне стоянкове гальмо буде вимкнено!
+string	common_services_update	Оновл.
+string	common_services_update_info	Доступне нове оновлення!
+string	common_services_update_release	Примітки до випуску
+string	common_services_update_release_ppw_available	Доступне оновлення
+string	common_services_update_release_ppw_lastest	Останнє оновлення
+string	common_services_update_release_title	Попередні оновлення
+string	common_services_update_release_title_des	"Попередні оновлення див. у примітках до випуску вашого авто"
+string	common_services_update_version	ZEEKR OS %1$s
+string	common_services_update_version_null	Lynk&Co
+string	common_services_windscreen_wiper_maintain	Склоочисники
+string	common_services_windscreen_wiper_maintain_info	Сервісне положення
+string	common_set_charge_limit	Ліміт
+string	common_settime_start	Початок
+string	common_settime_stop	Кінець
+string	common_shortcut_bluetooth	Bluetooth
+string	common_shortcut_wifi	WLAN
+string	common_signin_button_text	Увійти
+string	common_signin_button_text_long	Увійти через Google
+string	common_siren_and_flashing	Сигнал і фари
+string	common_slider_h_bt_headset_volume_bx	Навушники BT
+string	common_slider_h_media_volume	Гучність медіа
+string	common_slider_h_media_volume_bx	Медіа
+string	common_slider_h_navi_beeb_volume	Гучність навіг.
+string	common_slider_h_navi_beeb_volume_bx	Навігація
+string	common_slider_h_navi_volume	Підказки TTS
+string	common_slider_h_phonecall_volume	Дзвінки
+string	common_slider_h_phonecall_volume_bx	Дзвінки
+string	common_slider_h_ringtone_volume	Рингтон
+string	common_slider_h_vr_tts_volume	Голос. асист.
+string	common_sms_tip	Стрімінг недоступний на швидкості понад 15 km/h
+string	common_sound	Звук
+string	common_sound_balance	Баланс
+string	common_sound_source	Джерело
+string	common_source_switching	Змінити джерело
+string	common_special_traction	Особл. ґрунт (пісок тощо)
+string	common_speed_limit_info	Використовувати поточне розпізнане обмеження швидкості як максимальну задану швидкість адаптивного круїз-контролю
+string	common_speed_limit_offset_option	Допуск ліміту
+string	common_speed_limit_sign_info	Показувати інформацію про обмеження швидкості.
+string	common_speed_limit_sign_option	Дорожні знаки
+string	common_speed_limit_warn_option	Перевищення
+string	common_speed_warning_mode_info	Швидкість попер.
+string	common_speed_warning_mode_option	Попер. швидк.
+string	common_sport	Спорт
+string	common_standard	Станд.
+string	common_start_the_sound_outside_the_vehicle	Зовнішній звук
+string	common_steam_media	Стрімінг
+string	common_steer_feel	Кермо
+string	common_steer_info	Регулюйте положення керма правою сенсорною панеллю на кермі.
+string	common_steer_position	Регулюв. керма
+string	common_stop	Стоп
+string	common_sunscreen_rating	Захист від сонця
+string	common_suspension	Підвіска
+string	common_suspension_height	Кліренс
+string	common_system_update	Оновлення системи
+string	common_system_update2	ZEEKR OS %1$s
+string	common_take_photos_with_tachograph	Фото відеореєстр.
+string	common_tem	Темп.
+string	common_term_service	Ознайомтеся з Умовами надання послуг
+string	common_term_service2	Умови надання послуг
+string	common_textID_ap_password	Пароль точки:
+string	common_textID_ap_password_bx	Пароль точки
+string	common_textID_btn_tow_mode_tutorial	Як буксирувати
+string	common_textID_custom_adjust_position	Положення
+string	common_textID_custom_shortcut_steering_wheel_position	Кермо
+string	common_textID_descent_info	Авто спускається з гори на безпечній швидкості без натискання гальма
+string	common_textID_enter_ssid_wifi	Введіть назву мережі
+string	common_textID_h_user	Угода корист.
+string	common_textID_i_user	ZEEKR Studio містить інноваційні та експериментальні функції, деякі з яких не виключають певних ризиків або недоліків. Перед використанням уважно прочитайте Умови надання функцій ZEEKR Studio.
+string	common_textID_light_brightness	Яскр.
+string	common_textID_list_high_voltage_info	Вимкнення високовольтної батареї: усі функції вимкнуться, а екрани згаснуть
+string	common_textID_list_option_h_copilot	Пілот на трасі
+string	common_textID_list_option_i_auto_door	Двері водія відчиняються автоматично після розблокування ззовні
+string	common_textID_pop_enter_step1	Крок 1: переконайтеся, що ключ в авто, а NFC-ключ лежить на зчитувачі
+string	common_textID_pop_enter_step2	Крок 2: відчиніть і знову зачиніть двері водія
+string	common_textID_pop_enter_step3	Крок 3: утримуйте кнопку аварійної сигналізації понад 7 секунд, доки індикатори панелі не пройдуть самоперевірку
+string	common_textID_pop_enter_step4	Крок 4: перемкніть передачу в N, щоб вимкнути стоянкове гальмо
+string	common_textID_pop_enter_tow_mode	Увімк. буксир.
+string	common_textID_pop_enter_tow_mode_info	Щоб увімкнути режим буксирування, суворо дотримуйтеся порядку дій
+string	common_textID_pop_exit_tow_mode	Вимк. буксир.
+string	common_textID_pop_exit_tow_mode_info	Режим буксирування вимикається за будь-якої з умов
+string	common_textID_pop_exit_tow_mode_tutorial_1	Умова 1: увімкніть P і заблокуйте авто ззовні
+string	common_textID_pop_exit_tow_mode_tutorial_2	Умова 2: увімкніть D або R і почніть нову поїздку
+string	common_textID_pop_exit_tutorial	Режим буксирування вимикається за будь-якої з умов:\n\n 1. Увімкніть P і заблокуйте авто ззовні; 2. Увімкніть D або R і почніть нову поїздку
+string	common_textID_rest_mode_risky_toast	Вимикати клімат у режимі відпочинку небезпечно!
+string	common_textID_scan_connect	Рекомендуємо сканувати QR-код через браузер
+string	common_textID_share_wlan	Поділитися точкою
+string	common_textId_general_ok	Готово
+string	common_theater_mode	Кінотеатр
+string	common_theater_mode_info	Автоналаштування сидіння, клімату, освітлення тощо для перегляду відео
+string	common_theater_mode_saved	Положення сидіння для кінотеатру збережено
+string	common_time	Час
+string	common_time_format	Формат часу
+string	common_to_dvr	Альбом DVR
+string	common_to_gallery	Перейти до галереї
+string	common_tra_light	Увага: світлофор
+string	common_tra_light_info	Показувати розпізнані світлофори на панелі приладів.
+string	common_track_mode_dialog_content	Шановний користувачу, конкретний зміст інструкції для користувачів трекового режиму. Конкретний зміст інструкції для користувачів трекового режиму. Конкретний зміст інструкції для користувачів трекового режиму. Конкретний зміст інструкції для користувачів трекового режиму. Конкретний зміст інструкції для користувачів трекового режиму.
+string	common_track_mode_dialog_title	Примітки до трекового режиму
+string	common_traction	Зчеплення
+string	common_trunk	Багажник
+string	common_trunk_title	Багаж.
+string	common_type_of_car_locator	Пошук авто
+string	common_units	Одиниці
+string	common_user	Увійдіть у Lynk & Co ID
+string	common_user_account	Створити обліковий запис
+string	common_user_manual	Увійти вручну
+string	common_user_other	Інші способи входу
+string	common_user_qr	Скануйте QR-код для входу
+string	common_veh_com	Компенс. швидкості
+string	common_veh_com_info	Наскільки збільшувати гучність залежно від швидкості руху.
+string	common_veh_com_info_bx	Виберіть, наскільки аудіосистема має компенсувати гучність залежно від швидкості руху.
+string	common_vehicle_power_off_dialog_content_describe	Високовольтну батарею буде вимкнено, і енергосистеми авто зупиняться. Щоб знову ввімкнути живлення, натисніть гальмо
+string	common_video_play_pop_content	Не рекомендується вимикати цю функцію: перегляд відео під час руху небезпечний.
+string	common_video_play_pop_title	Ризик відтворення
+string	common_view_more_networks	Інші мережі
+string	common_wheel_position	Положення коліс
+string	common_wheel_steer	Кермо
+string	common_wifi_SSID	Дані WLAN
+string	common_wifi_ap_cannot_open_together	WLAN і точку доступу не можна ввімкнути одночасно
+string	common_wifi_ap_close_fail	Не вимкнено, спробуйте пізніше
+string	common_wifi_ap_open_fail	Не ввімкнено, спробуйте пізніше
+string	common_wifi_connect_error_auth_fail	Хибний пароль
+string	common_wifi_connect_error_code	Помилка з’єднання, код
+string	common_wifi_connect_error_conn_refuse	Не з’єднано
+string	common_wifi_connect_error_ip_fail	Збій отрим. IP
+string	common_wifi_connect_error_pwd_low	Не вдалося підключитися: недостатній рівень безпеки мережі
+string	common_wifi_connect_error_unknow	Невід. помилка
+string	common_wifi_connect_fail	Не з’єднано
+string	common_wifi_connect_success	Підключено
+string	common_wifi_mode	Режим WLAN
+string	common_wifi_mode_detail	Рекомендуємо насамперед 5GHz. Якщо сигнал слабкий, спробуйте перемкнутися на 2.4GHz
+string	common_wifi_name_long	Задовга назва
+string	common_wifi_name_long_tip	Назва мережі має містити не більше 32 символів
+string	common_wifi_settings	Налаштування Wi-Fi
+string	common_window_format_info	Форматувати карту пам’яті?
+string	common_window_glove_box_disable	Зняти блок. бард.
+string	common_window_glove_four_digits	4 цифри
+string	common_window_glove_lock	Блок. бардачок
+string	common_window_glove_lock_info	Введіть PIN для блок. бардачка
+string	common_window_glove_pin_open	Введіть PIN, щоб відкрити бардачок
+string	common_window_list_option_h_retry	Забагато спроб
+string	common_window_list_option_i_glove_wrong_pswd	Хибний пароль, залишилось спроб: %1$d.
+string	common_window_list_option_i_retry	Зачекайте %1$s хв і спробуйте знову або зніміть блокування через підтвердження на зареєстрованому телефоні.
+string	common_window_verify_code_has_send	Код надіслано
+string	common_window_verify_code_incorrect	Хибний код, спробуйте ще раз.
+string	common_window_verify_title	Введіть код із телефону
+string	common_wrong_pin	Хибний PIN, спробуйте ще раз.
+string	common_yes	Так
+string	connect_bluetooth_common_device_set	Налашт. пристроїв
+string	connect_bluetooth_connect_first	Пріоритетний пристрій
+string	connect_bluetooth_not_common_device	Без основних пристроїв
+string	connect_bluetooth_phone_privacy	Приватність
+string	connect_btn_forget_network_edit	Ігнорувати «%1$s»?
+string	connect_btn_ignore_device	Забути
+string	connect_conn_point_name	Назва точки: %1$s
+string	connect_sure	OK
+string	cs_upload_log_content	"Тримайте мультимедійну систему увімкненою та підключеною до мережі. \n 1. Натисніть «Почати запис», щоб почати збір журналів. \n 2. Повторіть дії з відповідними функціями, доки проблема не з’явиться знову. \n 3. Коли проблема повториться, поверніться на цю сторінку й натисніть «Завершити й надіслати», щоб зупинити запис і надіслати дані"
+string	dc_ceyi_str	Бокові
+string	dc_door_close_all_window	Зач. всі вікна
+string	dc_door_open_all_window	Відч. всі вікна
+string	dc_habit_default_tip	Місце водія
+string	dc_seat_easy_driver	Легкий вхід водія
+string	dc_seat_easy_passener	Легкий вхід пас.
+string	dc_seat_habits	Зберегти профіль
+string	dc_seat_habits_tip	Виберіть профіль водія, щоб зберегти ергономічні положення (сидіння, дзеркала тощо)
+string	dc_seat_massage_program_drvr	Програма масажу вод.
+string	dc_seat_massage_program_pass	Програма масажу пас.
+string	dc_seat_massage_strength_drvr	Сила масажу вод.
+string	dc_seat_massage_strength_pass	Сила масажу пас.
+string	dc_seat_rest_driver	Відпочинок водія
+string	dc_seat_rest_passener	Відпочинок пас.
+string	dc_seat_restore	Віднов.
+string	dc_seat_save	Зберег.
+string	dc_seat_stop	Стоп
+string	dc_seat_wing_driver	Адаптивна бокова опора
+string	dc_seat_wing_passenger	Адапт. бок. опора пас.
+string	dc_upload_log_content	"Тримайте мультимедійну систему увімкненою та підключеною до мережі. \n 1. Натисніть «Почати запис», щоб почати збір журналів. \n 2. Повторіть дії з відповідними функціями, доки проблема не з’явиться знову. \n 3. Коли проблема повториться, поверніться на цю сторінку й натисніть «Завершити й надіслати», щоб зупинити запис і надіслати дані"
+string	dc_user_habit_tv	Профіль водія
+string	dc_yaotuo_str	Поперек
+string	dc_zuodian_str	Довж. подушки
+string	display_language	Мова
+string	display_text_brightness_screen	Яскравість
+string	display_text_csd_brightness	Центр. екран
+string	display_text_csd_brightness_auto	AUTO
+string	display_text_custom_theme_time	Свій період
+string	display_text_custom_theme_time_select_hint	Кінець не може збігатися з початком
+string	display_text_dim_brightness	Панель прил.
+string	display_text_dim_brightness_hint	Яскравість панелі приладів змінюється лише за слабкого освітлення
+string	display_text_dim_display	Панель приладів
+string	display_text_dim_display_lyrics_display	Тексти пісень на панелі
+string	display_text_dim_display_lyrics_display_hint	Інформація, не пов’язана з керуванням, на панелі приладів (медіа, тексти пісень тощо) надається лише для зручності. Під час руху будьте уважні та переглядайте її лише тоді, коли це безпечно
+string	display_text_dim_display_lyrics_display_know	Зрозуміло
+string	display_text_dim_display_lyrics_display_know_countdown	Зрозуміло (%d с)
+string	display_text_home_weather_effect	Фон погоди
+string	display_text_home_weather_effect_sub_hint	У режимі «Динамічний» ефект залежить від даних картки погоди й може запізнюватися; лише для довідки
+string	display_text_home_weather_effect_sub_title	Фон погоди
+string	display_text_lock_rear_screen	Блок. задн. екран
+string	display_text_lock_screen	Задній екран
+string	display_text_lyrics_display	Тексти пісень
+string	display_text_lyrics_display_hint	Якщо увімкнено, панель приладів показує тексти пісень для деяких медіа
+string	display_text_night_theme_auto	Автотемна тема
+string	display_text_night_theme_end_time	Кінець темної теми
+string	display_text_night_theme_start_time	Початок темної теми
+string	display_text_theme_auto_method_custom_time	Свій період
+string	display_text_theme_auto_method_sensor	За освітленням
+string	display_text_theme_auto_method_sunrise_sunset	Схід і захід
+string	display_text_theme_night	Темна тема
+string	display_text_theme_selector	Тема
+string	display_text_theme_selector_auto	Авто
+string	display_text_theme_selector_day	Світла
+string	display_text_theme_selector_night	Темна
+string	display_text_time_format_sub_title	Формат часу
+string	display_text_time_format_title	Формат часу
+string	door_drive_open	"Відч. двері водія"
+string	door_front_open	Відч. передні
+string	door_rear_open	Відч. задні
+string	doorwindow_electric_door_max_tips	Відчиняючи й зачиняючи електродвері, стежте за простором навколо авто; за потреби втрутіться вручну
+string	doorwindow_text_left	ліво
+string	doorwindow_text_right	право
+string	drive_mode_bz_one	Станд.
+string	drive_mode_jj_one	Еко
+string	drive_mode_jji_one	Еко
+string	drive_mode_qy_one	Тяга
+string	drive_mode_ss_one	Комфорт
+string	drive_mode_yd_one	Спорт
+string	drive_mode_yy_one	Позаш.
+string	drivin_suspension_for_easy_access	Підвіска: легкий вхід
+string	drivin_suspension_for_easy_access_confirm	Перед паркуванням стежте за низькими перешкодами навколо авто,\nщоб не зачепити їх під час опускання кузова
+string	drivin_suspension_for_easy_access_tip	Коли функцію ввімкнено, після паркування й відстібання ременя водія підвіска автоматично опускається, щоб вам і пасажирам було легше сідати й виходити
+string	drivin_suspension_for_easy_access_tip_content	Перед паркуванням стежте за низькими перешкодами навколо авто,\nщоб не зачепити їх під час опускання кузова. Для функції потрібне\nоновлення пневмопідвіски в сервісному центрі
+string	drivin_suspension_for_easy_access_tip_diver	Якщо ввімкнено, підвіска опускається після паркування й\nвідстібання ременя водія для зручного входу й виходу
+string	driving_auto_hold	Auto Hold
+string	driving_auto_hold_info	Автоматично утримує авто на місці
+string	driving_e_pedal	One-pedal
+string	driving_e_pedal_info	Швидкістю керує педаль акселератора
+string	driving_esc_off	ESC OFF
+string	driving_fold_rear_mirror_close	Скласти дзерк.
+string	driving_fold_rear_mirror_open	Розкласти дзерк.
+string	driving_module_driving_seatbelt	Ремінь
+string	driving_module_driving_seatbelt_comfort	Комфорт ременя
+string	driving_module_driving_seatbelt_comfort_tip	Ремінь натягується в зручне положення
+string	driving_module_driving_title	Водіння
+string	driving_one_pedal_title	Значок One-pedal на панелі приладів:
+string	driving_p_back_launcher	Прив’язка КПП
+string	driving_p_back_launcher_tip	P — повернення на головний екран, D — відкриття навігації
+string	driving_p_back_launcher_tip_text	Увімкнення цієї функції вимикає «Швидке керування дверима» в налаштуваннях дверей
+string	driving_parking_EPB	Стоянк. гальмо
+string	driving_parking_EPB_appl	Увімк. EPB
+string	driving_parking_EPB_releas	Вимк. EPB
+string	driving_parking_EPB_tip_dc	Натисніть гальмо, щоб вимкнути стоянкове
+string	driving_quick_hdc	Спуск з гори
+string	driving_quick_leak	Витік
+string	driving_regen_level	Рівень рекуперації
+string	driving_sensor_low	Батарея датчика
+string	driving_special_road_conditions	Особл. дороги
+string	driving_speed_mode_title	Асистенти
+string	driving_speed_warning_mode_info	Швидкість попер.
+string	driving_speed_warning_mode_option	Ліміт швидк.
+string	driving_steer_position	Полож. керма
+string	driving_suspension_content_tip1	Підвіска опускається\nСтежте за перешкодами, щоб не зачепити днище
+string	driving_suspension_content_tip2	Опускання підвіски зупинено\nПовернення до попередньої висоти
+string	driving_switch_parking_know	Зрозуміло
+string	driving_switch_parking_text	Щоб увімкнути, пристебніть ремінь водія, зачиніть двері й сильно натисніть гальмо. Auto Hold не можна вимкнути, коли активний One-Pedal
+string	driving_switch_parking_title	Auto Hold
+string	driving_system_fail	Збій системи
+string	driving_textID_descent_info	Авто спускається з гори на безпечній швидкості без гальмування
+string	driving_text_kindly_reminder	Нагадування
+string	driving_tip	Рекомендований тиск холодних шин: 260-290 kPa
+string	driving_tire_pressure_pressure_unit_bar	bar
+string	driving_tire_pressure_pressure_unit_kpa	kPa
+string	driving_tire_pressure_pressure_unit_psi	psi
+string	driving_turn_back_to_positive_alarm	Кермо не по центру
+string	driving_turn_back_to_positive_alarm_info	Попередження, якщо кермо не прямо під час рушання
+string	driving_tyre_pressure_title	Тиск у шинах
+string	driving_widget_all_error_tip	Зверніться до сервісу або викличте допомогу
+string	driving_widget_tire_pressure_result_fast_pressure_loss_front_left	Ліва передня спускає
+string	driving_widget_tire_pressure_result_fast_pressure_loss_front_right	Права передня спускає
+string	driving_widget_tire_pressure_result_fast_pressure_loss_multiple	Кілька шин спускають
+string	driving_widget_tire_pressure_result_fast_pressure_loss_rear_left	Ліва задня спускає
+string	driving_widget_tire_pressure_result_fast_pressure_loss_rear_right	Права задня спускає
+string	driving_widget_tire_pressure_result_high_pressure_front_left	Лів. пер.: високий тиск
+string	driving_widget_tire_pressure_result_high_pressure_front_right	Пр. пер.: високий тиск
+string	driving_widget_tire_pressure_result_high_pressure_multiple	Кілька шин: вис. тиск
+string	driving_widget_tire_pressure_result_high_pressure_rear_left	Лів. задн.: вис. тиск
+string	driving_widget_tire_pressure_result_high_pressure_rear_right	Пр. задн.: вис. тиск
+string	driving_widget_tire_pressure_result_high_temperature_front_left	Лів. пер.: вис. темп.
+string	driving_widget_tire_pressure_result_high_temperature_front_right	Пр. пер.: вис. темп.
+string	driving_widget_tire_pressure_result_high_temperature_multiple	Кілька шин: вис. темп.
+string	driving_widget_tire_pressure_result_high_temperature_rear_left	Лів. задн.: вис. темп.
+string	driving_widget_tire_pressure_result_high_temperature_rear_right	Пр. задн.: вис. темп.
+string	driving_widget_tire_pressure_result_low_pressure_front_left	Лів. пер.: низ. тиск
+string	driving_widget_tire_pressure_result_low_pressure_front_right	Пр. пер.: низ. тиск
+string	driving_widget_tire_pressure_result_low_pressure_multiple	Кілька шин: низ. тиск
+string	driving_widget_tire_pressure_result_low_pressure_rear_left	Лів. задн.: низ. тиск
+string	driving_widget_tire_pressure_result_low_pressure_rear_right	Пр. задн.: низ. тиск
+string	driving_widget_tire_pressure_result_monitor_system_fault_front_left	Лів. пер.: збій контролю тиску
+string	driving_widget_tire_pressure_result_monitor_system_fault_front_right	Пр. пер.: збій контролю тиску
+string	driving_widget_tire_pressure_result_monitor_system_fault_multiple	Кілька шин: збій контролю тиску
+string	driving_widget_tire_pressure_result_monitor_system_fault_rear_left	Лів. задн.: збій контролю тиску
+string	driving_widget_tire_pressure_result_monitor_system_fault_rear_right	Пр. задн.: збій контролю тиску
+string	driving_widget_tire_pressure_result_ok	Тиск у нормі
+string	driving_widget_tire_pressure_result_ok_tip	Правильний тиск у шинах зменшує витрату енергії та знос шин\nі покращує керованість
+string	driving_widget_tire_pressure_result_sensor_battery_low_front_left	Лів. пер.: розряд датчика
+string	driving_widget_tire_pressure_result_sensor_battery_low_front_right	Пр. пер.: розряд датчика
+string	driving_widget_tire_pressure_result_sensor_battery_low_multiple	Розряд кількох датчиків
+string	driving_widget_tire_pressure_result_sensor_battery_low_rear_left	Лів. задн.: розряд датчика
+string	driving_widget_tire_pressure_result_sensor_battery_low_rear_right	Пр. задн.: розряд датчика
+string	easy_enter_tips	Посадка: натисніть гальмо — сидіння переміститься в положення для водіння\nВисадка: у P відстебніть ремінь або відчиніть двері водія — сидіння відсунеться назад
+string	energy_air_conditioning	Комфорт салону
+string	energy_air_conditioning_intro	Автонастройка температури салону за 15 хв до поїздки
+string	energy_appoint_one_day	Виберіть хоча б один день
+string	energy_appoint_time_diff	Початок не може збігатися з кінцем
+string	energy_battery_heat	Підігрів від мережі
+string	energy_battery_heat_intro	Використовує енергію мережі, щоб підтримувати батарею теплою 24 години після заряджання для кращих їздових характеристик
+string	energy_battery_life	Запас ходу
+string	energy_battery_preheat	Термостат батареї
+string	energy_battery_preheat_intro	Перед поїздкою використовує енергію мережі для підготовки батареї та кращого запасу ходу; можливі додаткові витрати. Рекомендовано нижче 0°C або вище 40°C
+string	energy_btn_power_external	Живлення пристроїв
+string	energy_btn_power_other	Живлення авто
+string	energy_btn_start_charging	Почати заряд
+string	energy_btn_stop_charging	Зупин. заряд
+string	energy_cable_status_connect_ac	Кабель підкл. (AC)
+string	energy_cable_status_connect_dc	Кабель підкл. (DC)
+string	energy_cable_status_connect_fault	Збій з’єдн.
+string	energy_cable_status_no_double	Не підключайте AC і DC кабелі одночасно
+string	energy_cap_ac	Кришка порту AC
+string	energy_cap_dc	Кришка порту DC
+string	energy_charge_appoint	Заряд за розкл.
+string	energy_charge_appoint_cancel_fail	Не вдалося скасувати розклад
+string	energy_charge_appoint_cancel_success	Розклад заряду скасовано
+string	energy_charge_appoint_set_fail	Не вдалося задати розклад
+string	energy_charge_appoint_set_success	Розклад заряду задано
+string	energy_charge_battery_heat	Підігрів батареї
+string	energy_charge_battery_heat_intro	Підтримує батарею теплою від мережі 24 год після досягнення цільового заряду.\nРекомендовано вище 40℃ або нижче 0℃
+string	energy_charge_battery_temp_little_low_tips	Температура батареї трохи низька, швидкість заряджання дещо знижена
+string	energy_charge_battery_temp_low_tips	Температура батареї низька, швидкість заряджання знижена
+string	energy_charge_battery_temp_very_low_tips	Температура батареї дуже низька, швидкість заряджання значно знижена
+string	energy_charge_cap	Кришка порту
+string	energy_charge_charging_limit	До ліміту
+string	energy_charge_friday	Пт
+string	energy_charge_full	Майже повна
+string	energy_charge_limit	Ліміт заряду
+string	energy_charge_monday	Пн
+string	energy_charge_more_settings	Ще налашт.
+string	energy_charge_next_day	Наст. д.
+string	energy_charge_per_week	Щотижня
+string	energy_charge_pre_heating_button_name	Підготовка батареї
+string	energy_charge_pre_heating_button_tips	Починає підготовку батареї зараз для швидшого заряджання. Витрачає певну кількість енергії: що довше працює, то більше витрачає. Рекомендовано вмикати дорогою до швидкої зарядки
+string	energy_charge_pre_heating_switch_name	Розумна підготовка батареї
+string	energy_charge_pre_heating_switch_tips	Під час навігації до зарядної станції система готує\nбатарею перед заряджанням для швидшого заряду. Витрачає додаткову енергію
+string	energy_charge_saturday	Сб
+string	energy_charge_soc_tips_intro	Задано поточний ліміт, заряджання буде зупинено
+string	energy_charge_status_booking	За розкл.
+string	energy_charge_status_charging	Заряд.
+string	energy_charge_status_charging_done	Заряд зупинено
+string	energy_charge_status_charging_fault	Збій заряду
+string	energy_charge_status_preheating	Підготовка батареї
+string	energy_charge_status_super_fast_charging	Швидкий
+string	energy_charge_sunday	Нд
+string	energy_charge_temp_best	Батарея досягла оптимальної температури
+string	energy_charge_three_voltage	Напруга (3 фази)
+string	energy_charge_thursday	Чт
+string	energy_charge_tips	Порада
+string	energy_charge_today	Сьогодні
+string	energy_charge_tomorrow	Завтра
+string	energy_charge_tuesday	Вт
+string	energy_charge_wednesday	Ср
+string	energy_charge_week	Тижд.
+string	energy_charge_wpc_name	Бездротова зарядка
+string	energy_charge_wpc_tips	Не кладіть металеві предмети між телефоном і зарядною панеллю
+string	energy_charging_current_range_unit_mile	mile
+string	energy_charging_minute_unit	хв
+string	energy_charging_speed_range_unit_kw	kWh
+string	energy_charging_speed_range_unit_mile	mph
+string	energy_charging_speed_unit	km/h
+string	energy_charging_speed_unit_km	km/h
+string	energy_current	Струм
+string	energy_daily	щодня
+string	energy_date_selection	Вибір дати
+string	energy_dialog_close	Закрити
+string	energy_dialog_two_button_close	Закрити
+string	energy_dis_limit	Ліміт живлення
+string	energy_dis_statistics	Статистика живлення
+string	energy_end_time	Кінець
+string	energy_estimate_mileage	Прогноз пробігу
+string	energy_first_charge_full	Спершу повний
+string	energy_first_charge_full_intro	Якщо до кінця часу не заряджено повністю, заряд триває
+string	energy_first_charge_limit	Спершу до ліміту
+string	energy_first_charge_limit_intro	Якщо до кінця часу ліміт заряду не досягнуто, заряджання триватиме.
+string	energy_long_distance	Далеко
+string	energy_no_function_tips	Незабаром
+string	energy_please_set	Задайте
+string	energy_pre_travel	Поїздка за розкл.
+string	energy_pre_travel_cancel_fail	Не вдалося скасувати поїздку
+string	energy_pre_travel_cancel_success	Заплановану поїздку скасовано
+string	energy_pre_travel_set_fail	Не вдалося запланувати поїздку
+string	energy_pre_travel_set_success	Поїздку заплановано
+string	energy_range	Запас ходу
+string	energy_range_switch_intro	Стандартний запас ходу розраховано за умовами національного стандарту; динамічний запас ходу — за вашим нещодавнім стилем водіння
+string	energy_range_switch_title	Стандартний / динамічний запас ходу
+string	energy_repeat	Повтор
+string	energy_set_max_a	Макс. струм заряджання AC
+string	energy_speed	Швидкість
+string	energy_start_dis	Почати живл.
+string	energy_start_time	Початок
+string	energy_status_battery_fault	Збій тягової батареї
+string	energy_status_discharging	Живлення ззовні
+string	energy_status_discharging_done	Живл. завершено
+string	energy_status_discharging_fault	Збій живлення
+string	energy_stop_dis	Зупин. живл.
+string	energy_text_charge_limit	Ліміт заряду %d%%
+string	energy_text_discharge_limit	Ліміт живл. %d%%
+string	energy_travel_time	Час поїздки
+string	energy_trip_1	Поїздка 1
+string	energy_trip_2	Поїздка 2
+string	energy_trip_begins_in	Почато: %s
+string	energy_trip_consumption_history	Історія витрати
+string	energy_trip_consumption_history_current_position	Зараз
+string	energy_trip_consumption_history_kwh_100km	kWh/100km
+string	energy_trip_consumption_history_other_position	Останні %s km
+string	energy_trip_data	Дані поїздки
+string	energy_trip_data_average_speed	Сер. швидкість
+string	energy_trip_data_distance	Відстань
+string	energy_trip_data_elapsed_driving_time	Час у дорозі
+string	energy_trip_data_manual_reset	Скинути
+string	energy_trip_data_motion_consumption	Витрата в русі
+string	energy_trip_data_static_consumption	Витрата на місці
+string	energy_trip_data_subtitle	Дані цієї поїздки
+string	energy_trip_data_tabs_reset_charging	Після заряду
+string	energy_trip_data_tabs_reset_driving_cycle	Після стоянки
+string	energy_trip_data_total_consumption	Заг. витрата
+string	energy_trip_data_unit_kmh	km/h
+string	energy_trip_data_unit_kwh	kWh
+string	energy_trip_data_unit_min	хв
+string	energy_trip_distribution	Розподіл енергії
+string	energy_trip_distribution_air_conditioning_system	Клімат
+string	energy_trip_distribution_battery_temperature_control	BMS
+string	energy_trip_distribution_low_voltage_system	Низьковольт.
+string	energy_trip_distribution_other_system	Інші системи
+string	energy_trip_distribution_propulsion_system	Привід
+string	energy_trip_distribution_subtitle	Частка витрати енергії кожною системою від початку поїздки
+string	energy_usual	Щодня
+string	energy_voltage	Напруга
+string	energy_work_power	Потужність
+string	error_a11y_label	Помилка: недійсне
+string	exposed_dropdown_menu_content_description	Показати меню
+string	game_view_content_description	game_view_content_description
+string	hmi_seat_adjust_name_driver	Водій
+string	hmi_seat_adjust_name_passenger	Пас.
+string	hmi_seat_adjust_name_rear	Задні
+string	hmi_seat_adjust_part	Регулювання
+string	hmi_seat_adjust_restore	Віднов.
+string	hmi_seat_adjust_save	Зберег.
+string	hmi_seat_drvr_restore_success_toast	Положення водія буде відновлено до [%1$s]
+string	hmi_seat_drvr_save_habit_success_toast	Положення водія збережено, вибрано [%1$s]
+string	hmi_seat_drvr_save_success_toast	Положення водія збережено в [%1$s]
+string	hmi_seat_easydriver	Легкий вхід водія
+string	hmi_seat_pass_habit_tips	Улюбл. пол. пас.
+string	hmi_seat_pass_restore_success_toast	Відновлення улюбленого положення пасажира
+string	hmi_seat_pass_save_success_toast	Улюблене положення пасажира збережено
+string	hmi_seat_rdg_backrest	Спинка
+string	hmi_seat_rdg_backrest_rear_left	Задн. ліве
+string	hmi_seat_rdg_backrest_rear_right	Задн. праве
+string	hmi_seat_rdg_cushion	Подушка
+string	hmi_seat_rdg_driver	Сидіння
+string	hmi_seat_rdg_lumbar	Поперек
+string	hmi_seat_tabname_0	Масаж
+string	hmi_seat_tabname_1	Регулювання
+string	i_common_know	Зрозуміло
+string	lab_theater_mode	Кінотеатр
+string	lab_theater_mode_info	Автоналаштування сидіння, клімату, освітлення тощо для перегляду відео
+string	light_auto	Авто світло салону
+string	light_auto_text	Вмикається при розблокуванні або відчиненні дверей
+string	light_charge	Світлошоу заряду
+string	light_charge_text	Світлове шоу на початку заряджання, зупиняється через 2 хвилини
+string	light_settings_text	Налашт.
+string	light_taillight	Денні задні вогні
+string	light_taillight_text	Задні габарити вмикаються разом із DRL
+string	lighting_approach_light_option	Підсвітка підходу
+string	lighting_approach_switch_title	Коли ви наближаєтеся з ключем, ближнє світло й габарити вмикаються автоматично
+string	lighting_bending_light_option	Світло в поворотах
+string	lighting_btn_lights_off	Вимк. усе світло
+string	lighting_btn_lights_on	Увімк. усе світло
+string	lighting_dvring	Режим руху
+string	lighting_ext_light_func	Налашт. світла
+string	lighting_follow	Атмосфера
+string	lighting_home_safety_light_info	Скільки світло горить після блокування авто
+string	lighting_home_safety_light_option	Проводи додому
+string	lighting_in_sound	Вхідний дзвінок
+string	lighting_lig_row	Задня атмосф.
+string	lighting_lig_zon	Передня атмосф.
+string	lighting_light_mode_breathe	Дихання
+string	lighting_light_mode_driving_mode	Режим руху
+string	lighting_light_mode_gradation	Градієнт
+string	lighting_light_mode_monochrome	Один колір
+string	lighting_light_mode_music_show	Музшоу
+string	lighting_light_mode_racing_mode	Гоночний
+string	lighting_light_mode_screen_rhythm	Ритм екрана
+string	lighting_light_mode_theme_mode	Тематичний
+string	lighting_music	Музшоу
+string	lighting_phone_info	Вхідний дзвінок показується атмосферним світлом
+string	lighting_quick_fog	Задн. туман.
+string	lighting_quick_weather	Всепогод.
+string	lighting_read_front_left_content_description	Ліва лампа читання|Передня ліва лампа читання
+string	lighting_read_front_right_content_description	Права лампа читання|Передня права лампа читання
+string	lighting_read_rear_left_content_description	Ліва лампа читання|Задня ліва лампа читання
+string	lighting_read_rear_right_content_description	Права лампа читання|Задня права лампа читання
+string	lighting_sync_info	Усі зони синхронізовано з передньою
+string	lighting_sync_option	Синхр. зон
+string	lighting_textID_light_brightness	Яскр.
+string	lighting_them_describe	У цьому режимі яскравість атмосферного світла змінюється разом із зовнішнім середовищем.
+string	lighting_theme	Тема
+string	lighting_title_ext	Зовн.
+string	lighting_title_text	Фари
+string	main_safe_preson_info_protect_policy	Політика захисту персональних даних ZEEKR
+string	main_safe_security_user_service_agreement	Угода користувача ZEEKR
+string	main_safe_security_zeekr_personal_information_protection_policy	Політика конфіденційності підключеного авто ZEEKR
+string	main_safe_user_security	Угода користувача
+string	night_auto_cancel	Скас.
+string	offroad_text_please_epedal_toast	У режимі позашляховика режим зупинки підтримує лише повзання
+string	ota_agree	Згоден
+string	ota_check_upgrade_log	Журнал оновлень вашого авто
+string	ota_confirm	OK
+string	ota_had_new_version_to_upgrade	Доступна нова версія
+string	ota_i_know	Зрозуміло
+string	ota_loading	Завантаж...
+string	ota_night_auto_cancel	Скас.
+string	ota_night_auto_open	Увімк.
+string	ota_night_auto_upgrade	Нічне автооновл.
+string	ota_night_auto_upgrade_tip	Коли доступна нова версія, оновлення починається автоматично о 02:00
+string	ota_night_auto_upgrade_tip3	Нові версії встановлюються автоматично о 02:00. Під час оновлення неможливо керувати авто, користуватися сенсорним екраном або заряджати авто.
+string	ota_night_auto_upgrade_tip4	Оновлення заплановано через %1$s год %2$s хв. Якщо ввімкнути цю функцію, його буде перенесено на 02:00 сьогодні вночі, а майбутні версії встановлюватимуться автоматично о 02:00.
+string	ota_night_upgrade_close_dialog_content	Вимкнення нічного автооновлення не скасовує заплановані оновлення. Скасуйте або змініть їх у [Керування оновленнями]
+string	ota_night_upgrade_close_dialog_title	Вимкнути нічне автооновлення?
+string	ota_night_upgrade_open_dialog_content	Увімкнути нічне автооновлення?
+string	ota_os_version	Версія системи
+string	ota_services_update_version	ZEEKR OS %1$s
+string	ota_system_is_latest_version	ПЗ оновлено до останньої версії
+string	ota_system_upgrade	Оновлення
+string	ota_terms_service	Умови
+string	ota_upgrade_log	Журнал
+string	ota_upgrade_log_title	Що нового в останньому оновленні
+string	ota_upgrade_manager	Оновлення
+string	ota_you_can_read	Ознайомтеся
+string	parking_comfort	Комфорт стоянки
+string	quick_setting_drive_mode_edit_content_description	Змінити|Змінити своє|Власні налаштування
+string	quick_setting_driving_mode	Режим руху
+string	quick_setting_park_dicription_text	Після паркування клімат, аудіо й відео доступні, доки не мине заданий час або заряд не впаде нижче 20%
+string	quick_setting_tv_edit	Змінити
+string	rd_driving_esc_close	Вимк.
+string	rd_driving_esc_drift	Дрифт
+string	rd_driving_esc_stand	Станд.
+string	safe_driving_text	Відеореєстр.
+string	safe_head_carSearchReminder_text	Пошук авто
+string	safe_head_sdCardFormat_text	Форматування видалить усі записи з карти пам’яті
+string	safe_head_sdCardFormat_tip_text	Форматування видалить усі дані. Спершу збережіть важливі дані. Продовжити?
+string	safety_beta	Beta
+string	safety_car_washing_mode	Мийка
+string	safety_copilot_fatigue_alert	Контроль водія
+string	safety_deactivate_glove_box_password_protection	Вимкнути PIN бардачка
+string	safety_fatigue_monitor_describe	Попереджає, коли виявлено втому або неуважність водія, для безпечнішого водіння
+string	safety_forgot_password	Забули пароль
+string	safety_guard_mode	Режим охорони
+string	safety_guard_mode_tasting_version	Режим охорони
+string	safety_interior_visual_assistance	Камера салону
+string	safety_intput_password_to_disable_glove_box_password_protection	Введіть PIN, щоб вимкнути PIN бардачка
+string	safety_please_intput_password_again_to_confirm	Введіть PIN ще раз для підтвердження
+string	safety_please_open_sentinel_mode_when_the_vehicle_is_in_p_gear	Вмикайте режим охорони, коли авто в P
+string	safety_safe_security_sentinel_mode_user_agreement	Режим охорони
+string	safety_safe_security_sentinel_mode_user_agreement_content	Коли функцію ввімкнено, зовнішні камери записують і обробляють дані. Дотримуйтеся місцевого законодавства й використовуйте цю функцію лише там, де це дозволено; інакше ви несете відповідальність за наслідки
+string	safety_safe_sentinel_mode_tip	Коли режим охорони ввімкнено, авто стежить за спробами крадіжки чи пошкодження, записує відео, вмикає сигналізацію й надсилає сповіщення на телефон
+string	safety_safe_view_sentinel_video	Відео режиму охорони
+string	safety_second_time_password_error_please_re_intput	PIN-коди не збігаються, введіть знову
+string	safety_security_safety_recording_resolution_content_description	Якість
+string	safety_security_user_service_agreement	Угода користувача ZEEKR
+string	safety_security_zeekr_personal_information_protection_policy	Політика конфіденційності підключеного авто ZEEKR
+string	safety_sentinel_mode_description_1	Як працює
+string	safety_sentinel_mode_description_10	Під час спрацювання вмикається гучна сирена, тому не залишайте людей або тварин в авто. Режим охорони записує відео; не використовуйте його в громадських місцях
+string	safety_sentinel_mode_description_3	Сповіщення
+string	safety_sentinel_mode_description_4	Увімкніть сповіщення в застосунку ZEEKR, щоб одразу отримувати стан авто
+string	safety_sentinel_mode_description_5	Додайте USB
+string	safety_sentinel_mode_description_7	Енергоспожив.
+string	safety_sentinel_mode_description_8	Функція витрачає додаткову енергію й автоматично вимикається, коли заряд нижче 20%. Для економії енергії вона діє лише протягом поточного сеансу
+string	safety_sentinel_mode_description_9	Увага
+string	safety_sentinel_mode_keep_mirror_open	Не складати дзеркала
+string	safety_sentinel_mode_keep_mirror_open_describe	Якщо ввімкнено, дзеркала розкладаються через 30 с після ввімкнення режиму охорони й блокування авто, щоб камери в дзеркалах не мали сліпих зон. Під час віддаленого розкладання дзеркала можуть зачепити предмети поруч.
+string	safety_submit	OK
+string	safety_unlock_glove_box	Відкр. бардачок
+string	safety_video_play_forbid_title	Правила використання розваг під час руху
+string	safety_video_segment_duration	Тривалість фрагмента
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	snow_text_please_epedal_toast	У режимі «Сніг» режим зупинки підтримує лише повзання
+string	sound_common_reverse_suppressor	Тихше при задн. ході
+string	sound_common_reverse_suppressor_tip	Гучність медіа автоматично знижується в R
+string	soundnotify_mecha_frenzy	Меха-шал
+string	soundnotity_time_travel	Крізь час
+string	text_please_close_offroad_mode	Спершу вимкніть позашляховий режим
+string	text_please_close_snow_mode	Спершу вимкніть режим «Сніг»
+string	text_please_epedal_toast	Потрібен режим зупинки «Повзання»
+string	upload_close	Вимк.
+string	upload_explain_text	Відтворіть збій і надішліть дані для точного аналізу проблеми й покращення роботи
+string	upload_explain_text2	Відтворіть збій і надішліть журнали для точного аналізу проблеми й покращення роботи
+string	upload_log_cancel	Скас.
+string	upload_log_explore_content	\u0009\u0009\u0009 Ми завжди ставимо досвід користувача на перше місце. Щоб оптимізувати та вдосконалити функції системи, ми щиро запрошуємо вас долучитися. Журнали роботи мультимедійної системи, зокрема інформація про збої, помилки, попередження тощо, що виникають під час роботи системи, збираються, щоб допомогти нам швидко виконати віддалену діагностику. <br/> \u0009\u0009\u0009 Цим ми заявляємо, що зібрані журнали мультимедійної системи не будуть навмисно пов’язуватися з вашими персональними даними. Однак не виключено, що під час роботи система може містити персональні дані, пов’язані з вашим використанням. Збирання, передавання й використання цієї інформації також захищаються відповідними технологіями безпеки. <br/> <br/> \u0009\u0009\u0009 Надсилання журналів мультимедійної системи витрачає частину мережевого трафіку
+string	upload_log_explore_content_bx	\u0009\u0009\u0009 Ми завжди ставимо досвід користувача на перше місце. Щоб оптимізувати та вдосконалити функції системи, ми щиро запрошуємо вас долучитися. Журнали роботи мультимедійної системи, зокрема інформація про збої, помилки, попередження тощо, що виникають під час роботи системи, збираються, щоб допомогти нам швидко виконати віддалену діагностику. <br/> \u0009\u0009\u0009 Цим ми заявляємо, що зібрані журнали мультимедійної системи не будуть навмисно пов’язуватися з вашими персональними даними. Однак не виключено, що під час роботи система може містити персональні дані, пов’язані з вашим використанням. Збирання, передавання й використання цієї інформації також захищаються відповідними технологіями безпеки. <br/> <br/> \u0009\u0009\u0009 Надсилання журналів мультимедійної системи витрачає частину мережевого трафіку
+string	upload_log_explore_title	Про журнали
+string	upload_log_failed_tip	Збій надсил.
+string	upload_log_full_failed	Збій: недостатньо місця
+string	upload_log_hide	Сховати
+string	upload_log_network_error_tip	Слабка мережа, надсилання призупинено. Його буде відновлено, коли мережа з’явиться
+string	upload_log_repeat_toast	Замалий інтервал між діями. Спробуйте через %1d хв
+string	upload_log_server_error_tip	Помилка сервера. Спробуйте пізніше
+string	upload_log_start	Почати
+string	upload_log_stop_and_upload	Стоп і надісл.
+string	upload_log_succeed	Надіслано
+string	upload_log_uploading	Надсил.
+string	upload_log_zipping_progress	Стиснення
+string	upload_logcat	Звіт про збій
+string	upload_logcat_bx1e	Звіт про збій
+string	upload_logcat_content1	1. Натисніть «Почати запис», щоб почати збір журналів
+string	upload_logcat_content2	2. Повторіть дії з функціями, доки збій не з’явиться знову
+string	upload_logcat_content3	"3. Коли проблема повториться, поверніться на цю сторінку й натисніть «Завершити й надіслати» \n, щоб зупинити запис і надіслати дані"
+string	upload_logcat_text	Звіт про збій
+string	upload_logcat_text2	Звіт про збій
+string	upload_logcat_title	Тримайте мультимедійну систему увімкненою й підключеною до мережі
+string	upload_start_logcat	Почати запис
+string	upload_sure	OK
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показ. пароль

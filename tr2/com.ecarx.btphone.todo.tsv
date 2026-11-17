@@ -1,0 +1,4 @@
+string	strNetworkTipsMessage	41	en_foreign	你已切换到移动网络，是否继续当前下载？	The Network have switch to mobile network, continue？
+string	strNotificationClickToContinue	10	en_too_long	继续下载	Continue download
+string	strNotificationDownloadSucc	10	en_too_long	下载完成	Download finished
+string	use_online_phone	65	missing	"蓝牙设备未连接\n无法使用蓝牙电话\n推荐使用在线电话"	

@@ -1,0 +1,32 @@
+string	app_name	Exterior Sound
+string	str_agree	Agree
+string	str_bottom_tab_1	Thank\nyou
+string	str_bottom_tab_2	After\nyou
+string	str_bottom_tab_3	Excuse\nme
+string	str_bottom_tab_4	Cat
+string	str_bottom_tab_5	Dog
+string	str_bottom_tab_6	Pig
+string	str_bottom_tab_7	Horse
+string	str_bottom_tab_8	Sports car
+string	str_bottom_tab_9	Bicycle
+string	str_bottom_tab_10	Tractor
+string	str_bottom_tab_11	Whistle
+string	str_cancel	Cancel
+string	str_caution	Caution
+string	str_caution_text	When using the exterior sound interaction feature ("this feature"), please pay special attention to and follow these notes \n(Note: you can find them at any time in the User Manual) \n \n1. Use this feature only when the vehicle is completely stopped and in Park (P). While driving, concentrate on driving and do not turn this feature on. \n2. With this feature on, people outside may hear sound from inside the car. Make sure the other occupants agree before turning it on, and take care not to disclose private information. \n3. Know and follow the applicable laws and local rules. Do not use this feature near schools, residential areas, office buildings, no-horn zones or other places unsuitable for loud sound. Keep the volume reasonable for the surroundings to avoid noise pollution or disturbing others. \n4. When playing your own audio or using the megaphone outside, make sure the content complies with laws, regulations and public order, and does not infringe anyone's rights. \n5. This feature must not be used for any commercial purpose. \n \nWhen you lend the vehicle to someone, inform them and make sure they understand and follow these notes before using this feature. \n \nYou are responsible for any complaints, penalties, compensation or other liability caused by you or other users not following these notes. Make sure you and all other users fully follow them before turning this feature on.
+string	str_confirm	OK
+string	str_mic_occupied	Microphone is in use, megaphone unavailable
+string	str_multi_media_1	Media inside
+string	str_multi_media_2	Media outside
+string	str_multi_media_3	Both
+string	str_notice_ex	Media will play through the exterior speaker. Use with care
+string	str_notice_reminding	For your safety, exterior sound features are unavailable while driving!
+string	str_reminding	Notice
+string	str_right_tab_1	Beer, drinks, water, sunflower seeds, peanuts, snacks… mind your feet, please!
+string	str_right_tab_2	We buy old phones, TVs, air conditioners, washing machines… and long hair!
+string	str_right_tab_3	Many roads to choose, safety comes first; drive carelessly and loved ones will cry.
+string	str_right_tab_4	Through mountains and rivers, we're all friends here — may I go first, please?
+string	str_right_tab_5	Stopping briefly, leaving right away. Please go around, thank you!
+string	str_voice_select_1	Original
+string	str_voice_select_2	Deep
+string	str_voice_select_3	Bright

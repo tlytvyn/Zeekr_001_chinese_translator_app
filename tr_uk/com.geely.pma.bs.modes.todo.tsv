@@ -1,0 +1,255 @@
+string	action_settings	12	Settings	
+string	activation	6	Activate	激活
+string	all	6	All	全部
+string	app_name	20	bs_kinds_modes	
+string	bs_rest_mode	11	Rest mode	休憩模式
+string	camp	6	Camping	营地
+string	camp_exit_content	43	Exiting Camping mode restores all related functions	露营模式退出后，将恢复所有关联功能
+string	camp_mode	6	Camping	露营
+string	camp_mode_txt	11	Camping mode	露营模式
+string	camp_open_content	149	When Camping mode is active, Park Comfort and central locking turn on, all windows and exterior lights close/turn off, and A/C fan speed is adjusted.\nNote: If battery is below 20%, Camping mode exits automatically.	"露营模式激活后，将开启驻车舒享、中控锁，关闭所有车窗、车外灯光，调整空调风量。\n注：若电池电量<20%，将自动退出露营模式。"
+string	choose_other_position	16	Choose another seat	选择其他位置
+string	cinema_mode_info	63	Requirements: in P, and vehicle charging or battery ≥20%	开启条件：挡位为P挡/车辆电池处于充电状态或电量≥20%
+string	cinema_mode_tips	75	Cinema mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects	影院模式开启时将调节%1$s座椅设置，请确保后排座椅没有人或物品
+string	close_cinema_mode_content	70	%1$s is active. Exit Cinema mode or choose another seat to watch	您已激活%1$s位置，您可选择退出影院模式或选择其他位置观影
+string	close_cinema_mode_tips	75	Exiting Cinema mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects	影院模式退出时将调节%1$s坐椅设置，请确保后排座椅没有人或物品
+string	close_window	11	Close windows	关闭车窗
+string	common_btn_send_code	14	Send code	发送验证码
+string	common_camp_mode_ended_content	19	Camping mode exited	已退出营地模式
+string	common_camp_mode_started_content	43	Camping mode on. Keep an eye on the battery level	已进入营地模式，请持续关注爱车电量
+string	common_cancel	6	Cancel	取消
+string	common_close	6	Close	关闭
+string	common_get_vin_failed	18	Failed to get VIN	获取 VIN 失败
+string	common_network_send_request	13	Sending...	发送中...
+string	common_rest_mode_cancelled	19	Rest mode exited	休憩模式已退出
+string	common_rest_mode_started_content	24	%1$s Rest mode on	%1$s休憩模式已激活
+string	common_send_new_code	25	Send code (%1$ss)	发送验证码（%1$ss）
+string	common_server_connect_fail	19	Server connection failed	连接服务器失败
+string	common_unlock_by_verify_code	19	Turn off with code	通过验证码关闭
+string	common_window_guest_box_disable	16	Turn off Guest mode	关闭访客模式
+string	common_window_guest_four_digits	9	4 digits	四位数
+string	common_window_guest_lock	21	Guest mode password	访客模式密码设置
+string	common_window_guest_lock_info	62	Set a password to use when exiting, to protect your privacy and vehicle	请设置密码并在退出时使用，以保护您的隐私及车辆安全
+string	common_window_guest_pin_open	14	Enter password	请输入密码
+string	common_window_list_option_h_retry	16	Too many attempts	尝试次数太多
+string	common_window_list_option_i_guest_wrong_pswd	31	Wrong password, %1$s tries left	密码错误，还有%1$s次机会
+string	common_window_list_option_i_guest_wrong_sms	34	Wrong code, %1$s tries left	验证码错误，还有%1$s次机会
+string	common_window_list_option_i_retry	85	Too many password attempts. Retry in %1$s min, or turn off with a phone verification code	请%1$s分钟之后重试，密码尝试次数过多，请稍后再试或通过手机验证码关闭
+string	common_window_list_option_sms_h_retry	38	Too many code attempts, request a new one	验证码尝试次数过多，请重新获取
+string	common_window_verify_code_has_send	19	Code sent	验证码发送成功
+string	common_window_verify_code_incorrect	28	Wrong code, please re-enter	验证码错误，请重新输入
+string	common_window_verify_title	37	Enter the 4-digit code sent to the owner's phone	请输入车主手机获取的4位验证码
+string	common_wrong_pin	28	Wrong code, please re-enter	验证码错误，请重新输入
+string	common_wrong_pin_max	82	Too many password attempts. Retry in 3 min\nor turn off with a phone verification code	"请3分钟之后重试，密码尝试次数过多\n请稍后再试或通过手机验证码关闭"
+string	confined_space_close_ac_alert	57	Turning off A/C in a closed space is dangerous. Keep a window open or the A/C on	密闭空间关闭空调存在危险，请确保车窗或空调打开
+string	copilot	6	Passenger	副驾
+string	copilot_seat	11	Passenger seat	副驾座椅
+string	dialog_cinema_model_label	11	Cinema mode	影院模式
+string	dialog_low_battery_content	41	Battery below %1$s%%, exiting Rest mode is advised	电量低于%1$s%%，建议退出休憩模式
+string	dialog_low_battery_text	39	Battery below %1$s%%, %2$s mode will exit	电量低于%1$s%%，将退出%2$s模式
+string	dialog_low_battery_title	16	Battery too low	当前电量过低
+string	dialog_park_content	132	Park Comfort is on. Even when the car is locked from outside, the screen stays on and comfort functions stay active.\nNote: If battery is below 20%, Park Comfort exits automatically	"驻车舒享已激活，即使车外锁车，屏幕仍保持点亮且舒适性功能保持激活。\n注：若电池电量<20%，将自动退出驻车舒享"
+string	dialog_park_exit_pet_content	40	This will exit Pet mode. Continue?	操作将导致宠物模式退出，是否继续
+string	dialog_pet_model_label	11	Pet mode	宠物模式
+string	driver_rest	11	Driver rest	主驾休憩
+string	driver_theater	11	Driver cinema	主驾影院
+string	enter_camp	16	Enter Camping mode	进入露营模式
+string	enter_mode	19	%1$s mode on	%1$s模式已激活
+string	enter_mode_by_available	31	Can't activate, not supported	无法激活，暂不支持该功能
+string	enter_mode_by_battery	34	Can't activate, need battery >20%	无法激活，请电量>20%后重试
+string	enter_mode_by_brake	38	Can't activate, release the brake and retry	无法激活，请松开制动踏板后重试
+string	enter_mode_by_car_mode_ignition	26	Can't activate, contact service	无法激活，请联系售后
+string	enter_mode_by_charge	33	Can't activate, stop charging and retry	无法激活，请停止充电后重试
+string	enter_mode_by_discharge	33	Can't activate, stop discharging and retry	无法激活，请停止放电后重试
+string	enter_mode_by_front_charge	40	Can't activate, close the front charge port lid and retry	无法激活，请关闭前充电口盖后重试
+string	enter_mode_by_gear	40	Can't activate, shift to P and retry	无法激活，请切换至驻车挡位后重试
+string	enter_mode_by_mode	38	Can't activate, exit %1$s mode and retry	无法激活，请退出%1$s模式后重试
+string	enter_mode_by_row_one_seat	55	Can't activate, rotate front seats back to 0° and retry	无法激活，请将前排座椅旋转角度恢复至0°后重试
+string	enter_mode_by_row_two_seat	50	Can't activate, make sure the right rear seat is clear and retry	无法激活，请确保右后座椅无人或物品后重试
+string	enter_mode_by_speed	36	Can't activate, stop the vehicle and retry	无法激活，请将车辆静止后重试
+string	enter_mode_later	26	Can't activate, try again later	无法激活，请稍后重试
+string	enter_screen_mode_by_car_mode	28	Screen off unavailable, contact service	息屏不可用，请联系售后
+string	enter_screen_mode_by_gear	43	Not in P, Screen off mode unavailable	当前未处于驻车挡位，息屏模式不可用
+string	enter_screen_mode_by_ignition	40	Power mode not suitable, can't turn on now	车辆电源模式不满足，暂时无法开启
+string	enter_wash_mode_by_battery	34	Can't activate, need battery >10%	无法激活，请电量>10%后重试
+string	error_a11y_label	20	Error: invalid	
+string	exit_directly	11	Exit now	直接退出
+string	exit_i_know	11	Got it	我知道了
+string	exit_mode	19	%1$s mode exited	%1$s模式已退出
+string	exit_mode_by_battery	41	Battery below 20%%, %1$s mode exited	电池电量不足20%%，已退出%1$s模式
+string	exit_mode_by_brake	43	Brake pressed, %1$s mode will exit	当前已踩下制动踏板，将退出%1$s模式
+string	exit_mode_by_carmode	31	Status error, %1$s mode will exit	状态异常，将退出%1$s模式
+string	exit_mode_by_gear	43	Not in P, %1$s mode will exit	当前未处于驻车挡位，将退出%1$s模式
+string	exit_mode_by_ignition	31	Status error, %1$s mode will exit	状态异常，将退出%1$s模式
+string	exit_mode_by_park	38	Park Comfort exited, %1$s mode exited	因驻车舒享退出，已退出%1$s模式
+string	exit_mode_by_seat	46	Seat recline too small, %1$s mode will exit	当前座椅倾斜角度较小，将退出%1$s模式
+string	exit_nap_mode_tips	75	Exiting Rest mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects	休憩模式退出时将调节%1$s座椅设置，请确保后排座椅没有人或物品
+string	exit_nap_mode_tips_8295	49	Exiting %1$s Rest mode will adjust the %1$s seat	%1$s休憩模式退出时，将调节「%1$s座椅」
+string	exit_now	11	Exit now	立即退出
+string	first_fragment_label	20	First Fragment	
+string	game	6	Gaming	游戏
+string	guest	6	Guest	访客
+string	guest_deactivate_guest_password_protection	26	Disable Guest mode password	停用访客模式密码保护
+string	guest_intput_password_to_disable_guest_box_password_protection	36	Enter password to disable Guest mode password	输入密码停用访客模式密码保护
+string	guest_please_intput_password_again_to_confirm	28	Re-enter password to confirm	请再次输入密码进行确认
+string	guest_second_time_password_error_please_re_intput	40	Passwords don't match, please re-enter	两次输入的密码不一致，请重新输入
+string	guest_unlock_guest_box	16	Unlock Guest mode	解锁访客模式
+string	hello_first_fragment	29	Hello first fragment	
+string	hello_second_fragment	45	Hello second fragment. Arg: %1$s	
+string	hold_on	6	Continue	继续
+string	keep_activate	11	Keep on	保持激活
+string	main_dialog_close_window_btn	11	Close windows	关闭车窗
+string	main_dialog_close_window_cancel_btn	9	Got it	知道了
+string	main_dialog_close_window_tip	72	Some windows are open. Close all windows now to improve A/C efficiency?	监测到车窗未全部关闭，是否现在关闭全部车窗以提高空调效能？
+string	main_dialog_close_window_title	6	A/C	空调
+string	main_driver	6	Driver	主驾
+string	main_driver_seat	11	Driver seat	主驾座椅
+string	meeting	6	Meeting	会议
+string	n_gear	10	Shift to N	挂入N挡
+string	nap_mode_tips	75	Rest mode will adjust the %1$s seat. Make sure the rear seat is clear of people and objects	休憩模式开启时将调节%1$s座椅设置，请确保后排座椅没有人或物品
+string	next	7	Next	
+string	not_exit	11	Not now	暂不退出
+string	open_mode	27	%1$s %2$s mode activated	您已激活%1$s%2$s模式
+string	park	11	Park Comfort	驻车舒享
+string	park_comfort_exit	19	Park Comfort exited	驻车舒享已退出
+string	park_comfort_time	16	Park Comfort time	驻车舒享时长
+string	park_comfort_time_subtitle	53	When on, the car stays powered after you exit or lock it	开启功能后，人员下车或锁车时，车辆保持上电
+string	park_comfort_time_subtitle2	35	Turns off when battery is below 20%	电量低于20%，功能会自动退出
+string	pass_rest_speed_check_content	55	Using Rest mode while driving is risky. Continue anyway?	休息模式在行车时使用存在风险，是否继续使用？
+string	pass_rest_speed_check_title	11	Notice	温馨提示
+string	passenger_rest	11	Passenger rest	副驾休憩
+string	passenger_theater	11	Passenger cinema	副驾影院
+string	pet	6	Pet	宠物
+string	pet_enter_air	11	Ventilation	保证通风
+string	pet_enter_air_sub	40	Fresh-air mode turns on so your pet can breathe easily	自动开启空气外循环，爱宠畅快呼吸
+string	pet_enter_exp	11	Fault protection	异常保护
+string	pet_enter_exp_sub	55	On low battery or Pet mode exit, the owner is notified and windows open for ventilation	低电量或退出宠物模式时通知车主并自动开窗通风
+string	pet_enter_subtitle	45	For animals only. Never leave children alone in the car	仅适用于动物，请勿将儿童独自留在车内
+string	pet_enter_temp	11	Keep temperature	维持温度
+string	pet_enter_temp_sub	33	A/C keeps a steady temperature for your pet	空调维持恒温，宠物自在舒适
+string	pet_enter_touch	11	Touch lock	防止误触
+string	pet_enter_touch_sub	36	Doors, windows, screen and voice control disabled	门窗、车机屏幕和语音交互禁用
+string	pet_exit_confirm_content	28	Exit Pet mode?	是否确认退出宠物模式？
+string	pet_exit_confirm_title	11	Exit	退出提示
+string	pet_exit_gear_tips	44	Vehicle not in P, Pet mode exited	检测到车辆处于非P挡，宠物模式已退出
+string	pet_exit_low_power_tips	42	Battery below 20%, Pet mode exited	检测到电量低于20%，宠物模式已退出
+string	pet_i_know	20	Got it (%1$ds)	知道了 (%1$ds)
+string	pet_i_know_8	16	Got it (8s)	知道了 (8s)
+string	pet_low_battery_tips	59	Battery too low for Pet mode. Charge above 25% first	电量过低，无法开启宠物模式，建议电量充至25%以上
+string	pet_low_power_warn_tips	57	Battery is low. Pet mode will exit below 20%	当前电量较低，当电量低于20%后，宠物模式将退出
+string	pet_mode_ac	19	A/C turned on	空调已自动开启
+string	pet_mode_close_confirm	11	Turn off	确认关闭
+string	pet_mode_close_first	11	Close fullscreen	关闭霸屏
+string	pet_mode_min_unit	6	min	分钟
+string	pet_mode_pet	14	Pet protected	已守护爱宠
+string	pet_mode_plus_min_unit	8	+min	+分钟
+string	pet_mode_temperate_unit	7	%s°c	
+string	pet_mode_tip	21	My family will be right back	我的家人马上回来
+string	pet_mode_tip_content	32	A/C is on\nCurrent temp	"空调已自动开启\n当前温度"
+string	pet_mode_tip_label	31	Owner will be right back, don't worry	主人马上回来，请不要担心
+string	pet_mode_tv	12	I’m fine	
+string	pet_window_tips	70	Some windows are open. Close all windows for your pet's safety?	检测到车窗未全部关闭，为了您的宠物安全是否关闭全部车窗？
+string	pos_row_two	6	Rear	后排
+string	pos_row_two_left	9	Rear left	后排左
+string	pos_row_two_right	9	Rear right	后排右
+string	previous	12	Previous	
+string	privacy	6	Privacy	私密
+string	rest	6	Rest	休憩
+string	rest_driver	16	Driver rest	主驾一键休憩
+string	rest_driver_tips	60	Driver Rest mode will adjust the driver seat. Use with care	主驾休憩模式开启时将调节主驾座椅设置，请谨慎操作
+string	rest_exit_by_gear_alert	39	Shifted out of P, Rest mode exited	车辆切换至非P挡，休憩模式已退出
+string	rest_guide_action_time	23	Exit now (%1$ds)	立即退出（%1$ds）
+string	rest_mode_saved	36	%1$s rest position updated and saved	%1$s休憩位置已自动更新并保存
+string	rest_passenger	16	Passenger rest	副驾一键休憩
+string	rest_row2_left_pos	19	Rear left rest	商务舱左侧休憩
+string	rest_row2_right_pos	19	Rear right rest	商务舱右侧休憩
+string	rest_select_tips	46	Rest mode will adjust the %1$s. Use with care	休憩模式开启时将调节%1$s，请谨慎操作
+string	rest_tips	82	%1$s Rest mode will also adjust rear seats, cabin lighting and more. Continue?	%1$s休憩模式将同步调整后排座椅，车内灯光等座舱环境，是否确认继续？
+string	row_front	6	Front	前排
+string	row_front_seat	19	Front seats	主驾、副驾座椅
+string	row_two_left	6	Rear L	左后
+string	row_two_right	6	Rear R	右后
+string	screen_off	6	Screen off	息屏
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	seat	6	Seat	座椅
+string	second_fragment_label	22	Second Fragment	
+string	start	6	Start	开启
+string	temp_not_close_window	11	Not now	暂不关闭
+string	theater	6	Cinema	影院
+string	theater_mode_saved	36	%1$s cinema position updated and saved	%1$s影院位置已自动更新并保存
+string	theater_mode_switch_exit	6	Exit	退出
+string	theater_mode_switch_tips	19	Cinema mode %1$s	影院模式已%1$s
+string	unknown	6	Unknown	未知
+string	wash_8295_cs_guide_content	472	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close. These functions are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock. \n\nNote: Car Wash mode exits automatically above 15 km/h. \n\nAutomatic car wash: Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P.	"洗车模式激活后，将开启驻车舒享，空调切为内循环，关闭所有车窗、后备箱、充电口盖；并禁用以下功能：无钥匙进入开关、充电口盖开关、自动雨刮器、障碍物报警、接近解锁/远离上锁。 \n\n注：若车速大于15公里/小时，将自动退出洗车模式。 \n\n自动洗车提示：请确保电量大于20%并且不要移动车辆，否则主驾人员离车后洗车模式会自动退出；使用传送带洗车机请翻折后视镜，挂入N挡，人员请勿离车，离车时挡位会切换P挡。"
+string	wash_8295_guide_content	472	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close. These functions are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock. \n\nNote: Car Wash mode exits automatically above 15 km/h. \n\nAutomatic car wash: Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P.	"洗车模式激活后，将开启驻车舒享，空调切为内循环，关闭所有车窗、后备箱、充电口盖；并禁用以下功能：无钥匙进入开关、充电口盖开关、自动雨刮器、障碍物报警、接近解锁/远离上锁。 \n\n注：若车速大于15公里/小时，将自动退出洗车模式。 \n\n自动洗车提示：请确保电量大于20%并且不要移动车辆，否则主驾人员离车后洗车模式会自动退出；使用传送带洗车机请翻折后视镜，挂入N挡，人员请勿离车，离车时挡位会切换P挡。"
+string	wash_bottom_8155_tips	185	• Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves\n• For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P	"• 请确保电量大于20%并且不要移动车辆，否则主驾人员离车后洗车模式会自动退出\n• 使用传送带洗车机请翻折后视镜，挂入N挡，人员请勿离车，离车时挡位会切换P挡"
+string	wash_car	6	Car wash	洗车
+string	wash_car_open_door_tips	38	Remember to take your key!	温馨提示，下车记得带上钥匙哦！
+string	wash_car_open_park_comfort_tips	72	Park Comfort is on. The car stays powered so you can wash it easily	已为您激活驻车舒享，车辆将保持上电，帮助您高效完成洗车工作
+string	wash_charge	11	Charge port	充电口盖
+string	wash_condition_ac	11	A/C mode	空调模式
+string	wash_condition_approach	22	Walk-up unlock/lock	接近解锁/远离上锁
+string	wash_condition_charge	26	Charge port lid: %1$s	充电口盖板开关：%1$s
+string	wash_condition_door_switch	29	Exterior door switch: %1$s	车外车门开门开关：%1$s
+string	wash_condition_lock	14	Keyless entry	无钥匙进入
+string	wash_condition_ring	14	Obstacle alarm	障碍物报警
+string	wash_condition_tail	21	Trunk switch: %1$s	后备箱开关：%1$s
+string	wash_condition_wiper	14	Auto wipers	自动雨刮器
+string	wash_door	6	Doors	车门
+string	wash_door_not_closed	19	Doors not all closed	全部车门未关闭
+string	wash_exit_8155_guide_content	47	Hold the key's unlock button 2s to exit Car Wash mode	长按2秒实体钥匙解锁键，洗车模式将退出
+string	wash_exit_action	11	Exit now	立即退出
+string	wash_exit_button	16	Exit Car Wash	退出洗车模式
+string	wash_exit_content	60	Exiting Car Wash mode turns off Park Comfort and restores all disabled functions	洗车模式退出后，将关闭驻车舒享并恢复所有禁用功能
+string	wash_exit_guide_title	16	Exit from outside	车外退出方法
+string	wash_exit_high_guide_content	70	Unlock with the key or phone key (Bluetooth connected) to exit Car Wash mode	实体钥匙或手机钥匙（蓝牙已连接）解锁车辆，洗车模式将退出
+string	wash_exit_i_know	11	Got it	我知道了
+string	wash_exit_low_guide_content	139	1. Unlock with the key or phone key (Bluetooth connected) to exit Car Wash mode\n2. When unlocked, hold the door handle lock switch for 6s to exit Car Wash mode	"1. 实体钥匙或手机钥匙（蓝牙已连接）解锁车辆，洗车模式将退出\n2. 解锁状态长按6秒门把手电子锁开关，洗车模式将退出"
+string	wash_exit_title	11	Exit	退出提示
+string	wash_fold_mirror	14	Fold mirrors	折叠后视镜
+string	wash_guide_action	16	Enter Car Wash	进入洗车模式
+string	wash_guide_action_time	28	Enter Car Wash (%1$ds)	进入洗车模式（%1$ds）
+string	wash_high_config_guide_content	259	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close\nThese functions are disabled: charge port lid switch, trunk switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock\n\nNote: Car Wash mode exits automatically above 15 km/h.	"洗车模式激活后，将开启驻车舒享，空调切为内循环，关闭所有车窗、后备箱、充电口盖\n并禁用以下功能： 充电口盖开关、后备箱开关、自动雨刮器、障碍物报警、接近解锁/远离上锁\n\n注： 若车速大于15km/h，将自动退出洗车模式。"
+string	wash_hmi3_8155_guide_content	481	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, all windows, the trunk and charge port lid close and exterior lights turn off. These functions are disabled: keyless entry, charge port lid switch, auto wipers, obstacle alarm, walk-up unlock/walk-away lock.\n\nNote: Car Wash mode exits automatically above 15 km/h.\n\nAutomatic car wash: Keep the battery above 20% and do not move the vehicle, or Car Wash mode exits when the driver leaves. For conveyor car washes, fold the mirrors, shift to N and stay in the car; leaving the car shifts to P.	"洗车模式激活后，将开启驻车舒享，空调切为内循环，关闭所有车窗、后备箱、充电口盖、车外灯光；并禁用以下功能：无钥匙进入开关、充电口盖开关、自动雨刮器、障碍物报警、接近解锁/远离上锁。\n\n注：若车速大于15公里/小时，将自动退出洗车模式。\n\n自动洗车提示：请确保电量大于20%并且不要移动车辆，否则主驾人员离车后洗车模式会自动退出；使用传送带洗车机请翻折后视镜，挂入N挡，人员请勿离车，离车时挡位会切换P挡。"
+string	wash_hold_lock	21	Door handle lock switch	门把手电子锁开关
+string	wash_hood	9	Frunk	前备箱
+string	wash_low_config_guide_content	300	When Car Wash mode is active, Park Comfort turns on, A/C switches to recirculation, and all windows, the trunk and charge port lid close\nThese functions are disabled: keyless entry, charge port lid switch, trunk switch, auto wipers, obstacle alarm, door handle lock switch, walk-up unlock/walk-away lock\n\nNote: Car Wash mode exits automatically above 15 km/h.	"洗车模式激活后，将开启驻车舒享，空调切为内循环，关闭所有车窗、后备箱、充电口盖\n并禁用以下功能： 无钥匙进入开关、充电口盖开关、后备箱开关、自动雨刮器、障碍物报警、门把手电子锁开关、接近解锁/远离上锁\n\n注： 若车速大于15km/h，将自动退出洗车模式。"
+string	wash_mirror_fold	14	Fold mirrors	折叠后视镜
+string	wash_mirror_open	14	Unfold mirrors	展开后视镜
+string	wash_mode	11	Car Wash mode	洗车模式
+string	wash_mode_alert	19	Car Wash mode on	洗车模式已激活
+string	wash_mode_already_exit	19	Car Wash mode exited	洗车模式已退出
+string	wash_n_gear_content	94	In D, unbuckle the driver's seat belt, press the brake and push the gear lever up gently for 2s to shift to N	在D挡状态，解除驾驶员安全带，踩住刹车，向上轻拨换挡拨杆，停留2s，即可进入N挡
+string	wash_n_gear_title	10	Shift to N	挂入N挡
+string	wash_part_door_not_closed	19	%1$s door open	%1$s车门未关闭
+string	wash_part_window_not_closed	19	%1$s window open	%1$s车窗未关闭
+string	wash_safe_confirm_action	11	Switch now	立即切换
+string	wash_safe_confirm_content	34	Switch to [%1$s] mode?	确认切换到【%1$s】模式吗？
+string	wash_safe_confirm_title	6	Notice	提示
+string	wash_screen_clean_mode	16	Screen cleaning	屏幕清洁模式
+string	wash_speed_alert	52	Car Wash mode unavailable, slow below 15 km/h	洗车模式不可用，请降低车速到 15 公里/时内
+string	wash_status_circulation	9	Recirc.	内循环
+string	wash_status_circulation_auto	11	Auto recirc.	自动循环
+string	wash_status_circulation_out	9	Fresh air	外循环
+string	wash_status_closed	9	Closed	已关闭
+string	wash_status_forbidden	9	Disabled	已禁用
+string	wash_status_ing	8	Wait…	等待…
+string	wash_status_no_forbidden	11	Disable failed	禁用失败
+string	wash_status_not_N	9	Enabled	未禁用
+string	wash_status_not_closed	14	%1$s open	%1$s未关闭
+string	wash_status_open	9	Open	未关闭
+string	wash_status_warn	33	Car wash risk detected, contact service	当前洗车有风险，请联系售后
+string	wash_tail	9	Trunk	后备箱
+string	wash_um_alert	33	Car Wash mode unavailable, contact service	洗车模式不可用，请联系售后
+string	wash_win	6	Windows	车窗
+string	wash_window_not_closed	19	Windows not all closed	全部车窗未关闭
+string	without	4	None	无
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	yes	4	Yes	是
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

@@ -1,0 +1,8 @@
+string	app_name	14	Music Light Show	音乐灯光秀
+string	first_fragment_label	20	First Fragment	
+string	hello_first_fragment	29	Hello first fragment	
+string	hello_second_fragment	45	Hello second fragment. Arg: %1$s	
+string	next	7	Next	
+string	previous	12	Previous	
+string	second_fragment_label	22	Second Fragment	
+string	title_activity_main	18	MainActivity	

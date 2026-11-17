@@ -1,0 +1,20 @@
+string	app_name	Розумні сцени
+string	chip_text	Текст чипа
+string	eui_app_demo_tip	Це тестова версія
+string	eui_tip_btn_text	%1$s(%2$ds)
+string	eui_tip_cancel	Скас.
+string	eui_tip_confirm	ОК
+string	eui_tip_no_network_action_enter_app	Відкрити
+string	eui_tip_no_network_message	Немає мережі. Перевірте налаштування.
+string	eui_tip_setup_network	Налашт. мережу
+string	eui_tip_setup_network2	Налашт.
+string	exposed_dropdown_menu_content_description	Показати меню
+string	keyword_eav	Зарядна
+string	keyword_oil	АЗС
+string	str_error_msg	Система зайнята, спробуйте пізніше
+string	str_image_service_area_hint	Попереду %1$s, за %2$s km
+string	str_image_service_no_area	Попереду немає зони обслуговування, перевірте пізніше
+string	str_image_weather_info_hint	%1$s сьогодні: %2$s, температура %3$s
+string	str_weather_error_msg	Доступно лише під час навігації
+string	vr_remind_tips	Скажіть «нагадай мені», щоб додати нагадування
+string	vr_stopby_tips	Де хочете зупинитися?

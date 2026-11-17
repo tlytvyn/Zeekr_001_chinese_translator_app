@@ -1,0 +1,15 @@
+string	clear_like	Clean now
+string	clear_like_hand	Clean manually (%1$s)
+string	clear_succeed	Freed %1$s, %2$s available
+string	clear_wait	Clean later
+string	disk_high_tip	Storage almost full. The system will suspend services. Clean up now or contact your local service center.
+string	disk_low_again	Little space was freed, which may affect normal use of in-car apps. Please continue cleaning.
+string	disk_space_content	Storage space is low, which may affect normal use of in-car apps. Please free up space soon.
+string	disk_space_high_title	Storage low
+string	disk_space_title	Storage low
+string	list_clear_auto	Storage low
+string	tip_time_high	Little space was freed. Clean up now or contact your local service center.
+string	warning_of_driver_run_app	Not available to driver for driving safety
+string	warning_of_driver_run_game	For safety, driver cannot play games
+string	warning_of_run_game_on_driving	For driving safety, stop and shift to P before playing games
+string	warning_of_run_on_driving	For driving safety, use only in P

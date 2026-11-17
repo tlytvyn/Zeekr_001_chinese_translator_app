@@ -1,0 +1,167 @@
+string	album_buy_vip	Альбом VIP · Підписка
+string	album_collect_album	Зберегти
+string	album_label_brand	Лейбл
+string	album_label_format	Формат
+string	album_label_time	Випущено
+string	album_unlock_album	Платний альбом · Купіть
+string	app_name	ZEEKR Music
+string	authorization_false	Відхилити
+string	authorization_title	Увійти через ZEEKR
+string	authorization_true	Дозв.
+string	authorization_warning	Згоден
+string	cancel	Скас.
+string	cancel_collect	Не зберіг.
+string	cancel_dialog	Закрити
+string	cancel_select_all	Зняти всі
+string	category_empty	Більше немає
+string	category_tab_jazz	Джаз
+string	category_tab_opera	Опера
+string	category_tab_popular	Поп
+string	category_tab_relaxed	Релакс
+string	category_tab_rock	Рок
+string	category_title	Жанри
+string	code_name	Версія
+string	collection_add_fail	Обране повне
+string	collection_add_success	Збережено
+string	collection_delete_fail	Не вдалося
+string	collection_delete_success	Видалено
+string	collection_empty	Обране порожнє
+string	collection_hi_res_album	Альбоми Hi-Res
+string	collection_single	Пісні
+string	collection_station_album	Радіоальбоми
+string	continues	Далі
+string	cp_name	Список передачі даних третім сторонам
+string	data_empty	Немає даних
+string	delete	Видал.
+string	delete_title	Видалити вибрані елементи?
+string	dialog_delete_warning	Це не можна скасувати
+string	dialog_no_tip_again	Більше не показ.
+string	dialog_replace_music_content	Цей список замінить чергу відтворення. Продовжити?
+string	dialog_replace_music_title	Замінити чергу
+string	edit_list	Редагувати
+string	error_a11y_label	Помилка: недійсне
+string	exit_app_warning	Вийти з ZEEKR Music?
+string	finish	Готово
+string	go_login	Увійти
+string	goods_buy_now	Купити
+string	hirtory_sing	Пісні
+string	hirtory_sound	Аудіо
+string	history_empty	Історії немає
+string	homepage_brand	Радіо брендів
+string	homepage_hot	Топ-чарти
+string	homepage_latest	Новинки
+string	homepage_load_more	Оновити
+string	homepage_menu_audition	Прев’ю
+string	homepage_menu_category	Жанри
+string	homepage_menu_collection	Обране
+string	homepage_menu_like	Для вас
+string	homepage_menu_limit_free	Безкоштовно
+string	homepage_menu_vip_limit	VIP безкош.
+string	homepage_more_category	Більше жанрів
+string	homepage_no_more	Більше немає
+string	homepage_recommend_album	Реком. альбоми
+string	homepage_recommend_music	Реком. плейлисти
+string	homepage_refresh_fail	Помилка, спробуйте пізніше
+string	homepage_refresh_success	Оновлено
+string	homepage_vip	Вибір VIP
+string	load_fail_retry	Помилка, спробуйте пізніше
+string	loading	Завантаж.…
+string	login_close	Закр.
+string	login_control	Пульт
+string	login_privacy_protocol	Конфіденційність
+string	login_qr_or	та
+string	login_qr_title	QR-код дійсний 90 с
+string	login_qr_warning	Скануючи, ви погоджуєтеся з
+string	login_title	Скануйте в застосунку ZEEKR, щоб увійти
+string	login_user_protocol	Угода користувача
+string	loginremind_title	Увійдіть, сканувавши в застосунку ZEEKR
+string	media_bt_app_name	Музика BT
+string	media_usb_app_name	Музика USB
+string	mine_cancel_exit	Залишитися
+string	mine_clear_cache	Очистити кеш
+string	mine_clear_cache_fail	Не вдалося очистити
+string	mine_clear_cache_no	Не зараз
+string	mine_clear_cache_yes	Очистити
+string	mine_collection	Обране
+string	mine_confirm_exit	Вийти
+string	mine_hi_res	Hi-Res
+string	mine_history	Нещодавні
+string	mine_login_label	Увійдіть, щоб отримати більше
+string	mine_login_now	Увійти
+string	mine_logout_tip	Вийти з цього облікового запису?
+string	mine_not_login	Не ввійшли
+string	mine_privacy_protocol	Конфіденц.
+string	mine_set_up	Налашт.
+string	mine_station	ZEEKR Radio
+string	mine_sure_clear_cache	Очистити %s кешу?
+string	mine_user_protocol	Угода корист.
+string	mine_vip	Підписка
+string	mine_vip_disable	Немає підп.
+string	mine_vip_fail	Помилка, повторіть
+string	mine_vip_get_again	Повторити
+string	mine_vip_get_now	Підписатися
+string	mine_vip_loading	Завантаж.…
+string	mine_vip_not_login	Не ввійшли
+string	network_disconnect	Немає мережі
+string	network_error	Проблема з мережею, перевірте з’єднання
+string	nothing	Немає
+string	order_create_fail	Помилка замовлення
+string	pay	Оплач.
+string	pay_cancel	Оплату скасовано
+string	pay_select_title	Спосіб оплати
+string	pay_title_vip_word	Підписка
+string	pay_toggle_way	Змінити спосіб оплати
+string	pay_type_sony	Купити Sony
+string	pay_type_xmly	Купити Ximalaya
+string	pay_vip_agreement	Угода про підписку
+string	pay_way_alipay	Alipay
+string	pay_way_alipay_wechat	Оплата Alipay / WeChat
+string	pay_way_wechat	WeChat Pay
+string	personal_name	Список збору персональних даних
+string	play_all	Відтвор. все
+string	player_Album_label	Альбом:
+string	player_artist_label	Виконавець:
+string	player_play_last	Ліва кнопка: попередня
+string	player_play_next	Права кнопка: наступна
+string	privacy_name	Конфіденц.
+string	privacy_outline_name	Коротко про конфіденц.
+string	protocol_agree	Погодитися й продовжити
+string	protocol_cancel	Скасувати й вийти
+string	protocol_load_fail	Помилка, спробуйте знову
+string	protocol_ok	Зрозуміло
+string	protocol_title	Вітаємо в ZEEKR Music
+string	recent_album_program	Епізоди альбому
+string	recent_program	Епізоди
+string	refresh	Оновити
+string	reload	Перезавант.
+string	reloadMore	Ще
+string	search_delete	Очистити історію пошуку?
+string	search_history_title	Історія пошуку
+string	search_key_empty	Немає результатів за цим запитом, спробуйте інший
+string	search_keyword	Пошук
+string	search_name	Пошук
+string	search_no_result	Немає результатів за цим запитом, спробуйте інший
+string	search_recommend_title	Пропозиції
+string	search_result_title	Результати
+string	search_top10_title	Топ-10 запитів
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	searching	Пошук
+string	select_all	Усі
+string	setup_name	Налашт.
+string	sony_vip_name	Sony Select
+string	update_protocol_privacy	Політику конфіденційності оновлено
+string	update_protocol_privacys	Політику конфіденційності оновлено. Прочитайте й натисніть «Погодитися й продовжити»
+string	update_protocol_user	Угоду користувача оновлено
+string	update_protocol_users	Угоду користувача оновлено. Прочитайте й натисніть «Погодитися й продовжити»
+string	user_name	Угода корист.
+string	version_name	Про версію
+string	vip	VIP
+string	xmly_vip_name	Ximalaya VIP
+string	xpopup_image_not_exist	Немає зображення
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в галерею
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_component_spring	Пружина
+string	zeekr_show_psw	Показати пароль

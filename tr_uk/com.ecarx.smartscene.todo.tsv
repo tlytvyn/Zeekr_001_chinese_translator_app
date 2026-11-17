@@ -1,0 +1,20 @@
+string	app_name	11	XSFSmartScene	智能情景
+string	chip_text	14	Chip text	
+string	eui_app_demo_tip	21	This is a test version	该应用为测试版本
+string	eui_tip_btn_text	16	%1$s(%2$ds)	
+string	eui_tip_cancel	6	Cancel	取消
+string	eui_tip_confirm	6	Confirm	确定
+string	eui_tip_no_network_action_enter_app	11	Enter the application	进入应用
+string	eui_tip_no_network_message	33	Network failure. Please check your network settings.	网络未连接，请检查网络设置
+string	eui_tip_setup_network	11	Set the network	设置网络
+string	eui_tip_setup_network2	11	Set	设置网络
+string	exposed_dropdown_menu_content_description	26	Show dropdown menu	
+string	keyword_eav	9	Charging station	充电桩
+string	keyword_oil	9	Gas station	加油站
+string	str_error_msg	26	System busy, try again later	系统繁忙，请稍后再试
+string	str_image_service_area_hint	34	%1$s ahead, %2$s km away	前方%s，距离当前位置%s公里
+string	str_image_service_no_area	45	No service area ahead, check again later	抱歉，前方暂无服务区，请稍后重新查看
+string	str_image_weather_info_hint	22	%1$s today: %2$s, temperature %3$s	%s今天%s，气温%s
+string	str_weather_error_msg	36	Only available while navigating	该功能只能在导航开启时使用哦
+string	vr_remind_tips	33	Say “remind me” to add a reminder	您可以说“提醒我”来设置日程
+string	vr_stopby_tips	19	Where do you want to stop?	您需要途经哪里

@@ -1,0 +1,121 @@
+array	audio_file	7	.mp3 ‖ .wav ‖ .wma ‖ .midi ‖ .ra ‖ .aac	
+array	file_name	6	Images ‖ Videos ‖ Audio ‖ Large ‖ APKs ‖ Leftovers ‖ Rarely used ‖ Duplicates	图片 ‖ 视频 ‖ 音频 ‖ 大文件 ‖ 安装包 ‖ 卸载残留 ‖ 不常用应用 ‖ 重复文件
+array	pic_type_name	11	Similar ‖ Blurry ‖ Over 1 year	相似图片 ‖ 模糊图片 ‖ 一年前的图片
+array	picture_file	7	.png ‖ .jpg ‖ .jpeg ‖ .ai ‖ .psd ‖ .bmp	
+array	support_game_list	27	com.fantablade.icey ‖ com.Apinsky.Lite2048 ‖ com.yongshi.tenojo.ys ‖ com.cottongame.mrpumpkin2Demo	
+array	video_file	7	.mp4 ‖ .swf ‖ .flv ‖ .mpg ‖ .wmv ‖ .mov ‖ .rm ‖ .ram ‖ .avi	
+array	video_type_name	14	Large videos ‖ Small videos	大容量视频 ‖ 小容量视频
+string	app_cache	6	Cache	缓存
+string	app_clean	11	App cleanup	应用清理
+string	app_data	11	App data	应用数据
+string	app_name	11	Car Manager	车机管家
+string	app_size	11	App size	应用大小
+string	available_user_ram	16	Available	可用运行内存
+string	available_user_rom	16	Available	可用存储空间
+string	back	6	Back	返回
+string	brvah_load_complete	16	Click to load more	点击加载更多
+string	brvah_load_end	16	No more data	没有更多数据
+string	brvah_load_failed	26	load more failed	加载失败，请点我重试
+string	brvah_loading	18	Loading...	正在加载中...
+string	cancel	6	Cancel	取消
+string	clean_advertise_garbage	11	Ad junk	广告垃圾
+string	clean_app_cache	11	App junk	应用垃圾
+string	clean_cache	11	Clear cache	清除缓存
+string	clean_cache_content	38	This can't be undone. Clear now?	清除后将无法恢复，确认清除吗？
+string	clean_cache_title	11	Clear cache	清除缓存
+string	clean_data	11	Clear data	清除数据
+string	clean_data_content	91	All data including files, settings, accounts and databases will be cleared. This can't be undone. Clear now?	清除的数据包括所有文件、设置账号、数据库等，清除后将无法恢复，确认清除吗？
+string	clean_data_title	11	Clear data	清除数据
+string	clean_no_data	16	No data yet	尚无清理数据
+string	clean_stat	19	Last 14 days	近14天清理数据
+string	clean_system_cache	11	System cache	系统缓存
+string	clean_system_garbage	11	System junk	系统垃圾
+string	clening	13	Cleaning...	清理中...
+string	deep_back	6	Back	返回
+string	deep_clean	11	Deep clean	深度清理
+string	deep_clean_all_checked	6	All	全选
+string	deep_clean_cancel_all_checked	11	Deselect all	取消全选
+string	deep_clean_checked_sub_selected_sure	11	Confirm	确认选择
+string	deep_clean_checked_sub_selected_total_size	19	(%1$s selected)	（已选择%1$s）
+string	deep_clean_content	43	Deleted files can't be restored. Clean now?	清理文件后无法恢复，请确认是否清理
+string	deep_clean_done	17	Clean (%1$s)	清理（%1$s）
+string	deep_clean_negative	6	Cancel	取消
+string	deep_clean_selected	10	Selected:	已选择:
+string	deep_clean_tip	31	System is clean. Try later.	系统很干净，请稍后再试。
+string	error_a11y_label	20	Error: invalid	
+string	finish	6	Done	完成
+string	finish_optimize	11	Optimized	优化完成
+string	finish_optimize_toast	19	Already optimized	已经是最优状态
+string	keep_user_data	23	Keep app user data	保留应用的用户数据
+string	loading	13	Loading...	加载中...
+string	manager_allowed_start	14	Allowed	已允许启动
+string	manager_auto	11	Auto	自动管理
+string	manager_auto_all	16	Auto-manage all	全部自动管理
+string	manager_auto_all_cancel	21	Cancel auto for all	取消全部自动管理
+string	manager_background	11	Background	后台管理
+string	manager_background_tip	147	When auto management is on, the system detects usage scenarios and restricts background activity of related apps so foreground apps and services run more smoothly, but messages may be delayed.	自动管理开启后，系统将自动识别场景，对相关应用后台运行加以限制，以使前台应用和服务运行更加流畅，但可能无法及时接收消息。
+string	manager_manual	11	Manual	手动管理
+string	manager_prohibited_start	14	Blocked	已禁止启动
+string	manager_start	11	App launch	启动管理
+string	manager_start_tip	142	When auto management is on, the system detects usage scenarios and restricts launching of related apps so foreground apps and services run more smoothly, but messages may be delayed.	自动管理开启后，系统将自动识别场景，对相关应用启动加以限制，以使前台应用和服务运行更加流畅，但可能无法及时接收消息。
+string	no_app_un_install	21	No removable apps	暂无可卸载的应用
+string	optimize	11	Quick optimize	一键优化
+string	optimize_result_tip1	11	Freed	成功释放
+string	optimize_result_tip2	6	memory	内存
+string	optimize_result_tip3	6	Cleaned	清理
+string	optimize_result_tip4	6	files	文件
+string	optimize_right	11	Optimize now	立即优化
+string	optimize_size	14	%1$.1f GB	
+string	optimizing	13	Optimizing...	优化中...
+string	optimizing_checked_node_size	27	(%1$s, %2$s selected)	（%1$s，已选择%2$s）
+string	optimizing_checked_scan_rubbish	19	(%1$s files)	（%1$s个文件）
+string	optimizing_checked_scan_type	32	%1$s (%2$s, %3$s selected)	%1$s（%2$s，已选择%3$s）
+string	optimizing_checked_scan_type_none_data	17	%1$s (%2$s)	%1$s（%2$s）
+string	optimizing_checked_size	24	%1$s (%2$s selected)	%1$s（已选择%2$s）
+string	optimizing_clean_finish	11	Cleaned	清理完成
+string	optimizing_lookup_all	26	View all\n(%1$s)	"查看全部\n（%1$s）"
+string	optimizing_scan_again	11	Rescan	再次扫描
+string	optimizing_scan_finish_rubbish_size	22	%1$s junk cleaned	已清理 %1$s 垃圾
+string	optimizing_scan_finish_tip	28	Done, system refreshed	清理完成，系统焕然一新
+string	optimizing_scan_now	11	Start scan	开始扫描
+string	optimizing_scan_rubbish	31	Cleanable files (%1$s)	文件可清理（%1$s个文件）
+string	optimizing_scanning	13	Scanning...	扫描中...
+string	optimizing_scanning_tip	40	Deep scanning storage to free space	深度检测存储占用，以释放更多空间
+string	optimizing_smart_checked	11	Smart select	智能选择
+string	optimizing_stop_scan	11	Stop scan	停止扫描
+string	optimizing_tip1	4	Total	共
+string	optimizing_toast	14	Optimizing...	正在优化中
+string	ram	11	Memory (RAM)	运行内存
+string	rationale_ask	91	This app may not work correctly without the requested permissions.	
+string	rationale_ask_again	166	This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.	
+string	remind_video_delete_content	53	Includes dashcam and Sentry Mode videos. Clean with care.	包含行车记录仪及哨兵模式等视频，请谨慎清理
+string	rom	11	Storage	存储空间
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	select_all	6	All	全选
+string	storage_content	31	Storage access permission required	需要申请设备存储访问权限
+string	tab_app_clean	11	App cleanup	应用清理
+string	tab_app_manager	11	App manager	应用管理
+string	tab_clean_statistics	11	Statistics	清理统计
+string	tab_deep_clean	11	Deep clean	深度清理
+string	tab_one_touch_optimize	11	Quick optimize	一键优化
+string	tab_optimize	11	Check & boost	体检加速
+string	title_settings_dialog	29	Permissions Required	
+string	total	6	Total	总计
+string	total_ram	14	Total RAM	总运行内存
+string	total_rom	14	Total storage	总存储内存
+string	uninstall	6	Remove	卸载
+string	uninstallAll	11	Remove all	全部卸载
+string	uninstall_dialog_content	36	This can't be undone. Uninstall?	卸载后无法恢复，确认卸载吗？
+string	unselect_all	11	Deselect all	取消全选
+string	used_name	11	Used	已用空间
+string	user_ram	11	Used	已用内存
+string	user_rom	11	Used	已用存储
+string	video	6	Videos	视频
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

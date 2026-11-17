@@ -1,0 +1,62 @@
+string	app_name	11	Sentry mode	哨兵模式
+string	cancel	6	Cancel	取消
+string	check	6	View	查看
+string	common_confirm	6	Confirm	确认
+string	common_know	9	Got it	知道了
+string	confirm	6	Confirm	确认
+string	error_a11y_label	20	Error: invalid	
+string	gif_record_text	11	Recording	正在记录
+string	guard_mode	11	Sentry mode	哨兵模式
+string	guide	146	Sentry mode uses extra battery power and exits automatically below 20%. When triggered, it plays a loud alarm, so do not leave people or animals in the vehicle.	启用哨兵模式期间，会消耗额外的电池电量，低于20%时自动退出。触发报警后哨兵模式会播放高声音乐，请避免车内留置人员或动物。
+string	guide_page1_desc	112	Monitoring starts 30 seconds after the vehicle is locked. When a person enters the detection range or the vehicle detects unusual vibration, one minute of video before and after is recorded.	功能开启且锁⻋30秒后启动监测，有⾏⼈侵⼊⻋辆识别范围内或⻋辆发⽣异常震动时，录制前后各⼀分钟视频。
+string	guide_page1_desc2	69	On unusual vibration, the hazard lights flash and the horn sounds, and the phone app receives an alert.	其中发⽣异常震动时将开启双闪鸣笛，同时⼿机app会收到提醒。
+string	guide_page1_title	11	How it works	功能说明
+string	guide_page2_desc	34	Exits automatically when battery is below 20%.	电量低于20%时功能⾃动退出。
+string	guide_page2_desc2	155	To save power, the switch stays on for the current session only. It turns off when driving starts; turn it on again next time.	为避免额外电量消耗，<font color="#F88650">功能开关仅当次有效</font>，检测到车辆行驶后功能将退出，下次使用哨兵时须重新开启。
+string	guide_page2_title	11	Auto exit	自动退出
+string	guide_page3_desc	102	Without a USB drive, the built-in storage provides up to 8 GB. When full, the oldest videos are deleted first.	未插⼊U盘时，⻋辆内置硬盘⾄多提供8G存储空间，空间不⾜时将按照时间顺序优先删除⽼旧视频。
+string	guide_page3_desc2	127	To protect the built-in storage, add a USB drive as shown. Use a FAT32 USB drive up to 256 GB.	为保护⻋辆内置硬盘寿命，建议按照图示添加U盘使用。建议使用256G以内的FAT32格式U盘，推荐前往极物商城购买。
+string	guide_page3_title	10	Add USB drive	添加U盘
+string	guide_page4_desc	350	• Detection is weaker in poor light or when cameras are dirty. \n• People passing slowly may trigger false alerts. \n• Vibration detection does not cover light scratches or knocks. \n• Sentry is unavailable while Pet, Rest and other modes are on.	"• 环境照明不佳、摄像头被污物遮挡时，哨兵识别能力会降低。 \n• ⾏⼈缓慢经过⻋辆识别范围时可能会触发误识别。 \n• 震动监测不适用于车门油漆磕碰、被划等轻微震动情况。 \n• 开启宠物、休憩等场景模式时哨兵不可⽤，OTA升级时哨兵会退出。 \n• 车内温度过高或过低时，U盘可能无法工作，视频优先存储到车机中。"
+string	guide_page4_desc_2	170	Note: a loud alarm plays when triggered, so do not leave people or animals inside. Sentry records video; use only where local law allows.	<font color="#F88650">注意：</font>触发报警后会播放⾼⾳警报，请避免⻋内留置⼈员或动物。哨兵模式具有视频拍摄功能，请在当地法规允许区域开启。
+string	guide_page4_title	11	Limitations	功能限制
+string	hv_failure	50	System fault detected, cannot turn on. Please contact service	抱歉检测到系统故障，开启失败，请联系售后
+string	i_konw	11	Got it	我知道了
+string	konw	9	Got it	知道了
+string	never_no_hint	11	Don’t show again	不再提示
+string	no_usb_found	209	Sentry is on but no USB drive found. Alerts work, videos cannot be saved. Check:\n· USB drive inserted correctly \n· Size between 512 MB and 256 GB \n· Format is FAT32 \n· Drive is not damaged	"哨兵模式已开启，未检测到U盘，可接收报警通知，但无法存储视频。请检查后重试。\n· U盘是否插入正确位置 \n· U盘容量是否在512M和256G之间 \n· U盘格式是否为FAT32 \n· U盘是否损坏"
+string	percent	14	Progress: %s %%	进度:%s %%
+string	report_hint	93	*Objects near the parking spot may be misdetected. Detection in this early-access version is being improved	*停车位置附近可能存在容易误识别的对象，当前尝鲜版功能的识别算法正加速优化中
+string	safe_security_sentinel_mode_user_agreement	11	User agreement	用户协议
+string	safe_security_sentinel_mode_user_agreement_content	183	When on, the exterior cameras record and process data. Follow local laws and use this feature only where allowed; otherwise you are responsible for the consequences.	"当您开启该功能后，车身周身摄像头将被打开并收集处理信息，请注意所在当地法规，只有在法规允许的情况下才能开启本功能，否则后果由用户自身承担。        "
+string	searchbar_scrolling_view_behavior	91	com.google.android.material.search.SearchBar$ScrollingViewBehavior	
+string	sentinel_mode_description_1	11	How it works	功能说明
+string	sentinel_mode_description_10	117	A loud alarm plays when triggered, so do not leave people or animals in the vehicle. Sentry mode records video; do not use it in public areas	触发报警后会播放高音警报，请避免⻋内留置人员或动物。哨兵模式具有视频拍摄功能，请勿在公共区域开启
+string	sentinel_mode_description_3	15	App notifications	APP消息通知
+string	sentinel_mode_description_4	77	Turn on ZEEKR app notifications to receive vehicle status right away	为了方便第一时间接收⻋辆状态信息，请及时打开极氪app消息通知功能
+string	sentinel_mode_description_5	10	Add USB drive	添加U盘
+string	sentinel_mode_description_7	11	Power consumption	电量损耗
+string	sentinel_mode_description_8	108	This feature uses extra power and exits automatically below 20% battery. To save power, it stays on for the current session only	功能开启后会消耗额外电量，电量低于20%时功能自动退出。为避免电量消耗，功能开关仅当次有效
+string	sentinel_mode_description_9	6	Note	注意
+string	sentry_is_aactive	20	Sentry mode active	哨兵模式 已激活
+string	sentry_mode	11	Sentry mode	哨兵模式
+string	sentry_mode_activation	20	Sentry mode active	哨兵模式 已激活
+string	sentry_mode_report	21	Sentry mode report	哨兵模式监测报告
+string	sentry_mode_text	16	Sentry Mode	
+string	sentry_report_alarm	21	%1$s high-risk events.	高风险事件%s起。
+string	sentry_report_alert	26	%1$s low-risk events recorded, 	记录低风险事件%s起，
+string	sentry_report_norisk	48	No risk events detected. Drive with peace of mind.	未检测到⻛险事件发⽣，请您继续安心用车。
+string	sentry_report_time	45	Sentry mode guarded your vehicle for %1$s h %2$s min, 	哨兵模式已为您持续守护%s⼩时%s分钟，
+string	sentry_report_usbr	67	The USB drive is slow and may miss risk videos. Please replace it.	同时检测到U盘性能差，可能漏存风险视频，请及时更换U盘。
+string	soc_insufficient	57	Battery too low, cannot turn on. Turn on with battery above 25%	抱歉电量不足，开启失败，建议电量25%以上再开启
+string	usb_insufficient	47	USB storage low, recordings may not be saved. Please free up space	USB内存不足，影响数据保存，请及时清理
+string	usb_not_space	84	Sentry mode is on. USB drive has less than 2 GB free (under 10 minutes of recording). Please free up space	哨兵模式已开启，当前U盘可⽤空间⼩于2G，可录制时⻓不⾜10分钟，请及时清理
+string	usb_storage_slow	142	Sentry mode is on. USB drive is slow and recordings may be incomplete. See the owner manual for USB drive requirements	哨兵模式已开启，检测到U盘读写性能较差，可能导致视频录制不完整，建议极物商城购买官⽅推荐U盘。其他U盘参数要求详⻅⻋主⼿册
+string	xpopup_image_not_exist	22	Image not exist	Image not exist
+string	xpopup_save	7	save	save
+string	xpopup_saved_fail	24	Image save failed	Image save failed
+string	xpopup_saved_to_gallery	20	Saved to album	Saved to album
+string	zeekr_back	6	back	返回
+string	zeekr_cancel	6	cancel	取消
+string	zeekr_loading	11	loading..	加载中..
+string	zeekr_show_psw	11	show password	显示密码

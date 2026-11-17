@@ -1,0 +1,75 @@
+array	in_colors_light	#4b03a9f4 ‖ #3303a9f4 ‖ #1903a9f4
+string	app_name	Музика
+string	bt_a2dp_disconnect	"Не вдалося підключити Bluetooth-музику. Переконайтеся, що на телефоні в Bluetooth увімкнено «Медіааудіо»."
+string	bt_disconnect	Пристрій відключено
+string	bt_music	Bluetooth-музика
+string	bt_name	Bluetooth
+string	bt_not_connect	Пристрій не підключено
+string	bt_not_connected	Пристрій Bluetooth не підключено
+string	chip_text	Текст чипа
+string	collect	Обране
+string	collect_empty	Обраного немає
+string	collect_more_than_thirty	До обраного можна додати до 30 станцій
+string	connect_a2dp	Підключити
+string	connect_bt	Підкл. Bluetooth
+string	customactivityoncrash_error_activity_close_app	Закрити
+string	customactivityoncrash_error_activity_error_details	Журнал помил.
+string	customactivityoncrash_error_activity_error_details_clipboard_label	Інфо помилки
+string	customactivityoncrash_error_activity_error_details_close	Закрити
+string	customactivityoncrash_error_activity_error_details_copied	Скопійовано
+string	customactivityoncrash_error_activity_error_details_copy	Копіювати
+string	customactivityoncrash_error_activity_error_details_title	Деталі
+string	customactivityoncrash_error_activity_error_occurred_explanation	Сталася неочікувана помилка.\nВибачте за незручності.
+string	customactivityoncrash_error_activity_restart_app	Перезапуск
+string	empty_radio	Список станцій порожній
+string	incompatible_usb_device	Пристрій не розпізнано
+string	label	Мітка
+string	loading	Завантаж...
+string	local_music_fail	Помилка відтв.
+string	local_music_fail_next	Помилка відтворення. Автоматично вмикається наступна пісня
+string	lyrics	Текст
+string	no_init	Невідомо
+string	no_init_music	Без назви
+string	no_lrc_tip	Тексту немає
+string	no_lyrics	Тексту немає
+string	no_music	Немає
+string	no_music_flag	Немає
+string	no_singer	Невідом. виконав.
+string	no_title	Без назви
+string	no_usb_device	Вставте USB-пристрій
+string	no_usb_music	Немає музики на USB
+string	opening	Запуск...
+string	play_all	Грати все
+string	playlist	Плейлист
+string	radio_collect_cancel	Видалено з обраного
+string	radio_collect_max_tip	До обраного можна додати до 30 станцій
+string	radio_collect_success	Збережено
+string	radio_list	Станції
+string	radio_name	Радіо
+string	start_radio	Запуск...
+string	storage_permission_remind	Щоб читати дані з USB-пристрою, надайте дозвіл на читання сховища.
+string	unknown	Невідомо
+string	update_ing	Оновлення
+string	update_list	Оновити
+string	usb1_unmount	USB1 відключено
+string	usb2_unmount	USB2 відключено
+string	usb_click_play	Торкн. для відтв.
+string	usb_empty_song	Невідомо
+string	usb_name	USB
+string	usb_scan_finish	Скановано
+string	usb_unmount_tips	USB-пристрій вийнято
+string	wd_bt	Bluetooth-музика
+string	wd_local	Музика
+string	wd_music	Музика
+string	wd_news	Новини
+string	wd_radio	Радіо
+string	wd_station	Аудіокн.
+string	wd_usb	USB-музика
+string	xpopup_image_not_exist	Зображення немає
+string	xpopup_save	Зберегти
+string	xpopup_saved_fail	Не вдалося зберегти
+string	xpopup_saved_to_gallery	Збережено в альбом
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж...
+string	zeekr_show_psw	Показати пароль

@@ -1,0 +1,34 @@
+array	apk_file	.apk ‖ .apks ‖ .APK ‖ .APKS
+array	audio_file	.mp3 ‖ .MP3 ‖ .wav ‖ .WAV ‖ .wma ‖ .WMA ‖ .midi ‖ .MIDI ‖ .ra ‖ .RA ‖ .aac ‖ .AAC
+array	filter_out_dirs	/storage/emulated/0/Android/data ‖ /storage/emulated/0/AutoSdkAssets ‖ /storage/emulated/0/tts ‖ /storage/emulated/0/com.ecarx.multimedia
+array	game_mode_group	com.zeekr.housekeeper
+array	game_mutex_group	com.zeekr.housekeeper
+array	map_mode_group	com.zeekr.housekeeper
+array	map_mutex_group	com.autonavi.amapauto
+array	media_mode_group	com.zeekr.housekeeper
+array	media_mutex_group	com.bilibili.bilithings ‖ com.arcvideo.car.video
+array	path_list_ad	/data/media/0/Android/data/com.netease.cloudmusic/cache/Ad/ ‖ /data/media/0/Android/data/com.ss.android.article.news/splashCache/ ‖ /data/media/0/sina/weibo/.weiboadcache ‖ /data/media/0/netease/cloudmusic/Ad/ ‖ /storage/emulated/0/netease/adcache ‖ /data/media/0/qqmusic/splash/ ‖ /data/data/com.tencent.qqmusic/files/tad_cache/ ‖ /data/data/com.tencent.qqmusic/app_adnet/ ‖ /data/data/com.tencent.qqmusic/files/tad_cache/ ‖ /data/media/0/autonavi/splash ‖ /data/media/0/autonavi/afpSplash
+array	path_list_log	/data/system/dropbox ‖ /data/tombstones ‖ /data/anr ‖ /storage/emulated/0/vrlog/VRLogger
+array	picture_file	.png ‖ .PNG ‖ .jpg ‖ .JPG ‖ .jpeg ‖ .JPEG ‖ .ai ‖ .AI ‖ .psd ‖ .PSD ‖ .bmp ‖ .BMP
+array	support_game_list	com.yongshi.tenojo.zeekr ‖ com.Apinsky.Lite2048.zeekr ‖ com.netease.aceracer ‖ com.netease.party ‖ com.netease.wowsb ‖ com.netease.tom ‖ com.netease.g104.cn ‖ com.netease.vlfcn ‖ cn.jj.tv
+array	system_app_black_list	com.baidu.iov.dueros.videoplayer ‖ com.arcvideo.car.video ‖ com.bilibili.bilithings ‖ com.netease.cloudmusic.iot
+array	video_file	.mp4 ‖ .MP4 ‖ .swf ‖ .SWF ‖ .flv ‖ .FLV ‖ .mpg ‖ .MPG ‖ .wmv ‖ .WMV ‖ .mov ‖ .MOV ‖ .rm ‖ .RM ‖ .ram ‖ .RAM ‖ .avi ‖ .AVI
+array	white_game_list	com.Apinsky.Lite2048.zeekr
+array	whitelist	com.zeekr.housekeeper ‖ com.ecarx.sdk.openapi ‖ com.ecarx.mycar ‖ ecarx.launcher3 ‖ com.zeekr.local ‖ com.android.mtp ‖ com.android.webview ‖ com.android.providers.media ‖ com.android.providers.downloads ‖ android.car.usb.handler
+string	app_name	Обслуговування
+string	chip_text	Текст чипа
+string	clear_like	Очистити
+string	clear_like_hand	Очистити вручну (%1$s)
+string	clear_succeed	Звільнено %1$s, доступно %2$s
+string	clear_wait	Пізніше
+string	disk_high_tip	Сховище майже заповнене. Система призупинить роботу служб. Очистіть зараз або зверніться до місцевого сервісного центру.
+string	disk_low_again	Звільнено мало місця, це може вплинути на роботу бортових програм. Продовжте очищення.
+string	disk_space_content	Мало місця в сховищі, це може вплинути на роботу бортових програм. Звільніть місце якнайшвидше.
+string	disk_space_high_title	Мало пам’яті
+string	disk_space_title	Мало пам’яті
+string	list_clear_auto	Мало пам’яті
+string	tip_time_high	Звільнено мало місця. Очистіть зараз або зверніться до місцевого сервісного центру.
+string	warning_of_driver_run_app	Недоступно водієві з міркувань безпеки
+string	warning_of_driver_run_game	З міркувань безпеки водій не може грати
+string	warning_of_run_game_on_driving	З міркувань безпеки зупиніться й увімкніть P перед грою
+string	warning_of_run_on_driving	З міркувань безпеки — лише на P

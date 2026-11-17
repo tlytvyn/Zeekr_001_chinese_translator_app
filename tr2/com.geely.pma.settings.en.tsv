@@ -1,0 +1,56 @@
+array	adas_copilot_and_parking	Driver Assist ‖ Auto Parking ‖ NZP Pilot
+array	adas_fix_speed_percentage	Fixed km/h ‖ Percent %
+array	adas_remind_type	Beep ‖ Vibrate
+array	adas_remind_type_display_and_buzzing	Display ‖ Beep
+array	adas_remind_type_display_and_buzzing_with_off	OFF ‖ Display ‖ Beep
+array	adas_remind_type_with_off	OFF ‖ Beep ‖ Vibrate
+array	adas_search_car_remind_type	Lights ‖ Lights+Sound
+array	adas_sensitivity_level	Late ‖ Medium ‖ Early
+array	adas_sensitivity_level_with_off	OFF ‖ Late ‖ Medium ‖ Early
+array	common_regeneration_level_bx	Low ‖ Standard ‖ High
+array	dc_door_and_window	Doors ‖ Windows
+array	display_array_home_weather_effect	Dynamic ‖ Sunny ‖ Rain ‖ Snow
+array	door_sound_ef1e_4s	Harp ‖ Light ‖ Dreamy
+array	lighting_home_light	Off ‖ 30s ‖ 30 ‖ 30s ‖ 30 ‖ 60s ‖ 60 ‖ 60s ‖ 60 ‖ 90s ‖ 90 ‖ 90s ‖ 90
+array	ota_tabs	OTA ‖ Log upload
+string	adas_automatically_give_up_the_lane_in_nzp	On supported roads, assisted driving follows\nyour navigation route
+string	adas_automatically_give_up_the_lane_open_nzp	When on, the system announces an upcoming\nauto lane change and you confirm it\nwith the turn signal lever
+string	adas_automatically_give_up_the_lane_openxi_nzp	When on, auto lane changes are announced\nby sound
+string	common_conn_ap_cellular_recon_content	Reconnecting cellular takes 2–4 minutes. Cellular, WLAN and\nhotspot are unavailable meanwhile. Continue?
+string	common_conn_music_bt_message	Turns on with Bluetooth music
+string	common_conn_point_tip	Hotspot may use extra mobile data
+string	common_key_unlock_tip2	First key press unlocks driver door and charge port only,\nsecond press unlocks all doors
+string	common_multimedia_sound_effect	Yamaha S3D™ sound effects
+string	common_native_name_edit	Device name: %1$s
+string	common_term_service2	Terms of Service
+string	common_textID_pop_exit_tow_mode_info	Exit Tow Mode when any condition is met
+string	common_textID_pop_exit_tutorial	Tow Mode exits when either condition is met:\n\n 1. Shift to P and lock from outside; 2. Shift to D or R and start a new trip
+string	connect_bluetooth_common_device_set	Device settings
+string	connect_bluetooth_connect_first	Priority device
+string	connect_bluetooth_phone_privacy	Phone privacy
+string	connect_btn_ignore_device	Forget
+string	display_text_dim_display_lyrics_display_hint	Non-driving info on the driver display (media, lyrics, etc.) is for convenience only. Stay attentive while driving and view it only when it is safe
+string	drivin_suspension_for_easy_access_confirm	Before parking, watch for low obstacles around the vehicle\nto avoid scraping while the body lowers
+string	drivin_suspension_for_easy_access_tip_content	Before parking, watch for low obstacles around the vehicle\nto avoid scraping while the body lowers. This feature requires an\nair suspension update at a service center
+string	drivin_suspension_for_easy_access_tip_diver	When on, the suspension lowers after parking and\nunbuckling the driver seatbelt, for easier entry and exit
+string	driving_suspension_content_tip1	Suspension lowering\nWatch for obstacles to avoid scraping
+string	driving_suspension_content_tip2	Suspension stopped lowering\nReturning to previous height
+string	driving_widget_tire_pressure_result_ok_tip	Correct tire pressure reduces energy use and tire wear,\nand improves handling
+string	easy_enter_tips	Entering: press the brake, the seat moves to driving position\nExiting: in P, unbuckle or open the driver door, the seat moves back
+string	energy_charge_battery_heat_intro	Keeps the battery warm with grid power for 24h after reaching target charge.\nRecommended above 40℃ or below 0℃
+string	energy_charge_pre_heating_button_tips	Starts conditioning the battery now for faster charging. Uses some energy; the longer it runs, the more it uses. Recommended on the way to a fast charger
+string	energy_charge_pre_heating_switch_tips	When navigating to a charger, the system conditions the\nbattery before charging for faster charging. Uses extra energy
+string	safety_safe_security_sentinel_mode_user_agreement_content	When on, the exterior cameras record and process data. Follow local laws and use this feature only where allowed; otherwise you are responsible for the consequences
+string	safety_sentinel_mode_keep_mirror_open_describe	When on, mirrors unfold 30s after Sentry turns on and the car locks, so the mirror cameras have no blind spots. Unfolding remotely may hit nearby objects.
+fix	common_dc_door_front_angle	Front door max
+fix	common_dc_door_rear_angle	Rear door max
+fix	common_dc_door_trunk_angle	Trunk max opening
+fix	common_all_door_close	Doors closed
+fix	common_door_control_pop	Door control popup
+fix	common_door_control_pop_tip	Shows door controls when shifting into or out of P
+fix	common_module_sound_notify	Sound
+fix	dc_seat_wing_driver	Adaptive bolster
+fix	hmi_seat_adjust_part	Adjust
+fix	dc_seat_habits	Save profile
+fix	energy_btn_power_external	Power to devices
+fix	energy_btn_power_other	Power to vehicle

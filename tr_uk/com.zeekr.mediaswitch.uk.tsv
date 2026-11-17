@@ -1,0 +1,6 @@
+string	app_name	md_media_switch
+string	bluetooth_no_connect	Bluetooth – не підключено
+string	chip_text	Текст чипа
+string	label	Мітка
+string	udisk_no_connect	USB – не підключено
+string	udisk_yes_connect	USB-музика – My USB

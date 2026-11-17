@@ -1,0 +1,6 @@
+string	app_widget_desc_tire	Tire pressure card
+string	main_bar_trip_consumption_driving_cycle	Trip 2 (since last stop)
+string	maintenance_notify_desc	Your car is due for service. Please schedule maintenance soon.
+string	mini_bar_trip_consumption_charing	Trip 2 (since last charge)
+string	tire_result_fault_multiple	Multiple tire system faults\nService required
+string	tire_warn_call_sensor	Sensor fault. Contact the after-sales service center at 4000-036-036 or visit the nearest service point for repair.

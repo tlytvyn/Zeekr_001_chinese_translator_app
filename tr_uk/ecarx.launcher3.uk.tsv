@@ -1,0 +1,280 @@
+array	aqi_levels	Відм. ‖ Добре ‖ Помір. ‖ Погано ‖ Шкідл. ‖ Дуже шкідл. ‖ Небезп.
+array	black_list_dc1e	com.android.settings ‖ com.yfvet.engineeringmode ‖ com.geely.pma.settings ‖ com.geely.pma.settings.seat ‖ com.geely.pma.climate ‖ com.zeekr.speech.adapter ‖ com.ecarx.xiaokagui ‖ ecarx.xsf.widget ‖ ecarx.xsf.inputservice ‖ com.ecarx.xiaoka.carcontrol ‖ com.ecarx.xcgoncall ‖ com.ecarx.ai.val ‖ ecarx.launcher3 ‖ com.zeekr.carlauncher3d ‖ com.zeekr.automap
+array	black_list_other	com.android.settings ‖ com.yfvet.engineeringmode ‖ com.geely.pma.settings ‖ com.geely.pma.settings.seat ‖ com.geely.pma.climate ‖ com.zeekr.speech.adapter ‖ com.ecarx.xiaokagui ‖ ecarx.xsf.widget ‖ ecarx.xsf.inputservice ‖ com.ecarx.xiaoka.carcontrol ‖ com.ecarx.xcgoncall ‖ com.ecarx.ai.val ‖ ecarx.launcher3 ‖ com.zeekr.carlauncher3d ‖ com.zeekr.automap ‖ ecarx.membercenter
+array	default_apps_cm2e	com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.thunder.carplay/com.thunder.carplay.home.ui.activity.HomeFragmentActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity
+array	default_apps_cs1e	com.zeekrc.lightshow/com.zeekrc.unity.ui.MainActivity ‖ com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity
+array	default_apps_cx1e	com.zeekrc.lightshow/com.zeekrc.unity.ui.MainActivity ‖ com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity
+array	default_apps_dc1e	com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ com.arcvideo.car.video/com.arcvideo.car.video.SplashActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ ecarx.gallery/zeekr.gallery.ui.HomeActivity
+array	default_apps_dc1e_a2	com.geely.pma.dc1e.trackmode/com.geely.pma.dc1e.trackmode.ui.SplashActivity ‖ com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity
+array	default_apps_ef1e	com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity ‖ com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity ‖ com.arcvideo.car.video/com.arcvideo.car.video.SplashActivity ‖ com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity ‖ dc1e.gallery/zeekr.gallery.ui.HomeActivity ‖ com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity ‖ com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity
+array	nzp_string_array	ZEEKR Pilot вимкнено ‖ NZP скоро ввімкнеться... ‖ NZP активовано ‖ NZP працює ‖ LCC працює ‖ Прискорення ‖ Зміна смуги ‖ Зміну смуги скасовано ‖ Зміну смуги завершено ‖ Не вдалося змінити смугу праворуч ‖ Не вдалося змінити смугу ліворуч ‖ Виїзд із ділянки NZP ‖ Негайно втрутіться ‖ Безпечна зупинка ‖ Візьміть керування ‖ Негайно візьміть керування ‖ Тримайте кермо ‖ Стежте за дорогою ‖ Для зміни смуги використайте підрульовий перемикач
+array	uvi_levels	Низ. ‖ Помір. ‖ Вис. ‖ Дуже вис. ‖ Екстрем.
+string	access_desc	Служба доступу лаунчера
+string	accessibility_describe	Служба доступу лаунчера
+string	action_settings	Налаштування
+string	adapter_api_debug_open_tip	Режим налагодження проміжного ПЗ
+string	adjust_rear_mirror	Дзеркала
+string	aiqilisten	Wecarflow
+string	all_apps	Усі застосунки
+string	apa	Автопаркування
+string	app_is_installing	Встановлення, зачекайте
+string	app_name	app_list
+string	app_title	Car Launcher
+string	apps_all_title	Застосунки
+string	apps_card_title	Швидкий доступ
+string	apps_edit_at_most	Можна показати до 4 застосунків. Спершу видаліть один і спробуйте знову.
+string	apps_edit_cancel	Скас.
+string	apps_edit_finish	Готово
+string	apps_edit_group_recent_label	Нещодавні
+string	apps_edit_tips	Перетягніть застосунки на картку ліворуч. Під час перетягування можна замінювати й упорядковувати застосунки.
+string	aqt_app_name_1	Tencent Wecarflow
+string	aqt_app_name_2	Wecarflow
+string	args_full_url	full_url
+string	atmosphere_light	Підсвітка
+string	auto_hold	Auto Hold
+string	back_row_cinema	Заднє кіно
+string	back_row_meeting	Задня нарада
+string	back_row_rest	Задній відпочинок
+string	banner_adapter_null_error	Адаптер порожній! Перевірте параметри
+string	bilibili_app_name	Bilibili
+string	bluetooth_no_artist	Ще немає
+string	bluetooth_no_connect	Музика Bluetooth – не під’єднано
+string	bluetooth_no_play	Пісень ще немає
+string	bluetoothmusic	Музика Bluetooth
+string	brvah_load_complete	Натисніть, щоб завантажити ще
+string	brvah_load_end	Більше немає даних
+string	brvah_load_failed	Не вдалося завантажити ще
+string	brvah_loading	Завантаження...
+string	bt_app_name	Музика Bluetooth
+string	business_voice_disabled	Бізнес-голос вимк.
+string	cancel	Скас.
+string	card_energy_chart_desc	Зміна енергоспоживання за останню поїздку
+string	card_energy_title	Енергоспоживання
+string	card_full_title	Стан авто
+string	card_kwh_unit	kWh/100 км
+string	card_trip_1	Поїздка 1
+string	card_trip_2	Поїздка 2
+string	card_trip_title	Поїздка
+string	card_tyre_title	Тиск у шинах
+string	central_lock	Цент. замок
+string	charge_charge_error_big_tips	Несправність заряджання, усуньте якнайшвидше!
+string	charge_charging_done_tips	Заряджання зупинено. Не забудьте від’єднати кабель.
+string	charge_charging_full	Спершу повністю
+string	charge_charging_limit	До ліміту
+string	charge_daily	Щодня
+string	charge_dis_stop	Стоп
+string	charge_estimate	<span color=#99B4B9BE font-size=22px>Залишилось</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>год</span > <span color=#B4B9BE font-size=48px style=Bold>%2$s</span > <span color=#B4B9BE font-size=24px>хв</span >
+string	charge_fully	Майже повний
+string	charge_next_day	Наст. день
+string	charge_no_plug	Не під’єдн.
+string	charge_plug_connect_ac	Кабель під’єдн. (AC)
+string	charge_plug_connect_dc	Кабель під’єдн. (DC)
+string	charge_plug_connect_fault	Збій з’єднання
+string	charge_plug_connect_fault_tips	Збій з’єднання, перевірте якнайшвидше!
+string	charge_plug_connect_tips	Кабель під’єднано, зачекайте
+string	charge_plug_no_double	Не під’єднуйте AC і DC одночасно
+string	charge_plug_no_double_tips	Аномальне під’єднання кабелю, перевірте якнайшвидше!
+string	charge_power_supply_capacity	<span color=#99B4B9BE font-size=22px>Віддано енергії</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >
+string	charge_power_supply_capacity_all	<span color=#99B4B9BE font-size=22px>Усього віддано</span > <br></br> <span color=#B4B9BE font-size=48px style=Bold>%1$s</span > <span color=#B4B9BE font-size=24px>kWh</span >
+string	charge_pre_time	 <span color=#99B4B9BE font-size=22px>Заплановане заряджання</span > <br></br> <span color=#B4B9BE font-size=16px>Щодня</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span >
+string	charge_pre_time_full	 <span color=#99B4B9BE font-size=22px>Заплановане заряджання</span > <br></br> <span color=#B4B9BE font-size=18px>Щодня</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>спершу повністю</span >
+string	charge_pre_time_limit	 <span color=#99B4B9BE font-size=22px>Заплановане заряджання</span > <br></br> <span color=#B4B9BE font-size=18px>Щодня</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=28px style=Bold>до ліміту</span >
+string	charge_pre_time_next	 <span color=#99B4B9BE font-size=22px>Заплановане заряджання</span > <br></br> <span color=#B4B9BE font-size=16px>??</span > <span color=#B4B9BE font-size=32px style=Bold>%1$s</span > <span color=#B4B9BE font-size=16px>Щодня</span > <span color=#B4B9BE font-size=32px style=Bold>%2$s</span >
+string	charge_pre_time_title	Розклад
+string	charge_start	Заряджати
+string	charge_status_battery_fault	Збій батареї
+string	charge_status_booking	Заплан.…
+string	charge_status_charging	Заряджання…
+string	charge_status_charging_done	Зупинено
+string	charge_status_charging_fault	Збій заряд.
+string	charge_status_discharging	Віддача енергії…
+string	charge_status_discharging_done	Віддачу завер.
+string	charge_status_discharging_fault	Збій віддачі
+string	charge_status_preheating	Підготовка батареї...
+string	charge_status_super_fast_charging	Швидке…
+string	charge_stop	Стоп
+string	charge_temperature_tips	Регулювання температури, зачекайте...
+string	charging_cap	Задній порт
+string	child_lock_left	Лів. дит. замок
+string	child_lock_right	Прав. дит. замок
+string	climate_light	Бокові вогні
+string	close_card	Закр. картку
+string	close_window	Закр. вікна
+string	config_recentsComponentName	com.android.launcher3/com.android.quickstep.RecentsActivity
+string	confirm_remove	Видалити %s?
+string	confirm_uninstall	Видалити %s?
+string	connect_bluetooth_first	Спершу під’єднайте пристрій Bluetooth
+string	connect_usb	Вставте USB-пристрій
+string	connect_usb_first	Спершу під’єднайте USB-пристрій
+string	copilot_massage	Масаж пас.
+string	copilot_rest	Відпочинок пас.
+string	customize_scenario_add_tips	До 4 сценаріїв. Спершу видаліть один, потім додайте.
+string	customize_scenario_to_add	Додати
+string	customize_scenario_to_create	Створити
+string	customize_scenario_to_login	Спершу увійдіть в обліковий запис
+string	day_friday	П’ятниця
+string	day_monday	Понеділок
+string	day_saturday	Субота
+string	day_sunday	Неділя
+string	day_thursday	Четвер
+string	day_tuesday	Вівторок
+string	day_wednesday	Середа
+string	dln_empty_text	Дублювання екрана телефону...
+string	done	Готово
+string	download_paused	Пауза
+string	download_pending	Підготовка…
+string	download_progress	Завантаження…
+string	drag_tip	Перетягніть функції на картку ліворуч. Під час перетягування можна замінювати й упорядковувати їх.
+string	driver_massage	Масаж вод.
+string	driver_rest	Відпочинок вод.
+string	edit_at_most	До 4 функцій. Спершу видаліть одну, потім додайте.
+string	error_a11y_label	Помилка: недійсне
+string	favoriteslist	Обране
+string	first_fragment_label	Перший фрагмент
+string	fm_app_name	Радіо
+string	fold_rear_mirror	Скласти дзеркала
+string	front_charging_cap	Передній порт
+string	gallery_empty_text	"Більше матеріалів галереї\nдивіться в застосунку"
+string	glove_box	Бардачок
+string	hello_blank_fragment	Привіт, порожній фрагмент
+string	hello_first_fragment	Привіт, перший фрагмент
+string	hello_second_fragment	Привіт, другий фрагмент. Арг.: %1$s
+string	hicar_app_name	HUAWEI HiCar
+string	hud	Налашт. HUD
+string	indicator_color_error	Колір індикатора має бути “@color/colorID or #000000”
+string	install_progress	Встановлення…
+string	launch_control	Старт-контроль
+string	left_opposite_door	Ліві двері
+string	left_switch_disabled	Лів. перемикач вимк.
+string	left_window_lock	Блок. лів. вікна
+string	low_speed_alert	Звук для пішоходів
+string	mask_card_energy_title	·Енергоспоживання
+string	mask_card_trip_title	·Поїздка
+string	mask_card_tyre_title	·Тиск у шинах
+string	media_app_name	J-share
+string	media_bilibili_title	"Подивімося серіал разом"
+string	media_data_exception	Помилка завантаження
+string	media_data_retry	Перезавантажити
+string	media_dln_open	До дублювання екрана
+string	media_dln_play_stoped	Дублювання екрана телефону
+string	media_dln_playing	Дублювання екрана телефону…
+string	media_gallery_subtitle	Перейти до галереї
+string	media_gallery_title	Перегляд галереї
+string	media_leishi_title	"Заспіваймо разом"
+string	media_list_data_empty	Списку ще немає
+string	media_list_empty_recommend	Немає рекомендацій
+string	media_loading	Завантаження...
+string	media_no_lrc_label	Тексту пісні ще немає
+string	media_open_app	Відкрити застосунок
+string	media_recommend_playlist	Хіти
+string	media_recommend_radio	Рекомендовані радіостанції
+string	media_resume_ktv	Продовжити караоке
+string	media_resume_play	Продовжити відтворення
+string	media_switch_when_hfpcall	Спробуйте знову після завершення дзвінка Bluetooth
+string	media_title_init	"Увімкнімо музику"
+string	media_to_iqiyi_video	Перейти до iQiyi
+string	media_to_leishi_ktv	Перейти до Leishi KTV
+string	media_to_migu_video	Перейти до Migu Video
+string	media_video_none_title	Дивитися
+string	media_video_playing	Відтворюється відео
+string	music_no_lyric_keyword1	Без тексту
+string	music_no_lyric_keyword2	Інструментальна музика
+string	music_no_lyric_keyword3	Тексти пісень поки не підтримуються
+string	netease_app_name	NetEase Cloud Music
+string	netease_version_low_empty_list	"Списку ще немає\nОновіть застосунок у магазині застосунків"
+string	netease_version_low_empty_lyric	"Тексту ще немає\nОновіть застосунок у магазині застосунків"
+string	netease_version_low_empty_recommend	"Рекомендацій ще немає\nОновіть застосунок у магазині застосунків"
+string	neteasecloud	NetEase Cloud Music
+string	next	Далі
+string	no_connect_bluetooth	Пристрій Bluetooth не під’єднано
+string	no_connecting	Ще не під’єднано
+string	no_data_to_add	Немає сценаріїв для додавання
+string	no_recent_apps	Немає нещодавніх
+string	one_click_breath	Провітрити
+string	one_click_close_door	Закр. двері
+string	one_click_drift	Режим дрифту
+string	onlineradio_app_name	Yunting
+string	open_car3d	Модель авто
+string	open_card	Відкр. картку
+string	open_window	Відкр. вікна
+string	parking_comfort	Комфорт стоп
+string	phone_charge	Бездр. зарядка
+string	pip_phone_dismiss_hint	Потягніть униз, щоб закрити
+string	pip_phone_minimize	Згорнути
+string	position_light	Габарити
+string	previous	Попередній
+string	prompt_drift_disable_tips	Дрифт недоступний, коли ввімкнено старт-контроль
+string	prompt_drift_error_tips	Переконайтеся, що виконано ці умови, і спробуйте знову \n 1. SOC >20% \n 2. Передача D \n 3. Водій і всі пасажири пристебнуті \n 4. Силова установка, ESC, кермування, тиск у шинах і терморегулювання в нормі \n 5. Активовано спортивний режим \n
+string	prompt_drift_error_title	Не вдалося ввімкнути дрифт
+string	prompt_drift_i_know	Зрозуміло
+string	prompt_drift_tips	Примітки:\n1. Використовуйте лише на гоночній трасі або сертифікованому закритому майданчику, ніколи на дорогах загального користування.\n2. Використовуйте оригінальні аксесуари для дрифту. Пошкодження через неправильне використання не покриваються гарантією.\n3. Потрібні професійні навички та щонайменше 3 роки водійського стажу. Водій несе відповідальність за будь-які пошкодження.\n\nУмови:\n1. Спортивний режим, швидкість <7 km/h, водій і пасажир пристебнуті. Якщо відстебнути пасок під час руху, режим дрифту вимкнеться.\n2. Заряд батареї понад 20% SOC, інакше режим вимкнеться.\n3. Усі системи автомобіля мають працювати нормально, інакше режим вимкнеться.\nКоли режим дрифту ввімкнено:\n1. E-pedal і Autohold вимкнено;\n2. Вибрано спортивний режим;\n3. ESC вимкнено;\n4. Рекуперація низька;\n5. Старт-контроль (якщо ввімкнено) вимикається.\n\nЯ прочитав(-ла), зрозумів(-ла) і погоджуюся з наведеним вище
+string	prompt_drift_title	Інструкції з дрифту
+string	prompt_launch_control_accept	Погоджуюся
+string	prompt_launch_control_content	Попередження: водій несе відповідальність за керування автомобілем у будь-який момент. Використовуйте лише в перевірено безпечних умовах. Повторне використання може погіршити ефективність гальмування. Використовуйте обережно.\n \nВимоги: \n1. Автомобіль зупинено, двері зачинено, водій і пасажир пристебнуті.\n2. Температура силової установки в нормі, заряд батареї достатній.\n3. Асистенти водія вимкнено, кермо прямо, стоянкове гальмо відпущено, передача D.\n \nЯк користуватися: \n1. Увімкніть старт-контроль.\n2. Повністю натисніть гальмо, потім повністю педаль акселератора. Коли на дисплеї з’явиться готовність до старту, відпустіть гальмо протягом 4 секунд для розгону. (Якщо старт не вдався, перевірте головний екран і стан автомобіля)\n \nЧи розумієте ви наведене вище й погоджуєтеся з ним? 
+string	prompt_launch_control_disable_tips	Старт-контроль недоступний, коли ввімкнено дрифт
+string	prompt_launch_control_race_content	Попередження: водій несе відповідальність за керування автомобілем і безпечні умови. Використовуйте лише в безпечних умовах. Тривале повторне використання може погіршити роботу приводу й гальм; використовуйте обережно.\n\nВимоги:\n1. Автомобіль зупинено, двері зачинено, водій і пасажир пристебнуті.\n2. Температура силової установки в нормі, заряд батареї достатній.\n3. Асистенти водія вимкнено, кермо прямо, стоянкове гальмо відпущено, передача D.\n\nЯк користуватися:\n1. Увімкніть старт-контроль.\n2. Повністю натисніть гальмо, потім педаль акселератора. Коли на дисплеї з’явиться «Готовність до старту», відпустіть гальмо протягом 4 секунд для максимального розгону. (Якщо з’явиться «Старт не вдався», перевірте головний екран і стан автомобіля.)\n3. Режим водіння перемикається на спортивний і залишається спортивним після вимкнення функції.\n4. Дрифт в одне торкання вимикається (якщо ввімкнено).\n5. У режимі треку пункт 3 не змінює режим водіння.\n\nЧи розумієте ви наведене вище й погоджуєтеся з ним?
+string	prompt_launch_control_title	Примітка щодо старт-контролю
+string	prompt_saving_mode_tips	Недоступно в режимі Super Eco. Вимкніть його та спробуйте знову
+string	qq_app_name	QQ Music
+string	racing_mode	Спорт режим
+string	radio	Радіо
+string	rear_charging_cap	Задній порт
+string	rear_fog_lamps	Задні проти.
+string	recent_apps	Нещодавні
+string	remove	Видал.
+string	remove_mini_app	Видал. міні-заст.
+string	reset_internet	Скинути мережу
+string	right_opposite_door	Праві двері
+string	right_switch_disabled	Прав. перемикач вимк.
+string	right_window_lock	Блок. пр. вікна
+string	scarp_cruised	Спуск з гори
+string	scenario_customize_auto_title	Автоматичний сценарій
+string	scenario_customize_card_title	Майстерня сценаріїв
+string	scenario_customize_edit_cancel	Скасувати
+string	scenario_customize_edit_finish	Готово
+string	scenario_customize_edit_group_custom_label	Власні
+string	scenario_customize_edit_tips	Натисніть і утримуйте, щоб перетягнути на картку ліворуч. Під час перетягування можна замінювати й упорядковувати
+string	scenario_customize_manual_title	Ручний сценарій
+string	searchbar_scrolling_view_behavior	com.google.android.material.search.SearchBar$ScrollingViewBehavior
+string	second_fragment_label	Другий фрагмент
+string	stream_media	Задня камера
+string	switch_car3d	Перейти до 3D-авто
+string	through_lamp	Світл. смуга
+string	tire_pressure_pressure_unit_bar	бар
+string	tire_pressure_pressure_unit_kpa	кПа
+string	tire_pressure_pressure_unit_psi	psi
+string	to_aiqilisten	Перейти до Wecarflow
+string	to_bilibili	Перейти до Bilibili
+string	to_connect_bluetooth	Під’єднати
+string	to_media_name	Перейти
+string	to_netease	Перейти до NetEase Cloud Music
+string	to_qq_music	Перейти до QQ Music
+string	trips_avg_energy	Середнє енергоспоживання
+string	trips_distance	Відстань
+string	trips_elapsed_time	Час у дорозі
+string	trunk	Багажник
+string	udisk_connected	Музика USB - Мій USB
+string	udisk_no_connect	Музика USB - не під’єднано
+string	uninstall	Видал.
+string	uninstall_application	Видал. заст.
+string	uninstall_failure	Не видалено
+string	usb_app_name_1	Музика USB
+string	usb_app_name_2	USB
+string	usbmusic	Музика USB
+string	video_empty_text	"Більше відеоматеріалів\nдивіться в застосунку"
+string	weather_altitude	Висота:
+string	weather_aqs	Повітря:
+string	weather_failed	Даних про погоду ще немає.
+string	weather_loading	Завантаж.…
+string	weather_net_unavailable	Немає мережі, спробуйте пізніше.
+string	weather_refresh	Оновити
+string	widget_drive_score_kwh	kWh
+string	widget_drive_score_min	хв
+string	xpopup_image_not_exist	Зображення не знайдено
+string	xpopup_save	Зберег.
+string	xpopup_saved_fail	Не вдалося зберегти зображення.
+string	xpopup_saved_to_gallery	Збережено в галерею
+string	zeekr_back	Назад
+string	zeekr_cancel	Скас.
+string	zeekr_loading	Завантаж..
+string	zeekr_show_psw	Показати пароль

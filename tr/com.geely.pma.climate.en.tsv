@@ -1,0 +1,52 @@
+app_name	Climate
+at_least_one_vent_open_driver	Keep at least one driver face vent open
+at_least_one_vent_open_passenger	Keep at least one passenger face vent open
+back_row	Rear
+close_fragrance_by_close_driver_right_vent	Vent closed, fragrance turned off
+crashinfo	Sorry, the app encountered an error and will restart
+done	Done
+fragrance_install	Install / replace fragrance?
+fragrance_install_tips1	Step 1: Open the glove box and slide the fragrance box switch to the right
+fragrance_install_tips2	Step 2: Pull the fragrance box down and insert the fragrance capsule
+fragrance_install_title	Install fragrance
+fragrance_low_toast	Fragrance low, please replace
+fragrance_related_text	Turning on fragrance also opens the related vents
+fragrance_slot_low_notice	Slot %1$s [%2$s] fragrance is empty, please replace
+fragrance_system	Fragrance system
+front_row	Front
+heat	Heat
+left_driver_vent_open	Turn on driver face mode first
+low_config_tips	Turn on front driver face or foot mode first
+no_fragrance_installed	No fragrance installed
+rapid_cool	Rapid cooling
+rapid_hot	Rapid heating
+right_passenger_vent_open	Turn on passenger face mode first
+seat_all_close	All off
+setting_overheat_protection_content	Warning! Never leave children or pets alone in the vehicle! Cabin Overheat Protection cannot prevent heat injury or death
+setting_overheat_protection_ok_button	OK
+sync	Sync
+tab_climate	Climate
+tab_fragrance	Fragrance
+tab_seat	Seats
+textID_climate_auto_refresh_hint	Requires an energizing fragrance (e.g. No. 9). When driver fatigue is detected, this fragrance turns on automatically
+textID_climate_auto_refresh_option	Auto refresh when tired
+textID_climate_co2_level_info	Monitors cabin CO₂ level and alerts you according to its level
+textID_climate_co2_level_option	CO₂ level monitoring
+textID_climate_fra_intensity	Intensity
+textID_climate_head_climate_settings	Climate settings
+textID_climate_head_fra_system	Fragrance system
+textID_climate_open_window_info	Alerts you when open windows reduce climate performance
+textID_climate_open_window_option	Open window monitoring
+textID_climate_over_protect_info	For up to 24 hours after you leave the vehicle, cabin temperature is kept below 40℃. Not available when battery is at 20% or lower
+textID_climate_over_protect_option	Cabin Overheat Protection
+textID_climate_title_air_quality	Air quality
+textID_general_close	Close
+text_fragrance_off	Off
+text_pm25	PM2.5 level monitoring
+text_pm25_content	Monitors cabin PM2.5 level and alerts you according to its level
+text_steering_heating	Auto steering wheel heating
+text_steering_heating_content	Heats the wheel automatically when cold. Not in Eco mode
+tips_touch_climate_move	Double-tap a vent area to close airflow
+toast_wash_mode_on	Cannot switch now. Exit car wash mode and try again
+unknown_fragrance	Unknown fragrance
+vent	Ventilation

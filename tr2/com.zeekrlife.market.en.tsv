@@ -1,0 +1,143 @@
+string	app_detail_app_name	App
+string	app_detail_back	Back
+string	app_detail_btn_cancel_download	Stop
+string	app_detail_btn_uninstall	Remove
+string	app_detail_developer	Developer
+string	app_detail_dialog_button_cancel	Cancel
+string	app_detail_dialog_button_confirm	OK
+string	app_detail_info	Info
+string	app_detail_introduce	About app
+string	app_detail_preview	Preview
+string	app_detail_privacy_policy	Privacy policy
+string	app_detail_size_name	Size
+string	app_detail_toast_uninstall_warning	App can't be removed
+string	app_detail_uninstall	Remove
+string	app_detail_uninstall_dialog_content	Uninstall %s?
+string	app_detail_uninstall_fail	Failed
+string	app_detail_uninstall_success	Uninstalled
+string	app_detail_uninstalling	Removing…
+string	app_detail_update_time	Updated
+string	app_detail_version_info	Latest ver.
+string	app_detail_version_name	Ver.
+string	app_install_force_update_tips	Required system update running
+string	app_install_no_space_enough	Not enough storage
+string	app_install_self_updating	Downloaded. Installing now; App Store will close
+string	app_name	App Store
+string	app_search_enter_name	Enter name
+string	bottom_title_my_app	My apps
+string	bottom_title_paper	Tests
+string	bottom_title_read	Grading
+string	bottom_title_report	Reports
+string	bottom_title_user	Profile
+string	brvah_load_complete	Tap to load more
+string	brvah_load_end	No more data
+string	brvah_load_failed	Failed. Tap to retry
+string	brvah_loading	Loading...
+string	common_cancel	Cancel
+string	common_code_error_hint	Wrong code. Check input
+string	common_code_input_hint	Enter code
+string	common_code_send	Send code
+string	common_code_send_hint	Verification code sent
+string	common_confirm	OK
+string	common_i_see	Got it
+string	common_no_more_data	No more data
+string	common_permission_activity_recognition	Activity access
+string	common_permission_alert	Permission
+string	common_permission_calendar	Calendar
+string	common_permission_call_log	Call log
+string	common_permission_camera	Camera
+string	common_permission_contacts	Contacts
+string	common_permission_fail_1	Failed. Grant permission
+string	common_permission_fail_2	Failed. Grant permission manually
+string	common_permission_fail_3	Failed. Please grant %s manually
+string	common_permission_fail_4	Background location not granted. Choose "Allow all the time"
+string	common_permission_goto	Grant
+string	common_permission_install	Install apps
+string	common_permission_location	Location
+string	common_permission_location_background	Bg location
+string	common_permission_microphone	Microphone
+string	common_permission_notification	Notifications
+string	common_permission_phone	Phone
+string	common_permission_sensors	Body sensors
+string	common_permission_setting	System settings
+string	common_permission_sms	SMS
+string	common_permission_storage	Storage
+string	common_permission_window	Overlay
+string	common_refresh	Refresh
+string	common_see	Got it
+string	driving_restricted_use	Unavailable while driving. Shift to P
+string	helper_loading_empty_result	No results
+string	helper_loading_empty_tip	No data yet
+string	helper_loading_error_tip	Poor network. Try later
+string	helper_loading_net_empty	Tap to retry
+string	helper_loading_net_error	Poor network. Check and retry
+string	helper_loading_tip	Loading…
+string	home_search	Search
+string	home_setting	Settings
+string	install_failed_already_exists	App is already installed
+string	install_failed_duplicate_package	App is already installed
+string	install_failed_insufficient_storage	Failed: not enough storage
+string	install_failed_invalid	Invalid package
+string	install_failed_update_incompatible	App signature changed. Remove the old app first, then install
+string	install_failed_version_downgrade	Older than installed version
+string	install_prepare_toast_tip	%s is updating and will close in 5s
+string	item_app_update_time	Updated
+string	launcher_dialog_title_pp	App Store Privacy Policy
+string	launcher_dialog_title_ua	App Store Terms
+string	login_password	Password
+string	login_phone	Phone
+string	login_register	Sign up
+string	login_submit	Log in
+string	login_tips	Teacher login
+string	my_app_no_update	No updates
+string	my_app_quick_update	Update all
+string	my_app_title_name	My apps
+string	my_app_update_tips	%1$s updates     %2$sMB
+string	my_app_updating	Updating…
+string	privacy	This service requires network access, storage access and device permissions, and collects device, network, account, identity, transaction and app information, as well as data you upload. By tapping "Agree", you agree to the above and to the "App Store User Agreement" and "App Store Personal Information Protection Policy".
+string	privacy_update	We have recently updated the "App Store User Agreement" and "App Store Personal Information Protection Policy". By tapping "Agree", you agree to the above.
+string	recommend_app_page_not_found	Page not found
+string	setting_app_download_progress	Updating: %s%%
+string	setting_app_is_latest_version	Already up to date
+string	setting_app_update_background	Updating in background
+string	setting_app_update_break_point_content	Last update incomplete. Continue?
+string	setting_app_update_break_point_title	Update incomplete
+string	setting_app_update_checking	Checking…
+string	setting_app_update_continue	Continue
+string	setting_app_update_download_progress	Downloading: %s%%
+string	setting_app_update_downloading	Downloading…
+string	setting_app_update_failed_please_try_again	Update failed. Retry
+string	setting_app_update_installing	Installing…
+string	setting_app_update_later	Later
+string	setting_app_update_new_version	New version
+string	setting_app_update_now	Update now
+string	setting_auto_update	Auto-update apps
+string	setting_auto_update_off	Off
+string	setting_auto_update_on	On
+string	setting_check_update	Check for update
+string	setting_detecting_update	Checking…
+string	setting_dialog_button_confirm	OK
+string	setting_loading_update	Checking…
+string	setting_none_privacy_agreement	No privacy policy yet
+string	setting_none_user_agreement	No terms yet
+string	setting_privacy_agreement	App Store Privacy Policy
+string	setting_user_agreement	App Store Terms
+string	setting_version_name_text	Ver.: %s
+string	setting_version_number	Version
+string	task_state_download_completed	Install
+string	task_state_download_error_default_toast	Download failed. Retry
+string	task_state_download_paused	Resume
+string	task_state_download_pending	Waiting
+string	task_state_download_progress	Downloading
+string	task_state_downloadable	Get
+string	task_state_install_completed	Installed
+string	task_state_install_error_default_toast	Install failed. Retry
+string	task_state_install_pending	Queued
+string	task_state_install_progress	Installing
+string	task_state_install_progress_default_toast	Installing app, please wait
+string	task_state_install_started	Installing
+string	task_state_installable	Install
+string	task_state_need_pay_activity	Membership
+string	task_state_openable	Open
+string	task_state_updatable	Update
+string	web_view_policy_should_override_url	For safety, download the app to view this
