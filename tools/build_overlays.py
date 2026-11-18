@@ -14,7 +14,7 @@ import os, re, subprocess, sys, shutil, html, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from paths import REPO, WORK, BT, JAR, KEY, CERT  # noqa: E402
 ROOT = WORK  # backwards-compatible name
-VERSION = 111
+VERSION = 112
 
 TARGETS = {
     "com.geely.pma.settings": "settings",
@@ -289,7 +289,86 @@ def target_configs(pkg):
     return res
 
 
-def emit(pkg, short, kind, priority, strings, arrays, cfgs):
+_PUBLIC_CACHE = {}
+
+
+def target_ids(pkg):
+    """(type, name) -> '0x7f......' from the decoded target's res/values/public.xml."""
+    if pkg not in _PUBLIC_CACHE:
+        ids = {}
+        p = f"{WORK}/dec/{pkg}/res/values/public.xml"
+        if os.path.exists(p):
+            for t, n, i in re.findall(r'<public type="([^"]+)" name="([^"]+)" id="(0x[0-9a-f]+)"', open(p, encoding="utf-8").read()):
+                ids[(t, n)] = i
+        _PUBLIC_CACHE[pkg] = ids
+    return _PUBLIC_CACHE[pkg]
+
+
+LAYOUT_COLS = {"ov": 3, "uk": 4}   # column of tr_layout/<pkg>.tsv holding the value for each overlay kind
+REF = re.compile(r'([@?])(\+?)([a-z]+)/([A-Za-z0-9_.]+)')
+DUMMY = {"drawable": "<drawable name=\"{n}\">#00000000</drawable>", "color": "<color name=\"{n}\">#00000000</color>",
+         "dimen": "<dimen name=\"{n}\">0dp</dimen>", "string": "<string name=\"{n}\">x</string>",
+         "style": "<style name=\"{n}\" />", "integer": "<integer name=\"{n}\">0</integer>",
+         "bool": "<bool name=\"{n}\">false</bool>", "attr": "<attr name=\"{n}\" format=\"reference\" />"}
+
+
+def layout_overlay(pkg, kind):
+    """Layouts with hard-coded text (android:text="中文" in XML, not a string resource).
+    tr_layout/<pkg>.tsv: layout \\t view-id \\t attribute \\t English \\t Ukrainian.
+    The whole decoded layout is copied into the overlay with those attributes replaced.
+    Resource references inside an overlay layout are compiled with the OVERLAY's IDs but resolved
+    in the target at runtime, so every referenced id/drawable/... is declared in the overlay and
+    pinned to the target's numeric ID with --stable-ids (non-id types under a 'zxr_' alias so the
+    overlay does not replace the target's real drawable/colour/...).
+    Returns ({'layout/x.xml': text}, [values lines], [stable-id lines])."""
+    col = LAYOUT_COLS.get(kind)
+    rows = [r for r in tsv(f"{REPO}/tr_layout/{pkg}.tsv", 5) if not r[0].startswith("#")] if col else []
+    if not rows:
+        return {}, [], []
+    ids, edits = target_ids(pkg), {}
+    for r in rows:
+        edits.setdefault(r[0], []).append((r[1], r[2], r[col].strip()))
+    files, refs = {}, set()
+    for name, ed in edits.items():
+        srcs = sorted(glob.glob(f"{WORK}/dec/{pkg}/res/layout*/{name}.xml"))
+        if not srcs:
+            print(f"  [{pkg}] layout {name} not found"); sys.exit(1)
+        for src in srcs:
+            x = open(src, encoding="utf-8").read()
+            for vid, attr, val in ed:
+                m = re.search(r'<[A-Za-z.]+\s[^>]*android:id="@\+?id/' + re.escape(vid) + r'"[^>]*>', x)
+                if not m:
+                    print(f"  [{pkg}] {name}: view {vid} not found"); sys.exit(1)
+                tag, v = m.group(0), html.escape(val, quote=True)
+                if re.search(rf'android:{attr}="', tag):
+                    new = re.sub(rf'android:{attr}="[^"]*"', lambda _: f'android:{attr}="{v}"', tag)
+                else:
+                    new = tag.replace(" android:id=", f' android:{attr}="{v}" android:id=', 1)
+                x = x.replace(tag, new, 1)
+
+            def sub(m):
+                sigil, plus, t, n = m.groups()
+                if (t, n) not in ids:
+                    print(f"  [{pkg}] {name}: reference {m.group(0)} not in target public.xml"); sys.exit(1)
+                if t != "id" and t not in DUMMY:
+                    print(f"  [{pkg}] {name}: unsupported reference type {t}"); sys.exit(1)
+                refs.add((t, n))
+                return f"{sigil}{plus}{t}/{n if t == 'id' else 'zxr_' + n}"
+            x = REF.sub(sub, x)          # REF only matches unqualified refs (@android:... has a colon)
+            if re.search(r'\sapp:|xmlns:app=', x):
+                print(f"  [{pkg}] {name}: custom (app:) attributes not supported"); sys.exit(1)
+            files[os.path.relpath(src, f"{WORK}/dec/{pkg}/res")] = x
+    values, stable = [], []
+    for t, n in sorted(refs):
+        alias = n if t == "id" else "zxr_" + n
+        values.append(f'    <item type="id" name="{n}" />' if t == "id" else "    " + DUMMY[t].format(n=alias))
+        stable.append(f"{{pkg}}:{t}/{alias} = {ids[(t, n)]}")
+    for name in edits:
+        stable.append(f"{{pkg}}:layout/{name} = {ids[('layout', name)]}")
+    return files, values, stable
+
+
+def emit(pkg, short, kind, priority, strings, arrays, cfgs, layouts=({}, [], [])):
     """Write each translated item into every default/en/zh variant the target has."""
     folders = {}
     for k, (_, val) in strings.items():
@@ -310,7 +389,26 @@ def emit(pkg, short, kind, priority, strings, arrays, cfgs):
             f.write('<?xml version="1.0" encoding="utf-8"?>\n<resources>\n' + "\n".join(lines) + "\n</resources>\n")
         run([f"{BT}/aapt2", "compile", f"{work}/res/{fo}/strings.xml", "-o", f"{work}/flat"])
         flats.append(f"{work}/flat/{fo}_strings.arsc.flat")
-    label = LANGS[kind]["label"] if kind in LANGS else "English"
+    lfiles, lvalues, lstable = layouts
+    link_extra = []
+    if lfiles:
+        os.makedirs(f"{work}/res/values", exist_ok=True)
+        with open(f"{work}/res/values/zxr_refs.xml", "w", encoding="utf-8") as f:
+            f.write('<?xml version="1.0" encoding="utf-8"?>\n<resources>\n' + "\n".join(lvalues) + "\n</resources>\n")
+        run([f"{BT}/aapt2", "compile", f"{work}/res/values/zxr_refs.xml", "-o", f"{work}/flat"])
+        flats.append(f"{work}/flat/values_zxr_refs.arsc.flat")
+        for rel, text in lfiles.items():
+            os.makedirs(os.path.dirname(f"{work}/res/{rel}"), exist_ok=True)
+            with open(f"{work}/res/{rel}", "w", encoding="utf-8") as f:
+                f.write(text)
+            run([f"{BT}/aapt2", "compile", f"{work}/res/{rel}", "-o", f"{work}/flat"])
+            d, fn = rel.split("/")
+            flats.append(f"{work}/flat/{d}_{fn}.flat")
+        with open(f"{work}/stable_ids.txt", "w") as f:
+            f.write("\n".join(s.format(pkg=f"com.zeekrenglish.{kind}.{short}") for s in lstable) + "\n")
+        link_extra = ["--stable-ids", f"{work}/stable_ids.txt"]
+        folders.setdefault("layout", [])
+    label =LANGS[kind]["label"] if kind in LANGS else "English"
     with open(f"{work}/AndroidManifest.xml", "w", encoding="utf-8") as f:
         f.write(f'''<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -320,7 +418,7 @@ def emit(pkg, short, kind, priority, strings, arrays, cfgs):
 </manifest>
 ''')
     run([f"{BT}/aapt2", "link", "--no-resource-removal", "-o", f"{work}/unsigned.apk", "-I", JAR,
-         "--manifest", f"{work}/AndroidManifest.xml", "--min-sdk-version", "26", "--target-sdk-version", "28", *flats])
+         "--manifest", f"{work}/AndroidManifest.xml", "--min-sdk-version", "26", "--target-sdk-version", "28", *link_extra, *flats])
     run([f"{BT}/zipalign", "-f", "4", f"{work}/unsigned.apk", f"{work}/aligned.apk"])
     out = f"{WORK}/build/overlays/com.zeekrenglish.{kind}.{short}.apk"
     os.makedirs(os.path.dirname(out), exist_ok=True)
@@ -364,12 +462,13 @@ def build(pkg, short):
 
     promoted = promote_zeekr_en(pkg, strings, arrays)
     cfgs = target_configs(pkg)
-    emit(pkg, short, "ov", 10, strings, arrays, cfgs)
+    emit(pkg, short, "ov", 10, strings, arrays, cfgs, layout_overlay(pkg, "ov"))
     extra = []
     for code, cfg in LANGS.items():
         l_s, l_a, l_bad = collect_lang(pkg, code)
-        if l_s or l_a:
-            emit(pkg, short, code, cfg["priority"], l_s, l_a, cfgs)
+        lay = layout_overlay(pkg, code)
+        if l_s or l_a or lay[0]:
+            emit(pkg, short, code, cfg["priority"], l_s, l_a, cfgs, lay)
         extra.append(f"{code.upper()} {len(l_s)}+{len(l_a)} (rej {len(l_bad)})")
     width_report(short, strings, arrays)
     print(f"[{short}] ok  promoted {promoted}  EN {len(strings)}+{len(arrays)}  {'  '.join(extra)}  variants {sorted(set(f for v in cfgs.values() for f in v))[:5]}")

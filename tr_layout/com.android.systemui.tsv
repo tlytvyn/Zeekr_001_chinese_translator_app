@@ -1,0 +1,7 @@
+# layout	view id	attribute	English	Ukrainian   (hard-coded text/geometry in layout XML; see build_overlays.layout_overlay)
+pma_sentry_mode_popup_layout	sentry_mode_popup_title	text	Sentry mode	Режим охорони
+pma_sentry_mode_popup_layout	sentry_mode_popup_tv	text	Sentry mode	Режим охорони
+pma_sentry_mode_popup_layout	sentry_mode_popup_tv	layout_width	180.0px	230.0px
+pma_sentry_mode_popup_layout	sentry_mode_popup_icon	layout_marginLeft	190.0px	240.0px
+pma_sentry_mode_popup_layout	sentry_mode_popup_video_btn	text	View videos	Переглянути відео
+pma_sentry_mode_popup_layout	sentry_mode_popup_setting_btn	text	Settings	Налаштування

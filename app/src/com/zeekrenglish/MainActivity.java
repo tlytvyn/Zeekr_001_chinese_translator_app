@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
     private static final String TAG = "ZeekrEnglish";
     private static final String ACTION_RESULT = "com.zeekrenglish.INSTALL_RESULT";
     private static final int USER = 0;
-    private static final int OVERLAY_VERSION = 111;
+    private static final int OVERLAY_VERSION = 112;
 
     /**
      * Language buttons: {code, button text}. "en" is the base layer (English overlays, always ON).
