@@ -5,3 +5,13 @@ pma_sentry_mode_popup_layout	sentry_mode_popup_tv	layout_width	180.0px	230.0px
 pma_sentry_mode_popup_layout	sentry_mode_popup_icon	layout_marginLeft	190.0px	240.0px
 pma_sentry_mode_popup_layout	sentry_mode_popup_video_btn	text	View videos	Переглянути відео
 pma_sentry_mode_popup_layout	sentry_mode_popup_setting_btn	text	Settings	Налаштування
+pma_uninstall_dialog	tv_title	text	Uninstall app	Видалити застосунок
+pma_app_icon	tv_app_delete	text	Delete	Видалити
+pma_app_icon	tv_app_delete	layout_width	100.0px	130.0px
+pma_app_list_icon	tv_app_delete	text	Delete	Видалити
+pma_app_list_icon	tv_app_delete	layout_width	100.0px	130.0px
+# app_delete_bin: code calls setText("卸载"/"移除") -> maxLength=0 drops it, hint shows instead (hint colour cannot follow day/night)
+pma_slider_app_list_window	tv_app_delete	maxLength	0	0
+pma_slider_app_list_window	tv_app_delete	hint	Remove	Видалити
+pma_slider_app_list_window	tv_app_delete	textColorHint	#ff8a8a8a	#ff8a8a8a
+pma_slider_app_list_window	tv_app_delete	textSize	24.0px	19.0px

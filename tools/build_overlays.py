@@ -355,6 +355,8 @@ def layout_overlay(pkg, kind):
                 refs.add((t, n))
                 return f"{sigil}{plus}{t}/{n if t == 'id' else 'zxr_' + n}"
             x = REF.sub(sub, x)          # REF only matches unqualified refs (@android:... has a colon)
+            if not re.search(r'\sapp:', x):     # declared but unused namespace is harmless: drop it
+                x = re.sub(r'\s+xmlns:app="[^"]*"', "", x)
             if re.search(r'\sapp:|xmlns:app=', x):
                 print(f"  [{pkg}] {name}: custom (app:) attributes not supported"); sys.exit(1)
             files[os.path.relpath(src, f"{WORK}/dec/{pkg}/res")] = x
